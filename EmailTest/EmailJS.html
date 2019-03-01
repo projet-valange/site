@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<script src="./assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.3.2/email.min.js"></script>
+<script type="text/javascript">
+  function formSubmit(event) {
+    event.preventDefault();
+    emailjs.sendForm("<YOUR SERVICE ID>", "<YOUR TEMPLATE ID>", this);
+  }
+   (function(){
+      emailjs.init("user_78uyNyKm2WJZQcCyEyZor");
+   })();
+</script>
+<body>
+  <form enctype="multipart/form-data" method="post" onsubmit="formSubmit()">
+      <label>Attach file:</label>
+      <input type="file" name="my_file">
+      <input type="submit" value="Submit">
+  </form>
+</body>
+</html>
+<!--https://dashboard.emailjs.com-->
+<!--https://www.emailjs.com/docs/user-guide/file-attachments/file-upload-example/-->

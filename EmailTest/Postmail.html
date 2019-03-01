@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<body>
+
+<form action="https://postmail.invotes.com/send"method="post" id="email_form">
+
+    <input type="text" name="subject" placeholder="Subject" />
+
+    <input id="text_test1" type="text" name="text_test" />
+    <input id="text_test2" type="text" name="text_test" />
+    <input id="text_test3" type="text" name="text_test" />
+    <input id="text_test4" type="text" name="text_test" />
+
+    <textarea id="textarea_test" name="text" placeholder="Message"></textarea>
+
+
+    <input type="hidden" name="access_token" value="u8wp506o3w2hl1bpnj71a2hh" />
+    <input type="hidden" name="success_url" value=".?message=Email+Successfully+Sent%21&isError=0" />
+    <input type="hidden" name="error_url" value=".?message=Email+could+not+be+sent.&isError=1" />
+
+
+    set the reply-to address
+    <!-- <input type="text" name="reply_to"
+                placeholder="Your Email" /> -->
+
+    <!-- to append extra fields, use the extra_ prefix.
+        Entries will be appended to your message body. -->
+    <!-- <input type="text" name="extra_phone_number"
+                placeholder="Phone Number" /> -->
+
+    <!-- to split your message into 160 chars
+         for an sms gateway -->
+    <!-- <input type="hidden"
+                name="sms_format" value="true" /> -->
+
+    <input id="submit_form" type="submit" value="Send" />
+    <!-- not required, but we'd appreciate it if you'd link to us somewhere on your site -->
+
+</form>
+
+
+
+
+<!-- optional, prevents the submit button from being pressed more than once -->
+<script>
+d3.selectAll("#submit_form").on("click", printValue);
+function printValue() {
+  console.log("click");
+  var test1 = document.getElementById("text_test1");
+  var test2 = document.getElementById("text_test2");
+  var test3 = document.getElementById("text_test3");
+  var test4 = document.getElementById("text_test4");
+
+  var finaltext = "test1 \n" + test1.value + "\n\n test2 \n" +test2.value + "\n\n test3 \n" +test3.value + "\n\n test4 \n" +test4.value;
+
+    var x = document.getElementById("textarea_test");
+    x.value = finaltext+"\n\n test5 \n"+x.value;
+
+    var submitButton = document.getElementById("submit_form");
+    var form = document.getElementById("email_form");
+    form.addEventListener("submit", function (e) {
+        setTimeout(function() {
+            submitButton.value = "Sending...";
+            submitButton.disabled = true;
+        }, 1);
+    });
+}
+
+
+</script>
+
+</body>
+</html>

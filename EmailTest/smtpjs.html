@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<script src="https://smtpjs.com/v3/smtp.js"></script>
+<script src="./assets/js/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.js"></script>
+<body>
+
+    <div class="row">
+<div class="col-md-6 col-md-offset-3">
+    <h2>Contact Us</h2> Got a question ? Feedback? Awesome!
+    <p>
+        Send your message in the form below and we will get back to you as early as possible.
+    </p>
+    <form role="form" method="post" id="reused_form" enctype=&quot;multipart/form-data&quot;  >
+        <div class="form-group">
+            <label for="name">
+                Name:</label>
+            <input type="text" class="form-control"
+            id="name" name="name"  required maxlength="50">
+
+        </div>
+        <div class="form-group">
+            <label for="email">
+                Email:</label>
+            <input type="email" class="form-control"
+            id="email" name="email" required maxlength="50">
+        </div>
+        <div class="form-group">
+            <label for="name">
+                Message:</label>
+            <textarea class="form-control" type="textarea" name="message"
+            id="message" placeholder="Your Message Here"
+            maxlength="6000" rows="7"></textarea>
+        </div>
+
+                    <div class="form-group">
+            <label for="name">
+                Image Upload:</label>
+            <input type="file" class="form-control" id="image" name="image"  required>
+        </div>
+
+
+
+
+        <button type="submit" class="btn btn-lg btn-success pull-right" id="btnContactUs">Post It! &rarr;</button>
+
+    </form>
+    <div id="success_message" style="width:100%; height:100%; display:none; ">
+        <h3>Sent your message successfully!</h3>
+    </div>
+    <div id="error_message"
+    style="width:100%; height:100%; display:none; ">
+        <h3>Error</h3>
+        Sorry there was an error sending your form.
+
+    </div>
+</div>
+</div>
+  </div>
+  <!-- <form onsubmit="uploadFileToServer()">
+      <label>Attach file:</label>
+      <input type="file" name="my_file">
+      <input type="submit" value="Submit">
+  </form> -->
+<script>
+// function checkedPath(){
+//   $('input[type=file]').change(function () {
+//       console.log(this.files[0].mozFullPath);
+//   });
+// };
+//
+// function getFilePath(){
+//   console.log(document.getElementById("fileUpload").files[0].path);
+// }
+
+
+function uploadFileToServer() {
+var file = event.srcElement.files[0];
+console.log(file);
+var reader = new FileReader();
+reader.readAsBinaryString(file);
+reader.onload = function () {
+var datauri = "data:" + file.type + ";base64," + btoa(reader.result);
+Email.send({
+  SecureToken : "9193754c-2e38-4bf5-a799-262525ab96ff",
+  To : 'skdkflak@naver.com',
+  From : "mr.seongmin@gmail.com",
+  Subject : "This is the subjectss",
+  Body : "And this is the body",
+Attachments : [
+{
+name : file.name,
+data : datauri
+}
+]
+}).then(
+message => alert(message)
+);
+};
+reader.onerror = function() {
+console.log('there are some problems');
+};
+}
+
+
+// Email.send({
+//       Host : "smtp.elasticemail.com",
+//       Username : "mr.seongmin@gmail.com",
+//       Password : "f113d410-5dfd-4379-b6d1-0ab0cb2aa153",
+//       To : 'skdkflak@naver.com',
+//       From : "mr.seongmin@gmail.com",
+//       Subject : "sdsdsdsd",
+//       Body : "contents_in"
+//   }).then(
+//     message => alert(message)
+//   );
+
+</script>
+</body>
+
+
+
+
+</html>
