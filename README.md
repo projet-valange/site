@@ -1,2 +1,2 @@
 # site
-Code du site VaLangE
+Code du site VaLangE.
