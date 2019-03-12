@@ -258,7 +258,7 @@
             </a>
           </div>
           <div class="span8">
-            <br/><input type="text" id="myInput" onkeyup="mykeyFunction()" placeholder="Rechercher une vidéo, un âge, un thème *" title="mot-clé" style="width:80%; height:40px;"> <i class="fa fa-fw fa-search" style="font-size:35px!important; margin:1%;"></i>
+            <br/><input type="text" id="myInput" onkeyup="mykeyFunction()" placeholder="Rechercher une vidéo, Nom de l'extrait *" title="mot-clé" style="width:80%; height:40px;"> <i class="fa fa-fw fa-search" style="font-size:35px!important; margin:1%;"></i>
             </div>
         </div>
       </div><br/>
@@ -280,16 +280,28 @@
         <div class="tab-pane active" id="theme">
           <div class="row">
             <div class="span6">
-              <label class="container_cb">Babillage
-                <input class="checkbox_theme_babillage" type="checkbox" value="theme,babillage">
+              <label class="container_cb">Émergence temporalité
+                <input class="checkbox_theme_émergence_temporalité" type="checkbox" value="theme,émergence_temporalité">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container_cb">Temporalité
+                <input class="checkbox_theme_temporalité" type="checkbox" value="theme,temporalité">
                 <span class="checkmark"></span>
               </label>
               <label class="container_cb">Bilinguisme
                 <input class="checkbox_theme_bilinguisme" type="checkbox" value="theme,bilinguisme">
                 <span class="checkmark"></span>
               </label>
-              <label class="container_cb">Émergence temporalité
-                <input class="checkbox_theme_émergence_temporalité" type="checkbox" value="theme,émergence_temporalité">
+              <label class="container_cb">Babillage
+                <input class="checkbox_theme_babillage" type="checkbox" value="theme,babillage">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container_cb">Monologue
+                <input class="checkbox_theme_monologue" type="checkbox" value="theme,monologue">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container_cb">Mouvement
+                <input class="checkbox_theme_mouvement" type="checkbox" value="theme,mouvement">
                 <span class="checkmark"></span>
               </label>
               <label class="container_cb">Énoncés complexes
@@ -300,36 +312,20 @@
                 <input class="checkbox_theme_erreurs" type="checkbox" value="theme,erreurs">
                 <span class="checkmark"></span>
               </label>
+              <label class="container_cb">Syntaxe
+                <input class="checkbox_theme_syntaxe" type="checkbox" value="theme,syntaxe">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container_cb">Figurines
+                <input class="checkbox_theme_figurines" type="checkbox" value="theme,figurines">
+                <span class="checkmark"></span>
+              </label>
               <label class="container_cb">Étayage
                 <input class="checkbox_theme_étayage" type="checkbox" value="theme,étayage">
                 <span class="checkmark"></span>
               </label>
-              <label class="container_cb">Humour
-                <input class="checkbox_theme_humour" type="checkbox" value="theme,humour">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Monologue
-                <input class="checkbox_theme_monologue" type="checkbox" value="theme,monologue">
-                <span class="checkmark"></span>
-              </label>
             </div>
             <div class="span6">
-              <label class="container_cb">Mouvement
-                <input class="checkbox_theme_mouvement" type="checkbox" value="theme,mouvement">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Pointage
-                <input class="checkbox_theme_pointage" type="checkbox" value="theme,pointage">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Premiers_mots
-                <input class="checkbox_theme_premiers_mots" type="checkbox" value="theme,premiers_mots">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Première_syntaxe
-                <input class="checkbox_theme_première_syntaxe" type="checkbox" value="theme,première_syntaxe">
-                <span class="checkmark"></span>
-              </label>
               <label class="container_cb">Référence à soi
                 <input class="checkbox_theme_référence_à_soi" type="checkbox" value="theme,référence_à_soi">
                 <span class="checkmark"></span>
@@ -338,12 +334,36 @@
                 <input class="checkbox_theme_rituel" type="checkbox" value="theme,rituel">
                 <span class="checkmark"></span>
               </label>
-              <label class="container_cb">Syntaxe
-                <input class="checkbox_theme_syntaxe" type="checkbox" value="theme,syntaxe">
+              <label class="container_cb">Premiers_mots
+                <input class="checkbox_theme_premiers_mots" type="checkbox" value="theme,premiers_mots">
                 <span class="checkmark"></span>
               </label>
-              <label class="container_cb">Temporalité
-                <input class="checkbox_theme_temporalité" type="checkbox" value="theme,temporalité">
+              <label class="container_cb">Pointage
+                <input class="checkbox_theme_pointage" type="checkbox" value="theme,pointage">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container_cb">Ballon
+                <input class="checkbox_theme_ballon" type="checkbox" value="theme,ballon">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container_cb">Humour
+                <input class="checkbox_theme_humour" type="checkbox" value="theme,humour">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container_cb">Tour
+                <input class="checkbox_theme_tour" type="checkbox" value="theme,tour">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container_cb">Etayage
+                <input class="checkbox_theme_etayage" type="checkbox" value="theme,etayage">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container_cb">Poupée
+                <input class="checkbox_theme_poupée" type="checkbox" value="theme,poupée">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container_cb">Première_syntaxe
+                <input class="checkbox_theme_première_syntaxe" type="checkbox" value="theme,première_syntaxe">
                 <span class="checkmark"></span>
               </label>
            </div>
@@ -374,10 +394,6 @@
             <div class="span3">
               <a><img src="./assets/img/exam.png" class="img-circle" style="width:70%;"></a>
               <h3>Jeux</h3>
-              <label class="container_cb">Poupée, peluche, figurines
-                <input class="checkbox_activite_poupée_peluche_figurines" type="checkbox" value="activite,poupée_peluche_figurines">
-                <span class="checkmark"></span>
-              </label>
               <label class="container_cb">Jeu de construction
                 <input class="checkbox_activite_jeu_de_construction" type="checkbox" value="activite,jeu_de_construction">
                 <span class="checkmark"></span>
@@ -388,6 +404,10 @@
               </label>
               <label class="container_cb">Jeu de société
                 <input class="checkbox_activite_jeu_de_société" type="checkbox" value="activite,jeu_de_société">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container_cb">poupée, peluche, figurines
+                <input class="checkbox_activite_poupée_peluche_figurines" type="checkbox" value="activite,poupée_peluche_figurines">
                 <span class="checkmark"></span>
               </label>
               <label class="container_cb">Jeu symbolique
@@ -406,28 +426,28 @@
             <div class="span3">
               <a><img src="./assets/img/exam.png" class="img-circle" style="width:70%;"></a>
               <h3>Vie Quotidienne</h3>
-              <label class="container_cb">Repas
-                <input class="checkbox_activite_repas" type="checkbox" value="activite,repas">
-                <span class="checkmark"></span>
-              </label>
               <label class="container_cb">Soin
                 <input class="checkbox_activite_soin" type="checkbox" value="activite,soin">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container_cb">Repas
+                <input class="checkbox_activite_repas" type="checkbox" value="activite,repas">
                 <span class="checkmark"></span>
               </label>
            </div>
             <div class="span3">
               <a><img src="./assets/img/exam.png" class="img-circle" style="width:70%;"></a>
-              <h3>Apprentissages</h3>
+              <h3>APPRENTISSAGES</h3>
               <label class="container_cb">Devoirs
                 <input class="checkbox_activite_devoirs" type="checkbox" value="activite,devoirs">
                 <span class="checkmark"></span>
               </label>
-              <label class="container_cb">Politesse
-                <input class="checkbox_activite_politesse" type="checkbox" value="activite,politesse">
-                <span class="checkmark"></span>
-              </label>
               <label class="container_cb">Rangement
                 <input class="checkbox_activite_Rangement" type="checkbox" value="activite,Rangement">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container_cb">Politesse
+                <input class="checkbox_activite_politesse" type="checkbox" value="activite,politesse">
                 <span class="checkmark"></span>
               </label>
               <label class="container_cb">Téléphone
@@ -437,7 +457,7 @@
             </div>
             <div class="span3">
               <a><img src="./assets/img/exam.png" class="img-circle" style="width:70%;"></a>
-              <h3>Créativité</h3>
+              <h3>CREATIVITE</h3>
               <label class="container_cb">Dessin
                 <input class="checkbox_activite_dessin" type="checkbox" value="activite,dessin">
                 <span class="checkmark"></span>
@@ -458,21 +478,21 @@
             <div class="span4">
               <a><img src="./assets/img/Filter/Langue/FR.png" class="img-rounded" style="width:70%;"></a>
               <label class="container_cb">Français
-                <input class="checkbox_langue_français" type="checkbox" value="langue,français">
+                <input class="checkbox_langue_français" type="checkbox" value="langue,fr">
                 <span class="checkmark"></span>
               </label>
             </div>
             <div class="span4">
               <a><img src="./assets/img/Filter/Langue/FR.png" class="img-rounded" style="width:70%;"></a>
               <label class="container_cb">Français(italien)
-                <input class="checkbox_langue_français_italien" type="checkbox" value="langue,français_italien">
+                <input class="checkbox_langue_français_italien" type="checkbox" value="langue,fr (it)">
                 <span class="checkmark"></span>
               </label>
             </div>
             <div class="span4">
               <a><img src="./assets/img/Filter/Langue/IT.png" class="img-rounded" style="width:70%;"></a>
               <label class="container_cb">Italien(français)
-                <input class="checkbox_langue_italien_français" type="checkbox" value="langue,italien_français">
+                <input class="checkbox_langue_italien_français" type="checkbox" value="langue,it (fr)">
                 <span class="checkmark"></span>
               </label>
            </div>
@@ -482,64 +502,64 @@
           <div class="row" style="text-align:center;">
             <div class="span2">
               <a><img src="./assets/img/exam.png" class="img-circle" id="nousimg"></a>
-              <label class="container_cb">Anaé
-                <input class="checkbox_enfant_anaé" type="checkbox" value="enfant,anaé">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="span2">
-              <a><img src="./assets/img/exam.png" class="img-circle" id="nousimg"></a>
-              <label class="container_cb">Antoine
-                <input class="checkbox_enfant_antoine" type="checkbox" value="enfant,antoine">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="span2">
-              <a><img src="./assets/img/exam.png" class="img-circle" id="nousimg"></a>
-              <label class="container_cb">Antoine Bil
-                <input class="checkbox_enfant_antoine_bi" type="checkbox" value="enfant,antoine_bi">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="span2">
-              <a><img src="./assets/img/exam.png" class="img-circle" id="nousimg"></a>
-              <label class="container_cb">Gustavo
-                <input class="checkbox_enfant_gustavo" type="checkbox" value="enfant,gustavo">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="span2">
-              <a><img src="./assets/img/exam.png" class="img-circle" id="nousimg"></a>
-              <label class="container_cb">Julie
-                <input class="checkbox_enfant_julie" type="checkbox" value="enfant,julie">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="span2">
-              <a><img src="./assets/img/exam.png" class="img-circle" id="nousimg"></a>
-              <label class="container_cb">Madeleine
-                <input class="checkbox_enfant_madeleine" type="checkbox" value="enfant,madeleine">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="span2">
-              <a><img src="./assets/img/exam.png" class="img-circle" id="nousimg"></a>
               <label class="container_cb">Philippine
-                <input class="checkbox_enfant_philippine" type="checkbox" value="enfant,philippine">
+                <input class="checkbox_enfant_philippine" type="checkbox" value="enfant,Philippine">
                 <span class="checkmark"></span>
               </label>
             </div>
             <div class="span2">
               <a><img src="./assets/img/exam.png" class="img-circle" id="nousimg"></a>
               <label class="container_cb">Théophile
-                <input class="checkbox_enfant_théophile" type="checkbox" value="enfant,théophile">
+                <input class="checkbox_enfant_théophile" type="checkbox" value="enfant,Théophile">
+                <span class="checkmark"></span>
+              </label>
+           </div>
+            <div class="span2">
+              <a><img src="./assets/img/exam.png" class="img-circle" id="nousimg"></a>
+              <label class="container_cb">Anaé
+                <input class="checkbox_enfant_anaé" type="checkbox" value="enfant,Anae">
+                <span class="checkmark"></span>
+              </label>
+            </div>
+            <div class="span2">
+              <a><img src="./assets/img/exam.png" class="img-circle" id="nousimg"></a>
+              <label class="container_cb">Gustavo
+                <input class="checkbox_enfant_gustavo" type="checkbox" value="enfant,Gustavo">
+                <span class="checkmark"></span>
+              </label>
+            </div>
+            <div class="span2">
+              <a><img src="./assets/img/exam.png" class="img-circle" id="nousimg"></a>
+              <label class="container_cb">Madeleine
+                <input class="checkbox_enfant_madeleine" type="checkbox" value="enfant,Madeleine">
                 <span class="checkmark"></span>
               </label>
             </div>
             <div class="span2">
               <a><img src="./assets/img/exam.png" class="img-circle" id="nousimg"></a>
               <label class="container_cb">Ulysse
-                <input class="checkbox_enfant_ulysse" type="checkbox" value="enfant,ulysse">
+                <input class="checkbox_enfant_ulysse" type="checkbox" value="enfant,Ulysse">
+                <span class="checkmark"></span>
+              </label>
+            </div>
+            <div class="span2">
+              <a><img src="./assets/img/exam.png" class="img-circle" id="nousimg"></a>
+              <label class="container_cb">Julie
+                <input class="checkbox_enfant_julie" type="checkbox" value="enfant,Julie">
+                <span class="checkmark"></span>
+              </label>
+            </div>
+            <div class="span2">
+              <a><img src="./assets/img/exam.png" class="img-circle" id="nousimg"></a>
+              <label class="container_cb">Antoine
+                <input class="checkbox_enfant_antoine" type="checkbox" value="enfant,Antoine">
+                <span class="checkmark"></span>
+              </label>
+            </div>
+            <div class="span2">
+              <a><img src="./assets/img/exam.png" class="img-circle" id="nousimg"></a>
+              <label class="container_cb">Antoine Bi
+                <input class="checkbox_enfant_antoine_bi" type="checkbox" value="enfant,Antoine Bil">
                 <span class="checkmark"></span>
               </label>
             </div>
@@ -564,9 +584,9 @@
               <th>Enfant</th>
               <th>Langue</th>
               <th>Âge</th>
-              <th>Thème</th>
+              <th>thème</th>
               <th>Activité</th>
-              <th>Lien</th>
+              <th>Bouton</th>
             </tr>
           </thead>
           <tbody id="myUL">
@@ -629,14 +649,14 @@
       new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
     }
 
-    function mykeyFunction() {
+    function mykeyFunction() {//<tbody id="myUL">id="myInput" onkeyup="mykeyFunction()"
         var input, filter, ul, li, a, i, txtValue;
         input = document.getElementById("myInput");
         filter = input.value.toUpperCase();
         ul = document.getElementById("myUL");
         tr = ul.getElementsByTagName("tr");
         for (i = 0; i < tr.length; i++) {
-            a = tr[i].getElementsByTagName("td")[0];
+            a = tr[i].getElementsByTagName("td")[1];
             txtValue = a.textContent || a.innerText;
             if (txtValue.toUpperCase().indexOf(filter) > -1) {
                 tr[i].style.display = "";
