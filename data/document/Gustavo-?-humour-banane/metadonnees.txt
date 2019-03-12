@@ -1,0 +1,14 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="Gustavo-?-humour-banane.mp4">Gustavo-?-humour-banane.mp4</a> (durée : 38sec)</li>
+<li>Projet : </li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Gustavo</li>
+<li>Âge : ?</li>
+<li>Langue : </li>
+<li>Lieu : cuisine</li>
+<li>Activité : repas (goûter)</li>
+<li>Thème(s) : humour, rire partagé, connivence\</li>n<li>Mot(s)-clé : banane</li>
+</ul>

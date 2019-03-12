@@ -1,0 +1,22 @@
+<ul>
+<li>MERE	qu'est+ce+que c'est ça ?</li>
+<li>	act	MERE montre une photo à ANAE</li>
+<li>ANAE	0 [=! bruit d'étonnement] .</li>
+<li>	act	ANAE prend la photo</li>
+<li>MERE	tu montres à Aliyah ?</li>
+<li>	act	MERE range le paquet de pailles</li>
+<li>ANAE	+< c'est quand j(e) +/.</li>
+<li>	pho	se kɑ̃ e</li>
+<li>	act	ANAE regarde la photo</li>
+<li>ANAE	quand j'étais dehors à +….</li>
+<li>	pho	kɑ̃ o ete dəɔʁ a</li>
+<li>	act	ANAE montre la photo à OBS</li>
+<li>	sit	MERE s'éloigne</li>
+<li>MERE	bah oui !</li>
+<li>MERE	c'est où ça Anaé ?</li>
+<li>	act	pointe la photo de l'index</li>
+<li>ANAE	c'était chez nous !</li>
+<li>	pho	/setɛ se nuː/</li>
+<li>	act	CHI regarde la photo en souriant</li>
+<li>MERE	ouais !</li>
+</ul>

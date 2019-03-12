@@ -1,0 +1,14 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="Anae-2_03_30-erreurs-merci-cheval.mp4">Anae-2_03_30-erreurs-merci-cheval.mp4</a> (durée : 21sec)</li>
+<li>Projet : CoLaJE</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Anae</li>
+<li>Âge : 2;03.30</li>
+<li>Langue : fr</li>
+<li>Lieu : chambre</li>
+<li>Activité : figurines</li>
+<li>Thème(s) : erreurs, politesse, rituel, pragmatique\</li>n<li>Mot(s)-clé : merci</li>
+</ul>

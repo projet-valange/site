@@ -1,0 +1,19 @@
+<ul>
+<li>Sa mère lui offre un biscuit en le lui tendant</li>
+<li>Antoine	mm	(en secouant la tête deux fois)</li>
+<li>Mère	no ? no.</li>
+<li>	(non ? non)</li>
+<li>Mère	un peu d’eau ? c’est ça ?</li>
+<li>Antoine hoche vigoureusement sa tête. Sa mère lui sert un verre d’eau qu’il boit. Antoine tend son bras et dit</li>
+<li>Antoine	mm</li>
+<li>Mère	e adesso vuoi il biscotto adesso che hai bevuto. E’ cosi ?</li>
+<li>	(et maintenant tu veux le biscuit maintenant que tu as bu. C’est ça ?).</li>
+<li>Antoine hoche vigoureusement sa tête</li>
+<li>Antoine	mm	(en pointant vers le placard où se trouve une bouteille d’eau</li>
+<li>Mère	tu veux de l'eau ? Vuoi l'acqua amore ?</li>
+<li>	(tu veux de l’eau mon amour ?)</li>
+<li>Antoine boit</li>
+<li>Antoine	nanan	(avec bras tendu vers le placard où se trouve du pain)</li>
+<li>Mère	vuoi anche il pane adesso ?</li>
+<li>	(tu veux aussi du pain maintenant ?)</li>
+</ul>

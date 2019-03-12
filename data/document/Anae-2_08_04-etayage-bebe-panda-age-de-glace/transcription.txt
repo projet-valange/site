@@ -1,0 +1,25 @@
+<ul>
+<li>ANAE	et le bébé qui avait le [ki avɛ lə pyʁe e e e la e e] accroché à le mur</li>
+<li>MERE	qu'est-ce que tu racontes ?</li>
+<li>ANAE	y avait le, y avait le, le, le petit bébé qui, qui a pleuré sur le mur</li>
+<li>MERE	quel petit bébé ?</li>
+<li>ANAE	euh qui, qui y a dans le zoo</li>
+<li>MERE	un bébé quoi ?</li>
+<li>ANAE	un bébé que, que un panda</li>
+<li>MERE	un bébé qui est un panda</li>
+<li>ANAE	un, un, un petit bébé, qui a, qui a, qui a dans la télé</li>
+<li>OBSERVATEUR	dans la télé d'accord</li>
+<li>OBSERVATEUR	ben j(e) connais pas bien hein les bébés dans la télé moi</li>
+<li>ANAE	parce que Arthur qui l'a regardé</li>
+<li>OBSERVATEUR	moi j(e) regarde pas la télé.</li>
+<li>MERE	act	rit</li>
+<li>MERE	si, si, c'est Arthur qui l'a regardé</li>
+<li>MERE	parce qu'Arthur il est malade alors il regarde la télé</li>
+<li>ANAE	hé ben moi j'ai, j’ai, j’ai, j’ai, quand j'ai mangé des pâtes dans la télé</li>
+<li>MERE	t(u) as mangé des pâtes devant la télé ouais</li>
+<li>MERE	j'ai compris d(e) quoi tu parlais</li>
+<li>MERE	c'est dans … dans L'âge de glace</li>
+<li>ANAE	ouais</li>
+<li>MERE	le bébé i(l) pleurait.</li>
+<li>MERE	et le mammouth il montrait les dessins sur le mur dans la grotte</li>
+</ul>

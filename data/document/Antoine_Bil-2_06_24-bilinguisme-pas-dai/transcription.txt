@@ -1,0 +1,19 @@
+<ul>
+<li>Mère	e questo cos’è ?</li>
+<li>	(et ça c’est quoi ?)</li>
+<li>Antoine	cavao</li>
+<li>Mère	è un altro cavallo. Ma è tuo ?</li>
+<li>	(c’est un autre cheval. Mais est-ce à toi ?)</li>
+<li>Antoine	è tuo</li>
+<li>	(c’est à toi)</li>
+<li>Mère	è tuo o è mio ?</li>
+<li>	(c’est à toi ou c’est à moi ?)</li>
+<li>Antoine	no è mio.	(en se détournant pour éloigner le jouet)</li>
+<li>	(non, c’est à moi)</li>
+<li>Mère	dallo alla mamma</li>
+<li>	(donne-le à maman)</li>
+<li>Antoine	no	(en serrant l’objet dans ses bras)</li>
+<li>Mère	non me lo dai ?</li>
+<li>	(tu ne me le donnes pas ?)</li>
+<li>Antoine	no pas dai	(en serrant plus fort l’objet)</li>
+</ul>

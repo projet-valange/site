@@ -1,0 +1,6 @@
+<ul>
+<li>Antoine	dov’è il mio doudou ?</li>
+<li>	(où est mon doudou ?)</li>
+<li>Mère	il tuo doudou è sul divano amore</li>
+<li>	(ton doudou est sur le divan mon amour.)</li>
+</ul>

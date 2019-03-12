@@ -1,0 +1,9 @@
+<ul>
+<li>ANAE	oh !</li>
+<li>	act	pose une pièce du puzzle dans le bon emplacement</li>
+<li>ANAE	app(u)ie !</li>
+<li>	act	appuie sur la pièce sans parvenir à la mettre en place</li>
+<li>ANAE	seule !</li>
+<li>	act	fait rentrer la pièce dans son emplacement</li>
+<li>MERE	tu appuies toute seule oui c'est bien !</li>
+</ul>

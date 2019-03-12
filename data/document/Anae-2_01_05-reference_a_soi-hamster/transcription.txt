@@ -1,0 +1,10 @@
+<ul>
+<li>act	Anaé et sa mère jouent à un jeu de loto</li>
+<li>MERE	ça c'est un hamster … comme Léa</li>
+<li>act	montre une image de l'index</li>
+<li>MERE	tu sais Léa elle en a un … dans sa maison</li>
+<li>MERE	hum</li>
+<li>ANAE	Anaé aussi Anaé !</li>
+<li>MERE	Anaé elle a un hamster dans sa maison ?</li>
+<li>MERE	non non !</li>
+</ul>

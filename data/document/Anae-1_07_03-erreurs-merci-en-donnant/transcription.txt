@@ -1,0 +1,19 @@
+<ul>
+<li>	act	ANAE balaye la table d'une main, pour jeter les papiers par terre</li>
+<li>MERE	ah ben non pas par-terre !</li>
+<li>ANAE	non !</li>
+<li>	act	Anaé montre sa main ouverte à Mère</li>
+<li>MERE	tu le ramasses ?</li>
+<li>MERE	s'il-te-plaît !</li>
+<li>ANAE	ah yy .</li>
+<li>MERE	tu peux ramasser le bout s'il-te-plaît ?</li>
+<li>	act	Mère montre le sol de l'index</li>
+<li>ANAE	hum.</li>
+<li>	act	Anaé ramasse le papier par terre</li>
+<li>ANAE	merci !</li>
+<li>	act	Anaé donne le papier à Mère</li>
+<li>MERE	merci !</li>
+<li>MERE	hop !</li>
+<li>	act	Mère met les papiers dans un ramequin posé sur la table</li>
+<li>MERE	on les met là.</li>
+</ul>

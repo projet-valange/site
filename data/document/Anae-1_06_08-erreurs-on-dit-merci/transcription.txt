@@ -1,0 +1,6 @@
+<ul>
+<li>MERE	tu dis merci ?</li>
+<li>ANAE	non .</li>
+<li>MERE	ben dis+donc !</li>
+<li>MERE	on dit merci !</li>
+</ul>

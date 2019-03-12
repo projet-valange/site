@@ -1,0 +1,14 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="Anae-2_02_16-reference_a_soi-il-est-ou-anae.mp4">Anae-2_02_16-reference_a_soi-il-est-ou-anae.mp4</a> (durée : 11sec)</li>
+<li>Projet : CoLaJE</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Anae</li>
+<li>Âge : 2;02.16</li>
+<li>Langue : fr</li>
+<li>Lieu : salon</li>
+<li>Activité : jeu symbolique (coucou caché)</li>
+<li>Thème(s) : référence à soi, prénom, pronom, erreur de genre\</li>n<li>Mot(s)-clé : il est où Anaé</li>
+</ul>

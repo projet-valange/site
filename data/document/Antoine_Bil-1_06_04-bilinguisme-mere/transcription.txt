@@ -1,0 +1,8 @@
+<ul>
+<li>Antoine et sa mère jouent à construire une tour avec des cubes.</li>
+<li>Mère	tieni !</li>
+<li>	(tiens !)</li>
+<li>Elle lui tend le cube. Antoine le prend et le met par-dessus les autres.</li>
+<li>Mère	questo è bello no ?</li>
+<li>	(ça c’est beau, non ?)</li>
+</ul>

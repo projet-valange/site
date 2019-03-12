@@ -1,0 +1,14 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="Anae-1_01-babillage-mange.mp4">Anae-1_01-babillage-mange.mp4</a> (durée : 20sec)</li>
+<li>Projet : CoLaJE</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Anae</li>
+<li>Âge : 1;01</li>
+<li>Langue : fr</li>
+<li>Lieu : cuisine</li>
+<li>Activité : repas</li>
+<li>Thème(s) : babillage, monologue en présence d'autrui\</li>n<li>Mot(s)-clé : </li>
+</ul>

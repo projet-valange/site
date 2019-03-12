@@ -1,0 +1,32 @@
+<ul>
+<li>Mère	e questo che cos’è ?</li>
+<li>	(et ça c’est quoi ?)</li>
+<li>Antoine	enounours</li>
+<li>Mère	è un orso</li>
+<li>	(c’est un ours )</li>
+<li>Antoine	oso ?</li>
+<li>Mère	chi te lo ha regalato quest’orso ?</li>
+<li>	(qui te l’as donné cet ours ?)</li>
+<li>Antoine	epapa !</li>
+<li>Mère	e l’alce chi te l’ha regalata invece ?	</li>
+<li>	(et l’élan par contre, qui te l’a donné ?)</li>
+<li>Antoine	emama !</li>
+<li>Antoine	la mamma !</li>
+<li>(…)</li>
+<li>Mère	facciamo una fila di animali vuoi ?</li>
+<li>	(on fait une file d’animaux, d’accord ?)</li>
+<li>Antoine	emali</li>
+<li>Mère	acciamo cosi li mettiamo tutti in fila.</li>
+<li>	(on fait comme ça, on les met tous en file).</li>
+<li>Antoine	encore XX</li>
+<li>Mère	encore ? ancora altri animali in fila guarda.</li>
+<li>	(encore d’autres animaux dans la file regarde).</li>
+<li>Un animal tombe</li>
+<li>Antoine	oh # tombé !</li>
+<li>Mère	è caduto</li>
+<li>	(il est tombé)</li>
+<li>Antoine	caduto ?</li>
+<li>	(tombé ?)</li>
+<li>Mère	caduto !</li>
+<li>	(tombé)</li>
+</ul>

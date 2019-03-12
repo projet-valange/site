@@ -1,0 +1,6 @@
+<ul>
+<li>	MERE	qu’est-ce qu'on a fait à la piscine ?</li>
+<li>	ANAE	nagé (.) sauté Anaé</li>
+<li>	MERE Anaé elle a sauté dans l'eau ?</li>
+<li>	ANAE	ouais</li>
+</ul>

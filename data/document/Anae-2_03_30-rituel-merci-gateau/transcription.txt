@@ -1,0 +1,6 @@
+<ul>
+<li>MERE	tiens !</li>
+<li>	act	Mère tend le gâteau à Anaé .</li>
+<li>MERE	tu le manges ton gâteau ?</li>
+<li>ANAE	merci.</li>
+</ul>

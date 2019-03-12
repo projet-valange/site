@@ -1,0 +1,19 @@
+<ul>
+<li>Sandra	e tutte queste macchinine qua è un regalo nuovo ?</li>
+<li>	(et toutes ces petites voitures c’est un nouveau cadeau ?)</li>
+<li>Antoine	sììì.</li>
+<li>	(ouii)</li>
+<li>Sandra:	0 [=! tousse]	# qual è la tua macchinina preferita ?</li>
+<li>	(quelle est ta voiture préférée ?)</li>
+<li>Antoine	vert.</li>
+<li>Sandra	quale ?</li>
+<li>	(laquelle ?)</li>
+<li>Antoine	la macchinina # j’ai dit la macchinina !</li>
+<li>Sandra	e quale ? quella gialla ?</li>
+<li>	(et laquelle ? la jaune ?)</li>
+<li>Antoine	verde.</li>
+<li>	(vert)</li>
+<li>Sandra	verde ?</li>
+<li>	(vert ?)</li>
+<li>Antoine	sì.</li>
+</ul>

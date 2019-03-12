@@ -1,0 +1,25 @@
+<ul>
+<li>Antoine	alors # Pinpin # il a xxx main # alors Pinpin il est là	(pointe l’image).</li>
+<li>Sandra	chi è Pinpin [/] Pinpin ?</li>
+<li>	(C’est qui Pinpin ? Pinpin ?)</li>
+<li>Mère	chi è Pinpin ? Pinpin ?</li>
+<li>	(C’est qui Pinpin ? Pinpin ?)</li>
+<li>Sandra	Pinpin.</li>
+<li>Antoine	qui	(pointe l’image)</li>
+<li>	(ici)</li>
+<li>Mère	sì ma come si dice in italiano ?</li>
+<li>	(oui mais comment on dit en italien ?)</li>
+<li>Mère	che cos’è Pinpin ?</li>
+<li>	(c’est quoi Pinpin ?)</li>
+<li>Antoine	Pinpin.</li>
+<li>Mère	un… ?</li>
+<li>	(un…)</li>
+<li>Antoine	Panpan.</li>
+<li>%com: prononce le même mot mais sans nasalisation</li>
+<li>Mère	in italiano [=! rit].</li>
+<li>	(en italien)</li>
+<li>Sandra	Panpan [=! rit].</li>
+<li>Mère	no ma voglio dire un # coniglio.</li>
+<li>	(non, mais je veux dire un lapin)</li>
+<li>Antoine	coniglio.</li>
+</ul>

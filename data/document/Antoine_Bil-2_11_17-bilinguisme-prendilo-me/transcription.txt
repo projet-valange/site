@@ -1,0 +1,11 @@
+<ul>
+<li>Mère	il tuo doudou è sul divano amore # lo vuoi ?</li>
+<li>	(ton doudou est sur le divan, mon amour. Tu le veux ?)</li>
+<li>Antoine	oui.</li>
+<li>Mère	vuoi andare a prenderlo ?</li>
+<li>	(tu veux bien aller le chercher ?)</li>
+<li>Antoine	no # prendilo me.</li>
+<li>	(non # prends-le-moi)</li>
+<li>Mère	prendilo tu amore.</li>
+<li>	(prends-le-toi, mon amour)</li>
+</ul>

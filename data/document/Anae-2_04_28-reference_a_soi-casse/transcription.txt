@@ -1,0 +1,7 @@
+<ul>
+<li>act	Anaé et sa mère sont en train de regarder un livre qui est un peu abîmé</li>
+<li>ANAE	Babouche il est cassé</li>
+<li>act	montre de l'index sur le livre</li>
+<li>MERE	ouais il est un p(e)tit peu cassé</li>
+<li>ANAE	c'est Anaé qu’ [e]f cassé</li>
+</ul>

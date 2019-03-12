@@ -1,0 +1,11 @@
+<ul>
+<li>MERE	et qu'est-ce qui se passe quand on met de la neige sur du chaud ?</li>
+<li>ANAE	ben…</li>
+<li>MERE	la neige elle ….</li>
+<li>ANAE	tombe.</li>
+<li>MERE	elle fond.</li>
+<li>ANAE	elle fond.</li>
+<li>MERE	et elle devient de l'eau.</li>
+<li>ANAE	de l'eau.</li>
+<li>MERE	elle devient une flaque d'eau.	Extension</li>
+</ul>

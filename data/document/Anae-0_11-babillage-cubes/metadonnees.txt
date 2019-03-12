@@ -1,0 +1,14 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="Anae-0_11-babillage-cubes.mp4">Anae-0_11-babillage-cubes.mp4</a> (durée : 3min45)</li>
+<li>Projet : CoLaJE</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Anae</li>
+<li>Âge : 0;11</li>
+<li>Langue : fr</li>
+<li>Lieu : chambre</li>
+<li>Activité : jeu de construction (cubes)</li>
+<li>Thème(s) : babillage, monologue, commente les objets qu'elle prend \</li>n<li>Mot(s)-clé : cubes</li>
+</ul>

@@ -1,0 +1,10 @@
+<ul>
+<li>Antoine	mamma guardiamo un film.</li>
+<li>	(maman, on regarde un film)</li>
+<li>Mère	ah no no non adesso amore.</li>
+<li>	(ah non non pas maintenant mon amour)</li>
+<li>Antoine	allora dopo il goûter</li>
+<li>	(alors après le gouter)</li>
+<li>Mère	dopo il goûter dopo che torna Michel mh ?</li>
+<li>	(après le gouter quand Michel sera revenu)</li>
+</ul>

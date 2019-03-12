@@ -1,0 +1,14 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="Anae-1_09_04-premiere_syntaxe-est-belle.mp4">Anae-1_09_04-premiere_syntaxe-est-belle.mp4</a> (durée : 8sec)</li>
+<li>Projet : CoLaJE</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Anae</li>
+<li>Âge : 1;09.04</li>
+<li>Langue : fr</li>
+<li>Lieu : salon</li>
+<li>Activité : poupée</li>
+<li>Thème(s) : première syntaxe, filler, émergence temporalité, présent\</li>n<li>Mot(s)-clé : belle</li>
+</ul>

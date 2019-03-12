@@ -1,0 +1,21 @@
+<ul>
+<li>Antoine vient de terminer les pâtes que sa nounou lui a servies. Aliyah filme la scène</li>
+<li>Nounou	bravo Antoine bravo!</li>
+<li>Antoine	avo!	(en rigolant)	</li>
+<li>Aliyah	bravo!	</li>
+<li>Antoine	elà!	(en pointant vers le frigo).</li>
+<li>Aliyah	t’as tout mangé!</li>
+<li>Antoine	elà!	(en regardant le frigo).</li>
+<li>La nounou prend un yaourt du frigo et l’offre à Antoine comme dessert.</li>
+<li>Nounou	tu veux un autre comme ça ?</li>
+<li>Antoine	manon ! manon !</li>
+<li>(en secouant vigoureusement sa tête et en repoussant le yaourt)</li>
+<li>Nounou	non, et tu veux…	</li>
+<li>Antoine	elà !	(en pointant vers le frigo)</li>
+<li>Nounou	pomme ?	(elle lui offre un autre type de yaourt)</li>
+<li>Antoine	non! non!	(en repoussant le yaourt)</li>
+<li>Antoine	ela!	(en pointant vers le frigo)</li>
+<li>Antoine	ela!	(en pointant vers le frigo)</li>
+<li>Nounou	un petit gervais ?</li>
+<li>Antoine hoche la tête</li>
+</ul>

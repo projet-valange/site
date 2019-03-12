@@ -1,0 +1,14 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="Anae-1_10_18-xxx-toboggan.mp4">Anae-1_10_18-xxx-toboggan.mp4</a> (durée : 22sec)</li>
+<li>Projet : CoLaJE</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Anae</li>
+<li>Âge : 1;10.18</li>
+<li>Langue : fr</li>
+<li>Lieu : jardin</li>
+<li>Activité : jeu en extérieur (toboggan)</li>
+<li>Thème(s) : , prénom (par la mère)\</li>n<li>Mot(s)-clé : </li>
+</ul>

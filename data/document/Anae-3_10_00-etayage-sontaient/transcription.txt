@@ -1,0 +1,9 @@
+<ul>
+<li>MERE	ah mais y a pas de vaches dans cette ferme !</li>
+<li>ANAE	bah non ! les vaches elles ont disparu !</li>
+<li>ANAE	en en fait on disait que les vaches elles sontaient derrière !</li>
+<li>MERE	c'est vrai ?</li>
+<li>MERE	ah bah oui tu as raison regarde !</li>
+<li>ANAE	oui</li>
+<li>MERE	elles sont là elles sont là elles sont dessinées en fait !</li>
+</ul>

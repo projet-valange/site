@@ -1,0 +1,10 @@
+<ul>
+<li>Sandra	sìì ? adesso dove sono andati tutti i libri del papà ?</li>
+<li>	(oui, où sont allés tous les livres de papa ?)</li>
+<li>Antoine	xx debalato.</li>
+<li>	(xx déballé)</li>
+<li>Sandra	come ?</li>
+<li>	(quoi ?)</li>
+<li>Antoine	xx debalato in miei valises</li>
+<li>	(xx déballé dans mes valises)	</li>
+</ul>

@@ -1,0 +1,5 @@
+<ul>
+<li>act	Anaé met une petite valisette sur sa tête</li>
+<li>ANAE	yy il est où Anaé ?</li>
+<li>OBSERVATRICE	ah ben je sais pas j(e) vois une bouche .</li>
+</ul>

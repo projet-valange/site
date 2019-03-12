@@ -1,0 +1,16 @@
+<ul>
+<li>Sandra:	vuoi salutare Daniele ?</li>
+<li>	(tu veux dire au revoir à Daniel ?)</li>
+<li>Daniele:	ciao.</li>
+<li>Antoine	il va où ?</li>
+<li>Daniele:	je vais chez moi.</li>
+<li>Antoine	a casa ?</li>
+<li>	(à la maison ?)	</li>
+<li>Daniele:	sì a casa.</li>
+<li>	(oui à la maison)</li>
+<li>Sandra :	mh.</li>
+<li>Antoine	con Michel ?</li>
+<li>	(avec Michel ?)</li>
+<li>Daniele:	no Michel resta qui.</li>
+<li>	(non, Michel reste ici).</li>
+</ul>

@@ -1,0 +1,14 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="Antoine_Bil-3_00_24-bilinguisme-chez-moi-a-casa.mp4">Antoine_Bil-3_00_24-bilinguisme-chez-moi-a-casa.mp4</a> (durée : 15sec)</li>
+<li>Projet : CoLaJE</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Antoine Bi</li>
+<li>Âge : 3;00.24</li>
+<li>Langue : it (fr)</li>
+<li>Lieu : salon</li>
+<li>Activité : </li>
+<li>Thème(s) : bilinguisme, alternance codique, énoncés mixtes\</li>n<li>Mot(s)-clé : chez moi, a casa</li>
+</ul>

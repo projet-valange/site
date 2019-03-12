@@ -1,0 +1,7 @@
+<ul>
+<li>ANAE	[m]</li>
+<li>	act	tend un jouet vers Kirikou (le nom de la poupée)</li>
+<li>MERE	c'est pour Kirikou ?</li>
+<li>MERE	tu le donnes à Kirikou ?</li>
+<li>	act	prend le jouet et le met sur la poupée</li>
+</ul>

@@ -1,0 +1,26 @@
+<ul>
+<li>Daniele lui sert un verre d’eau qu’Antoine commence à boire</li>
+<li>Antoine	encore de l’eau</li>
+<li>Daniele	intanto bevi quella</li>
+<li>	(pour l’instant, bois celle-là)</li>
+<li>Antoine termine son verre d’eau</li>
+<li>Antoine	encore de l’eau	(en sautant joyeusement)</li>
+<li>Antoine boit un peu d’eau</li>
+<li>Antoine	encore de l’eau	(en sautant joyeusement	</li>
+<li>Daniele	encore de l’eau	(et lui verse un 2e verre)</li>
+<li>Antoine	encore de l’eau	(avec dans ses mains le verre plein d’eau)</li>
+<li>Daniele	intanto c’hai quella !</li>
+<li>	(tu as déjà celle-là)</li>
+<li>Antoine allonge les mains vers la bouteille</li>
+<li>Daniele	ah ah	(et éloigne la bouteille)</li>
+<li>Antoine	de l’eau ?	(et tend le bras vers la bouteille)</li>
+<li>(….)</li>
+<li>(7’35) Daniele essaie de reprendre la bouteille de l’eau qu’Antoine serre dans ses mains</li>
+<li>Daniele	c’hai il monopolio dell’acqua adesso ?</li>
+<li>	(tu as le monopole de l’eau maintenant ?)</li>
+<li>Daniele essaie de nouveau de lui enlever la bouteille</li>
+<li>Antoine	no no	(en serrant la bouteille entre ses mains)</li>
+<li>(non, non)</li>
+<li>Descripteur extrait</li>
+<li>Le répertoire en italien d’Antoine à cet âge est plus réduit. Dans l’extrait, il joue avec un ami de famille italien, Daniele. Tout au long de cette interaction, Antoine produit la négation en italien (no), mais pour la requête d’eau il recourt au français (encore de l’eau). Vraisemblablement Antoine ne dispose pas encore des formules correspondantes en italien.</li>
+</ul>
