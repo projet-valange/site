@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>MERE	oui on va aller dans le bain maint(e)nant ?</li>
 <li>ANTOINE	bain</li>
 <li>	pho	[ba]</li>

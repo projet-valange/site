@@ -1,0 +1,15 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="./data/document/Philippine-4_08_27-monologue-boudeuse/Philippine-4_08_27-monologue-boudeuse.mp4">Philippine-4_08_27-monologue-boudeuse.mp4</a> (durée : 1min20)</li>
+<li>Projet : Monologue</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Philippine</li>
+<li>Âge : 4;08.27</li>
+<li>Langue : fr</li>
+<li>Lieu : chambre</li>
+<li>Activité : jeu de construction (cubes)</li>
+<li>Thème(s) : monologue, émotion, bouderie</li>
+<li>Mot(s)-clé : boudeuse</li>
+</ul>

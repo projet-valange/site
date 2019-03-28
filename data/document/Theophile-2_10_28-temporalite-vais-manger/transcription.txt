@@ -1,0 +1,15 @@
+<ul style="list-style-type:none">
+<li>MERE	ah la grosse faim.</li>
+<li>MERE	une énorme faim !</li>
+<li>THEOPHILE	je vais manger des olives et du jambon !</li>
+<li>	pho	[ʒə ve mɑ̃ze de oliːv e dy zɑ̃bɔ̃]</li>
+<li>	act	THEOPHILE secoue la tête.</li>
+<li>MERE	et du bro+….</li>
+<li>THEOPHILE	0.</li>
+<li>	act	CHI lève un bras.</li>
+<li>THEOPHILE	++ (bro)coli !</li>
+<li>	pho	[pɔliː]</li>
+<li>MERE	brocoli [=! rit] ?</li>
+<li>	pho	[bʁɔpɔli]</li>
+<li>THEOPHILE	je vais manger tout ça moi !</li>
+</ul>

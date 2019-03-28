@@ -1,0 +1,15 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="./data/document/Madeleine-1_06_04-premiere_syntaxe-mettre/Madeleine-1_06_04-premiere_syntaxe-mettre.mp4">Madeleine-1_06_04-premiere_syntaxe-mettre.mp4</a> (durée : 1min04)</li>
+<li>Projet : CoLaJE</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Madeleine</li>
+<li>Âge : 1;06.04</li>
+<li>Langue : fr</li>
+<li>Lieu : cuisine</li>
+<li>Activité : poupée</li>
+<li>Thème(s) : première syntaxe, verbe sans sujet, infinitif, étayage, reformulation</li>
+<li>Mot(s)-clé : mettre</li>
+</ul>

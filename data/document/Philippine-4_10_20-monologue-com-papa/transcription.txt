@@ -1,0 +1,9 @@
+<ul style="list-style-type:none">
+<li>354	*CHI:	je suis son papa .</li>
+<li>355	*CHI:	vous devez dire qu' il est très beau .</li>
+<li>356	%com:	CHI utilise "vous" signe qu'elle semble s'adresser à quelqu'un dans ce dialogue imaginaire</li>
+<li>357	*CHI:	bon elle fait ça pour sa cabane magnifique .</li>
+<li>358	%com:	CHI semble parler d'elle même à la 3ème personne "elle" puisque le dessin de la cabane est le projet qu'elle est en train de mener</li>
+<li>359	*CHI:	oui mon papa a raison .</li>
+<li>360	%mon:	CHI semble jouer un dialogue en monologue</li>
+</ul>

@@ -1,5 +1,5 @@
 <ul style="list-style-type:none;">
-<li>Fichier : <a href="Anae-0_11-babillage-cubes-colloque.mp4">Anae-0_11-babillage-cubes-colloque.mp4</a> (durée : 11sec)</li>
+<li>Fichier : <a href="./data/document/Anae-0_11-babillage-cubes-colloque/Anae-0_11-babillage-cubes-colloque.mp4">Anae-0_11-babillage-cubes-colloque.mp4</a> (durée : 11sec)</li>
 <li>Projet : CoLaJE</li>
 <li>Extrait de la vidéo : [lien Ortolang à venir]</li>
 </ul>
@@ -10,5 +10,6 @@
 <li>Langue : fr</li>
 <li>Lieu : chambre</li>
 <li>Activité : jeu de construction (cubes)</li>
-<li>Thème(s) : babillage, monologue, commente les objets qu'elle prend \</li>n<li>Mot(s)-clé : cubes</li>
+<li>Thème(s) : babillage, monologue, commente les objets qu'elle prend </li>
+<li>Mot(s)-clé : cubes</li>
 </ul>

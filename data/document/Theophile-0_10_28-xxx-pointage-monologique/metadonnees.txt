@@ -1,0 +1,15 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="./data/document/Theophile-0_10_28-xxx-pointage-monologique/Theophile-0_10_28-xxx-pointage-monologique.mp4">Theophile-0_10_28-xxx-pointage-monologique.mp4</a> (durée : 45sec)</li>
+<li>Projet : Monologue</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Théophile</li>
+<li>Âge : 0;10.28</li>
+<li>Langue : fr</li>
+<li>Lieu : </li>
+<li>Activité : </li>
+<li>Thème(s) : , </li>
+<li>Mot(s)-clé : </li>
+</ul>

@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>act	Anaé et sa mère sont en train de regarder un livre qui est un peu abîmé</li>
 <li>ANAE	Babouche il est cassé</li>
 <li>act	montre de l'index sur le livre</li>

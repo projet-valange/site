@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>Antoine	ho fatto male a où ?	</li>
 <li>	(j’ai fait mal où ?)	</li>
 <li>Mère	mi hai fatto male all’occhio amore.</li>

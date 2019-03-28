@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>Antoine	la lune!</li>
 <li>Père	tu vois la lune ?</li>
 <li>Antoine	oui.</li>

@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>Mère	è il nonno questa volta. Cosa gli dici ?</li>
 <li>	(c’est grand-père cette fois-ci. Qu’est-ce que tu lui dis ?)</li>
 <li>Antoine	nonna ?</li>

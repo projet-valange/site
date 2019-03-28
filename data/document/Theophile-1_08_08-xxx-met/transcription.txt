@@ -1,0 +1,13 @@
+<ul style="list-style-type:none">
+<li>MERE	ouais super</li>
+<li>MERE	et là on l(e) met où ?</li>
+<li>	act	la mère	montre la vis à Théophile</li>
+<li>MERE	tu veux la mettre où ….</li>
+<li>MERE	tu veux la mettre où elle ?</li>
+<li>	act	la mère tend une pièce à Théophile</li>
+<li>THEOPHILE	met !</li>
+<li>	pho	[mweː]</li>
+<li>	act	Théophile met la vis dans un des trous</li>
+<li>MERE	là</li>
+<li>MERE	dans le trou ouais très bien</li>
+</ul>

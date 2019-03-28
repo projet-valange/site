@@ -1,0 +1,17 @@
+<ul style="list-style-type:none">
+<li>MADELEINE	chuchote (pas de mot audible)</li>
+<li>	pho	[kakaː]</li>
+<li>	act	Madeleine est concentrée sur l'ouverture du paquet</li>
+<li> MERE	(inaudible)</li>
+<li>	act	La mère enlève	un peu plus le papier et met le cadeau sur la table devant Madeleine</li>
+<li>MADELEINE chuchote	</li>
+<li>	act	Madeleine regarde la personne qui filme (OBS) et fait glisser le cadeau par terre.</li>
+<li>MERE	ah Madeleine !</li>
+<li>OBS	boum !</li>
+<li>	act	Madeleine regarde le cadeau tombé par terre</li>
+<li>MERE	tu le ramasses ?</li>
+<li>MERE	regarde !</li>
+<li>	act	la mère prend le cadeau et Madeleine suit ses mouvements du regard.</li>
+<li>MERE	regarde ce que c'est !</li>
+<li>	act	la mère enlève tout le papier et tient le livre dans ses mains devant les yeux de Madeleine</li>
+</ul>

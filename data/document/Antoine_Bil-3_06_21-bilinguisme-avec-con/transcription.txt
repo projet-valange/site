@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>Mère	# Antoine amore <vuoi raccon>	[/] vuoi e: raccontare a Sandra quali sono i libri che leggi in questo momento ? quali sono i tuoi libri ?</li>
 <li>	(Antoine amour <tu veux racon> tu veur raconter à Sandra quels sont les livres que tu lis en ce moment ? quels sont tes livres ?)</li>
 <li>Antoine	mamma.</li>

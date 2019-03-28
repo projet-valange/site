@@ -1,0 +1,126 @@
+<ul style="list-style-type:none">
+<li>706	*CHI:	xx .</li>
+<li>707	*BRO:	faut poser encore euh là le chariot est +//.</li>
+<li>708	%pho:	fo poze ɑ̃kɔʁ ə la lə saʁjɔ ɛ</li>
+<li>709	%act:	BRO repousse le caddy</li>
+<li>710	*FAT:	j(e) vais y aller .</li>
+<li>711	*MOT:	d'accord i(l) faut qu(e) j(e) te dessine la trousse .</li>
+<li>712	%com:	conversation extérieure à CHI entre MOT et FAT</li>
+<li>713	*CHI:	yy .</li>
+<li>714	%pho:	alɛː</li>
+<li>715	*FAT:	+< hum hum .</li>
+<li>716	*CHI:	0 [=! chantonne] .</li>
+<li>717	%act:	CHI pousse la poussette</li>
+<li>718	*FAT:	mais sinon j(e) te téléphonerai mais +//.</li>
+<li>719	*CHI:	0 [=! chantonne] .</li>
+<li>720	*MOT:	+< bon le magasin c'est le magasin muller qui est dans la rue du palace .</li>
+<li>721	*FAT:	hum hum .</li>
+<li>722	*MOT:	+< tu vois le magasin ou y+a tous les sacs ?</li>
+<li>723	*CHI:	+< va porter .</li>
+<li>724	%pho:	va pɔʁte</li>
+<li>725	*CHI:	<mais zə@fs peux pas sortir xx> [=! chantonne] .</li>
+<li>726	%pho:	mɛ zə pø pa sɔʁtiʁ χ</li>
+<li>727	%act:	CHI avance en se dandinant en poussant sa poussette</li>
+<li>728	*BRO:	+< maman filme un+peu xxx filme un+peu .</li>
+<li>729	%pho:	mamɑ̃ film œ̃pø χ film œ̃pø</li>
+<li>730	*MOT:	+< et alors en fait tu rentres dans l(e) magasin .</li>
+<li>731	*MOT:	tu avances et à gauche tu verras qu' y+a un endroit où il+y+a toutes des mallettes pour les enfants .</li>
+<li>732	*MOT:	c'est là qu' y+a les trousses de toilette mais faut un+petit+peu chercher .</li>
+<li>733	*BRO:	+< filme un+peu c(e)+que +/.</li>
+<li>734	%pho:	film œ̃̃pø skə</li>
+<li>735	*MOT:	tu demandes les sacs oilily .</li>
+<li>736	*FAT:	+< c'est quelle marque ?</li>
+<li>737	*MOT:	oilily .</li>
+<li>738	*FAT:	+< oilily .</li>
+<li>739	*BRO:	+< maman .</li>
+<li>740	%pho:	mamɑ̃</li>
+<li>741	*BRO:	filme un+peu c(e)+que j' ai fait .</li>
+<li>742	%pho:	film œ̃pø skə ʒ e fɛ</li>
+<li>743	*FAT:	+< Julie attention .</li>
+<li>744	%sit:	CHI touche au sapin de noël .</li>
+<li>745	*FAT:	Julie attention .</li>
+<li>746	*MOT:	oui Ulysse attends une seconde .</li>
+<li>747	*BRO:	xxx .</li>
+<li>748	*CHI:	+< 0 [=! chantonne] .</li>
+<li>749	*MOT:	+< j' arrive .</li>
+<li>750	*FAT:	waow .</li>
+<li>751	*FAT:	c'est la parade dis+donc génial .</li>
+<li>752	*BRO:	oui .</li>
+<li>753	%pho:	wi</li>
+<li>754	*BRO:	mais i(ls) vont faire un spectacle .</li>
+<li>755	%pho:	mɛ i vɔ̃ fɛʁ œ̃̃ spɛktak</li>
+<li>756	*CHI:	+< 0 [=! chantonne] .</li>
+<li>757	*MOT:	super .</li>
+<li>758	*CHI:	0 [=! chantonne] .</li>
+<li>759	*MOT:	+< alors la trousse c'est une trousse +//.</li>
+<li>760	%com:	conversation extérieure à BRO et CHI entre FAT et MOT</li>
+<li>761	*MOT:	y+en+a tu vois y+en+a des [/] des petits des espèces de petits beauty+case donc des petits machins .</li>
+<li>762	*BRO:	+< le spectacle commence .</li>
+<li>763	%pho:	lə spɛktak kɔmɑ̃s</li>
+<li>764	*MOT:	tu vois c(e)+que c'est des beauty+case quoi ?</li>
+<li>765	*BRO:	+< xxx .</li>
+<li>766	*MOT:	mais là c'est une trousse relativement comme ça .</li>
+<li>767	*MOT:	donc rectangulaire plus ou moins trapèze .</li>
+<li>768	*BRO:	+< 0 [=! chantonne] .</li>
+<li>769	%act:	BRO fait voler une figurine</li>
+<li>770	*CHI:	+< 0 [=! chantonne] .</li>
+<li>771	*MOT:	et c'était la seule trousse .</li>
+<li>772	*MOT:	mais la semaine passée .</li>
+<li>773	*FAT:	hum hum .</li>
+<li>774	*MOT:	bleue .</li>
+<li>775	*BRO:	+< 0 [=! chantonne] .</li>
+<li>776	%act:	BRO fait voler une figurine</li>
+<li>777	*CHI:	+< 0 [=! chantonne] .</li>
+<li>778	*FAT:	ça va .</li>
+<li>779	*MOT:	ok ?</li>
+<li>780	*MOT:	et elle est à trente quatre ou trente six euros .</li>
+<li>781	*FAT:	ok .</li>
+<li>782	*MOT:	ça va ?</li>
+<li>783	*MOT:	si t(u) as un doute tu m' appelles sauf que attends .</li>
+<li>784	*FAT:	ouais .</li>
+<li>785	*MOT:	t(u) sais quoi mon gsm est plat .</li>
+<li>786	*BRO:	+< 0 [=! chantonne] .</li>
+<li>787	%act:	BRO fait voler une figurine</li>
+<li>788	*CHI:	+< 0 [=! chantonne] .</li>
+<li>789	*MOT:	j(e) veux bien qu(e) t(u) ailles me le chercher et que tu me l(e) mettes charger ici .</li>
+<li>790	*MOT:	il est dans la chambre .</li>
+<li>791	*FAT:	ton chargeur est où ?</li>
+<li>792	*MOT:	mon chargeur est dans la chambre par+terre à+côté+du meuble .</li>
+<li>793	*BRO:	0 [=! chantonne] .</li>
+<li>794	*BRO:	0 [=! chantonne] .</li>
+<li>795	*CHI:	+< 0 [=! chantonne] .</li>
+<li>796	%act:	CHI pousse sa poussette</li>
+<li>797	*MOT:	et ce matin moi je vous ai entendu chanter .</li>
+<li>798	*MOT:	tu me chantes une des chansons que tu chantais ce matin ?</li>
+<li>799	*MOT:	c'était chouette .</li>
+<li>800	*BRO:	c'était laquelle ?</li>
+<li>801	%pho:	setɛ lakɛl</li>
+<li>802	*MOT:	alors je crois qu(e) tu as chanté au clair de la lune saint_Nicolas .</li>
+<li>803	*MOT:	et t(u) as aussi chanté dans sa maison un grand cerf .</li>
+<li>804	*BRO:	et quoi aussi ?</li>
+<li>805	%pho:	e kwa osi</li>
+<li>806	*MOT:	ben xx <j' ai> [/] j' ai entendu ces deux là mais +//.</li>
+<li>807	*MOT:	hein Julie ?</li>
+<li>808	*MOT:	Ulysse i(l) chantait pour toi ce matin dans la chambre ?</li>
+<li>809	*BRO:	oui .</li>
+<li>810	%pho:	wi</li>
+<li>811	*CHI:	oh+hisse [=! petit bruit d' effort] .</li>
+<li>812	%pho:	uːis</li>
+<li>813	%act:	CHI monte la marche avec la poussette</li>
+<li>814	*BRO:	+< ə@fs pense que oui .</li>
+<li>815	%pho:	ə pɑ̃s kə wi</li>
+<li>816	*BRO:	oh .</li>
+<li>817	%pho:	ɔɔ</li>
+<li>818	*CHI:	+< oh+hisse .</li>
+<li>819	%pho:	ɔis</li>
+<li>820	*MOT:	hein Julie qu' est+ce+qu' i(l) chantait Ulysse ?</li>
+<li>821	*BRO:	+< 0 [=! chantonne] .</li>
+<li>822	*BRO:	0 [=! chantonne] .</li>
+<li>823	*MOT:	qu' est+ce+qu' i(l) chantait Ulysse ce matin ?</li>
+<li>824	*BRO:	+< yyy .</li>
+<li>825	%pho:	fufuwɛ</li>
+<li>826	*BRO:	<yy [/] yy [/] yy> [=! chantonne] .</li>
+<li>827	%pho:	fufuwɛ fufuwɛ fufuwɛ</li>
+<li>828	*CHI:	+< la chanson .</li>
+<li>829	%pho:	la ʃɑ̃sɔ̃</li>
+</ul>

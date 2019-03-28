@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>*CHI:	yyy .</li>
 <li>%pho:	lataea:</li>
 <li>%act:	CHI tient un cube de la main gauche et le regarde fixement, elle</li>

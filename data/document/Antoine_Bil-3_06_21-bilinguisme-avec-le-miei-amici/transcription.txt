@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>Mère	senti a cosa ti piace giocare soprattutto quando sei a scuola ?</li>
 <li>	(écoute, à quoi tu aimes le plus jouer quand tu es à l’école ?)</li>
 <li>Antoine	con le miei amici [\\] con i miei (ami)si [\\] avec le miei amici.</li>

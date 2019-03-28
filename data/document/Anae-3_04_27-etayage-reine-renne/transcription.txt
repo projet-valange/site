@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>ANAE	et [/] et puis pas la renne.	Erreur de genre (morphologie)</li>
 <li>ANAE	que le Père Noël.</li>
 <li>MERE	pas le renne .	Rectification directe</li>

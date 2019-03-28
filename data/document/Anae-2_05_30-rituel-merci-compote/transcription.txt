@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>	act	Anaé essaye d'ouvrir la compote .</li>
 <li>MERE	c'est toi qui l'ouvres toute seule ?</li>
 <li>ANAE	non j'arrive pas, y a y a, un petit bouchon .</li>

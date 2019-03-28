@@ -1,0 +1,15 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="./data/document/Madeleine-1_02_28-premiers_mots-chat-ou-ca/Madeleine-1_02_28-premiers_mots-chat-ou-ca.mp4">Madeleine-1_02_28-premiers_mots-chat-ou-ca.mp4</a> (durée : 6sec)</li>
+<li>Projet : CoLaJE</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Madeleine</li>
+<li>Âge : 1;02.28</li>
+<li>Langue : fr</li>
+<li>Lieu : </li>
+<li>Activité : livre</li>
+<li>Thème(s) : premiers mots, proto-mot, interprétation</li>
+<li>Mot(s)-clé : chat, ça</li>
+</ul>

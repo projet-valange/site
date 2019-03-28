@@ -1,0 +1,12 @@
+<ul style="list-style-type:none">
+<li>MADELEINE	ouvr(r)e po(r)te .</li>
+<li>pho	[ovu pɔt]</li>
+<li>mod	[uvʁ pɔʁt]</li>
+<li>int	ovu pɔt=ouvre porte/2/</li>
+<li>act	CHI introduit une clé dans une serrure de porte de	la petite maison .</li>
+<li>MERE	on descend Madeleine ?</li>
+<li>MADELEINE	fermé .</li>
+<li>pho	[tɛme]</li>
+<li>mod	[fɛʁme]</li>
+<li>act	CHI joue avec la clé dans la serrure .</li>
+</ul>

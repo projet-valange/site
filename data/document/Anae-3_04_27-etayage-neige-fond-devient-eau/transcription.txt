@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>MERE	et qu'est-ce qui se passe quand on met de la neige sur du chaud ?</li>
 <li>ANAE	ben…</li>
 <li>MERE	la neige elle ….</li>

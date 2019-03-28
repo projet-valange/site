@@ -1,0 +1,30 @@
+<ul style="list-style-type:none">
+<li>1430	*MOT:	c'est quoi ça ?</li>
+<li>1431	*CHI:	xxx .</li>
+<li>1432	*MOT:	c'est +… ?</li>
+<li>1433	*CHI:	xxx .</li>
+<li>1434	*MOT:	mange ta soupe Alferd !</li>
+<li>1435	*MOT:	Ulysse tu veux raconter l' histoire de mange ta soupe Alfred à Julie ?</li>
+<li>1436	*BRO:	non .</li>
+<li>1437	%pho:	nɔ̃</li>
+<li>1438	*MOT:	non .</li>
+<li>1439	*CHI:	Alfred [=! crie] .</li>
+<li>1440	%pho:	afʁɛt</li>
+<li>1441	*MOT:	tu veux raconter l' histoire des deux mamys ?</li>
+<li>1442	*CHI:	+< Alfred [=! crie] .</li>
+<li>1443	%pho:	alfʁɛ</li>
+<li>1444	*BRO:	non .</li>
+<li>1445	%pho:	nɔ̃</li>
+<li>1446	*CHI:	Alfred [=! crie] .</li>
+<li>1447	%pho:	alfwɛ</li>
+<li>1448	*CHI:	Alfred [=! crie] .</li>
+<li>1449	%pho:	alfʁɛl</li>
+<li>1450	*BRO:	+< yyy .</li>
+<li>1451	%pho:	suja</li>
+<li>1452	*CHI:	Alfred [=! crie] .</li>
+<li>1453	%pho:	alfʁɛl</li>
+<li>1454	*CHI:	Alfred [=! crie] .</li>
+<li>1455	%pho:	alfʁɛl</li>
+<li>1456	*MOT:	boh@i dis+donc .</li>
+<li>1457	*MOT:	tu l' as lu à la vitesse de l' éclair .</li>
+</ul>

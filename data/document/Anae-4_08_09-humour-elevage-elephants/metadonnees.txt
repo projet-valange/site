@@ -1,5 +1,5 @@
 <ul style="list-style-type:none;">
-<li>Fichier : <a href="Anae-4_08_09-humour-elevage-elephants.mp4">Anae-4_08_09-humour-elevage-elephants.mp4</a> (durée : 24sec)</li>
+<li>Fichier : <a href="./data/document/Anae-4_08_09-humour-elevage-elephants/Anae-4_08_09-humour-elevage-elephants.mp4">Anae-4_08_09-humour-elevage-elephants.mp4</a> (durée : 24sec)</li>
 <li>Projet : CoLaJE</li>
 <li>Extrait de la vidéo : [lien Ortolang à venir]</li>
 </ul>
@@ -10,5 +10,6 @@
 <li>Langue : fr</li>
 <li>Lieu : salon</li>
 <li>Activité : </li>
-<li>Thème(s) : humour, intentionnel\</li>n<li>Mot(s)-clé : élevage éléphant, écureuil</li>
+<li>Thème(s) : humour, intentionnel</li>
+<li>Mot(s)-clé : élevage éléphant, écureuil</li>
 </ul>

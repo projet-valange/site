@@ -1,5 +1,5 @@
 <ul style="list-style-type:none;">
-<li>Fichier : <a href="Anae-2_02_16-xxx-fesses.mp4">Anae-2_02_16-xxx-fesses.mp4</a> (durée : 28sec)</li>
+<li>Fichier : <a href="./data/document/Anae-2_02_16-xxx-fesses/Anae-2_02_16-xxx-fesses.mp4">Anae-2_02_16-xxx-fesses.mp4</a> (durée : 28sec)</li>
 <li>Projet : CoLaJE</li>
 <li>Extrait de la vidéo : [lien Ortolang à venir]</li>
 </ul>
@@ -10,5 +10,6 @@
 <li>Langue : fr</li>
 <li>Lieu : salon</li>
 <li>Activité : gym</li>
-<li>Thème(s) : , tu pour je, répétition \</li>n<li>Mot(s)-clé : fesses</li>
+<li>Thème(s) : , tu pour je, répétition </li>
+<li>Mot(s)-clé : fesses</li>
 </ul>

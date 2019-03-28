@@ -1,0 +1,4 @@
+<ul style="list-style-type:none">
+<li>Madeleine identifie et commente une image dans un livre.</li>
+<li>MADELEINE	ça doit être la chatte parce qu’au fond des oreilles elle a du rose.</li>
+</ul>

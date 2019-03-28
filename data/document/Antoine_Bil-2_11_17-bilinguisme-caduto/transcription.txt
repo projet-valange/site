@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>Sandra	ti è piaciuta la bici ?	</li>
 <li>	(elle t’a plu la bicyclette ?)</li>
 <li>Mère	racconta un po’ a Sandra della bicicletta.</li>

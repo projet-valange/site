@@ -1,0 +1,10 @@
+<ul style="list-style-type:none">
+<li>MERE	ah et t(u) as pas dit à Martine qu(e) tu savais dire Mad(e)leine !</li>
+<li>MERE quand tu dis « allez Mad(e)leine » !</li>
+<li>MADELEINE	allez Madeleine !</li>
+<li>pho	[ale manɛn]</li>
+<li>OBSERVATRICE	oui !</li>
+<li>MADELEINE	allez Madeleine !</li>
+<li>pho	[ale manɛn]</li>
+<li>MERE	oui !</li>
+</ul>

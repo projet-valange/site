@@ -1,0 +1,13 @@
+<ul style="list-style-type:none">
+<li>MERE	Oh attention xxx.</li>
+<li>	sit	Madeleine est assise par terre sur un tapis. Sa mère est agenouillée</li>
+<li> face à elle et manipule un cube jaune en plastique. Madeleine porte son bras droit vers l’arrière, comme si elle voulait attraper quelque chose.</li>
+<li>MADELEINE	yyy.</li>
+<li>	pho	[ɔm]</li>
+<li>	sit	Madeleine attire l’attention de sa mère en posant sa main droite sur</li>
+<li>le bras gauche de sa mère et en levant brièvement les yeux vers elle. Son geste est coordonné avec sa vocalisation, produite avec une intonation montante. Sa mère réagit immédiatement en levant à son tour les yeux vers Madeleine.</li>
+<li>MADELEINE	yyy.</li>
+<li>	pho	[ɔhe]</li>
+<li>	sit	Madeleine attrape le cube en le regardant et sa mère attrape un</li>
+<li>	cube rose sur le côté droit de Madeleine et le place sous le cube jaune.</li>
+</ul>

@@ -1,0 +1,10 @@
+<ul style="list-style-type:none">
+<li>Confection de biscuits : la maman de Madeleine l’installe debout sur une chaise devant la table.</li>
+<li>MADELEINE	j’suis, très grande, très grande.</li>
+<li>OBSERVATRICE	oh oui !</li>
+<li>MADELEINE	très grande pour je …</li>
+<li>MERE	attention !</li>
+<li>MADELEINE	parce que le plat il est très… le saladier que je vais… là où je vais mettre de la farine et de l'œuf …. euh,	euh, euh moi je vais, je vais, je vais, je vais mettre, où je vais mettre de l'œuf et de la farine….</li>
+<li>MERE	alors d'abord le sucre</li>
+<li>MADELEINE	euh c'est pour ça que j’suis haute, pour pas me…. faut pas que je sois assise parce que sinon suis, sinon j’suis basse…. et, et c'est pour ça…</li>
+</ul>

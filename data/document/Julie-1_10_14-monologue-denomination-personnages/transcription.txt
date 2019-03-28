@@ -1,0 +1,27 @@
+<ul style="list-style-type:none">
+<li>870	*CHI:	yyy .</li>
+<li>871	%pho:	na</li>
+<li>872	*BRO:	xxx .</li>
+<li>873	%act:	BRO range des voitures dans le bac</li>
+<li>874	*CHI:	yyy (.) yyy .</li>
+<li>875	%pho:	m taa</li>
+<li>876	*CHI:	un panda .</li>
+<li>877	%pho:	œ̃̃ pɑ̃da</li>
+<li>878	%act:	CHI sort les figurines de la caisse</li>
+<li>879	*BRO:	zə@fs l' ai tous .</li>
+<li>880	%pho:	zə l e tus</li>
+<li>881	%act:	BRO montre les voitures à MOT</li>
+<li>882	*MOT:	oui .</li>
+<li>883	*CHI:	yyy .</li>
+<li>884	%pho:	kɛl</li>
+<li>885	*CHI:	un yyy .</li>
+<li>886	%pho:	œ̃̃ du</li>
+<li>887	%int:	un/2/</li>
+<li>888	*BRO:	non <i(l) manque quand+même> [/] (.) <i(l) manque quand+même> [/] <i(l) manque quand+même> [//] euh non i(ls) sont pas quatre t(u) as vu elles sont pas yyy +//.</li>
+<li>889	%pho:	nɔ̃ i mɑ̃k kɑ̃mɛm i mɑ̃k kɑ̃mɛm i mɑ̃k kɑ̃mɛm ə nɔ̃ i sɔ̃ pa kat t a vy ɛl sɔ̃ pa ka</li>
+<li>890	%int:	quatre/2/</li>
+<li>891	*BRO:	0 .</li>
+<li>892	%act:	BRO fait rouler ses voitures sur le sol</li>
+<li>893	%com:	bruit de voiture</li>
+<li>894	%sit:	CHI regarde BRO</li>
+</ul>

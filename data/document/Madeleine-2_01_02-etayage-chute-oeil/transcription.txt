@@ -1,0 +1,29 @@
+<ul style="list-style-type:none">
+<li>MERE	tu racontes tout ce qu'i(l) t'est arrivé tous tes malheurs</li>
+<li>OBSERVATEUR	raconte moi tout ça</li>
+<li>MERE	qu'est-ce qu'i(l) s'est p(assé) pour ton œil ?</li>
+<li>OBSERVATEUR	tu es tombée ?</li>
+<li>MADELEINE	là.</li>
+<li>OBSERVATEUR	oui .</li>
+<li>MERE	tu es tombée où ? tu es tombée où Madeleine ?</li>
+<li>OBSERVATEUR	oh, ça va, ça va mieux hein quand même</li>
+<li>MADELEINE	dans l'e(s)calier</li>
+<li>MERE	dans l'escalier oui</li>
+<li>OBSERVATEUR	oh là là là là !</li>
+<li>MERE	et puis après t(u) as eu un problème … dans la bouche</li>
+<li>MERE	hein qu'est-ce qu'i(l) y avait dans la bouche ?</li>
+<li>MADELEINE	[a]f bobo.</li>
+<li>MERE	ho oui.</li>
+<li>MERE	c'était embêtant hein ?</li>
+<li>MADELEINE	c'est embêtant.</li>
+<li>MERE	ça te faisait mal !</li>
+<li>MERE	mais c'est fini ?</li>
+<li>MADELEINE	oui</li>
+<li>MERE	c'est guéri ?</li>
+<li>MADELEINE	oui</li>
+<li>MADELEINE	mon œil [el]f est p(r)e(sque) guéri</li>
+<li>	act	indique, de l'index (main droite), son œil droit.</li>
+<li>MADELEINE	est p(r)esque guér(i)</li>
+<li>MERE	presque</li>
+<li>MERE	presque guéri ton œil.</li>
+</ul>

@@ -1,0 +1,16 @@
+<ul style="list-style-type:none">
+<li>MADELEINE	yy.</li>
+<li>	pho	[da]</li>
+<li>MADELEINE	yy [= ! inspiration]</li>
+<li>	pho	[la]</li>
+<li>	act	Madeleine tient les poignées de son tricycle.</li>
+<li>MADELEINE	maman.</li>
+<li>	pho	[damamɑ̃ː]</li>
+<li>	act	Madeleine regarde OBS.</li>
+<li>MADELEINE	yyy</li>
+<li>	pho	[kɛkplɛla:]	</li>
+<li>	act	CHI pousse le tricycle par le guidon.</li>
+<li>MADELEINE	attends.</li>
+<li>	pho	[atɑ̃ː]</li>
+<li>	act	CHI pousse le tricycle et s'arrête d'un coup.</li>
+</ul>

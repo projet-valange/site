@@ -1,0 +1,15 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="./data/document/Madeleine-0_10_00-premiers_mots-multimodalite/Madeleine-0_10_00-premiers_mots-multimodalite.mp4">Madeleine-0_10_00-premiers_mots-multimodalite.mp4</a> (durée : 12sec)</li>
+<li>Projet : CoLaJE</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Madeleine</li>
+<li>Âge : 0;10.00</li>
+<li>Langue : fr</li>
+<li>Lieu : salon</li>
+<li>Activité : jeu de construction (cubes)</li>
+<li>Thème(s) : premiers mots, multimodalité</li>
+<li>Mot(s)-clé : </li>
+</ul>

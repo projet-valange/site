@@ -1,0 +1,14 @@
+<ul style="list-style-type:none">
+<li>812	*SIS:	+< 0 [=! chantonne].</li>
+<li>813	*SIS:	0 [=! chantonne].</li>
+<li>814	*SIS:	0 [=! chantonne].</li>
+<li>815	*BRO:	+< 0 [=! bruits de voiture].</li>
+<li>816	*CHI:	0 [=! crie de joie].</li>
+<li>817	%act:	CHI fait une geste de poings fermés pour accompagner son cri</li>
+<li>818	*CHI:	xxx [=! sourit].</li>
+<li>819	%com:	ni SIS ni BRO ne prêtent attention à CHI</li>
+<li>820	*SIS:	0 [=! chantonne].</li>
+<li>821	*BRO:	+< xxx .</li>
+<li>822	*CHI:	+< 0 [=! sourit].</li>
+<li>823	%act:	CHI poursuit sa construction en souriant</li>
+</ul>

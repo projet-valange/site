@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>MERE	on va à la maison ?</li>
 <li>	act	Antoine se retourne vers la mère et l’observateur</li>
 <li>OBS	c'est quoi là-bas ?</li>

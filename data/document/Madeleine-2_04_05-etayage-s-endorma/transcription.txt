@@ -1,0 +1,5 @@
+<ul style="list-style-type:none">
+<li>MADELEINE	elle s’endorma</li>
+<li>MERE	elle s’endormit ?</li>
+<li>MADELEINE	elle s’enrdormit</li>
+</ul>

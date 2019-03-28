@@ -1,5 +1,5 @@
 <ul style="list-style-type:none;">
-<li>Fichier : <a href="Antoine_Bil-3_06_21-bilinguisme-avec-con.mp4">Antoine_Bil-3_06_21-bilinguisme-avec-con.mp4</a> (durée : 30sec)</li>
+<li>Fichier : <a href="./data/document/Antoine_Bil-3_06_21-bilinguisme-avec-con/Antoine_Bil-3_06_21-bilinguisme-avec-con.mp4">Antoine_Bil-3_06_21-bilinguisme-avec-con.mp4</a> (durée : 30sec)</li>
 <li>Projet : CoLaJE</li>
 <li>Extrait de la vidéo : [lien Ortolang à venir]</li>
 </ul>
@@ -10,5 +10,6 @@
 <li>Langue : it (fr)</li>
 <li>Lieu : salon</li>
 <li>Activité : </li>
-<li>Thème(s) : bilinguisme, alternance codique, reformulation\</li>n<li>Mot(s)-clé : avec, con papa</li>
+<li>Thème(s) : bilinguisme, alternance codique, reformulation</li>
+<li>Mot(s)-clé : avec, con papa</li>
 </ul>

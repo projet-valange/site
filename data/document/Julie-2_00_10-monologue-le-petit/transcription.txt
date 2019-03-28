@@ -1,0 +1,19 @@
+<ul style="list-style-type:none">
+<li>2408	*CHI:	le petit .</li>
+<li>2409	%pho:	lə pəti</li>
+<li>2410	%act:	CHI regarde dans la pièce</li>
+<li>2411	*BRO:	xx .</li>
+<li>2412	%act:	BRO repart en courant vers la table basse</li>
+<li>2413	*MOT:	+< le petit quoi chérie ?</li>
+<li>2414	*CHI:	yy .</li>
+<li>2415	%pho:	m</li>
+<li>2416	%act:	CHI ramasse une figurine et retourne près de la table basse</li>
+<li>2417	*MOT:	oh c'est quoi ça Julie ?</li>
+<li>2418	*CHI:	zèbre .</li>
+<li>2419	%pho:	zɛb</li>
+<li>2420	*BRO:	+< une jeep ça .</li>
+<li>2421	%pho:	yn zip sa</li>
+<li>2422	%act:	BRO montre la voiture à MOT</li>
+<li>2423	*MOT:	le zèbre oui .</li>
+<li>2424	%com:	MOT reformule</li>
+</ul>

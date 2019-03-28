@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>MERE	tu dis merci ?</li>
 <li>ANAE	non .</li>
 <li>MERE	ben dis+donc !</li>

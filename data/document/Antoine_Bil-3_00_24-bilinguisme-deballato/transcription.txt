@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>Sandra	sìì ? adesso dove sono andati tutti i libri del papà ?</li>
 <li>	(oui, où sont allés tous les livres de papa ?)</li>
 <li>Antoine	xx debalato.</li>

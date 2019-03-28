@@ -1,0 +1,8 @@
+<ul style="list-style-type:none">
+<li>MADELEINE	maman moi j’a qu’à prendre mon appareil photo</li>
+<li>MADELEINE	tu peux aller chercher mon appareil photo ?</li>
+<li>MERE	j(e) crois qu'il est dans la cuisine</li>
+<li>MADELEINE	[ə]f vais aller le chercher</li>
+<li>OBSERVATRICE	allez on va le chercher</li>
+<li>MADELEINE	tu restes ici parce que moi vais aller chercher toute seule mon appareil</li>
+</ul>

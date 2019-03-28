@@ -1,0 +1,15 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="./data/document/Theophile-0_07_03-premiers_mots-rire/Theophile-0_07_03-premiers_mots-rire.mp4">Theophile-0_07_03-premiers_mots-rire.mp4</a> (durée : 12sec)</li>
+<li>Projet : CoLaJE</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Théophile</li>
+<li>Âge : 0;07.03</li>
+<li>Langue : fr</li>
+<li>Lieu : salle de bain</li>
+<li>Activité : soin (bain)</li>
+<li>Thème(s) : premiers mots, interprétation, rire</li>
+<li>Mot(s)-clé : </li>
+</ul>

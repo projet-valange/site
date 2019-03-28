@@ -1,0 +1,15 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="./data/document/Julie-1_06_04-monologue-interiorisation-mouchage/Julie-1_06_04-monologue-interiorisation-mouchage.mp4">Julie-1_06_04-monologue-interiorisation-mouchage.mp4</a> (durée : 1min)</li>
+<li>Projet : Monologue</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Julie</li>
+<li>Âge : 1;06.04</li>
+<li>Langue : fr</li>
+<li>Lieu : salon</li>
+<li>Activité : </li>
+<li>Thème(s) : monologue, intériorisation d'un geste (mouchage), rituel, routine, propreté</li>
+<li>Mot(s)-clé : se moucher</li>
+</ul>

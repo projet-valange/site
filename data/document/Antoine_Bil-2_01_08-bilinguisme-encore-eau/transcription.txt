@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>Daniele lui sert un verre d’eau qu’Antoine commence à boire</li>
 <li>Antoine	encore de l’eau</li>
 <li>Daniele	intanto bevi quella</li>

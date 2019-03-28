@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>La mère ouvre un livre</li>
 <li>ANAE	[mamɛmamɛ̃]</li>
 <li>MERE	c'est qui ?</li>

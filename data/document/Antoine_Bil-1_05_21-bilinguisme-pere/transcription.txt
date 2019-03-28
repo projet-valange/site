@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>Le père lui tend deux petits gobelets en plastique. Antoine les prend, puis les lui rend.</li>
 <li>Père	merci mon chéri !</li>
 <li>Le père les lui tend à nouveau</li>

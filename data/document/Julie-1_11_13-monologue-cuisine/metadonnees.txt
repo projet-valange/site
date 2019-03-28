@@ -1,0 +1,15 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="./data/document/Julie-1_11_13-monologue-cuisine/Julie-1_11_13-monologue-cuisine.mp4">Julie-1_11_13-monologue-cuisine.mp4</a> (durée : 1min30)</li>
+<li>Projet : Monologue</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Julie</li>
+<li>Âge : 1;11.13</li>
+<li>Langue : fr</li>
+<li>Lieu : salon</li>
+<li>Activité : dînette</li>
+<li>Thème(s) : monologue, jeu symbolique, monologue l'action en cours</li>
+<li>Mot(s)-clé : </li>
+</ul>

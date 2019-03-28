@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>MERE	oui c'est à toi mais qu'est-ce-que c'est comme playmobil ?</li>
 <li>ANAE	c'est c'est le docteur [dokətœʁ] des animaux .	Erreur phono+ sém</li>
 <li>	(niveau de langue)</li>

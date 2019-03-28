@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>Sandra	e tutte queste macchinine qua è un regalo nuovo ?</li>
 <li>	(et toutes ces petites voitures c’est un nouveau cadeau ?)</li>
 <li>Antoine	sììì.</li>

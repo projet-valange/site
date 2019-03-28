@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>ANTOINE	tchou tchou.</li>
 <li>	pho	[du duː]</li>
 <li>MERE	tchou tchou.</li>

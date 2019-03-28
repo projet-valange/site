@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>MERE	on avait pris le train.</li>
 <li>ANAE	Anaé [e]f a pris [o]f train.</li>
 <li>	pho	[anae e a pi o tɛ̃]</li>

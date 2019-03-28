@@ -1,5 +1,5 @@
 <ul style="list-style-type:none;">
-<li>Fichier : <a href="Anae-1_09_04-reference_a_soi-assiette.mp4">Anae-1_09_04-reference_a_soi-assiette.mp4</a> (durée : 9sec)</li>
+<li>Fichier : <a href="./data/document/Anae-1_09_04-reference_a_soi-assiette/Anae-1_09_04-reference_a_soi-assiette.mp4">Anae-1_09_04-reference_a_soi-assiette.mp4</a> (durée : 9sec)</li>
 <li>Projet : CoLaJE</li>
 <li>Extrait de la vidéo : [lien Ortolang à venir]</li>
 </ul>
@@ -10,5 +10,6 @@
 <li>Langue : fr</li>
 <li>Lieu : cuisine</li>
 <li>Activité : </li>
-<li>Thème(s) : référence à soi, moi, opposition\</li>n<li>Mot(s)-clé : moi</li>
+<li>Thème(s) : référence à soi, moi, opposition</li>
+<li>Mot(s)-clé : moi</li>
 </ul>

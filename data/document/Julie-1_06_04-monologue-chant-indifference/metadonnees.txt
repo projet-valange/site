@@ -1,0 +1,15 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="./data/document/Julie-1_06_04-monologue-chant-indifference/Julie-1_06_04-monologue-chant-indifference.mp4">Julie-1_06_04-monologue-chant-indifference.mp4</a> (durée : 41sec)</li>
+<li>Projet : Monologue</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Julie</li>
+<li>Âge : 1;06.04</li>
+<li>Langue : fr</li>
+<li>Lieu : salon</li>
+<li>Activité : </li>
+<li>Thème(s) : monologue, indifférence, chant</li>
+<li>Mot(s)-clé : </li>
+</ul>

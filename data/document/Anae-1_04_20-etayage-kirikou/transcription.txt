@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>ANAE	[m]</li>
 <li>	act	tend un jouet vers Kirikou (le nom de la poupée)</li>
 <li>MERE	c'est pour Kirikou ?</li>

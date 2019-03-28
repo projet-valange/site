@@ -1,0 +1,10 @@
+<ul style="list-style-type:none">
+<li>THEO	j(e) vais tout manger la pizza de papa !</li>
+<li>	pho	ʒ ve tu mɑ̃ʒe la pidza də papa</li>
+<li>OBS	mais il va pas grandir papa si tu lui laisses rien à manger .</li>
+<li>THEO	j(e) (l)ui laisse rien à manger rien [/] rien [/] rien !</li>
+<li>	pho	ʒ ɥi les ʁjɛ̃ a mɑ̃ʒe ʁjɛ̃ ʁjɛ̃ ʁjɛ̃</li>
+<li>PERE	0 [=! rit] .</li>
+<li>THEO	comme ça i(l) pourra pas grandir.</li>
+<li>	pho	kom sa i puʁa pa gʁɑ̃diʁ</li>
+</ul>

@@ -1,5 +1,5 @@
 <ul style="list-style-type:none;">
-<li>Fichier : <a href="Antoine_Bil-3_06_21-bilinguisme-avec-le-miei-amici.mp4">Antoine_Bil-3_06_21-bilinguisme-avec-le-miei-amici.mp4</a> (durée : 15sec)</li>
+<li>Fichier : <a href="./data/document/Antoine_Bil-3_06_21-bilinguisme-avec-le-miei-amici/Antoine_Bil-3_06_21-bilinguisme-avec-le-miei-amici.mp4">Antoine_Bil-3_06_21-bilinguisme-avec-le-miei-amici.mp4</a> (durée : 15sec)</li>
 <li>Projet : CoLaJE</li>
 <li>Extrait de la vidéo : [lien Ortolang à venir]</li>
 </ul>
@@ -10,5 +10,6 @@
 <li>Langue : it (fr)</li>
 <li>Lieu : salon</li>
 <li>Activité : </li>
-<li>Thème(s) : bilinguisme, aternance codique,  intraphrastique, reformulation\</li>n<li>Mot(s)-clé : avec le miei amici</li>
+<li>Thème(s) : bilinguisme, aternance codique,  intraphrastique, reformulation</li>
+<li>Mot(s)-clé : avec le miei amici</li>
 </ul>

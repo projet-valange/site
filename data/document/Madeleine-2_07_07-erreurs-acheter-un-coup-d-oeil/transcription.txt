@@ -1,0 +1,29 @@
+<ul style="list-style-type:none">
+<li>MADELEINE	mais veux que Lucas vienne</li>
+<li>MERE	ah tu veux prendre Lucas en photo aussi ?</li>
+<li>MADELEINE	oui</li>
+<li>Observateur	faut l'appeler.</li>
+<li>MERE	mais il est …allé j(e)ter un coup d'oeil puis i(l) va r(e)descendre.</li>
+<li>MADELEINE	j(e) préfère qu' i(l) vienne.</li>
+<li>MADELEINE	j(e) vais aller le…aller voir.</li>
+<li>MADELEINE	j(e) vais aller ach(e)ter un bout d'oeil.</li>
+<li>MERE	acheter un coup d'œil. [Elle rit.]</li>
+<li>	[très bas à Martine]</li>
+<li>MADELEINE	faut que ze prenne mon appareil photo si j(e) veux aller</li>
+<li>	ach(e)ter un coup d'oeil.</li>
+<li>MERE	c'est JETER un coup d'oeil.</li>
+<li>MADELEINE	moi j(e) vais aller jeter un coup d'oeil.</li>
+<li>	act	Madeleine prend son appareil et monte à l'étage</li>
+<li>MERE	entendu.</li>
+<li>MADELEINE	parce que moi, parce que moi z’ai des yeux.</li>
+<li>	act	Elle montre ses deux yeux l’un après l’autre avec son index droit.</li>
+<li>MERE	bah oui.</li>
+<li>MADELEINE	c'est pour ça que z’ vais aller chercher euh +….</li>
+<li>MADELEINE	c'est pour ça que j(e) vais…que j(e) vais aller chercher</li>
+<li>	un coup d'oeil.</li>
+<li>	act	Madeleine commence à monter les escaliers.</li>
+<li>MADELEINE	moi vais aller jeter un coup d'oeil.</li>
+<li>Observateur	très bien.</li>
+<li>MADELEINE	parce que moi z‘ai mon appareil photo et va aller jeter</li>
+<li>	un, un coup d'oeil.</li>
+</ul>

@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>ANAE	oh !</li>
 <li>	act	pose une pièce du puzzle dans le bon emplacement</li>
 <li>ANAE	app(u)ie !</li>

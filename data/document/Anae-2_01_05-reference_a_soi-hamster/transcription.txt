@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>act	Anaé et sa mère jouent à un jeu de loto</li>
 <li>MERE	ça c'est un hamster … comme Léa</li>
 <li>act	montre une image de l'index</li>

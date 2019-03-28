@@ -1,0 +1,28 @@
+<ul style="list-style-type:none">
+<li>THEOPHILE	vroum vroum</li>
+<li>	pho	[œ vʁuvʁu]</li>
+<li>act	Théophile pointe vers son petit camion, hors camera, main ouverte</li>
+<li>MERE	tu veux ta vroum-vroum oui</li>
+<li>THEOPHILE	papa papa !</li>
+<li>	pho	[pupwa epupwœː]</li>
+<li>MERE	on va aller voir papa !</li>
+<li>THEOPHILE	(râle)</li>
+<li>	xpnt	Théophile montre son petit camion, toujours hors camera</li>
+<li>MERE	c'est presque fini Théophile</li>
+<li>THEOPHILE vroum vroum</li>
+<li>	pho	[vʁuvʁum]</li>
+<li>	xpnt	cherche à atteindre son petit camion hors camera</li>
+<li>MERE	mais (il) y a plein de boutons</li>
+<li>THEOPHILE	vroum vroum</li>
+<li>	pho	[vʁuvʁum]</li>
+<li>MERE	attend</li>
+<li>THEOPHILE (l)e vroum</li>
+<li>	pho	[œ vabʁum]</li>
+<li>THEOPHILE	vroum !</li>
+<li>	pho	[vʁuːm]</li>
+<li>THEOPHILE	vroum</li>
+<li>	pho	[vʁuːm]</li>
+<li>THEOPHILE:	vroum vroum</li>
+<li>	pho	[vʁuvʁuːm]</li>
+<li>MERE:	oui</li>
+</ul>

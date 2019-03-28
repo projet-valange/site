@@ -1,0 +1,15 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="./data/document/Madeleine-1_04_18-premiers_mots-vroum/Madeleine-1_04_18-premiers_mots-vroum.mp4">Madeleine-1_04_18-premiers_mots-vroum.mp4</a> (durée : 17sec)</li>
+<li>Projet : CoLaJE</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Madeleine</li>
+<li>Âge : 1;04.18</li>
+<li>Langue : fr</li>
+<li>Lieu : jardin</li>
+<li>Activité : jeu en extérieur (vélo)</li>
+<li>Thème(s) : premiers mots, onomatopée, réferentialité, reprise par la mère, mouvement</li>
+<li>Mot(s)-clé : vroum</li>
+</ul>

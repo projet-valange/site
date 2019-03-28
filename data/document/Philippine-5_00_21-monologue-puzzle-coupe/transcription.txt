@@ -1,0 +1,18 @@
+<ul style="list-style-type:none">
+<li>74	*CHI:	bord [/] bord [/] bord .</li>
+<li>75	%act:	CHI place un bord du puzzle puis une autre pièce qu'elle retire,</li>
+<li>76	elle semble chercher un autre bord</li>
+<li>77	%mon:	CHI commente pour elle-même la stratégie de réalisation du puzzle</li>
+<li>78	(elle avait expliqué plus tôt à sa mère qu’on commence par les bords)</li>
+<li>79	*CHI:	bord .</li>
+<li>80	*CHI:	0 .</li>
+<li>81	*CHI:	0 .</li>
+<li>82	%act:	CHI place une pièce, regarde le puzzle et semble réfléchir</li>
+<li>83	*CHI:	0 .</li>
+<li>84	%act:	CHI essaie d'assembler plusieurs pièces sur le puzzle</li>
+<li>85	*CHI:	trompé !</li>
+<li>86	%mon:	CHI verbalise pour elle même à haute voix son erreur</li>
+<li>87	*CHI:	0 .</li>
+<li>88	%act:	CHI essaie d'assembler des pièces entre elles, semble réfléchir puis</li>
+<li>89	assemble une pièce au puzzle</li>
+</ul>

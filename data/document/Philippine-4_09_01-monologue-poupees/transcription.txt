@@ -1,0 +1,65 @@
+<ul style="list-style-type:none">
+<li>111	*CHI:	euh Arielle .</li>
+<li>112	%mon:	CHI appelle sa poupée</li>
+<li>113	*CHI:	tu n(e) viens pas avec moi ?</li>
+<li>114	*CHI:	oh .</li>
+<li>115	%com:	un accessoire de la chaussure en tombe; CHI passe dans le champ de la caméra</li>
+<li>116	*CHI:	i(l) n(e) faut pas trop appuyer .</li>
+<li>117	%mon:	CHI se parle à elle même et plus à sa poupée</li>
+<li>118	*CHI:	j(e) vais remettre là .</li>
+<li>119	*CHI:	0 [=! petit bruit d'effort].</li>
+<li>120	%act:	CHI est accroupie pour remettre l'accessoire sur la chaussure</li>
+<li>121	*CHI:	oh y a quelques jours i(l) n' était pas enlevé .</li>
+<li>122	%mon:	monologue</li>
+<li>123	*CHI:	i(l) n(e) s' était pas enlevé .</li>
+<li>124	%mon:	CHI s'autocorrige dans son monologue alors qu'on pourrait penser qu'elle s'est comprise elle même dès la première formulation</li>
+<li>125	*CHI:	0 [=! petits bruits d'efforts].</li>
+<li>126	*CHI:	voilà .</li>
+<li>127	*CHI:	0 .</li>
+<li>128	%act:	CHI se relève</li>
+<li>129	*CHI:	Arielle .</li>
+<li>130	%mon:	CHI parle à sa poupée</li>
+<li>131	*CHI:	tu n(e) veux pas venir avec moi ?</li>
+<li>132	*CHI:	viens .</li>
+<li>133	*CHI:	on descend nous deux .</li>
+<li>134	%act:	CHI prend sa poupée</li>
+<li>135	*CHI:	Arielle .</li>
+<li>136	%act:	CHI regarde la poupée avant de s'adresser à elle</li>
+<li>137	*CHI:	tu penses que une vieille princesse pourrait être comme ça ?</li>
+<li>138	%com:	CHI passe hors champ caméra</li>
+<li>139	*CHI:	0 [=! petit rire].</li>
+<li>140	*CHI:	maintenant on est toutes les deux Arielle .</li>
+<li>141	*CHI:	on pourra s' en servir quand on veut .</li>
+<li>142	*CHI:	Arielle .</li>
+<li>143	*CHI:	peut être qu' i(ls) s' imaginent xxx mais rien ne pourra nous arrêter .</li>
+<li>144	*CHI:	sauf si je trouve un diadème (.) ça sera mieux .</li>
+<li>145	*CHI:	plus tard oh Camille .</li>
+<li>146	%com:	Camille est le nom d'une autre poupée</li>
+<li>147	*CHI:	attends Arielle .</li>
+<li>148	%mon:	CHI parle toujours à sa poupée</li>
+<li>149	*CHI:	je vais te prendre et Camille .</li>
+<li>150	*CHI:	peut être Camille sera encore un p(e)tit peu plus xxx .</li>
+<li>151	*CHI:	Camille attends .</li>
+<li>152	%com:	CHI semble toujours parler avec Arielle mais se trompe et dit Camille</li>
+<li>153	%act:	CHI va chercher la poupée</li>
+<li>154	*CHI:	je vais prendre ta meilleure copine .</li>
+<li>155	*CHI:	tiens .</li>
+<li>156	*CHI:	comme ça vous serez toutes les deux .</li>
+<li>157	%act:	CHI porte les deux poupées</li>
+<li>158	*CHI:	Camille regarde j' ai pris ta meilleure copine .</li>
+<li>159	%mon:	CHI parle à la poupée</li>
+<li>160	*CHI:	elle est là .</li>
+<li>161	%com:	CHI passe hors champ caméra</li>
+<li>162	*CHI:	c'est Arielle .</li>
+<li>163	*CHI:	xxx .</li>
+<li>164	*CHI:	oh oui .</li>
+<li>165	*CHI:	Camille je suis encore ravie de te rencontrer .</li>
+<li>166	%mon:	CHI fait parler les poupées entre elle; monologue ?</li>
+<li>167	*CHI:	je n(e) t' ai jamais vue encore .</li>
+<li>168	*CHI:	ça fait longtemps que je n(e) t' avais plus vue .</li>
+<li>169	*CHI:	moi aussi .</li>
+<li>170	%mon:	CHI fait parler les poupées entre elle; monologue ?</li>
+<li>171	%act:	CHI quitte la pièce</li>
+<li>172	*CHI:	xxx .</li>
+<li>173	%com:	on entend CHI parler au loin, elle est toujours dans son monologue</li>
+</ul>

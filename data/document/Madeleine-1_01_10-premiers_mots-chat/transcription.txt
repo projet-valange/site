@@ -1,0 +1,14 @@
+<ul style="list-style-type:none">
+<li>OBS	là tu attaques le plastique Madeleine!</li>
+<li>	sit	la mère de Madeleine est en train de lui donner un yaourt</li>
+<li>MADELEINE	chat !</li>
+<li>	xpt	show la fenêtre de l’index</li>
+<li>MERE	t(u) as vu un chat ?</li>
+<li>MERE	mais non.</li>
+<li>MERE	mais non y en a pas là.</li>
+<li>MADELEINE	yyy !</li>
+<li>	pho	[aja]</li>
+<li>	xpt	CHI garde le doigt pointé vers la fenêtre</li>
+<li>MADELEINE chat!</li>
+<li>MERE	oui on en voit souvent mais là y en a pas.</li>
+</ul>

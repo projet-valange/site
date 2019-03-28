@@ -1,0 +1,19 @@
+<li>MADELEINE	si elle était chaude la neige ?</li>
+<li>	pho	[si ɛl ete ʃod la nɛʒ]</li>
+<li>MERE	hum [/] hum .</li>
+<li>MADELEINE	si elle était euh brûlante hein !</li>
+<li>	pho	[si ɛl ete əːː bʁylɑ̃t ʁy]</li>
+<li>MERE	hum !</li>
+<li>MADELEINE	ça f(e)rait brûlant .</li>
+<li>	pho	[sa fʁɛ bʁylɑ̃]</li>
+<li>	sit	MADELEINE fait un bruit de bouche</li>
+<li>MERE	+< tu crois qu(e) c'est possible ça ?</li>
+<li>MADELEINE	pff@i mais +….</li>
+<li>	pho	[pf me]</li>
+<li>MADELEINE	+, si on mettait du lait yy chaud dedans .</li>
+<li>	pho	[si ɔ̃ metɛ dy lɛ a ʃo dədɑ̃]</li>
+<li>MERE	du lait chaud dans la neige ?</li>
+<li>MERE	tu crois qu(e) ça ferait d(e) la neige chaude ?</li>
+<li>MADELEINE	0 .</li>
+<li>	sit	rire de MADELEINE</li>
+</ul>

@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>Antoine vient de terminer les pâtes que sa nounou lui a servies. Aliyah filme la scène</li>
 <li>Nounou	bravo Antoine bravo!</li>
 <li>Antoine	avo!	(en rigolant)	</li>

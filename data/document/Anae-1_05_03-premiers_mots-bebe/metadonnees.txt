@@ -1,5 +1,5 @@
 <ul style="list-style-type:none;">
-<li>Fichier : <a href="Anae-1_05_03-premiers_mots-bebe.mp4">Anae-1_05_03-premiers_mots-bebe.mp4</a> (durée : 1min50)</li>
+<li>Fichier : <a href="./data/document/Anae-1_05_03-premiers_mots-bebe/Anae-1_05_03-premiers_mots-bebe.mp4">Anae-1_05_03-premiers_mots-bebe.mp4</a> (durée : 1min50)</li>
 <li>Projet : CoLaJE</li>
 <li>Extrait de la vidéo : [lien Ortolang à venir]</li>
 </ul>
@@ -10,5 +10,6 @@
 <li>Langue : fr</li>
 <li>Lieu : salon</li>
 <li>Activité : poupée</li>
-<li>Thème(s) : premiers mots, monologue en présence d'autrui, commente ce qu'elle fait (et projet?)\</li>n<li>Mot(s)-clé : bébé</li>
+<li>Thème(s) : premiers mots, monologue en présence d'autrui, commente ce qu'elle fait (et projet?)</li>
+<li>Mot(s)-clé : bébé</li>
 </ul>

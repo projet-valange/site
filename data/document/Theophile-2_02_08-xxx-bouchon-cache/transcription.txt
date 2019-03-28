@@ -1,0 +1,24 @@
+<ul style="list-style-type:none">
+<li>MERE	où est-ce qu'il est passé le petit capuchon ?</li>
+<li>MERE	bah capuchon où es-tu ?</li>
+<li>act	Théophile regarde dans une boite</li>
+<li> MERE	ces stylos ? il faut vraiment que je prenne une réserve</li>
+<li>THEOPHILE	yyy</li>
+<li>	pho	[agɔːagoː]</li>
+<li>	act	Théophile montre l'intérieur de la boite</li>
+<li>MERE	ah il est là !</li>
+<li>MERE	qu' est-ce qu'on en a fait Théophile du capuchon tu sais ?</li>
+<li>MERE	hum.</li>
+<li>THEOPHILE	ah ah</li>
+<li>pho	[aː aː]</li>
+<li>	act	CHI pose un autre faux capuchon sur le feutre</li>
+<li>MERE	oh joli un autre il est mieux c(el)ui-là t'as raison t'as raison très bonne idée</li>
+<li>	xpnt	show le capuchon de l'index</li>
+<li>MERE	mais le petit (.) ah …</li>
+<li>	act	la mère cherche le bouchon du feutre quand Théophile lui touche la tête avec le feutre</li>
+<li>THEOPHILE	ta tête !</li>
+<li>	pho	[ta tɛt]</li>
+<li>MERE	oh oh !</li>
+<li>Rire de Théophile</li>
+<li>Rire de la mère</li>
+</ul>

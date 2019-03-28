@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>MERE	qu'est+ce+que c'est ça ?</li>
 <li>	act	MERE montre une photo à ANAE</li>
 <li>ANAE	0 [=! bruit d'étonnement] .</li>

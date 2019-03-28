@@ -1,0 +1,9 @@
+<ul style="list-style-type:none">
+<li>1986	*MOT:	toi tu sais descendre de la voiture comme un grand .</li>
+<li>1987	*MOT:	c'est bien ça .</li>
+<li>1988	*CHI:	yy .</li>
+<li>1989	%pho:	yː</li>
+<li>1990	%com:	CHI semble imiter le bruit de la tondeuse</li>
+<li>1991	*CHI:	0 .</li>
+<li>1992	%act:	CHI pousse la tondeuse dans le jardin</li>
+</ul>

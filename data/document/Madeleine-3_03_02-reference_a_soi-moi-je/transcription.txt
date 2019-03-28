@@ -1,0 +1,16 @@
+<ul style="list-style-type:none">
+<li>Madeleine était en train de jouer au rez-de-chaussée. Elle exprime alors son désir de changer de jeu et se dirige vers les escaliers qui conduisent dans sa chambre.</li>
+<li>MADELEINE	mais moi je veux faire un jeu</li>
+<li>MERE	un autre jeu alors</li>
+<li>OBSERVATRICE	un aut(re) jeu</li>
+<li>MADELEINE	oui</li>
+<li>OBSERVATRICE	hum t(u) en as plein !</li>
+<li>OBSERVATRICE	des jeux</li>
+<li>MADELEINE	mais en haut xxx</li>
+<li>	act	Madeleine recommence à monter les escaliers</li>
+<li>OBSERVATRICE	d'accord</li>
+<li>MADELEINE	non pa(r)ce que moi …</li>
+<li>MADELEINE	mais tu sais maintenant je suis une grande je tiens la rampe</li>
+<li>OBSERVATRICE	oui .</li>
+<li>MADELEINE	moi je tiens pas les barreaux</li>
+</ul>

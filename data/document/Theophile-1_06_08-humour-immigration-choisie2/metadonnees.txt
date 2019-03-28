@@ -1,0 +1,15 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="./data/document/Theophile-1_06_08-humour-immigration-choisie2/Theophile-1_06_08-humour-immigration-choisie2.mp4">Theophile-1_06_08-humour-immigration-choisie2.mp4</a> (durée : 26sec)</li>
+<li>Projet : CoLaJE</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Théophile</li>
+<li>Âge : 1;06.08</li>
+<li>Langue : fr</li>
+<li>Lieu : cuisine</li>
+<li>Activité : repas</li>
+<li>Thème(s) : humour, connivence</li>
+<li>Mot(s)-clé : saucisse, immigration </li>
+</ul>

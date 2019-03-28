@@ -1,0 +1,10 @@
+<ul style="list-style-type:none">
+<li>MADELEINE	yy Pou(l)po .</li>
+<li>pho	[pu pupo]</li>
+<li>act	MADELEINE se lève et part avec le repose-pieds .</li>
+<li>MERE	oui (.) tu vas où là ?</li>
+<li>MADELEINE	porte Pou(l)po .</li>
+<li>pho	[pɔt pupo]</li>
+<li>mod	[pɔʁt pulpɔ]</li>
+<li>int	pɔt=porte/2/</li>
+</ul>

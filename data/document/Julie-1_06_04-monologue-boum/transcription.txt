@@ -1,0 +1,63 @@
+<ul style="list-style-type:none">
+<li>2523	*MOT:	boum .</li>
+<li>2524	%sit:	CHI avance avec son chariot puis chute avec son chariot</li>
+<li>2525	*MOT:	boum .</li>
+<li>2526	%sit:	CHI essaie de relever son chariot mais il lui échappe des mains</li>
+<li>2527	*BRO:	moi zə@fs xx le volant comme xx .</li>
+<li>2528	%pho:	mwa zə X lə vɔlɑ̃ kɔm X</li>
+<li>2529	%sit:	CHI relève son chariot le laisse et s'éloigne</li>
+<li>2530	*CHI:	+< yy yy .</li>
+<li>2531	%pho:	vu vu</li>
+<li>2532	%act:	CHI frappe des mains</li>
+<li>2533	*BRO:	ça coûte de l' argent .</li>
+<li>2534	%pho:	sa kut də l aʁzɑ̃</li>
+<li>2535	%sit:	CHI prend un livre d'images</li>
+<li>2536	*CHI:	meuh@o .</li>
+<li>2537	%pho:	mœm</li>
+<li>2538	%act:	CHI ouvre le livre</li>
+<li>2539	*MOT:	qu' est+ce+qui coûte de l' argent ?</li>
+<li>2540	*CHI:	meuh@o .</li>
+<li>2541	%pho:	møhː</li>
+<li>2542	*BRO:	+< xx .</li>
+<li>2543	*MOT:	ouh+la .</li>
+<li>2544	%sit:	CHI marche et perd un peu l'équilibre</li>
+<li>2545	*CHI:	meuh@o .</li>
+<li>2546	%pho:	møːø</li>
+<li>2547	%act:	CHI se dirige vers MOT en tenant le livre</li>
+<li>2548	*CHI:	meuh@o .</li>
+<li>2549	%pho:	møː</li>
+<li>2550	*MOT:	meuh@o ?</li>
+<li>2551	*CHI:	+< meuh@o .</li>
+<li>2552	%pho:	møː</li>
+<li>2553	%act:	CHI regarde le livre</li>
+<li>2554	*MOT:	mais c' [/] c'est une girafe à+nouveau .</li>
+<li>2555	*CHI:	meuh@o .</li>
+<li>2556	%pho:	møhø</li>
+<li>2557	*MOT:	la girafe elle fait meuh@o ?</li>
+<li>2558	%sit:	CHI regarde MOT</li>
+<li>2559	*CHI:	meuh@o .</li>
+<li>2560	%pho:	møøː</li>
+<li>2561	*BRO:	ah des xxx .</li>
+<li>2562	%pho:	a de X</li>
+<li>2563	%act:	BRO ramasse des cubes</li>
+<li>2564	%sit:	CHI se dirige vers MOT et lui tend le livre .</li>
+<li>2565	*CHI:	+< xxx .</li>
+<li>2566	%act:	CHI tend le livre vers MOT</li>
+<li>2567	*MOT:	la girafe .</li>
+<li>2568	%act:	MOT caresse la tête de CHI</li>
+<li>2569	*CHI:	xx .</li>
+<li>2570	%sit:	CHI se penche pour attraper le fil de la caméra</li>
+<li>2571	*CHI:	oh yyy .</li>
+<li>2572	%pho:	o tutututututu</li>
+<li>2573	%act:	CHI secoue le fil de la caméra</li>
+<li>2574	*BRO:	xxx de là (.) attends .</li>
+<li>2575	%pho:	X də la atɑ̃</li>
+<li>2576	*BRO:	xxx on fait doucement moi .</li>
+<li>2577	%pho:	X ɔ̃ fɛ dɔsømɑ̃ mwa</li>
+<li>2578	%com:	doute sur cette phrase</li>
+<li>2579	*CHI:	yy .</li>
+<li>2580	%pho:	ma</li>
+<li>2581	%sit:	CHI pose le livre</li>
+<li>2582	*CHI:	yy .</li>
+<li>2583	%pho:	mɑ̃</li>
+</ul>

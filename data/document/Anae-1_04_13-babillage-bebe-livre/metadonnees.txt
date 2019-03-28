@@ -1,5 +1,5 @@
 <ul style="list-style-type:none;">
-<li>Fichier : <a href="Anae-1_04_13-babillage-bebe-livre.mp4">Anae-1_04_13-babillage-bebe-livre.mp4</a> (durée : 1min16)</li>
+<li>Fichier : <a href="./data/document/Anae-1_04_13-babillage-bebe-livre/Anae-1_04_13-babillage-bebe-livre.mp4">Anae-1_04_13-babillage-bebe-livre.mp4</a> (durée : 1min16)</li>
 <li>Projet : CoLaJE</li>
 <li>Extrait de la vidéo : [lien Ortolang à venir]</li>
 </ul>
@@ -10,5 +10,6 @@
 <li>Langue : fr</li>
 <li>Lieu : cuisine</li>
 <li>Activité : livre, poupée</li>
-<li>Thème(s) : babillage, dialogue avec une poupée, lecture pour elle-même ou pour la poupée, monologue, dia/ interpellation face à difficulté \</li>n<li>Mot(s)-clé : bébé </li>
+<li>Thème(s) : babillage, dialogue avec une poupée, lecture pour elle-même ou pour la poupée, monologue, dia/ interpellation face à difficulté </li>
+<li>Mot(s)-clé : bébé </li>
 </ul>

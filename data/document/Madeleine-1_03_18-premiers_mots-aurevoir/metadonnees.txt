@@ -1,0 +1,15 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="./data/document/Madeleine-1_03_18-premiers_mots-aurevoir/Madeleine-1_03_18-premiers_mots-aurevoir.mp4">Madeleine-1_03_18-premiers_mots-aurevoir.mp4</a> (durée : 18sec)</li>
+<li>Projet : CoLaJE</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Madeleine</li>
+<li>Âge : 1;03.18</li>
+<li>Langue : fr</li>
+<li>Lieu : extérieur</li>
+<li>Activité : </li>
+<li>Thème(s) : premiers mots, proto-mot, multimodalité, geste symbolique</li>
+<li>Mot(s)-clé : au revoir</li>
+</ul>

@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>Anaé 1;05.18 à 27min02s</li>
 <li>act	Anaé est en train de jouer avec une poupée</li>
 <li>MERE	Anaé qui est-ce qui a fait caca ?</li>

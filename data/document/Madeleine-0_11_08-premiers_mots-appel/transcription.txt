@@ -1,0 +1,23 @@
+<ul style="list-style-type:none">
+<li>MADELEINE	yyy.</li>
+<li>	pho	[bɔga]</li>
+<li>sit	rampe en direction de l'escalier, car la mère est partie au 1er étage	lui chercher un jouet</li>
+<li>MERE	au revoir.</li>
+<li>MERE	au revoir, tu me dis au revoir ?</li>
+<li>MADELEINE	yyy.</li>
+<li>	pho	[a]</li>
+<li>sit	Madeleine s’appuie sur la première marche de l’escalier, immobile,</li>
+<li>	la tête tendue dans la direction de sa mère</li>
+<li>MERE	au revoir Madeleine.</li>
+<li>MERE	je reviens hein.</li>
+<li>MADELEINE	yyy.</li>
+<li>	pho	[baba]</li>
+<li>	sit	Madeleine appelle sa mère en regardant dans la direction où</li>
+<li>	elle se trouve</li>
+<li>MERE	oui!</li>
+<li>MADELEINE	yyy.</li>
+<li>	pho	[bɛba]</li>
+<li>	sit	Madeleine regarde dans la direction de l’observatrice</li>
+<li>OBS	où elle est maman ?</li>
+<li>OBS	maman elle est partie ?</li>
+</ul>

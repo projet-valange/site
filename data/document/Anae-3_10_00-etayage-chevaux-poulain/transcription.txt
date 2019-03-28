@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>MERE	non on l'a dit le bébé du cheval c'est le… ?</li>
 <li>ANAE	chevaux ?</li>
 <li>MERE	poulain ! c'est le poulain !</li>

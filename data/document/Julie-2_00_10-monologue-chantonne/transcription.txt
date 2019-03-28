@@ -1,0 +1,18 @@
+<ul style="list-style-type:none">
+<li>631	*CHI:	ça .</li>
+<li>632	%pho:	sa</li>
+<li>633	*BRO:	yy on va jouer .</li>
+<li>634	%pho:	dɛ ɔ̃ va zue</li>
+<li>635	*CHI:	+< yy ça yy .</li>
+<li>636	%pho:	ae sa ae</li>
+<li>637	*CHI:	yy ça yy ça .</li>
+<li>638	%pho:	ae sa ae sa</li>
+<li>639	*BRO:	on va jouer .</li>
+<li>640	%pho:	ɔ̃ va zue</li>
+<li>641	*MOT:	bien+sûr tu peux faire c(e)+que tu veux hein loulou .</li>
+<li>642	%sit:	CHI ramasse la poupée et le petit pot par terre</li>
+<li>643	*BRO:	mais i(l) faut jouer encore xxx encore les jouets .</li>
+<li>644	%pho:	mɛ i fo zue ɑ̃kɔʁ X ɑ̃kɔʁ lɛ zuɛ</li>
+<li>645	*CHI:	+< 0 [=! chantonne] .</li>
+<li>646	%act:	CHI avance en direction de BRO</li>
+</ul>

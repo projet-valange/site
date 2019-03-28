@@ -1,0 +1,10 @@
+<ul style="list-style-type:none">
+<li>1784	*CHI:	yy .</li>
+<li>1785	%pho:	ba</li>
+<li>1786	%act:	CHI mange un raisin</li>
+<li>1787	%sit:	BAB quitte la pièce</li>
+<li>1788	*CHI:	elle est tout sale .</li>
+<li>1789	%pho:	ɛl ɛ tu sal</li>
+<li>1790	*CHI:	elle est tout sale .</li>
+<li>1791	%pho:	ɛl ɛ tu sal</li>
+</ul>

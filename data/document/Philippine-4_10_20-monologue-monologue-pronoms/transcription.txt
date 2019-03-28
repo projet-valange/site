@@ -1,0 +1,45 @@
+<ul style="list-style-type:none">
+<li>330	*CHI:	0 [=! sourit] [=! mimique] même Julie va voir que c'est magnifique .</li>
+<li>331	%int:	voir/2/-croire/2/</li>
+<li>332	%mon:	CHI commente pour elle même la réaction qu'elle imagine de sa soeur; intéressant de constater sourire et mimique en monologue</li>
+<li>333	*CHI:	xxx .</li>
+<li>334	%act:	CHI essaie de fermer son marqueur</li>
+<li>335	*CHI:	ouais .</li>
+<li>336	%mon:	CHI semble initier un dialogue en monologue en parlant pour les deux personnes</li>
+<li>337	*CHI:	j' ai compris .	</li>
+<li>338	*CHI:	xxx .</li>
+<li>339	*CHI:	très très très moche .</li>
+<li>340	*CHI:	mais +….</li>
+<li>341	%act:	CHI prend un marqueur</li>
+<li>342	*CHI:	avec ces cachets .</li>
+<li>343	%act:	CHI ouvre le marqueur avec les dents</li>
+<li>344	*CHI:	+, j(e) pourrai l(e) faire .</li>
+<li>345	*CHI:	comme c'est beau hein ?</li>
+<li>346	%act:	CHI reprend son dessin</li>
+<li>347	*CHI:	oh non .</li>
+<li>348	*CHI:	xxx .</li>
+<li>349	*CHI:	t(u) avais dit qu(e) c'est pas beau .</li>
+<li>350	%mon:	CHI, dans un monologue puisque seule dans la pièce, semble s'adresser à quelqu'un d'imaginaire, jouer ou rejouer un dialogue</li>
+<li>351	*CHI:	je n' aurai jamais une plus belle feuille xxx .</li>
+<li>352	*CHI:	c'est un oiseau .</li>
+<li>353	%com:	doute sur cet énoncé</li>
+<li>354	*CHI:	je suis son papa .</li>
+<li>355	*CHI:	vous devez dire qu' il est très beau .</li>
+<li>356	%com:	CHI utilise "vous" signe qu'elle semble s'adresser à quelqu'un dans ce dialogue imaginaire</li>
+<li>357	*CHI:	bon elle fait ça pour sa cabane magnifique .</li>
+<li>358	%com:	CHI semble parler d'elle même à la 3ème personne "elle" puisque le dessin de la cabane est le projet qu'elle est en train de mener</li>
+<li>359	*CHI:	oui mon papa a raison .</li>
+<li>360	%mon:	CHI semble jouer un dialogue en monologue</li>
+<li>361	%com:	il faut préciser que le père de CHI est absent pour raison professionnelle à ce moment d'où peut être la référence au "papa" dans ce dialogue imaginaire</li>
+<li>362	%act:	CHI regarde vers l'armoire</li>
+<li>363	*CHI:	sabre .</li>
+<li>364	%act:	CHI a vu son sabre dans l'armoire rangé par MOT juste avant</li>
+<li>365	*CHI:	sabre .</li>
+<li>366	%act:	CHI reprend son sabre dans l' armoire</li>
+<li>367	*CHI:	on range pas .</li>
+<li>368	%mon:	CHI signifie dans son monologue qu'elle ne souhaitait pas que MOT range son sabre</li>
+<li>369	*CHI:	reste avec moi .</li>
+<li>370	%com:	CHI s'adresse t elle à son sabre qu'elle veut garder ou à MOT qui a quitté la pièce et alors qu'on sait qu'elle n'apprécie pas de jouer et rester seule</li>
+<li>371	*CHI:	hum .</li>
+<li>372	*CHI:	non il n' en est pas question .</li>
+</ul>

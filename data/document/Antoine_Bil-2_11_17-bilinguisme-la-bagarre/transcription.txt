@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>Antoine 2;11 IT</li>
 <li>Antoine	e qui fanno la bagarre</li>
 <li>	(et ici ils font la bagarre)</li>

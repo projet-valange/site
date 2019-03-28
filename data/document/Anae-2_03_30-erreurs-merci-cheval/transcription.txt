@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>AEL	tiens .</li>
 <li>	act	AEL tend un autre cheval à Anaé.</li>
 <li>MERE	oh il est joli celui-là !</li>

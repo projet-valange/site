@@ -1,5 +1,5 @@
 <ul style="list-style-type:none;">
-<li>Fichier : <a href="Anae-1_08_04-babillage-puzzle.mp4">Anae-1_08_04-babillage-puzzle.mp4</a> (durée : 4min30)</li>
+<li>Fichier : <a href="./data/document/Anae-1_08_04-babillage-puzzle/Anae-1_08_04-babillage-puzzle.mp4">Anae-1_08_04-babillage-puzzle.mp4</a> (durée : 4min30)</li>
 <li>Projet : CoLaJE</li>
 <li>Extrait de la vidéo : [lien Ortolang à venir]</li>
 </ul>
@@ -10,5 +10,6 @@
 <li>Langue : fr</li>
 <li>Lieu : cuisine</li>
 <li>Activité : jeu de construction (puzzle)</li>
-<li>Thème(s) : babillage, frontière difficile entre mono et dia, monologue (commente ce qu'elle fait) \</li>n<li>Mot(s)-clé : </li>
+<li>Thème(s) : babillage, frontière difficile entre mono et dia, monologue (commente ce qu'elle fait) </li>
+<li>Mot(s)-clé : </li>
 </ul>

@@ -1,0 +1,15 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="./data/document/Julie-2_00_10-monologue-le-petit/Julie-2_00_10-monologue-le-petit.mp4">Julie-2_00_10-monologue-le-petit.mp4</a> (durée : 30sec)</li>
+<li>Projet : Monologue</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Julie</li>
+<li>Âge : 2;00.10</li>
+<li>Langue : fr</li>
+<li>Lieu : salon</li>
+<li>Activité : figurines</li>
+<li>Thème(s) : monologue, commentaire monologique, recherche</li>
+<li>Mot(s)-clé : le petit</li>
+</ul>

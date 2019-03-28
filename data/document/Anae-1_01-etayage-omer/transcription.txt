@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>MERE	tu l’appelles le chien ?</li>
 <li>ANAE	[be ʃə ja]</li>
 <li>MERE	il est où Omer ?</li>

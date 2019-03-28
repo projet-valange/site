@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>	act	ANAE balaye la table d'une main, pour jeter les papiers par terre</li>
 <li>MERE	ah ben non pas par-terre !</li>
 <li>ANAE	non !</li>

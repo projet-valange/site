@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>MERE	ah mais y a pas de vaches dans cette ferme !</li>
 <li>ANAE	bah non ! les vaches elles ont disparu !</li>
 <li>ANAE	en en fait on disait que les vaches elles sontaient derrière !</li>

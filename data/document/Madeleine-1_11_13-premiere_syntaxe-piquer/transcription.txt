@@ -1,0 +1,27 @@
+<ul style="list-style-type:none">
+<li>Madeleine est assise sur sa chaise haute et mange des morceaux de jambon. Sa mère vient de lui expliquer comment mieux piquer les morceaux avec sa fourchette pour ne pas qu’ils tombent.</li>
+<li>MERE	voilà tu vois comme ça ça tient mieux.</li>
+<li>MADELEINE	ça [//] ça tient mieux</li>
+<li>MERE	oui.</li>
+<li>MERE	ça risque moins d(e) tomber entre l'assiette et la bouche.</li>
+<li>MERE	c'est bon ?</li>
+<li>MADELEINE	euh oui non [signe non de la tête].</li>
+<li>MERE	oui ? non ?</li>
+<li>MERE	ah bon !</li>
+<li>MADELEINE	on met là ?</li>
+<li>MADELEINE	pi(que) [/] piquer ?</li>
+<li>MERE	oui faut piquer.</li>
+<li>MERE	regarde c'est plus facile.</li>
+<li>	act	La mère aide l’enfant.</li>
+<li>MADELEINE	faut</li>
+<li>MERE	voilà.</li>
+<li>MADELEINE	délicieux.</li>
+<li>MERE	c'est pas bon c'est délicieux.</li>
+<li>MADELEINE	peux piquer ça ?</li>
+<li>MERE	t(u) y arrives ?</li>
+<li>MADELEINE	[filler]	t’aide là.</li>
+<li>	act	L’enfant tend la fourchette à l’observatrice.</li>
+<li>MADELEINE	tiens !</li>
+<li>MADELEINE	[filler] t’aide.</li>
+<li>OBSERVATRICE	tu m(e) le donnes ?</li>
+</ul>

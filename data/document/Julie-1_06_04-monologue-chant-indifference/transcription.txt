@@ -1,0 +1,30 @@
+<ul style="list-style-type:none">
+<li>1879	*CHI:	yy [=! petit cri] .</li>
+<li>1880	%pho:	a</li>
+<li>1881	*BRO:	yy@fs veut ma tour <zə@fs veux faire une tour> [=! pleure] .</li>
+<li>1882	%pho:	ɛ vø ma tuʁ zə vø fɛʁ yn tu</li>
+<li>1883	%int:	elle/2/-je/3/</li>
+<li>1884	%act:	BRO se lève et se met à pleurer</li>
+<li>1885	*MOT:	mais Ulysse c'est pas parce+que Julie est assise avec toi que tu sais pas faire de tour .</li>
+<li>1886	*BRO:	0 [=! pleure] .</li>
+<li>1887	*MOT:	tu veux que je vienne faire la tour avec toi ?</li>
+<li>1888	*BRO:	+< <xx tour> [=! pleure] .</li>
+<li>1889	%pho:	X tu</li>
+<li>1890	%int:	tour/2/-tout/2/</li>
+<li>1891	*MOT:	qu'est+ce+que tu dis ?</li>
+<li>1892	*BRO:	<yy@fs veux faire une tour> [=! pleure] .</li>
+<li>1893	%pho:	jə vø fɛ yn tuʁ</li>
+<li>1894	*MOT:	mais y+a pas de problème tu veux que je vienne la faire avec toi ?</li>
+<li>1895	*BRO:	oui .</li>
+<li>1896	%pho:	we</li>
+<li>1897	*CHI:	yy [=! chantonne] .</li>
+<li>1898	%pho:	lajalaja</li>
+<li>1899	*MOT:	+< mais maman vient t' aider seulement si t(u) arrêtes de pleurer .</li>
+<li>1900	*MOT:	tu arrêtes de pleurer ?</li>
+<li>1901	*BRO:	0 [=! petite toux] .</li>
+<li>1902	*MOT:	tu arrêtes de pleurer ?</li>
+<li>1903	*BRO:	oui .</li>
+<li>1904	%pho:	wi</li>
+<li>1905	*MOT:	d'accord .</li>
+<li>1906	*MOT:	regarde je dépose la caméra .</li>
+</ul>

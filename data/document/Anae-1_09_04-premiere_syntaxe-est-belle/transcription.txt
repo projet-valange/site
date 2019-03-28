@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>MERE	et voilà !</li>
 <li>ANAE	habille !</li>
 <li>	pho	[abij]</li>

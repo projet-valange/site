@@ -1,0 +1,127 @@
+<ul style="list-style-type:none">
+<li>1381	*CHI:	yy .</li>
+<li>1382	%pho:	tyː</li>
+<li>1383	*CHI:	yy yy .</li>
+<li>1384	%pho:	tyt tytyty</li>
+<li>1385	*CHI:	yy .</li>
+<li>1386	%pho:	tyty</li>
+<li>1387	*CHI:	yy yy .</li>
+<li>1388	%pho:	e tyty</li>
+<li>1389	*CHI:	yy .</li>
+<li>1390	%pho:	tytydy</li>
+<li>1391	*CHI:	tiens .</li>
+<li>1392	%pho:	tjɛ̃</li>
+<li>1393	%act:	CHI tend un objet de la maison à BAB</li>
+<li>1394	*BAB:	merci .</li>
+<li>1395	*CHI:	tiens .</li>
+<li>1396	%pho:	tjɛ̃</li>
+<li>1397	*CHI:	tiens .</li>
+<li>1398	%pho:	tjɛ̃</li>
+<li>1399	*BAB:	le bébé le lit d(e) bébé .</li>
+<li>1400	*CHI:	yyy .</li>
+<li>1401	%pho:	alalisi</li>
+<li>1402	*CHI:	yyy .</li>
+<li>1403	%pho:	alalisi</li>
+<li>1404	*CHI:	0 [=! petit bruit] .</li>
+<li>1405	%act:	CHI prend un personnage sur la tour duplo et le place dans la maison</li>
+<li>1406	*CHI:	yyy .</li>
+<li>1407	%pho:	dibɔzjɔ</li>
+<li>1408	*CHI:	yy yy .</li>
+<li>1409	%pho:	debɔsjɔ bøzøbø</li>
+<li>1410	*CHI:	yy .</li>
+<li>1411	%pho:	eju</li>
+<li>1412	%act:	CHI tape un personnage sur la table</li>
+<li>1413	*CHI:	0 .</li>
+<li>1414	*CHI:	yyy .</li>
+<li>1415	%pho:	anɛmu</li>
+<li>1416	*CHI:	ici .</li>
+<li>1417	%pho:	isi</li>
+<li>1418	%int:	ici/3/</li>
+<li>1419	*CHI:	yy .</li>
+<li>1420	%pho:	adɑ̃</li>
+<li>1421	*CHI:	yy .</li>
+<li>1422	%pho:	ləma</li>
+<li>1423	*CHI:	0 .</li>
+<li>1424	%act:	CHI joue dans la petite maison</li>
+<li>1425	*CHI:	yy tour .</li>
+<li>1426	%pho:	ejɔ tuʁ</li>
+<li>1427	*CHI:	ouh@i .</li>
+<li>1428	%pho:	u</li>
+<li>1429	*CHI:	yy tour .</li>
+<li>1430	%pho:	ela tuʁ</li>
+<li>1431	*CHI:	yyy .</li>
+<li>1432	%pho:	upupu</li>
+<li>1433	%act:	CHI tape un personnage sur la table</li>
+<li>1434	*CHI:	yyy .</li>
+<li>1435	%pho:	pupupupu</li>
+<li>1436	*CHI:	0 .</li>
+<li>1437	*CHI:	yy .</li>
+<li>1438	%pho:	hu</li>
+<li>1439	*CHI:	0 [=! petits bruits] .</li>
+<li>1440	%act:	CHI joue dans la petite maison, sans intervention de BAB</li>
+<li>1441	*CHI:	yyy .</li>
+<li>1442	%pho:	alatala</li>
+<li>1443	*CHI:	tout près .</li>
+<li>1444	%pho:	tu pʁɛ</li>
+<li>1445	*CHI:	la télé .</li>
+<li>1446	%pho:	la tele</li>
+<li>1447	*CHI:	0 .</li>
+<li>1448	*CHI:	yyy .</li>
+<li>1449	%pho:	səpøs</li>
+<li>1450	*CHI:	yy pas là .</li>
+<li>1451	%pho:	tɛ pa la</li>
+<li>1452	%int:	t(u) es/3/</li>
+<li>1453	*BAB:	hein ?</li>
+<li>1454	*CHI:	+< yy .</li>
+<li>1455	%pho:	søs</li>
+<li>1456	*CHI:	yy pas là .</li>
+<li>1457	%pho:	tɛ pa la</li>
+<li>1458	%int:	t(u) es/3/</li>
+<li>1459	*BAB:	moi j(e) suis pas là ?</li>
+<li>1460	*CHI:	0 .</li>
+<li>1461	%act:	CHI recommence à jouer dans la petite maison sans répondre à BAB</li>
+<li>1462	*CHI:	xxx .</li>
+<li>1463	*CHI:	yy yy .</li>
+<li>1464	%pho:	esi si</li>
+<li>1465	*CHI:	xx .</li>
+<li>1466	%pho:	CɥI refreme la maison et fait tomber un objet par terre</li>
+<li>1467	*CHI:	yy voilà .</li>
+<li>1468	%pho:	lə vala</li>
+<li>1469	*CHI:	yyy .</li>
+<li>1470	%pho:	sɛlmum9ʁ</li>
+<li>1471	*CHI:	c'est l' ouvrir .</li>
+<li>1472	%pho:	sɛ l uviʁ</li>
+<li>1473	*CHI:	oh .</li>
+<li>1474	%pho:	ɔɔ</li>
+<li>1475	*CHI:	toc+toc .</li>
+<li>1476	%pho:	tɔkɔt</li>
+<li>1477	*CHI:	yy .</li>
+<li>1478	%pho:	uu</li>
+<li>1479	*CHI:	0 [=! petit bruit] .</li>
+<li>1480	*CHI:	vais dodo xx .</li>
+<li>1481	%pho:	ve todo X</li>
+<li>1482	%act:	CHI met des meubles de la maison dans la tour de duplos</li>
+<li>1483	*CHI:	xxx .</li>
+<li>1484	*CHI:	ça met pas .</li>
+<li>1485	%pho:	sa mɛ pa</li>
+<li>1486	*CHI:	0 .</li>
+<li>1487	*CHI:	tiens .</li>
+<li>1488	%pho:	tjɛ̃</li>
+<li>1489	%act:	CHI tend un meuble à BAB</li>
+<li>1490	*CHI:	tiens .</li>
+<li>1491	%pho:	tjɛ̃</li>
+<li>1492	*BAB:	merci .</li>
+<li>1493	*CHI:	là .</li>
+<li>1494	%pho:	la</li>
+<li>1495	%act:	CHI tend un meuble à BAB</li>
+<li>1496	*CHI:	donne la donne .</li>
+<li>1497	%pho:	dɔn la dɔn</li>
+<li>1498	*BAB:	merci .</li>
+<li>1499	*CHI:	+< la lit .</li>
+<li>1500	%pho:	la li</li>
+<li>1501	*BAB:	la maman elle dort ?</li>
+<li>1502	*CHI:	0 .</li>
+<li>1503	%act:	CHI se retourne sans répondre</li>
+<li>1504	*CHI:	yy .</li>
+<li>1505	%pho:	n</li>
+</ul>

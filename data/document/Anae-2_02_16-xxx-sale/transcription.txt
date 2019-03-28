@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>act	Anaé vient de goûter.</li>
 <li>MERE	hop on essuie la bouche</li>
 <li>ANAE	xxx</li>

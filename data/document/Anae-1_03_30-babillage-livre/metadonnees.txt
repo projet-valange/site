@@ -1,5 +1,5 @@
 <ul style="list-style-type:none;">
-<li>Fichier : <a href="Anae-1_03_30-babillage-livre.mp4">Anae-1_03_30-babillage-livre.mp4</a> (durée : 20sec)</li>
+<li>Fichier : <a href="./data/document/Anae-1_03_30-babillage-livre/Anae-1_03_30-babillage-livre.mp4">Anae-1_03_30-babillage-livre.mp4</a> (durée : 20sec)</li>
 <li>Projet : CoLaJE</li>
 <li>Extrait de la vidéo : [lien Ortolang à venir]</li>
 </ul>
@@ -10,5 +10,6 @@
 <li>Langue : fr</li>
 <li>Lieu : cuisine</li>
 <li>Activité : livre</li>
-<li>Thème(s) : babillage, lecture, monologue, routine\</li>n<li>Mot(s)-clé : voilà</li>
+<li>Thème(s) : babillage, lecture, monologue, routine</li>
+<li>Mot(s)-clé : voilà</li>
 </ul>

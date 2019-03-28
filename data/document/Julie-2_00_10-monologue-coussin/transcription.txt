@@ -1,0 +1,21 @@
+<ul style="list-style-type:none">
+<li>1509	*CHI:	+< <le coussin> [/] le coussin .</li>
+<li>1510	%pho:	lə kusɛ̃ lə kusɛ̃</li>
+<li>1511	*CHI:	0 .</li>
+<li>1512	*CHI:	yy .</li>
+<li>1513	%pho:	əlu</li>
+<li>1514	*CHI:	xx .</li>
+<li>1515	*MOT:	regarde il est là .</li>
+<li>1516	*MOT:	attends .</li>
+<li>1517	*MOT:	regarde il est là .</li>
+<li>1518	*MOT:	il est là ma puce viens .</li>
+<li>1519	*MOT:	attends tu sais quoi ?</li>
+<li>1520	*MOT:	de toutes façons t(u) es un+peu coincée hein là .</li>
+<li>1521	*MOT:	regarde .</li>
+<li>1522	*MOT:	là .</li>
+<li>1523	%act:	MOT déplace le mobilier de bébé avec lequel CHI joue</li>
+<li>1524	*BRO:	pourquoi on sait l(e) faire rouler ?</li>
+<li>1525	%pho:	puʁkwa ɔ̃ se l fɛʁ ʁule</li>
+<li>1526	*MOT:	tiens .</li>
+<li>1527	%act:	MOT tend le coussin à CHI</li>
+</ul>

@@ -1,0 +1,18 @@
+<ul style="list-style-type:none">
+<li>MADELEINE	ne@fs veux.</li>
+<li>pho	nə vəː</li>
+<li>mod	X vø</li>
+<li>act	Madeleine prend le livre des mains de l’observateur</li>
+<li>MERE	alors tu veux l’histoire ?</li>
+<li>MADELEINE	0</li>
+<li>act	Madeleine revient vers sa mère</li>
+<li>MADELEINE	une histoire (cana)pé .</li>
+<li>pho	[yn istwa pe]</li>
+<li>act	MADELEINE grimpe sur le canapé</li>
+<li>MERE	dans le canapé ?</li>
+<li>MADELEINE	vert .</li>
+<li>pho	vɛ</li>
+<li>MERE	vert .</li>
+<li>MADELEINE	ca(na)pé # vert .</li>
+<li>pho	kape vɛ</li>
+</ul>

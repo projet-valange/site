@@ -1,0 +1,15 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="./data/document/Philippine-4_10_20-monologue-com-papa/Philippine-4_10_20-monologue-com-papa.mp4">Philippine-4_10_20-monologue-com-papa.mp4</a> (durée : 14sec)</li>
+<li>Projet : Monologue</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Philippine</li>
+<li>Âge : 4;10.20</li>
+<li>Langue : fr</li>
+<li>Lieu : chambre</li>
+<li>Activité : dessin</li>
+<li>Thème(s) : monologue, dialogue monologué, polyphonie, pronoms</li>
+<li>Mot(s)-clé : papa</li>
+</ul>

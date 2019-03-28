@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>act	toute la famille joue dehors, autour du toboggan</li>
 <li>PERE	tu viens ?</li>
 <li>sit	Anaé se dirige vers les escaliers du toboggan</li>

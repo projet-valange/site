@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>Mère	il tuo doudou è sul divano amore # lo vuoi ?</li>
 <li>	(ton doudou est sur le divan, mon amour. Tu le veux ?)</li>
 <li>Antoine	oui.</li>

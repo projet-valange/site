@@ -1,0 +1,10 @@
+<ul style="list-style-type:none">
+<li>MADELEINE	moi est plus petit .</li>
+<li>MADELEINE	moi l@fs ai peur .</li>
+<li>MADELEINE	j' ai peur de [/] euh de l' e(s)calier .</li>
+<li>MERE	t(u) as peur ?</li>
+<li>MERE	pourquoi ?</li>
+<li>MERE	pourquoi as-tu peur de l' escalier ?</li>
+<li>MADELEINE	un jour <l@fs est> [/] l@fs est tombé dans l' e(s)calier et <de mes> [//] de mon lit .</li>
+<li>MERE	oui parce que deux jours après elle est tombée d(e) son lit .</li>
+</ul>

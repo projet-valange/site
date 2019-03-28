@@ -1,0 +1,6 @@
+<ul style="list-style-type:none">
+<li>OBSERVATRICE	tu lis quoi ?</li>
+<li>MADELEINE	euh Emile et les détectives.</li>
+<li>OBSERVATRICE	Emile et les détectives ?</li>
+<li>MADELEINE	en fait c'est un garçon qui va à Berlin, et dans l(e) train i(l) s(e) fait piquer l'argent que sa mère lui a confié, et donc après avec des gens d(e) Berlin i(l) [/] i(l) va essayer d(e) retrouver l(e) voleur.</li>
+</ul>

@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>	sit	ANTOINE se relève et se dirige vers le salon</li>
 <li>ANTOINE	musique musique.</li>
 <li>	pho	[mesi mesi]</li>

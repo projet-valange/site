@@ -1,0 +1,15 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="./data/document/Julie-1_11_11-monologue-fenetre/Julie-1_11_11-monologue-fenetre.mp4">Julie-1_11_11-monologue-fenetre.mp4</a> (durée : 25sec)</li>
+<li>Projet : Monologue</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Julie</li>
+<li>Âge : 1;11.11</li>
+<li>Langue : fr</li>
+<li>Lieu : salon</li>
+<li>Activité : </li>
+<li>Thème(s) : monologue, commentaire monologique</li>
+<li>Mot(s)-clé : fenêtre, sale</li>
+</ul>

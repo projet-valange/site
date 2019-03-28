@@ -1,0 +1,11 @@
+<ul style="list-style-type:none">
+<li>MADELEINE	yy P(oulpo) [/] Pou(l)po .</li>
+<li>pho	[sase p pupo]</li>
+<li>add	à sa mère, tourne la tête pour regarder sa mère .</li>
+<li>MERE	tu lui racontes ?</li>
+<li>MERE	tu racontes à ta poupée ?</li>
+<li>MADELEINE	bébé	(.) Pou(l)po .</li>
+<li>pho	[bebe pupo]</li>
+<li>mod	[bebe pulpo]</li>
+<li>MERE	Pou(l)po (.) et (.) Poulpette .</li>
+</ul>

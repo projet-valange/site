@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>ANAE	et le bébé qui avait le [ki avɛ lə pyʁe e e e la e e] accroché à le mur</li>
 <li>MERE	qu'est-ce que tu racontes ?</li>
 <li>ANAE	y avait le, y avait le, le, le petit bébé qui, qui a pleuré sur le mur</li>

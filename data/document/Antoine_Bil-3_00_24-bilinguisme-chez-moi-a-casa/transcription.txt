@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>Sandra:	vuoi salutare Daniele ?</li>
 <li>	(tu veux dire au revoir à Daniel ?)</li>
 <li>Daniele:	ciao.</li>

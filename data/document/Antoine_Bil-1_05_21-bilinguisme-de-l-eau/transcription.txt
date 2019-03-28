@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>Sa mère lui offre un biscuit en le lui tendant</li>
 <li>Antoine	mm	(en secouant la tête deux fois)</li>
 <li>Mère	no ? no.</li>

@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>act	Anaé fait de la gymnastique dans le salon</li>
 <li>MERE	attention attention</li>
 <li>MERE	tu rentres bien ta tête</li>

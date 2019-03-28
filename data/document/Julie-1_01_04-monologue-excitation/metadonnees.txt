@@ -1,0 +1,15 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="./data/document/Julie-1_01_04-monologue-excitation/Julie-1_01_04-monologue-excitation.mp4">Julie-1_01_04-monologue-excitation.mp4</a> (durée : 1min)</li>
+<li>Projet : Monologue</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Julie</li>
+<li>Âge : 1;01.04</li>
+<li>Langue : fr</li>
+<li>Lieu : </li>
+<li>Activité : </li>
+<li>Thème(s) : monologue, émotion, cris d'excitation</li>
+<li>Mot(s)-clé : </li>
+</ul>

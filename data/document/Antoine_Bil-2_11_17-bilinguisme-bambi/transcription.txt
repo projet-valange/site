@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
 <li>Il choisit un livre et va s’asseoir sur le sofa.</li>
 <li>Mère	sei tu che leggi # leggi bene mh ? fai sentire un po’.</li>
 <li>	(c’est toi qui lis, lis bien hein ? vas-y)</li>

@@ -1,5 +1,5 @@
 <ul style="list-style-type:none;">
-<li>Fichier : <a href="Anae-1_00-babillage-reflechit.mp4">Anae-1_00-babillage-reflechit.mp4</a> (durée : 1min)</li>
+<li>Fichier : <a href="./data/document/Anae-1_00-babillage-reflechit/Anae-1_00-babillage-reflechit.mp4">Anae-1_00-babillage-reflechit.mp4</a> (durée : 1min)</li>
 <li>Projet : CoLaJE</li>
 <li>Extrait de la vidéo : [lien Ortolang à venir]</li>
 </ul>
@@ -10,5 +10,6 @@
 <li>Langue : fr</li>
 <li>Lieu : jardin</li>
 <li>Activité : </li>
-<li>Thème(s) : babillage, monologue intérieur (réflexion, anticipation ?) \</li>n<li>Mot(s)-clé : </li>
+<li>Thème(s) : babillage, monologue intérieur (réflexion, anticipation ?) </li>
+<li>Mot(s)-clé : </li>
 </ul>

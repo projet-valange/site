@@ -1,0 +1,24 @@
+1677	*CHI:	mange .
+1678	%pho:	mɑ̃z
+1679	*MOT:	Julie elle mange ?
+1680	*CHI:	mange .
+1681	%pho:	mɑ̃z
+1682	*MOT:	mange .
+1683	*CHI:	mange .
+1684	%pho:	mɑ̃z
+1685	*CHI:	maman .
+1686	%pho:	mamɑ̃
+1687	*MOT:	et toi tu manges Julie ?
+1688	*MOT:	Ulysse tu nous apporte un livre qu' on puisse lire tous ensemble .
+1689	*MOT:	pas ce livre là .
+1690	*BRO:	pas ce livre là ?
+1691	%pho:	pa s liv la
+1692	*MOT:	non parce+que ça c'est pas un livre avec une histoire .
+1693	*MOT:	c'est un livre où on colle les autocollants .
+1694	*MOT:	allez .
+1695	*MOT:	range le .
+1696	*MOT:	tu prends un autre ?
+1697	*CHI:	<n' aime pas> [=! crie] .
+1698	%pho:	m ɛm ba
+1699	%int:	n' aime pas/2/
+1700	*MOT:	+< oui s(i) tu veux .

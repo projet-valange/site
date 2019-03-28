@@ -1,0 +1,12 @@
+<ul style="list-style-type:none">
+<li>MADELEINE	yyy.</li>
+<li>	pho	[le-ʃa]</li>
+<li>	sit	Madeleine est dans la cour, son index pointant une fleur</li>
+<li>MADELEINE	yyy.</li>
+<li>	pho	[le-ʃa]</li>
+<li>	sit	elle pointe une deuxième fleur tout en vocalisant. Son regard se</li>
+<li>	porte successivement sur chacune des deux fleurs.</li>
+<li>MERE	celle-là, elle est belle, hein ?</li>
+<li>	sit	Madeleine attrape chacune des deux fleurs dans une main</li>
+<li>MERE	xxx.</li>
+</ul>

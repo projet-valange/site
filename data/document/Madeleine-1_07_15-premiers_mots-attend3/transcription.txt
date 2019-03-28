@@ -1,0 +1,9 @@
+<ul style="list-style-type:none">
+<li>MADELEINE	attends.</li>
+<li>	pho	[tatɑ̃]</li>
+<li>OBS	t(u) es en ligne là ?</li>
+<li>MADELEINE	attends maman !</li>
+<li>	pho	[atɑ̃ mamɑ̃]</li>
+<li>	com	forte sur un ton agacé.</li>
+<li>	act	CHI retire la main de sa mère de la souris.</li>
+</ul>

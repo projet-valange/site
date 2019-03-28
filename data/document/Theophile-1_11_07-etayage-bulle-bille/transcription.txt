@@ -1,0 +1,8 @@
+<ul style="list-style-type:none">
+<li>	sit	Théophile tient un flacon à bulles dans les mains</li>
+<li>OBSERVATEUR	c'est des bulles.</li>
+<li>MERE	ouais il adore ça.</li>
+<li>OBSERVATEUR	wouah !</li>
+<li>THEOPHILE	[ʁː ɔnɔːemɔ̃bu eː]</li>
+<li>OBSERVATEUR	elle est là la bille.</li>
+</ul>

@@ -1,0 +1,15 @@
+<ul style="list-style-type:none;">
+<li>Fichier : <a href="./data/document/Madeleine-2_07_07-erreurs-acheter-un-coup-d-oeil/Madeleine-2_07_07-erreurs-acheter-un-coup-d-oeil.mp4">Madeleine-2_07_07-erreurs-acheter-un-coup-d-oeil.mp4</a> (durée : 1min28)</li>
+<li>Projet : CoLaJE</li>
+<li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+</ul>
+
+<ul style="list-style-type:none;">
+<li>Enfant : Madeleine</li>
+<li>Âge : 2;07.07</li>
+<li>Langue : fr</li>
+<li>Lieu : salon</li>
+<li>Activité : </li>
+<li>Thème(s) : erreurs, expression figée, rectification</li>
+<li>Mot(s)-clé : acheter un coup d'œil</li>
+</ul>
