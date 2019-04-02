@@ -33,6 +33,6 @@ $validator->field('genre_de_discours')->maxLength(6000);
 $pp->attachFiles(['file']);
 
 
-$pp->sendEmailTo('mr.seongmin@gmail.com'); // ← Your email here
+$pp->sendEmailTo("contactvalange@gmail.com"); // ← Your email here
 
 echo $pp->process($_POST);

@@ -23,6 +23,6 @@ $validator->field('message')->maxLength(6000);
 $pp->attachFiles(['image']);
 
 
-$pp->sendEmailTo('mr.seongmin@gmail.com'); // ← Your email here
+$pp->sendEmailTo('contactvalange@gmail.com'); // ← Your email here
 
 echo $pp->process($_POST);
