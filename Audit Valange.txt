@@ -1,0 +1,123 @@
+﻿4 avril 2019
+Audit Valange 
+
+
+Généralités 
+
+
+Accessibilité : Le site est TRÈS lisible, mais en contrepartie les textes et les images sont beaucoup trop gros pour un écran de petite taille, donc aucun confort de lecture. C’est particulièrement vrai pour la page Rechercher une vidéo.
+Il faut ajouter des balises ALT sur les images. 
+
+
+Responsiveness : le site et ses images s’adapte aux tailles d’écran mais la version mobile ne charge pas automatiquement sur les téléphones. Après réduction sur un écran d’ordinateur, le menu burger ne fonctionne pas. 
+
+
+Design : Le logo Valange est énorme et laisse une grande bande blanche sous la barre de menu, à modifier. Il faut remettre le même logo sur toutes les pages. Il faut recaler la bannière de manière à ce qu’elle s’adapte à toutes les formes d’écran. Globalement, le look du site serait à retravailler selon une charte définie avec un graphiste...
+
+
+Parcours : Énormément de possibilités de se retrouver dans un cul de sac pour l’instant. Chaque page vidéo doit proposer d’autres vidéos à regarder, sinon on va avoir des taux de rebond phénoménaux.
+
+
+Il faut harmoniser le texte du pop-up qui apparaît quand on clique sur Anglais. 
+
+
+Menu
+
+
+Depuis certains navigateurs, la barre de menu est masquée par la barre Google Trad (problème résolu ?)
+Le menu devra dans le futur comporter les pages « Archives » et « Dossiers thématiques » 
+Pourquoi ne pas insérer le logo Valange directement dans la barre de menu plutôt que de l’avoir en dessous ? 
+
+
+Footer
+
+
+Le footer doit être le même partout sur le site et indiquer les pages nécessaires et pas toutes encore construites, càd : qui sommes-nous ?, charte d’utilisation, contact, plan du site, mentions légales, politique de cookies.
+Quand on clique sur un logo de partenaire, l’action doit être d’ouvrir un nouvel onglet pour le lien externe et pas de quitter le site. Tous les liens marchent. 
+Le paragraphe du footer doit être indiqué comme bloc SEO dans le code et optimisé.
+Les noms des créateurs du site doivent apparaître en entier avec des liens cliquables vers les sites et/ou pages LinkedIn de chacun. 
+
+
+Homepage
+
+
+Depuis la page d’accueil, les boutons Proposer une vidéo et Nous contacter ne sont pas cliquables.
+En dessous du paragraphe de Bienvenue, ajouter un Call To Action (CTA = bouton) « parcourez la vidéothèque » qui envoie sur la page Rechercher une vidéo. 
+Quand on clique sur « Découvrir » dans une actualité, l’action doit être d’ouvrir un nouvel onglet pour le lien externe et pas de quitter le site. 
+Dans l’idéal, images et textes seraient alignés dans les actualités.
+Les titres Bienvenue et Actualités ne sont pas alignés.
+Un bouton « voir toutes les actualités » à la fin de la section renverrait à une page d’archives.
+
+
+Page A propos 
+
+
+Onglet Valange : 
+Les images utilisées doivent être redessinées pour éviter des problèmes d’attribution. 
+Les 4 paragraphes doivent faire la même taille pour être alignés. 
+Les textes doivent être validés par Aliyah.
+Le 4ème paragraphe est encore en Lorem Ipsum.
+
+
+Onglet Projets Ortolang :
+Les textes doivent être validés par Aliyah.
+3ème et 4ème descriptifs sont encore en Lorem Ipsum. 
+Refaire des logos propres, rendre les logos cliquables.
+
+
+Onglet Nos Equipes : Reste du Lorem Ipsum. Ajouter les bons logos, rendre les logos cliquables. 
+
+
+Onglet Bibliographie et liens : Finir de mettre à jour la bibliographie. 
+
+
+Page Rechercher une vidéo
+
+
+Les onglets de recherche à facettes doivent apparaître fermés la première fois. 
+Il faudrait que la recherche brute puisse comprendre les accents (on trouve les vidéos d’Anaé seulement en tapant Anae, par exemple). 
+Si on entre une recherche brute, on ne peut pas savoir si la recherche a abouti sans scroller en bas de la page. Ajouter un message de succès (X vidéos correspondent à votre recherche) qui encourage les gens à descendre en bas de page ?
+Dans la recherche à facettes, donner la possibilité de tout cocher / tout décocher.
+Dans Age, les deux curseurs doivent apparaître sélectionnant tous les âges de 0 à 8+. 
+Dans Activités, ajouter les dessins de chaque catégorie. 
+Dans Langues, refaire le design des drapeaux.
+Dans Enfant, ajouter les photos des enfants. 
+« Examiner » n’est pas un CTA très courant. Plutôt mettre « Voir la fiche » ? 
+
+
+
+
+Page vidéo 
+
+
+Les transcriptions ne sont pas homogénéisées dans leur présentation.
+Le orange des sous-titres n’est pas le même partout, à changer.
+Il faut lier chaque extrait à la vidéo Ortolang dont il est tiré, avec lien hypertexte dans les métadonnées. 
+
+
+Page Formulaire Proposer une vidéo
+
+
+A l’heure actuelle, l’envoi de formulaire ne fonctionne pas. 
+Le lien pour contacter le/la webmestre devrait renvoyer à la page Contact et pas directement à une adresse mail.
+Pourquoi ne pas immédiatement inviter à déposer l’autorisation de diffusion au format numérique sur la plateforme ? Ca ferait déjà un premier tri pour le webmaster. 
+Dans la sélection de la langue : quand on clique sur « Autre », un champ devrait s’ouvrir pour pouvoir ajouter une langue.
+Le formulaire devrait requérir d’ajouter une photo de l’enfant en bonne qualité pour pouvoir l’ajouter dans l’onglet Enfants de la recherche à facettes, ainsi que 2 à 5 mots-clé + proposer d’intégrer directement la vidéo aux thèmes/activités préexistants (non obligatoire).
+Le formulaire devrait inclure un champ libre pour décrire ce qui se passe dans l’extrait, et un autre qui permet de proposer une transcription. Ces deux champs ne seraient pas obligatoires.
+Le CTA « Post it » doit être remplacé par « Soumettre votre contribution » 
+Les explications sous chaque catégorie doivent être écrites plus petites et en italiques pour les discriminer visuellement.
+Quand j’essaye d’envoyer une vidéo, elle charge, mais en la postant je reçois un message d’erreur :
+
+
+Sorry there was an error sending your form.
+* nom:nom is Required.
+* prénom:prénom is Required.
+* email:email is Required.
+Tous ces messages d’erreur doivent être en français dans la VF du site.
+Page Contact
+
+
+Il faut changer le texte qui ne correspond pas du tout à la page de contact mais à un push abonnement à la liste de diffusion.
+« Titre » devrait plutôt être « Objet du message »
+Les « liens » du bas sont une image fixe que j’avais utilisé pour donner une idée de ce à quoi devrait ressembler le footer, ça n’a rien à faire là.
+Est-ce que le problème d’adresse mail est réglé ?
