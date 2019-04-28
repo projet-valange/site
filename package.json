@@ -1,0 +1,39 @@
+{
+  "name": "valange",
+  "version": "0.1.0",
+  "description": "videopedia website",
+  "main": "index.html",
+  "directories": {
+    "src": "src",
+    "data": "data"
+  },
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scriptComments": {
+    "build": "Depends on Bootstrap version 4.3.1 and JQuery 3.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projet-valange/site.git"
+  },
+  "keywords": [
+    "video",
+    "child",
+    "language"
+  ],
+  "author": "Morgenstern & Parisse",
+  "license": "CC-BY-SA",
+  "bugs": {
+    "url": "https://github.com/projet-valange/site/issues"
+  },
+  "homepage": "https://github.com/projet-valange/site#readme",
+  "devDependencies": {
+    "gulp": "^4.0.1",
+    "gulp-html-tag-include": "^1.0.1"
+  },
+  "dependencies": {
+    "popper.js": "^1.15.0"
+  }
+}

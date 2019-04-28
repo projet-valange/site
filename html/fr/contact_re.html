@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href="../../common/img/icon.png" rel="shortcut icon">
+  <title>Valange</title>
+  <!-- styles -->
+  <link rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="../../common/style.css">
+</head>
+
+<body>
+
+  <include src="menu.html"></include>
+
+  <div class="container">
+
+    <div class="media">
+      <a class="pull-left" href="./index.html">
+        <img class="media-object" src="../../common/img/logo.png" style="width:50%;">
+    </div><br />
+    <hr>
+
+    <div class="container-fluid" style="background-image:url(../../common/img/back.png);text-align:center;">
+      <br>
+      <h2 class="section-heading" style="text-align:center;"><a style="color:#ed6e4e;">R</a>estons en contact !</h2>
+      <p class="section-subheading text-muted" style="text-align:center; ">Recevez la lettre d’information Valange.</p>
+      <br>
+      <form role="form" method="post" id="reused_form" enctype=&quot;multipart/form-data&quot;>
+        <div class="row">
+          <div class="col-lg-4 col-md-4">
+            <div class="form-group">
+              <label for="name"><Strong>Titre :</Strong></label>
+              <input type="text" class="form-control" id="title" name="title" style="width:90%;"
+                placeholder="Entrez votre titre *">
+            </div>
+            <div class="form-group">
+              <label for="name"><Strong>Nom et prénom :</Strong></label>
+              <input type="text" class="form-control" id="name" name="name" style="width:90%;"
+                placeholder="Entrez votre nom et prénom *">
+            </div>
+            <div class="form-group">
+              <label for="email"><Strong>Email :</Strong></label>
+              <input type="email" class="form-control" id="email" name="email" style="width:90%;"
+                placeholder="Entrez votre adresse email *">
+            </div>
+          </div>
+          <div class="col-lg-8 col-md-8">
+            <label class="control-label" for="inputPhone"><Strong>Message :</Strong></label>
+            <textarea class="span5" rows="8" id="inputMessage" name="text" style="width:90%;"
+              placeholder="Entrez votre message *"></textarea>
+          </div>
+        </div>
+        <div class="form-group">
+          <button type="submit" class="btn btn-lg btn-success pull-right" id="btnContactUs">Envoyer le message</button>
+        </div>
+        </br><a style="text-align:center;"><img src="../../common/img/background2.png" style="width:90%;"></a>
+        <div id="success_message" style="width:100%; height:100%; display:none; ">
+          <h3>Votre message a bien été envoyé !</h3>
+        </div>
+        <div id="error_message" style="width:100%; height:100%; display:none; ">
+          <h3>Erreur</h3> Désolé il y a eu une erreur dans l'envoi de votre message.
+        </div>
+      </form>
+    </div>
+    <include src="footer.html"></include>
+  </div> <!-- /container -->
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+  <script src="../../lib/jquery/jquery.min.js"></script>
+  <script src="../../lib/popper/popper.js"></script>
+  <script src="../../lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="../../common/form.js"></script>
+
+</body>
+
+</html>

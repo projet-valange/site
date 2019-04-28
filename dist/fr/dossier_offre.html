@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href="../../common/img/icon.png" rel="shortcut icon">
+  <title>Valange</title>
+  <!-- styles -->
+  <link rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="../../common/style.css">
+</head>
+
+<body>
+
+  <nav id="mainNav" class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+    <a class="navbar-brand" href="./index.html">
+      <span style="display: inline-block; background-color: white">
+        <img src="../../common/img/logo/valangelogonobackground.png" alt="Valange" style="height: 50px;" />
+      </span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" 
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active"><a class="nav-link" href="./valange.html">À propos</a></li>
+        <li class="nav-item active"><a class="nav-link" href="./rechercher.html">Rechercher une vidéo</a></li>
+        <li class="nav-item active"><a class="nav-link" href="./proposer.html">Proposer une vidéo</a></li>
+        <li class="nav-item active"><a class="nav-link" href="./contact_re.html">Nous contacter</a></li>
+      </ul>
+      <button type="button" class="btn my-2 my-sm-0" data-toggle="modal" data-target="#infoModal">
+        <img class="media-object" src="../../common/img/globe.png" style="height: 30px;">
+        English</button>
+    </div>
+  </nav>
+
+  <!-- Modal -->
+  <div class="modal" id="infoModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Version anglaise de VaLangE - English version of VaLangE</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>VaLangE est un bébé projet : il faudra patienter encore un peu avant qu'il devienne parfaitement
+            bilingue. <br>
+            <br>
+            VaLangE is a baby project and is still acquiring the English language. Come back soon to watch it become a
+            fully bilingual website!</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <div class="media">
+      <a class="pull-left" href="./index.html">
+        <img class="media-object" src="../../common/img/logo.png" style="width:50%;">
+    </div><br />
+    <hr>
+
+    <h1 class="input_title"></h1></br>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-6 col-md-6">
+          <h3><a style="color:#e88f47; ">Transcription</a></h3>
+          <p class="transcription"></p>
+          <h3><a style="color:#e88f47; ">Description</a></h3>
+          <p class="description"></p>
+        </div>
+        <div class="col-lg-6 col-md-6" id="span_video">
+        </div>
+      </div>
+    </div>
+    <br/>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-6 col-md-6">
+          <h3><a style="color:#ed6e4e; ">Métadonnées</a></h3>
+          <p class="metadonnees"></p>
+        </div>
+        <div class="col-lg-6 col-md-6">
+          <h3><a style="color:#ed6e4e; ">Citer cette vidéo</a></h3>
+          <p class="citer_cette_video"></p>
+        </div>
+      </div>
+    </div>
+    <br/>
+
+    </br>
+    <h1><a style="color:#e88f47; ">I</a>ls nous soutiennent</h1></br></br>
+    <div class="row" style="text-align:center;">
+      <a href="http://www.labex-efl.com/wordpress/"><img src="../../common/img/footer/logo_labexEFL.jpg"
+          class="img-rounded footerimg"></a>
+      <a href="http://www.sorbonne-paris-cite.fr/fr"><img src="../../common/img/footer/logoUSPC.jpeg"
+          class="img-rounded footerimg"></a>
+      <a href="http://www.culturecommunication.gouv.fr/Politiques-ministerielles/langue-francaise-et-langues-de-France"><img
+          src="../../common/img/footer/logo_culture.jpg" class="img-rounded footerimg"></a>
+      <a href="http://www.modyco.fr/fr/"><img src="../../common/img/footer/logo_modyco.png"
+          class="img-rounded footerimg"></a>
+      <a href="https://www.ortolang.fr/market/home"><img src="../../common/img/footer/logo_ortolang.png"
+          class="img-rounded footerimg"></a>
+      <a href="http://www.univ-paris3.fr/"><img src="../../common/img/footer/logo_paris3_niou.jpg"
+          class="img-rounded footerimg"></a>
+      <a href="http://www.parisnanterre.fr/"><img src="../../common/img/footer/logo_paris10.png"
+          class="img-rounded footerimg"></a>
+      <hr>
+      <p id="valangefooter">VaLangE (Videopedia autour du Langage de l’Enfant) est un site participatif qui rassemble un large corpus
+        d’extraits vidéo d’enfants filmés au cours d’études ponctuelles ou longitudinales, de manière écologique ou lors
+        de tâches semi-guidées, en dialogue ou en monologue. Ces ethnographies portent sur l’acquisition du langage par
+        des jeunes locuteurs de 0 à 7 ans, entendants et sourds, monolingues et bilingues : français, anglais, italien,
+        portugais... VaLangE propose chaque extrait accompagné de sa fiche : transcription, description, métadonnées et
+        références bibliographiques. Ceux-ci peuvent être utilisés par des chercheurs et des professeurs pour constituer
+        leur corpus ou illustrer leurs cours avec des exemples clés en main. Les chercheurs sont invités à contribuer
+        eux-mêmes à la plateforme en déposant des extraits. Des dossiers thématiques autour de l’apprentissage d’une ou
+        plusieurs langues par les enfants sont également proposés : babillage, premiers mots, étayage, erreurs,
+        références à soi, temporalité… Autant de concepts rendus accessibles aux étudiants et au grand public.</p>
+    </div>
+
+    <div id="footer">
+        <div class="container">
+            <p>&copy; Copyright 2018-2019</p>
+            <p class="muted credit">This website made by <a href="http://stat34.github.io/Seongmin/">Seongmin</a>, Ilaine,
+                Constance, and Christophe.</p>
+        </div>
+    </div>
+
+  </div> <!-- /container -->
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="../../lib/jquery/jquery.min.js"></script>
+  <script src="../../lib/popper/popper.js"></script>
+  <script src="../../lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="../../lib/fetch/fetch.js"></script>
+  <script type="text/javascript">
+
+    var input_text = location.href.split("?")[1].replace("=","");
+
+    fetch("../../data/document/"+input_text+"/title.txt").then(function(response){
+      response.text().then(function(text){
+        $(".input_title").append(text);
+      })
+    });
+
+    fetch("../../data/document/"+input_text+"/transcription.txt").then(function(response){
+      response.text().then(function(text){
+        $(".transcription").append(text);
+      })
+    });
+
+    fetch("../../data/document/"+input_text+"/description.txt").then(function(response){
+      response.text().then(function(text){
+        $(".description").append(text);
+      })
+    });
+
+    var linktext = "<video src='../../data/document/"+input_text+"/"+input_text+".mp4' controls style='width:100%;'></video>";
+    $("#span_video").append(linktext);
+
+    fetch("../../data/document/"+input_text+"/metadonnees.txt").then(function(response){
+      response.text().then(function(text){
+        $(".metadonnees").append(text);
+      })
+    });
+
+    fetch("../../data/document/"+input_text+"/citer_cette_video.txt").then(function(response){
+      response.text().then(function(text){
+        $(".citer_cette_video").append(text);
+      })
+    });
+    </script>
+
+  </body>
+</html>

@@ -190,7 +190,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "repas (goûter)",
     activite:"repas",
-    theme: "premiers mots",
+    theme: "premiers_mots",
     "Mots clés": "chat, ça",
     "Durée": "16sec"
   },
@@ -203,7 +203,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "premiers mots",
+    theme: "premiers_mots",
     "Mots clés": "appel",
     "Durée": "24sec"
   },
@@ -216,7 +216,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "jeu de construction (cubes)",
     activite:"jeu_de_construction",
-    theme: "premiers mots",
+    theme: "premiers_mots",
     "Mots clés": "",
     "Durée": "12sec"
   },
@@ -229,7 +229,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "soin (bain)",
     activite:"soin",
-    theme: "premiers mots",
+    theme: "premiers_mots",
     "Mots clés": "",
     "Durée": "12sec"
   },
@@ -242,7 +242,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "repas (goûter)",
     activite:"repas",
-    theme: "premiers mots",
+    theme: "premiers_mots",
     "Mots clés": "",
     "Durée": "6sec"
   },
@@ -255,7 +255,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "livre",
     activite:"livre",
-    theme: "premiers mots",
+    theme: "premiers_mots",
     "Mots clés": "chat, ça",
     "Durée": "6sec"
   },
@@ -268,7 +268,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "premiers mots",
+    theme: "premiers_mots",
     "Mots clés": "ça, fleur",
     "Durée": "7sec"
   },
@@ -281,7 +281,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "premiers mots",
+    theme: "premiers_mots",
     "Mots clés": "",
     "Durée": "18sec"
   },
@@ -294,7 +294,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "premiers mots",
+    theme: "premiers_mots",
     "Mots clés": "au revoir",
     "Durée": "18sec"
   },
@@ -307,7 +307,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "jeu en extérieur (vélo)",
     activite:"jeu_en_extérieur",
-    theme: "premiers mots",
+    theme: "premiers_mots",
     "Mots clés": "attends",
     "Durée": "19sec"
   },
@@ -320,7 +320,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "jeu technologique (ordinateur)",
     activite:"jeu_technologique",
-    theme: "premiers mots",
+    theme: "premiers_mots",
     "Mots clés": "attends",
     "Durée": "7sec"
   },
@@ -333,7 +333,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "jeu technologique (ordinateur)",
     activite:"jeu_technologique",
-    theme: "premiers mots",
+    theme: "premiers_mots",
     "Mots clés": "attends",
     "Durée": "8sec"
   },
@@ -346,7 +346,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "jeu en extérieur (vélo)",
     activite:"jeu_en_extérieur",
-    theme: "premiers mots",
+    theme: "premiers_mots",
     "Mots clés": "vroum",
     "Durée": "17sec"
   },
@@ -359,7 +359,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "ouvre porte, fermé, clé",
     "Durée": "9sec"
   },
@@ -372,7 +372,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "clé",
     "Durée": "13sec"
   },
@@ -385,7 +385,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "repas (biberon)",
     activite:"repas",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "lait, bébé",
     "Durée": "5sec"
   },
@@ -398,7 +398,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "poupée",
     activite:"poupée_peluche_figurines",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "assis, bébé",
     "Durée": "5sec"
   },
@@ -411,7 +411,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "poupée",
     activite:"poupée_peluche_figurines",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "bébé, poulpo",
     "Durée": "16sec"
   },
@@ -424,7 +424,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "livre",
     activite:"livre",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "porte, poulpe",
     "Durée": "5sec"
   },
@@ -437,7 +437,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "livre",
     activite:"livre",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "canapé vert",
     "Durée": "12sec"
   },
@@ -450,7 +450,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "enlever manteau",
     "Durée": "41sec"
   },
@@ -463,7 +463,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "monsieur toto",
     "Durée": "12sec"
   },
@@ -476,7 +476,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "soin (bain)",
     activite:"soin",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "vroum",
     "Durée": "41sec"
   },
@@ -489,7 +489,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "soin (bain)",
     activite:"soin",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "vroum",
     "Durée": "25sec"
   },
@@ -502,7 +502,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "caca",
     "Durée": "19sec"
   },
@@ -515,7 +515,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "clé",
     "Durée": "19sec"
   },
@@ -528,7 +528,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "jeu technologique (ordinateur)",
     activite:"jeu_technologique",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "œuf",
     "Durée": "9sec"
   },
@@ -541,7 +541,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "musique (flûte)",
     activite:"musique",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "flûte, veux",
     "Durée": "3sec"
   },
@@ -554,7 +554,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "soin (change)",
     activite:"soin",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "",
     "Durée": "19sec"
   },
@@ -658,7 +658,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "référence à soi",
+    theme: "référence_à_soi",
     "Mots clés": "train",
     "Durée": "8sec"
   },
@@ -671,7 +671,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "émergence temporalité",
+    theme: "émergence_temporalité",
     "Mots clés": "nager, sauter",
     "Durée": "12sec"
   },
@@ -736,7 +736,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "soin (change)",
     activite:"soin",
-    theme: "premiers mots",
+    theme: "premiers_mots",
     "Mots clés": "vroum",
     "Durée": "25sec"
   },
@@ -788,7 +788,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "référence à soi",
+    theme: "référence_à_soi",
     "Mots clés": "escalier, peur",
     "Durée": "43sec"
   },
@@ -801,7 +801,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "référence à soi",
+    theme: "référence_à_soi",
     "Mots clés": "mets là",
     "Durée": "51sec"
   },
@@ -827,7 +827,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "référence à soi",
+    theme: "référence_à_soi",
     "Mots clés": "allez Madeleine",
     "Durée": "27sec"
   },
@@ -840,7 +840,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "référence à soi",
+    theme: "référence_à_soi",
     "Mots clés": "moi",
     "Durée": "9sec"
   },
@@ -853,7 +853,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "livre",
     activite:"livre",
-    theme: "référence à soi",
+    theme: "référence_à_soi",
     "Mots clés": "aussi Anaé, hamster",
     "Durée": "13sec"
   },
@@ -879,7 +879,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "livre",
     activite:"livre",
-    theme: "référence à soi",
+    theme: "référence_à_soi",
     "Mots clés": "comme Anaé",
     "Durée": "9sec"
   },
@@ -892,7 +892,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "jeu symbolique (coucou caché)",
     activite:"jeu_symbolique",
-    theme: "référence à soi",
+    theme: "référence_à_soi",
     "Mots clés": "il est où Anaé",
     "Durée": "11sec"
   },
@@ -905,7 +905,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "livre",
     activite:"livre",
-    theme: "référence à soi",
+    theme: "référence_à_soi",
     "Mots clés": "c'est Anaé, cassé",
     "Durée": "17sec"
   },
@@ -970,7 +970,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "référence à soi",
+    theme: "référence_à_soi",
     "Mots clés": "moi toute seule",
     "Durée": "30sec"
   },
@@ -983,7 +983,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "référence à soi",
+    theme: "référence_à_soi",
     "Mots clés": "moi je",
     "Durée": "15sec"
   },
@@ -996,7 +996,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "jeu symbolique (train)",
     activite:"jeu_symbolique",
-    theme: "émergence temporalité",
+    theme: "émergence_temporalité",
     "Mots clés": "cassé",
     "Durée": "17sec"
   },
@@ -1022,7 +1022,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "poupée",
     activite:"poupée_peluche_figurines",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "belle",
     "Durée": "8sec"
   },
@@ -1048,7 +1048,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "émergence temporalité",
+    theme: "émergence_temporalité",
     "Mots clés": "fermé",
     "Durée": "5sec"
   },
@@ -1152,7 +1152,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "cuisiner",
     activite:"",
-    theme: "énoncés complexes",
+    theme: "énoncés_complexes",
     "Mots clés": "grande",
     "Durée": "24sec"
   },
@@ -1165,7 +1165,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "énoncés complexes",
+    theme: "énoncés_complexes",
     "Mots clés": "détective",
     "Durée": "20sec"
   },
@@ -1178,7 +1178,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "poupée",
     activite:"poupée_peluche_figurines",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "mettre",
     "Durée": "1min04"
   },
@@ -1191,7 +1191,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "poupée",
     activite:"poupée_peluche_figurines",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "enlever",
     "Durée": "19sec"
   },
@@ -1204,7 +1204,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "repas",
     activite:"repas",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "",
     "Durée": "57sec"
   },
@@ -1217,7 +1217,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "jeu de société (domino)",
     activite:"jeu_de_société",
-    theme: "énoncés complexes",
+    theme: "énoncés_complexes",
     "Mots clés": "fermer",
     "Durée": "25sec"
   },
@@ -1230,7 +1230,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "énoncés complexes",
+    theme: "énoncés_complexes",
     "Mots clés": "manteau",
     "Durée": "55sec"
   },
@@ -1243,7 +1243,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "peluche",
     activite:"poupée_peluche_figurines",
-    theme: "énoncés complexes",
+    theme: "énoncés_complexes",
     "Mots clés": "souris, bruit",
     "Durée": "1min59"
   },
@@ -1256,7 +1256,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "poupée",
     activite:"poupée_peluche_figurines",
-    theme: "énoncés complexes",
+    theme: "énoncés_complexes",
     "Mots clés": "c'est moi qui, nœud",
     "Durée": "27sec"
   },
@@ -1269,7 +1269,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "énoncés complexes",
+    theme: "énoncés_complexes",
     "Mots clés": "c'est moi qui, appuie, café, oh hisse",
     "Durée": "56sec"
   },
@@ -1282,7 +1282,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "figurines",
     activite:"poupée_peluche_figurines",
-    theme: "énoncés complexes",
+    theme: "énoncés_complexes",
     "Mots clés": "",
     "Durée": "1min09"
   },
@@ -1295,7 +1295,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "énoncés complexes",
+    theme: "énoncés_complexes",
     "Mots clés": "neige, elle avait fondu, parce que",
     "Durée": "22sec"
   },
@@ -1308,7 +1308,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "énoncés complexes",
+    theme: "énoncés_complexes",
     "Mots clés": "chaussures",
     "Durée": "28sec"
   },
@@ -1321,7 +1321,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "livre",
     activite:"livre",
-    theme: "énoncés complexes",
+    theme: "énoncés_complexes",
     "Mots clés": "chatte, oreille rose",
     "Durée": "18sec"
   },
@@ -1334,7 +1334,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "énoncés complexes",
+    theme: "énoncés_complexes",
     "Mots clés": "koala",
     "Durée": "26sec"
   },
@@ -1347,7 +1347,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "énoncés complexes",
+    theme: "énoncés_complexes",
     "Mots clés": "copains, mais",
     "Durée": ""
   },
@@ -1360,7 +1360,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "énoncés complexes",
+    theme: "énoncés_complexes",
     "Mots clés": "",
     "Durée": ""
   },
@@ -3596,7 +3596,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "poupée",
     activite:"poupée_peluche_figurines",
-    theme: "premiers mots",
+    theme: "premiers_mots",
     "Mots clés": "bébé",
     "Durée": "1min50"
   },
@@ -3609,7 +3609,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "poupée",
     activite:"poupée_peluche_figurines",
-    theme: "premiers mots",
+    theme: "premiers_mots",
     "Mots clés": "bébé",
     "Durée": "1min50"
   },
@@ -3765,7 +3765,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "",
     activite:"",
-    theme: "première syntaxe",
+    theme: "première_syntaxe",
     "Mots clés": "clé",
     "Durée": "14sec"
   },
@@ -3791,7 +3791,7 @@ var valange_data = [
     langue: "fr",
     activite_real: "repas (goûter)",
     activite:"repas",
-    theme: "premiers mots",
+    theme: "premiers_mots",
     "Mots clés": "chat, ça",
     "Durée": "12sec"
   },
