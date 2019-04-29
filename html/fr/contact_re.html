@@ -30,44 +30,43 @@
       <h2 class="section-heading" style="text-align:center;"><a style="color:#ed6e4e;">R</a>estons en contact !</h2>
       <p class="section-subheading text-muted" style="text-align:center; ">Recevez la lettre d’information Valange.</p>
       <br>
-      <form role="form" method="post" id="reused_form" enctype=&quot;multipart/form-data&quot;>
-        <div class="row">
-          <div class="col-lg-4 col-md-4">
-            <div class="form-group">
-              <label for="name"><Strong>Titre :</Strong></label>
-              <input type="text" class="form-control" id="title" name="title" style="width:90%;"
-                placeholder="Entrez votre titre *">
-            </div>
-            <div class="form-group">
-              <label for="name"><Strong>Nom et prénom :</Strong></label>
-              <input type="text" class="form-control" id="name" name="name" style="width:90%;"
-                placeholder="Entrez votre nom et prénom *">
-            </div>
-            <div class="form-group">
-              <label for="email"><Strong>Email :</Strong></label>
-              <input type="email" class="form-control" id="email" name="email" style="width:90%;"
-                placeholder="Entrez votre adresse email *">
-            </div>
+      <form role="form" method="post" id="reused_form" enctype=&quot;multipart/form-data&quot;> <div class="row">
+        <div class="col-lg-4 col-md-4">
+          <div class="form-group">
+            <label for="name"><Strong>Titre :</Strong></label>
+            <input type="text" class="form-control" id="title" name="title" style="width:90%;"
+              placeholder="Entrez votre titre *">
           </div>
-          <div class="col-lg-8 col-md-8">
-            <label class="control-label" for="inputPhone"><Strong>Message :</Strong></label>
-            <textarea class="span5" rows="8" id="inputMessage" name="text" style="width:90%;"
-              placeholder="Entrez votre message *"></textarea>
+          <div class="form-group">
+            <label for="name"><Strong>Nom et prénom :</Strong></label>
+            <input type="text" class="form-control" id="name" name="name" style="width:90%;"
+              placeholder="Entrez votre nom et prénom *">
+          </div>
+          <div class="form-group">
+            <label for="email"><Strong>Email :</Strong></label>
+            <input type="email" class="form-control" id="email" name="email" style="width:90%;"
+              placeholder="Entrez votre adresse email *">
           </div>
         </div>
-        <div class="form-group">
-          <button type="submit" class="btn btn-lg btn-success pull-right" id="btnContactUs">Envoyer le message</button>
+        <div class="col-lg-8 col-md-8">
+          <label class="control-label" for="inputPhone"><Strong>Message :</Strong></label>
+          <textarea class="span5" rows="8" id="inputMessage" name="text" style="width:90%;"
+            placeholder="Entrez votre message *"></textarea>
         </div>
-        </br><a style="text-align:center;"><img src="../../common/img/background2.png" style="width:90%;"></a>
-        <div id="success_message" style="width:100%; height:100%; display:none; ">
-          <h3>Votre message a bien été envoyé !</h3>
-        </div>
-        <div id="error_message" style="width:100%; height:100%; display:none; ">
-          <h3>Erreur</h3> Désolé il y a eu une erreur dans l'envoi de votre message.
-        </div>
-      </form>
     </div>
-    <include src="footer.html"></include>
+    <div class="form-group">
+      <button type="submit" class="btn btn-lg btn-success pull-right" id="btnContactUs">Envoyer le message</button>
+    </div>
+    </br><a style="text-align:center;"><img src="../../common/img/background2.png" style="width:90%;"></a>
+    <div id="success_message" style="width:100%; height:100%; display:none; ">
+      <h3>Votre message a bien été envoyé !</h3>
+    </div>
+    <div id="error_message" style="width:100%; height:100%; display:none; ">
+      <h3>Erreur</h3> Désolé il y a eu une erreur dans l'envoi de votre message.
+    </div>
+    </form>
+  </div>
+  <include src="footer.html"></include>
   </div> <!-- /container -->
 
   <!-- Optional JavaScript -->
@@ -76,7 +75,93 @@
   <script src="../../lib/jquery/jquery.min.js"></script>
   <script src="../../lib/popper/popper.js"></script>
   <script src="../../lib/bootstrap/js/bootstrap.min.js"></script>
-  <script src="../../common/form.js"></script>
+  <script>
+    function after_form_submitted_execute(data) {
+      if (data.result == 'success') {
+        $('form#reused_form').hide();
+        $('#success_message').show();
+        $('#error_message').hide();
+      }
+      else {
+        $('#error_message').append('<ul></ul>');
+
+        jQuery.each(data.errors, function (key, val) {
+          $('#error_message ul').append('<li>' + key + ':' + val + '</li>');
+        });
+        $('#success_message').hide();
+        $('#error_message').show();
+
+        //reverse the response on the button
+        $('button[type="button"]', $form).each(function () {
+          $btn = $(this);
+          label = $btn.prop('orig_label');
+          if (label) {
+            $btn.prop('type', 'submit');
+            $btn.text(label);
+            $btn.prop('orig_label', '');
+          }
+        });
+
+      }
+    }
+    function after_form_submitted(data) {
+      setTimeout( function () { after_form_submitted_execute(data) }, 1000);
+    }
+
+    function isValidEmailAddress(emailAddress) {
+      var pattern = /^([a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+(\.[a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+)*|"((([ \t]*\r\n)?[ \t]+)?([\x01-\x08\x0b\x0c\x0e-\x1f\x7f\x21\x23-\x5b\x5d-\x7e\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|\\[\x01-\x09\x0b\x0c\x0d-\x7f\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))*(([ \t]*\r\n)?[ \t]+)?")@(([a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.)+([a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.?$/i;
+      return pattern.test(emailAddress);
+    }
+
+    $('#reused_form').submit(function (e) {
+      e.preventDefault();
+      // Check values
+      // title
+      var v = $('input[name="title"]');
+      var vv = v.val();
+      if (vv.length > 80) v.val(vv.substr(0, 80));
+      // name
+      v = $('input[name="name"]');
+      vv = v.val();
+      if (vv.length > 80) v.val(vv.substr(0, 80));
+      // message
+      v = $('textarea[name="text"]');
+      vv = v.val();
+      if (vv.length > 1200) {
+        window.alert("Le texte du message est limité à 1200 caractères.");
+        v.val(vv.substr(0, 1200));
+      }
+      // email
+      v = $('input[name="email"]');
+      vv = v.val();
+      if ( !isValidEmailAddress(vv) ) {
+        window.alert('Adresse email invalide: veuillez la corriger');
+        return;
+      }
+
+      $form = $(this);
+      //show some response on the button
+      $('button[type="submit"]', $form).each(function () {
+        $btn = $(this);
+        $btn.prop('type', 'button');
+        $btn.prop('orig_label', $btn.text());
+        $btn.text('Envoi ...');
+      });
+
+      var formdata = new FormData(this);
+      $.ajax({
+        type: "POST",
+        url: '../../common/sendmail.php',
+        data: formdata,
+        success: after_form_submitted,
+        dataType: 'json',
+        processData: false,
+        contentType: false,
+        cache: false
+      });
+
+    });
+  </script>
 
 </body>
 
