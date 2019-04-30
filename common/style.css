@@ -184,3 +184,7 @@ output:after {
 
 .img-circle { height: 6vh; }
 .img-rounded { height: 8vh; }
+
+#ortolang1 {
+  width: 30vw;
+}
