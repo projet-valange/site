@@ -5,3 +5,4 @@
 *.mpg
 *.zip
 */depository/*
+node_modules/*
