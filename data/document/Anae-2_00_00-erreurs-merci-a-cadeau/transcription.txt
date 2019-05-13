@@ -1,8 +1,0 @@
-<ul style="list-style-type:none">
-<li>	act	Aliyah donne un cadeau</li>
-<li>	act	Anaé prend le paquet qui lui est tendu par Aliyah</li>
-<li>MERE	qu' est-ce-qu' on dit ?</li>
-<li>ANAE	merci !</li>
-<li>MERE	merci qui ?</li>
-<li>ANAE	merci à cadeau !</li>
-</ul>

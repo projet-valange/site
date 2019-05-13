@@ -1,5 +1,0 @@
-<ul style="list-style-type:none">
-<li>Mère	dove siamo stati al mare ?</li>
-<li>	(on est allé où à la mer ?)</li>
-<li>Antoine :	à la plage</li>
-</ul>

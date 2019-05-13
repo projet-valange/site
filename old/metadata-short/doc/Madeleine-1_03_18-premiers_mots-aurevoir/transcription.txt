@@ -1,0 +1,13 @@
+MADELEINE	yy yy.
+	pho	[aga aʃ]
+	act	Madeleine ferme le portail puis s’en va
+MADELEINE	au (re)voir.
+	pho	[ovwa:æ]
+	gpx	Madeleine se retourne et fait un signe de la main en regardant le
+	portail
+MADELEINE	ah [= ! crie].
+	pho	[a:]
+	com	intonation montante
+	act	Madeleine agite sa main
+OBS	A qui tu dis au revoir ?
+OBS	A moi peut-être ?

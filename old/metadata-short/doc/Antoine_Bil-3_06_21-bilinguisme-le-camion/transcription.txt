@@ -1,0 +1,4 @@
+Sandra:	quello li verde è un camion ?
+	(le vert c’est un camion ?)
+Antoine	si quello è anche un camion.	(en indiquant le camion dont il parle)
+	(oui, celui-là c’est aussi un camion)

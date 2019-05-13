@@ -1,0 +1,7 @@
+MADELEINE	attends.
+	pho	[tatɑ̃]
+OBS	t(u) es en ligne là ?
+MADELEINE	attends maman !
+	pho	[atɑ̃ mamɑ̃]
+	com	forte sur un ton agacé.
+	act	CHI retire la main de sa mère de la souris.

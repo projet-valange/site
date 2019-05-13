@@ -1,0 +1,13 @@
+*CHI:	yyy .
+%pho:	lataea:
+%act:	CHI tient un cube de la main gauche et le regarde fixement, elle
+	tient un autre cube de la main droite
+*CHI:	yyy .
+%pho:	hə
+*CHI:	yyy .
+%pho:	tea
+*CHI:	yyy .
+%pho:	te:ə:a
+%act:	CHI lâche le cube qu'elle tenait de la main gauche, passe
+	l'autre cube de la main droite à la main gauche et le
+	pose sur le gros cube

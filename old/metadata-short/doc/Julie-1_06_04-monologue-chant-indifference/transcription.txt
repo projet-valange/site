@@ -1,0 +1,28 @@
+1879	*CHI:	yy [=! petit cri] .
+1880	%pho:	a
+1881	*BRO:	yy@fs veut ma tour <zə@fs veux faire une tour> [=! pleure] .
+1882	%pho:	ɛ vø ma tuʁ zə vø fɛʁ yn tu
+1883	%int:	elle/2/-je/3/
+1884	%act:	BRO se lève et se met à pleurer
+1885	*MOT:	mais Ulysse c'est pas parce+que Julie est assise avec toi que tu sais pas faire de tour .
+1886	*BRO:	0 [=! pleure] .
+1887	*MOT:	tu veux que je vienne faire la tour avec toi ?
+1888	*BRO:	+< <xx tour> [=! pleure] .
+1889	%pho:	X tu
+1890	%int:	tour/2/-tout/2/
+1891	*MOT:	qu'est+ce+que tu dis ?
+1892	*BRO:	<yy@fs veux faire une tour> [=! pleure] .
+1893	%pho:	jə vø fɛ yn tuʁ
+1894	*MOT:	mais y+a pas de problème tu veux que je vienne la faire avec toi ?
+1895	*BRO:	oui .
+1896	%pho:	we
+1897	*CHI:	yy [=! chantonne] .
+1898	%pho:	lajalaja
+1899	*MOT:	+< mais maman vient t' aider seulement si t(u) arrêtes de pleurer .
+1900	*MOT:	tu arrêtes de pleurer ?
+1901	*BRO:	0 [=! petite toux] .
+1902	*MOT:	tu arrêtes de pleurer ?
+1903	*BRO:	oui .
+1904	%pho:	wi
+1905	*MOT:	d'accord .
+1906	*MOT:	regarde je dépose la caméra .

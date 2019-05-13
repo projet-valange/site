@@ -1,0 +1,90 @@
+582	*CHI:	comme ça elle sera tout avec des nouveaux habits tout propres .
+583	%com:	MOT quitte la pièce apparemment sans en aviser CHI; étant de dos, on peut supposer que CHI ne s'en est pas aperçue et que sa production est toujours dirigée vers MOT
+584	*CHI:	parce que maintenant elle a gradé pendant tous les jours celui là .
+585	*CHI:	maintenant elle va garder le petit tshirt de canard .
+586	*CHI:	+, parce que j(e) vais lui mettre .
+587	*CHI:	mais i(l) faut qu(e) je lui trouve un p(e)tit pantalon .
+588	*CHI:	0 .
+589	%act:	en l'absence de réponse de MOT, CHI se retourne pour vérifier qu'elle est toujours dans la pièce
+590	*CHI:	oh elle est partie .
+591	%mon:	vrai monologue vu que CHI vient de constater l'absence de MOT, cette production est clairement dirigée vers elle même
+592	*CHI:	xxx [=! chantonne].
+593	*CHI:	pourquoi tu fais ça ?
+594	%mon:	CHI initie un dialogue avec sa poupée qu'elle fait parler
+595	*CHI:	xxx mon pyjama préféré .
+596	*CHI:	parce que tu dois te changer aujourd'hui .
+597	%mon:	CHI parle à sa poupée dans le dialogue initié
+598	%com:	elle adapte sa voix à la représentation qu'elle se fait d'une interaction avec un bébé
+599	*CHI:	comme ça tu seras tout beau .
+600	*CHI:	<comme ça tu seras xxx> [=! chuchote].
+601	*CHI:	c'est celui de canard tu as .
+602	*CHI:	xxx .
+603	*CHI:	je préfère le t shirt .
+604	%mon:	dans son dialogue monologué CHI parle pour elle puis le bébé à tour de rôle, en modifiant les voix et les productions
+605	*CHI:	mais je l' avais dit à ma fête d' anniversaire .
+606	%com:	le sujet de l'anniversaire est très présent dans le quotidien car c'est bientôt l'anniversaire de CHI; en attendant elle dit souvent que c'est l'anniversaire de Camille, sa poupée
+607	*CHI:	mais c'est ton anniversaire Camille .
+608	*CHI:	ma [/] ma petite Camille xxx préférée .
+609	*CHI:	0 [=! tousse].
+610	*CHI:	c'est mon anniversaire .
+611	*CHI:	joyeux anniversaire .
+612	*CHI:	+, pour moi et aussi joyeux anniversaire .
+613	*CHI:	au dodo .
+614	%com:	doute sur cet énoncé
+615	*CHI:	attends j(e) vais essayer d(e) trouver un autre pantalon .
+616	%act:	CHI pose la poupée sur le sol
+617	*CHI:	wah .
+618	*CHI:	xxx .
+619	%act:	CHI dégage les jouets du coffre dans lequel sont rangés les vêtements car elle ne peut pas l'ouvrir
+620	*CHI:	0 [=! petits bruits d'effort].
+621	*CHI:	0 [=! bruit d'effort].
+622	%act:	CHI ouvre le coffre
+623	*CHI:	0 [=! petit bruit].
+624	%act:	CHI cherche dans le coffre, elle tient le couvercle avec sa tête
+625	*CHI:	voilà .
+626	*CHI:	un petit pantalon qu' on a trouvé .
+627	%mon:	utilisation du "on" en monologue
+628	*CHI:	+, 0 [=! petit bruit] directement dans l(e) bac .
+629	*CHI:	petit pantalon pour toi .
+630	%act:	CHI s'assied par terre pour habiller sa poupée
+631	*CHI:	un pantalon pour moi .
+632	%com:	CHI modifie sa voix pour parler à la place du bébé
+633	*CHI:	vais me changer .
+634	*CHI:	oh tu t' es déjà changée regarde .
+635	*CHI:	je mets ton petit pantalon puis tu seras prête .
+636	*CHI:	tu vois ?
+637	%mon:	CHI poursuit son dialogue monologué où elle parle pour elle en tant que maman puis pour le bébé
+638	*CHI:	oh ouais .
+639	*CHI:	bon anniversaire .
+640	*CHI:	bon anniversaire Camille .
+641	*CHI:	bon anniversaire Camille .
+642	*CHI:	bon anniversaire hein Camille petite bébé .
+643	*CHI:	ah .
+644	*CHI:	0 [=! petit bruit] quel âge j' ai maintenant ?
+645	*CHI:	deux ans .
+646	*CHI:	deux ans ?
+647	*CHI:	oui .
+648	*CHI:	ouais deux ans .
+649	*CHI:	deux ans deux ans .
+650	*CHI:	vive Camille a deux ans .
+651	%int:	vive/3/
+652	*CHI:	p(e)tite Camille a deux ans .
+653	%int:	p(e)tite Camille/3/
+654	*CHI:	0 [=! petit bruit].
+655	*CHI:	<Camille a deux ans> [=! chantonne] (.) aujourd'hui .
+656	*CHI:	xxx .
+657	*CHI:	<xxx qui fête> [=! chantonne].
+658	*CHI:	<aujourd'hui aujourd'hui> [=! chantonne].
+659	*CHI:	+, <c'est ton anniversaire> [=! chantonne] !
+660	*CHI:	papa .
+661	%mon:	c'est le bébé que fait parler CHI qui appelle vu que le père est absent
+662	%com:	même remarque que plus tôt, le père est en déplacement professionnel, CHI y fait référence dans son jeu
+663	*CHI:	c' était mon anniversaire .
+664	*CHI:	hum ouais .
+665	*CHI:	0 .
+666	*CHI:	0 [=! petits bruits] 0 [=! renifle] et hop .
+667	*CHI:	0 [=! petits bruits].
+668	*CHI:	0 .
+669	%act:	CHI a habillé son bébé et se relève
+670	*CHI:	joyeux anniversaire .
+671	%mon:	CHI est toujours dans son dialogue monologué avec son bébé

@@ -1,0 +1,10 @@
+	act	Anaé essaye d'ouvrir la compote .
+MERE	c'est toi qui l'ouvres toute seule ?
+ANAE	non j'arrive pas, y a y a, un petit bouchon .
+	pho	[nɔ̃ z aʁiv pa ja ja ɛ̃ pəti bɔ̃ʃɔ̃]
+	act	Anaé donne la compote à Mère .
+MERE	y a un petit bouchon !
+MERE	et voilà !
+	act	Mère ouvre la compote
+MERE	hé [/] hé [/] hé [/] hé qu' est-ce qu' on dit ?
+ANAE	(mer)ci maman .

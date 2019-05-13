@@ -1,0 +1,13 @@
+MERE	ah la grosse faim.
+MERE	une énorme faim !
+THEOPHILE	je vais manger des olives et du jambon !
+	pho	[ʒə ve mɑ̃ze de oliːv e dy zɑ̃bɔ̃]
+	act	THEOPHILE secoue la tête.
+MERE	et du bro+….
+THEOPHILE	0.
+	act	CHI lève un bras.
+THEOPHILE	++ (bro)coli !
+	pho	[pɔliː]
+MERE	brocoli [=! rit] ?
+	pho	[bʁɔpɔli]
+THEOPHILE	je vais manger tout ça moi !

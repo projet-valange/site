@@ -1,0 +1,31 @@
+1827	*MOT:	ah+la+la .
+1828	*BRO:	yy .
+1829	%pho:	mɑ̃
+1830	*MOT:	non quoi ?
+1831	*BRO:	z@fs veux pas aller faire dodo .
+1832	%pho:	z vø pa ale fɛʁ dodo
+1833	*MOT:	hé ben tu arrêtes de pleurnicher alors tu montres que tu es un grand garçon qui n' est pas fatigué .
+1834	%act:	MOT part chercher elle même le mouchoir
+1835	*BRO:	0 [=! gémit] [=! bruits de bouche] .
+1836	*MOT:	sinon je me fâche .
+1837	*MOT:	allez souffle .
+1838	*MOT:	ferme la bouche et souffle par le nez .
+1839	*CHI:	+< 0 [=! tousse] .
+1840	%act:	CHI fait un geste des mains vers le nez comme si elle imitait BRO en train de se moucher
+1841	*MOT:	encore .
+1842	%sit:	CHI lèche sa main
+1843	*MOT:	encore !
+1844	*MOT:	et tu ne tires pas sur le fil hein .
+1845	*MOT:	parce+que ça ce serait la catastrophe .
+1846	*MOT:	allez stop !
+1847	*MOT:	souffle .
+1848	*BRO:	0 [=! pleurniche] .
+1849	*MOT:	oh+la+la Ulysse commence à faire des grosses bêtises ici .
+1850	*BRO:	non .
+1851	%pho:	nɑ̃
+1852	*MOT:	et toi Julie t(u) as le nez qui coule ?
+1853	%sit:	CHI regarde MOT
+1854	*MOT:	oh+la+la vous avez un rhume hein les gars .
+1855	%act:	MOT essuie le nez de CHI et regarde dans le mouchoir
+1856	*CHI:	+< yy .
+1857	%pho:	bapa

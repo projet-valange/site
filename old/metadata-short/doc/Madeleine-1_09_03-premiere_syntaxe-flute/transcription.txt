@@ -1,0 +1,17 @@
+MERE	tu veux une partition peut+être ?
+act	sa mère part chercher une partition .
+OBS	ah !
+MERE	<j(e) sais pas moi hein [=! rit] > [>] !
+OBS	<0 [=! rit] > [<] .
+MADELEINE	a@fs papier !
+pho	[a papje]
+mod	[a papje]
+MADELEINE	ə@fs veux un papier ə@fs la flûte .
+pho	[ə və œ͂ papje ə la flyt]
+mod	[X vø œ̃ papje X la flyt]
+MADELEINE	<flûte> [>] .
+pho	[fyt]
+mod	[flyt]
+MERE	<on le met là> [<] ?
+act	MERE apporte la partition .
+MERE	tu joues d(e) cette musique ?

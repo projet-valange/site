@@ -1,0 +1,7 @@
+Mère	senti a cosa ti piace giocare soprattutto quando sei a scuola ?
+	(écoute, à quoi tu aimes le plus jouer quand tu es à l’école ?)
+Antoine	con le miei amici [\\] con i miei (ami)si [\\] avec le miei amici.
+	(avec mes amis, avec mes amis, avec mes amis)
+%phon:	amici avec accent sur dernière voyelle
+Mère	con i tuoi amici.
+	(avec tes amis).

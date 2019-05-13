@@ -1,0 +1,6 @@
+act	Anaé vient de goûter.
+MERE	hop on essuie la bouche
+ANAE	xxx
+MERE	oh là là oh là là elle est sale cette petite fille wah qu'elle est sale
+sit	Anaé proteste
+MERE oh qu' elle est sale cette petite fille

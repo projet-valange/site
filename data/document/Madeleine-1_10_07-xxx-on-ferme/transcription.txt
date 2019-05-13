@@ -1,9 +1,0 @@
-<ul style="list-style-type:none">
-<li>MERE	eh bah y a tout le monde.</li>
-<li>MADELEINE	ferme.</li>
-<li>	pho	[fɛm]</li>
-<li>	act	Madeleine ferme le livre qu’elle vient de finir de lire avec sa mère.</li>
-<li>	Son geste est effectué en même temps qu’elle parle.</li>
-<li>MERE	on ferme.</li>
-<li>	act	la mère de Madeleine confirme et complète ce que dit sa fille.</li>
-</ul>

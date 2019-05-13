@@ -1,0 +1,61 @@
+2523	*MOT:	boum .
+2524	%sit:	CHI avance avec son chariot puis chute avec son chariot
+2525	*MOT:	boum .
+2526	%sit:	CHI essaie de relever son chariot mais il lui échappe des mains
+2527	*BRO:	moi zə@fs xx le volant comme xx .
+2528	%pho:	mwa zə X lə vɔlɑ̃ kɔm X
+2529	%sit:	CHI relève son chariot le laisse et s'éloigne
+2530	*CHI:	+< yy yy .
+2531	%pho:	vu vu
+2532	%act:	CHI frappe des mains
+2533	*BRO:	ça coûte de l' argent .
+2534	%pho:	sa kut də l aʁzɑ̃
+2535	%sit:	CHI prend un livre d'images
+2536	*CHI:	meuh@o .
+2537	%pho:	mœm
+2538	%act:	CHI ouvre le livre
+2539	*MOT:	qu' est+ce+qui coûte de l' argent ?
+2540	*CHI:	meuh@o .
+2541	%pho:	møhː
+2542	*BRO:	+< xx .
+2543	*MOT:	ouh+la .
+2544	%sit:	CHI marche et perd un peu l'équilibre
+2545	*CHI:	meuh@o .
+2546	%pho:	møːø
+2547	%act:	CHI se dirige vers MOT en tenant le livre
+2548	*CHI:	meuh@o .
+2549	%pho:	møː
+2550	*MOT:	meuh@o ?
+2551	*CHI:	+< meuh@o .
+2552	%pho:	møː
+2553	%act:	CHI regarde le livre
+2554	*MOT:	mais c' [/] c'est une girafe à+nouveau .
+2555	*CHI:	meuh@o .
+2556	%pho:	møhø
+2557	*MOT:	la girafe elle fait meuh@o ?
+2558	%sit:	CHI regarde MOT
+2559	*CHI:	meuh@o .
+2560	%pho:	møøː
+2561	*BRO:	ah des xxx .
+2562	%pho:	a de X
+2563	%act:	BRO ramasse des cubes
+2564	%sit:	CHI se dirige vers MOT et lui tend le livre .
+2565	*CHI:	+< xxx .
+2566	%act:	CHI tend le livre vers MOT
+2567	*MOT:	la girafe .
+2568	%act:	MOT caresse la tête de CHI
+2569	*CHI:	xx .
+2570	%sit:	CHI se penche pour attraper le fil de la caméra
+2571	*CHI:	oh yyy .
+2572	%pho:	o tutututututu
+2573	%act:	CHI secoue le fil de la caméra
+2574	*BRO:	xxx de là (.) attends .
+2575	%pho:	X də la atɑ̃
+2576	*BRO:	xxx on fait doucement moi .
+2577	%pho:	X ɔ̃ fɛ dɔsømɑ̃ mwa
+2578	%com:	doute sur cette phrase
+2579	*CHI:	yy .
+2580	%pho:	ma
+2581	%sit:	CHI pose le livre
+2582	*CHI:	yy .
+2583	%pho:	mɑ̃

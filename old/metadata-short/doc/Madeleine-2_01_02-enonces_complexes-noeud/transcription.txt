@@ -1,0 +1,15 @@
+Madeleine veut chausser sa poupée avant de sortir en poussette.
+	act	Madeleine emporte sa poupée Sophie vers la poussette.
+OBSERVATRICE	elle va avoir froid aux pieds.
+MERE	bah oui <tu as> [/] t(u) as oublié d(e) lui mettre ses chaussures.	
+	act	Madeleine revient vers sa mère.
+MADELEINE	oui.
+MADELEINE	je veux mett(r)e tout seul
+	act	Madeleine commence en essayer d’enfiler une chaussure à la poupée.
+MERE	oh ça c'est difficile hein.
+MERE	c'est vraiment pas facile du tout.
+MERE	j'en mets une hein.
+MADELEINE	c'est moi.
+MADELEINE	c'est moi qui mets.
+MERE	pa(r)c(e) que faire un nœud, c'est vraiment pas facile.
+	act	la mère et Madeleine chaussent chacune un pied de Sophie.

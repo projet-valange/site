@@ -1,0 +1,5 @@
+act	Anaé et sa mère sont en train de regarder un livre qui est un peu abîmé
+ANAE	Babouche il est cassé
+act	montre de l'index sur le livre
+MERE	ouais il est un p(e)tit peu cassé
+ANAE	c'est Anaé qu’ [e]f cassé

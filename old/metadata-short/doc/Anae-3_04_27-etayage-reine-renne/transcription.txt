@@ -1,0 +1,17 @@
+ANAE	et [/] et puis pas la renne.	Erreur de genre (morphologie)
+ANAE	que le Père Noël.
+MERE	pas le renne .	Rectification directe
+	com	insiste sur « le »
+ANAE	la renne.	Non réussie, Anaé refuse
+	la rectification
+MERE	+< oui non le renne l'a(nimal)
+	[/] l' animal c'est le renne.	Rectification directe
+	com	insiste sur « le »	étoffée par une
+MERE	la reine c'est la femme du roi.	explication
+MERE	c'est pas pareil.
+ANAE	la reine	Semble non réussie
+MERE	hum.	Signalement de l’erreur
+ANAE	le renne.	Correction réussie
+	act	MERE rit
+MERE	donc on n'a pas mis le renne	Reprise de la mère pour fermer
+	mais on a mis quoi ?	la parenthèse pédagogique

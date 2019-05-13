@@ -1,0 +1,5 @@
+MADELEINE	fermé.
+	pho	[fɛme]
+MADELEINE	e@fs fermé.
+	pho	[e fɛme]
+	act	Madeleine manipule toujours le biberon.

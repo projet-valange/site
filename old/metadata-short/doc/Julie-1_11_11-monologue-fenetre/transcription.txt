@@ -1,0 +1,8 @@
+1784	*CHI:	yy .
+1785	%pho:	ba
+1786	%act:	CHI mange un raisin
+1787	%sit:	BAB quitte la pièce
+1788	*CHI:	elle est tout sale .
+1789	%pho:	ɛl ɛ tu sal
+1790	*CHI:	elle est tout sale .
+1791	%pho:	ɛl ɛ tu sal

@@ -1,0 +1,45 @@
+3115	*BRO:	encore un .
+3116	%pho:	ɑ̃kɔʁ œ̃̃
+3117	%com:	doute sur cet énoncé
+3118	*CHI:	+< xx .
+3119	*MOT:	encore deux p(e)tites minutes ?
+3120	*BRO:	encore un benne .
+3121	%pho:	ɑ̃kɔʁ œ̃̃ bjɛn
+3122	%int:	benne/3/ pour camion benne
+3123	*CHI:	yy .
+3124	%pho:	agɑ̃
+3125	*BRO:	+< c'était une pelle .
+3126	%pho:	setɛ yn pɛl
+3127	*BRO:	c'est comme si c'était une pelle .
+3128	%pho:	sɛ kɔm si setɛ yn pɛl
+3129	*BRO:	et ça s' écrit une pelle euh yy .
+3130	%pho:	e sa s ekʁi yn pɛl ə atik
+3131	*MOT:	comme une benne mécanique ?
+3132	*FAT:	oh c'est quoi ça Julie ?
+3133	%sit:	CHI range les personnages dans le coffre
+3134	*CHI:	yy .
+3135	%pho:	mam
+3136	%sit:	CHI met les jouets dans le coffre .
+3137	*CHI:	yy .
+3138	%pho:	əto
+3139	*BRO:	ouh+la elle elle range .
+3140	%pho:	ula ɛl ɛl ʁɑ̃s
+3141	*FAT:	bah oui elle peut ranger quand+même .
+3142	*BRO:	pourquoi ?
+3143	%pho:	puʁkwa
+3144	*FAT:	bah si elle a envie .
+3145	*BRO:	regarde maman .
+3146	%pho:	ʁəgaʁd mamɑ̃
+3147	%com:	sur un ton plaintif
+3148	%sit:	CHI continue de ranger les jouets dans le coffre .
+3149	*BRO:	elle va sortir tous les jouets .
+3150	%pho:	ɛ va sɔʁtiʁ tu lɛ zuɛ
+3151	*BRO:	y+a Julie qui est en+train+de ranger tous les jouets .
+3152	%pho:	ja zyli kj ɛ tɑ̃tʁɛ̃də ʁɑ̃ze tu lɛ zuɛ
+3153	*MOT:	bah oui ben alors c'est quoi le problème ?
+3154	*CHI:	mouton [/] mouton [/] mouton [/] mouton [/] mouton .
+3155	%pho:	wutɔ̃ wutɔ̃ utɔ̃ ɔtɔ̃ ɔtɔ̃
+3156	%sit:	CHI court vers FAT et montre un personnage
+3157	*FAT:	qu' est+ce+que t(u) as trouvé ?
+3158	*FAT:	un mouton ?
+3159	*FAT:	ça c'est chouette alors dis .

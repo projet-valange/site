@@ -1,0 +1,9 @@
+MADELEINE	yy P(oulpo) [/] Pou(l)po .
+pho	[sase p pupo]
+add	à sa mère, tourne la tête pour regarder sa mère .
+MERE	tu lui racontes ?
+MERE	tu racontes à ta poupée ?
+MADELEINE	bébé	(.) Pou(l)po .
+pho	[bebe pupo]
+mod	[bebe pulpo]
+MERE	Pou(l)po (.) et (.) Poulpette .

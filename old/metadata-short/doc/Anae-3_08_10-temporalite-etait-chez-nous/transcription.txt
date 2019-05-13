@@ -1,0 +1,20 @@
+MERE	qu'est+ce+que c'est ça ?
+	act	MERE montre une photo à ANAE
+ANAE	0 [=! bruit d'étonnement] .
+	act	ANAE prend la photo
+MERE	tu montres à Aliyah ?
+	act	MERE range le paquet de pailles
+ANAE	+< c'est quand j(e) +/.
+	pho	se kɑ̃ e
+	act	ANAE regarde la photo
+ANAE	quand j'étais dehors à +….
+	pho	kɑ̃ o ete dəɔʁ a
+	act	ANAE montre la photo à OBS
+	sit	MERE s'éloigne
+MERE	bah oui !
+MERE	c'est où ça Anaé ?
+	act	pointe la photo de l'index
+ANAE	c'était chez nous !
+	pho	/setɛ se nuː/
+	act	CHI regarde la photo en souriant
+MERE	ouais !

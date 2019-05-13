@@ -1,0 +1,8 @@
+MADELEINE	moi est plus petit .
+MADELEINE	moi l@fs ai peur .
+MADELEINE	j' ai peur de [/] euh de l' e(s)calier .
+MERE	t(u) as peur ?
+MERE	pourquoi ?
+MERE	pourquoi as-tu peur de l' escalier ?
+MADELEINE	un jour <l@fs est> [/] l@fs est tombé dans l' e(s)calier et <de mes> [//] de mon lit .
+MERE	oui parce que deux jours après elle est tombée d(e) son lit .

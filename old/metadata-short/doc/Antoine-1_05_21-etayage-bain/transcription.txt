@@ -1,0 +1,5 @@
+MERE	oui on va aller dans le bain maint(e)nant ?
+ANTOINE	bain
+	pho	[ba]
+MERE	bain ?
+MERE	on va dans le bain ?

@@ -1,0 +1,10 @@
+MERE	et voilà !
+ANAE	habille !
+	pho	[abij]
+	act	CHI prend la poupée
+MERE	on l'habille !
+ANAE	e@fs belle !
+	pho	[e bɛl]
+	act	ANAE tient sa poupée devant elle et la regarde en souriant,	tout en repartant à l'endroit où elle était
+MERE	elle est belle ouais !
+	sit	rire de la MERE

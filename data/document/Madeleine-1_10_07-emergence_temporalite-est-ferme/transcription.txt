@@ -1,7 +1,0 @@
-<ul style="list-style-type:none">
-<li>MADELEINE	fermé.</li>
-<li>	pho	[fɛme]</li>
-<li>MADELEINE	e@fs fermé.</li>
-<li>	pho	[e fɛme]</li>
-<li>	act	Madeleine manipule toujours le biberon.</li>
-</ul>

@@ -1,0 +1,24 @@
+PERE	regarde (.) on la met là .
+act	met la clé dans la serrure.
+PERE	et après tu tournes (.) comme ça !
+PERE	vas+y .
+PERE	comme ça .
+gpx	geste de la main .
+PERE	voilà !
+THEOPHILE	0 .
+act	THEOPHILE tourne ma clé.
+PERE	bravo oui !
+THEOPHILE	0 .
+act	THEOPHILE ouvre le porte de la maison.
+THEOPHILE	yyy !
+pho	natepo
+THEOPHILE	yyy !
+pho	nadøvu
+THEOPHILE	0 .
+act	CHI boit et crache.
+THEOPHILE	qui est+ce+qui t' as appris ça ?
+PERE	c'est papi ?
+THEOPHILE	eu@fs papy a@fs vroumvroum@c !
+pho	ə pepe a vʁumvʁum
+PERE	ah t(u) as fait de la vroumvroum@c avec Papi hein !
+PERE	tous les soirs !

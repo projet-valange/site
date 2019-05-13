@@ -1,6 +1,0 @@
-<ul style="list-style-type:none">
-<li>%act: MOT prend quelque chose dans la boîte</li>
-<li>*MOT: wouah@i !</li>
-<li>*CHI: c'est à moi tout ça [=! sourit] !</li>
-<li>*CHI: ça s(e)ra pas pour mes frères [=! sourit] !</li>
-</ul>

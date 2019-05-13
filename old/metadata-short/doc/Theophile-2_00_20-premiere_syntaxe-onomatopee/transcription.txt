@@ -1,0 +1,23 @@
+THEOPHILE	xx [=! pleurniche] ?
+act	CHI regarde OBS avec geste de la main ouverte.
+OBSERVATEUR	qu' est+ce+que tu cherches ?
+THEOPHILE	0 .
+act	CHI regarde OBS.
+THEOPHILE	yy vroumvroum@c .
+pho	je vʁumvʁum.
+PERE	<xx> [>] le vroumvroum@c ?
+OBSERVATEUR	<la voiture> [<] ?
+THEOPHILE	vroumvroum@c !
+pho	vʁumvʁum
+OBSERVATEUR	le vroumvroum@c ?
+THEOPHILE	0 [=! gémit] .
+OBSERVATEUR	vroumvroumvroum@o !
+THEOPHILE	0 [=! gémit] .
+PERE	quel vroumvroum@c tu veux Théophile ?
+THEOPHILE	xx .
+act	THEOPHILE prend un autre jouet.
+PERE	ah !
+PERE	ah boum dans la tête de papa !
+OBSERVATEUR	wouah@i le manège (.) c'est quoi ?
+THEOPHILE	xxx .
+act	THEOPHILE examine le jouet.

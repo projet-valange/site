@@ -1,0 +1,52 @@
+183	*CHI:	oh .
+184	%act:	CHI à genoux regarde sa tour
+185	*CHI:	elle est si grande que ça .
+186	%act:	CHI touche le haut de la tour pour en apprécier la taille
+187	%mon:	monologue
+188	*CHI:	en plus elle doit être plus grande .
+189	%mon:	monologue
+190	*CHI:	j(e) mettrai mon petit bout .
+191	%mon:	monologue
+192	*CHI:	i(l) serait immense .
+193	%mon:	monologue
+194	%act:	CHI place des cubes empilés sur la tour déjà construite sur la plaque
+195	*CHI:	que j(e) voulais jamais xxx .
+196	%mon:	monologue
+197	*CHI:	elle est déjà immense .
+198	%mon:	monologue
+199	*CHI:	un grand début pour moi .
+200	%mon:	monologue
+201	%act:	CHI touche la tour
+202	%com:	CHI utilise l'expression "grand début" par rapport à plus tôt où elle disait "un petit début"
+203	*CHI:	euh xxx grand début xxx .
+204	%com:	CHI semble bouder de l'absence de sa mère
+205	%mon:	monologue
+206	*CHI:	euh maman elle avait dit qu' elle reviendrait xxx .
+207	%mon:	monologue
+208	*CHI:	je sais pas faire ma tour toute seule .
+209	%mon:	monologue
+210	*CHI:	ce je saurais pas comment j(e) vais faire .
+211	%mon:	monologue
+212	*CHI:	j(e) peux faire l(e) faire sur le tabouret .
+213	%mon:	monologue
+214	*CHI:	si c'est encore plus grand que l(e) tabouret et moi xxx .
+215	%mon:	monologue
+216	*CHI:	xxx .
+217	%mon:	monologue
+218	*CHI:	xxx .
+219	%mon:	monologue
+220	*CHI:	xxx que je [/] je ferai plus de crises .
+221	%mon:	monologue
+222	%com:	il est interpellant que CHI fasse ce commentaire car c'est un sujet dominant dans la vie de la famille
+223	*CHI:	ça ce s(e)ra mieux mais [/] mais je pense qu' elle est déjà très grande .
+224	%act:	CHI se lève pour empiler des cubes sur la tour en construction
+225	%com:	elle doit être debout car la tour est déjà haute
+226	*CHI:	euh ben (.) j' ai plus qu' à appeler maman .
+227	%com:	CHI boude de façon visible; elle râle que MOT ne soit pas revenue
+228	%mon:	monologue
+229	*CHI:	parce que elle est déjà très grande .
+230	%mon:	monologue
+231	%act:	CHI quitte la pièce, boudeuse, les bras ballants
+232	*CHI:	0 .
+233	*CHI:	maman .
+234	*MOT:	oui ma chérie .

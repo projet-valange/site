@@ -1,0 +1,14 @@
+Sandra	ti è piaciuta la bici ?	
+	(elle t’a plu la bicyclette ?)
+Mère	racconta un po’ a Sandra della bicicletta.
+	(raconte à Sandra ce qui t’es arrivé à vélo)
+Antoine	sì.
+	(oui)
+Mère	cosa è successo ?
+	(qu’est-ce qui s’est passé ?)
+Antoine	caduto
+	(tombé)
+Sandra:	caduto [=! rit].
+	(tombé)
+Antoine	caduto dell’acqua.
+	(tombé dans l’eau)

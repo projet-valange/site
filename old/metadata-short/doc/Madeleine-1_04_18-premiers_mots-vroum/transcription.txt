@@ -1,0 +1,12 @@
+MERE	(il)+y+a trois roues .
+MADELEINE	yy@o [=! imite le bruit du moteur] .
+	pho	[ambʁumː]
+MERE	vroumvroum@o [=! imite le bruit du moteur] .
+MADELEINE	0 .
+	act	CHI remonte sur le tricycle .
+MADELEINE	yy@o [=! imite le bruit du moteur] yy .
+	pho	[amːbʁum (.) liːlida]
+	act	CHI se redresse sur le tricycle .
+MERE	oui .
+MERE	tu fais vroumvroumvroumvroumvroumvroumvroum@o
+	[=! imite le bruit du moteur] ouh plouf@o .

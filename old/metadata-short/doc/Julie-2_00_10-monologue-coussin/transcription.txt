@@ -1,0 +1,19 @@
+1509	*CHI:	+< <le coussin> [/] le coussin .
+1510	%pho:	lə kusɛ̃ lə kusɛ̃
+1511	*CHI:	0 .
+1512	*CHI:	yy .
+1513	%pho:	əlu
+1514	*CHI:	xx .
+1515	*MOT:	regarde il est là .
+1516	*MOT:	attends .
+1517	*MOT:	regarde il est là .
+1518	*MOT:	il est là ma puce viens .
+1519	*MOT:	attends tu sais quoi ?
+1520	*MOT:	de toutes façons t(u) es un+peu coincée hein là .
+1521	*MOT:	regarde .
+1522	*MOT:	là .
+1523	%act:	MOT déplace le mobilier de bébé avec lequel CHI joue
+1524	*BRO:	pourquoi on sait l(e) faire rouler ?
+1525	%pho:	puʁkwa ɔ̃ se l fɛʁ ʁule
+1526	*MOT:	tiens .
+1527	%act:	MOT tend le coussin à CHI

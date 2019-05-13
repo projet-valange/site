@@ -1,0 +1,8 @@
+MADELEINE	yy Pou(l)po .
+pho	[pu pupo]
+act	MADELEINE se lève et part avec le repose-pieds .
+MERE	oui (.) tu vas où là ?
+MADELEINE	porte Pou(l)po .
+pho	[pɔt pupo]
+mod	[pɔʁt pulpɔ]
+int	pɔt=porte/2/

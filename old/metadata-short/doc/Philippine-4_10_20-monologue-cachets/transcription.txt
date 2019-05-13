@@ -1,0 +1,4 @@
+341	%act:	CHI prend un marqueur
+342	*CHI:	avec ces cachets .
+343	%act:	CHI ouvre le marqueur avec les dents
+344	*CHI:	+, j(e) pourrai l(e) faire .

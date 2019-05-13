@@ -1,0 +1,11 @@
+MADELEINE	a@fs lait !
+pho	[a le]
+act	MADELEINE se retourne vers MOT
+MADELEINE	lait .
+pho	[le]
+mod	lɛ
+act	MADELEINE apporte le biberon et le gobelet à MOT .
+MARIE	comment ?
+MADELEINE	bébé !
+pho	[bebe]
+mod	bebe

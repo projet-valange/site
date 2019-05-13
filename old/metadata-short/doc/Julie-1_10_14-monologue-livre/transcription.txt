@@ -1,0 +1,28 @@
+1430	*MOT:	c'est quoi ça ?
+1431	*CHI:	xxx .
+1432	*MOT:	c'est +… ?
+1433	*CHI:	xxx .
+1434	*MOT:	mange ta soupe Alferd !
+1435	*MOT:	Ulysse tu veux raconter l' histoire de mange ta soupe Alfred à Julie ?
+1436	*BRO:	non .
+1437	%pho:	nɔ̃
+1438	*MOT:	non .
+1439	*CHI:	Alfred [=! crie] .
+1440	%pho:	afʁɛt
+1441	*MOT:	tu veux raconter l' histoire des deux mamys ?
+1442	*CHI:	+< Alfred [=! crie] .
+1443	%pho:	alfʁɛ
+1444	*BRO:	non .
+1445	%pho:	nɔ̃
+1446	*CHI:	Alfred [=! crie] .
+1447	%pho:	alfwɛ
+1448	*CHI:	Alfred [=! crie] .
+1449	%pho:	alfʁɛl
+1450	*BRO:	+< yyy .
+1451	%pho:	suja
+1452	*CHI:	Alfred [=! crie] .
+1453	%pho:	alfʁɛl
+1454	*CHI:	Alfred [=! crie] .
+1455	%pho:	alfʁɛl
+1456	*MOT:	boh@i dis+donc .
+1457	*MOT:	tu l' as lu à la vitesse de l' éclair .

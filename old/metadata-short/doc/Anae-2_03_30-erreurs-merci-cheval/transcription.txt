@@ -1,0 +1,5 @@
+AEL	tiens .
+	act	AEL tend un autre cheval à Anaé.
+MERE	oh il est joli celui-là !
+ANAE	merci !
+(Incomplet)

@@ -1,3 +1,0 @@
-<ul style="list-style-type:none">
-<li>A compléter</li>
-</ul>

@@ -1,0 +1,5 @@
+ANAE	[m]
+	act	tend un jouet vers Kirikou (le nom de la poupée)
+MERE	c'est pour Kirikou ?
+MERE	tu le donnes à Kirikou ?
+	act	prend le jouet et le met sur la poupée

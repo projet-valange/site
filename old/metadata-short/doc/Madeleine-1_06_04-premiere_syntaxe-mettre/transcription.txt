@@ -1,0 +1,5 @@
+Dans la cuisine, Madeleine, aidée par sa mère, essaie de déplier un bavoir roulé tenu par une ficelle.
+MERE	Hop là, ça y est, il s'est déplié
+MADELEINE	Bébé ! Mett(re) au bébé !
+act Madeleine part avec le bavoir en direction du salon, où se trouve sa poupée.
+MERE	tu vas le mettre à la poupée ?

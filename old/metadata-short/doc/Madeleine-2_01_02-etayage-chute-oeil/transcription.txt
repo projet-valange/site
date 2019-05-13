@@ -1,0 +1,27 @@
+MERE	tu racontes tout ce qu'i(l) t'est arrivé tous tes malheurs
+OBSERVATEUR	raconte moi tout ça
+MERE	qu'est-ce qu'i(l) s'est p(assé) pour ton œil ?
+OBSERVATEUR	tu es tombée ?
+MADELEINE	là.
+OBSERVATEUR	oui .
+MERE	tu es tombée où ? tu es tombée où Madeleine ?
+OBSERVATEUR	oh, ça va, ça va mieux hein quand même
+MADELEINE	dans l'e(s)calier
+MERE	dans l'escalier oui
+OBSERVATEUR	oh là là là là !
+MERE	et puis après t(u) as eu un problème … dans la bouche
+MERE	hein qu'est-ce qu'i(l) y avait dans la bouche ?
+MADELEINE	[a]f bobo.
+MERE	ho oui.
+MERE	c'était embêtant hein ?
+MADELEINE	c'est embêtant.
+MERE	ça te faisait mal !
+MERE	mais c'est fini ?
+MADELEINE	oui
+MERE	c'est guéri ?
+MADELEINE	oui
+MADELEINE	mon œil [el]f est p(r)e(sque) guéri
+	act	indique, de l'index (main droite), son œil droit.
+MADELEINE	est p(r)esque guér(i)
+MERE	presque
+MERE	presque guéri ton œil.

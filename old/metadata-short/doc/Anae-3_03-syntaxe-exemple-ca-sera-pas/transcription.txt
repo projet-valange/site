@@ -1,0 +1,4 @@
+%act: MOT prend quelque chose dans la boîte
+*MOT: wouah@i !
+*CHI: c'est à moi tout ça [=! sourit] !
+*CHI: ça s(e)ra pas pour mes frères [=! sourit] !

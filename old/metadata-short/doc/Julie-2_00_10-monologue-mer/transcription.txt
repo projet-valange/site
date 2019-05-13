@@ -1,0 +1,112 @@
+1937	*MOT:	on essaiera d' y aller peut+être ben .
+1938	*MOT:	hé tu sais aussi c(e)+qu' on n' a pas encore dit Ulysse ?
+1939	*BRO:	oui .
+1940	%pho:	wi
+1941	*MOT:	une surprise la semaine prochaine .
+1942	*MOT:	tu sais quoi ?
+1943	*BRO:	oui .
+1944	%pho:	wi
+1945	*MOT:	on va aller à la mer .
+1946	*BRO:	pourquoi ?
+1947	%pho:	puʁkwa
+1948	*MOT:	avec Cassandre .
+1949	*MOT:	et Mateo .
+1950	*BRO:	mais on va aller on va pas mettre les bottes .
+1951	%pho:	lɛ ɔ̃ va ale ɔ̃ va pa mɛt lɛ bɔt
+1952	*CHI:	+< yy .
+1953	%pho:	apʁɑ̃
+1954	*MOT:	ah tu as raison .
+1955	*MOT:	faudrait peut+être des bottes .
+1956	*MOT:	i(l) faudrait peut+être que maman achète des bottes .
+1957	*MOT:	ou bien on prendra des bottes chez mamy ou chez grand+papa et grand+maman .
+1958	*MOT:	parce+que c'est vrai que vous avez pas d(e) bottes .
+1959	*MOT:	et on ira à la mer .
+1960	*MOT:	ça c'est chouette non ?
+1961	*BRO:	mais moi <z@fs ai> [//] z@fs avais dit euh des bottes de Flash_Mc_Queen .
+1962	%pho:	mɛ mwa z e z avɛ di ə dɛ bɔt də flasmakin
+1963	*MOT:	ah oui carrément .
+1964	*MOT:	0 [=! petite toux] .
+1965	*CHI:	+< avec Cassandre .
+1966	%pho:	avɛk kasɑ̃t
+1967	*CHI:	avec Cassandre .
+1968	%pho:	avɛk kasɑ̃t
+1969	*MOT:	avec Cassandre et Mateo .
+1970	*BRO:	0 [=! bruit d'effort] c'est très lourd .
+1971	%pho:	sɛ tʁɛ luʁ
+1972	*MOT:	oui ?
+1973	*BRO:	yy .
+1974	%pho:	uwa
+1975	*MOT:	avec parrain Julie .
+1976	*CHI:	0 [=! hoche la tête] .
+1977	*MOT:	oui hein .
+1978	*BRO:	avec mon parrain aussi zə@fs voudrais .
+1979	%pho:	avɛk mɔ̃ paʁɛ̃ osi zə vudʁɛ
+1980	*MOT:	+< non avec +//.
+1981	*MOT:	oui t(u) aimerais bien avec ton parrain mais +//.
+1982	*MOT:	à la mer ce sera avec le parrain de Julie .
+1983	*MOT:	avec parrain Pierre .
+1984	*MOT:	mais Ulysse si t(u) as +//.
+1985	*CHI:	ah mais mince !
+1986	*BRO:	quoi ?
+1987	%pho:	kwa
+1988	*MOT:	complètement oublié ça .
+1989	%com:	MOT se parle à elle même
+1990	*CHI:	le parrain de Julie .
+1991	%pho:	lə paʁɛ̃ də zyli
+1992	*BRO:	complètement oublié quoi ?
+1993	%pho:	kɔ̃plɛtmɑ̃ ublije kwa
+1994	*MOT:	+< mince .
+1995	*BRO:	0 .
+1996	%act:	BRO enclenche un bruit de son jeu
+1997	*CHI:	yy caméra .
+1998	%pho:	ta tamiʁa
+1999	%int:	caméra/3/-ta/3/
+2000	*MOT:	yy prendre la caméra .
+2001	%pho:	nja pʁɑ̃t la kameʁa
+2002	*BRO:	0 .
+2003	%act:	BRO enclenche un bruit de son jeu
+2004	*CHI:	nono .
+2005	%pho:	nɔnɔ
+2006	*BRO:	0 .
+2007	%act:	BRO enclenche un bruit de son jeu de façon répétitive
+2008	*CHI:	ah le bonnet .
+2009	%pho:	a lə bɔnɛ
+2010	%act:	CHI regarde autour d'elle, elle cherche probablement le bonnet
+2011	*CHI:	yy .
+2012	%pho:	e
+2013	*BRO:	0 .
+2014	%act:	BRO enclenche un bruit de son jeu
+2015	*MOT:	Ulysse !
+2016	*MOT:	arrête s' il te plait .
+2017	*MOT:	d'accord .
+2018	*MOT:	t(u) es pas en+train+de jouer là .
+2019	*MOT:	tu fais juste du bruit .
+2020	*MOT:	c'est pas très gai .
+2021	*BRO:	mais s@fs peux appuyer sur ce bouton là ?
+2022	%pho:	mɛ s pø apwije syʁ sə butɔ̃ la
+2023	*MOT:	non maintenant ça suffit .
+2024	*MOT:	t(u) es pas en+train+d(e) jouer là .
+2025	*MOT:	t(u) as même pas pris les animaux .
+2026	*MOT:	Ulysse s' il te plait .
+2027	*BRO:	xx zə@fs vais prendre un animal .
+2028	%pho:	X zə ve pʁɑ̃t œ̃̃ nanimal
+2029	*BRO:	un zèbre .
+2030	%pho:	œ̃̃ zɛbʁ
+2031	*BRO:	0 .
+2032	%act:	BRO prend les figurines dans le bac et enclenche le bruit du jeu
+2033	*CHI:	+< xx .
+2034	*CHI:	0 .
+2035	%act:	CHI essaie de mettre le bonnet à son bébé
+2036	*CHI:	yy .
+2037	%pho:	amɔ̃
+2038	*CHI:	avec mon parrain .
+2039	%pho:	avɛk mɔ̃ paʁɑ̃
+2040	%int:	parrain/2/-parent/3/
+2041	*BRO:	+< xx .
+2042	*CHI:	avec mon parrain .
+2043	%pho:	avɛk mɔ̃ paʁɑ̃
+2044	%int:	parrain/2/-parent/3/
+2045	*MOT:	+< avec ton [/] ton parrain oui .
+2046	%com:	MOT reformule
+2047	*CHI:	yy .
+2048	%pho:	a

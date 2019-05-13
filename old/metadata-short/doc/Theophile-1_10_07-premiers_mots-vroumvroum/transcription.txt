@@ -1,0 +1,26 @@
+THEOPHILE	vroum vroum
+	pho	[œ vʁuvʁu]
+act	Théophile pointe vers son petit camion, hors camera, main ouverte
+MERE	tu veux ta vroum-vroum oui
+THEOPHILE	papa papa !
+	pho	[pupwa epupwœː]
+MERE	on va aller voir papa !
+THEOPHILE	(râle)
+	xpnt	Théophile montre son petit camion, toujours hors camera
+MERE	c'est presque fini Théophile
+THEOPHILE vroum vroum
+	pho	[vʁuvʁum]
+	xpnt	cherche à atteindre son petit camion hors camera
+MERE	mais (il) y a plein de boutons
+THEOPHILE	vroum vroum
+	pho	[vʁuvʁum]
+MERE	attend
+THEOPHILE (l)e vroum
+	pho	[œ vabʁum]
+THEOPHILE	vroum !
+	pho	[vʁuːm]
+THEOPHILE	vroum
+	pho	[vʁuːm]
+THEOPHILE:	vroum vroum
+	pho	[vʁuvʁuːm]
+MERE:	oui

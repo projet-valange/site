@@ -1,0 +1,9 @@
+MADELEINE	l'enlever manteau ?
+pho	/lo-ve-ma-∗◦tu/
+pro	MDM
+mod	l ɑ̃lve mɑ̃to
+act	CHI pointe de la main gauche e buste de OBS
+xpnt	show, avec l'index, OBS
+OBSERVATEUR	bah c'est pas un manteau c'est un pull.
+OBSERVATEUR	et tu vois j'ai un peu froid.
+OBSERVATEUR	alors je garde mon pull pour l' instant.

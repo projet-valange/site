@@ -1,0 +1,43 @@
+330	*CHI:	0 [=! sourit] [=! mimique] même Julie va voir que c'est magnifique .
+331	%int:	voir/2/-croire/2/
+332	%mon:	CHI commente pour elle même la réaction qu'elle imagine de sa soeur; intéressant de constater sourire et mimique en monologue
+333	*CHI:	xxx .
+334	%act:	CHI essaie de fermer son marqueur
+335	*CHI:	ouais .
+336	%mon:	CHI semble initier un dialogue en monologue en parlant pour les deux personnes
+337	*CHI:	j' ai compris .	
+338	*CHI:	xxx .
+339	*CHI:	très très très moche .
+340	*CHI:	mais +….
+341	%act:	CHI prend un marqueur
+342	*CHI:	avec ces cachets .
+343	%act:	CHI ouvre le marqueur avec les dents
+344	*CHI:	+, j(e) pourrai l(e) faire .
+345	*CHI:	comme c'est beau hein ?
+346	%act:	CHI reprend son dessin
+347	*CHI:	oh non .
+348	*CHI:	xxx .
+349	*CHI:	t(u) avais dit qu(e) c'est pas beau .
+350	%mon:	CHI, dans un monologue puisque seule dans la pièce, semble s'adresser à quelqu'un d'imaginaire, jouer ou rejouer un dialogue
+351	*CHI:	je n' aurai jamais une plus belle feuille xxx .
+352	*CHI:	c'est un oiseau .
+353	%com:	doute sur cet énoncé
+354	*CHI:	je suis son papa .
+355	*CHI:	vous devez dire qu' il est très beau .
+356	%com:	CHI utilise "vous" signe qu'elle semble s'adresser à quelqu'un dans ce dialogue imaginaire
+357	*CHI:	bon elle fait ça pour sa cabane magnifique .
+358	%com:	CHI semble parler d'elle même à la 3ème personne "elle" puisque le dessin de la cabane est le projet qu'elle est en train de mener
+359	*CHI:	oui mon papa a raison .
+360	%mon:	CHI semble jouer un dialogue en monologue
+361	%com:	il faut préciser que le père de CHI est absent pour raison professionnelle à ce moment d'où peut être la référence au "papa" dans ce dialogue imaginaire
+362	%act:	CHI regarde vers l'armoire
+363	*CHI:	sabre .
+364	%act:	CHI a vu son sabre dans l'armoire rangé par MOT juste avant
+365	*CHI:	sabre .
+366	%act:	CHI reprend son sabre dans l' armoire
+367	*CHI:	on range pas .
+368	%mon:	CHI signifie dans son monologue qu'elle ne souhaitait pas que MOT range son sabre
+369	*CHI:	reste avec moi .
+370	%com:	CHI s'adresse t elle à son sabre qu'elle veut garder ou à MOT qui a quitté la pièce et alors qu'on sait qu'elle n'apprécie pas de jouer et rester seule
+371	*CHI:	hum .
+372	*CHI:	non il n' en est pas question .

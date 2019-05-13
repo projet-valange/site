@@ -1,0 +1,12 @@
+	act	Madeleine a renversé les pièces du jeu de domino.
+MADELEINE	on mélange.
+	act	Madeleine mélange les pièces du jeu .
+MADELEINE	moi peux pas jouer moi ! (air dépité)
+MERE	tu peux pas jouer toute seule.
+MERE	alors !
+MADELEINE	la[filler]plus.
+MADELEINE	faut fermer.
+	act	Madeleine prend la boîte des dominos et tente de la fermer.
+MADELEINE	moi je veux fermer.
+MERE	tu veux fermer ?
+MERE	moi j’y ai jamais joué encore ! parce que Marie a gagné ça à la kermesse de l'école.

@@ -1,0 +1,10 @@
+MADELEINE	0 [=! souffle].
+MERE	regarde cette serviette elle était propre au début du repas.
+	act	MERE essuie la bouche de Madeleine puis agite la serviette de
+	Madeleine pour la lui montrer.
+MADELEINE	0 [=! souffle].
+MERE	moi je sais pas si je continue moi hein ?
+MADELEINE	yyy .
+	pho	[gɛga:]
+	xpnt	show le yaourt de l'index
+MERE	ben j(e) sais pas non.

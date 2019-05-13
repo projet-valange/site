@@ -1,0 +1,4 @@
+act	Anaé aide sa mère à débarrasser le lave-vaisselle
+ANAE	moi !
+act	Anaé se pointe de l’index
+MERE	ah nan c'est à moi !

@@ -1,0 +1,4 @@
+MERE	tiens !
+	act	Mère tend le gâteau à Anaé .
+MERE	tu le manges ton gâteau ?
+ANAE	merci.

@@ -1,0 +1,17 @@
+Sandra	e tutte queste macchinine qua è un regalo nuovo ?
+	(et toutes ces petites voitures c’est un nouveau cadeau ?)
+Antoine	sììì.
+	(ouii)
+Sandra:	0 [=! tousse]	# qual è la tua macchinina preferita ?
+	(quelle est ta voiture préférée ?)
+Antoine	vert.
+Sandra	quale ?
+	(laquelle ?)
+Antoine	la macchinina # j’ai dit la macchinina !
+Sandra	e quale ? quella gialla ?
+	(et laquelle ? la jaune ?)
+Antoine	verde.
+	(vert)
+Sandra	verde ?
+	(vert ?)
+Antoine	sì.

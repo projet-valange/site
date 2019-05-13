@@ -1,0 +1,32 @@
+	sit	ANTOINE se relève et se dirige vers le salon
+ANTOINE	musique musique.
+	pho	[mesi mesi]
+MERE	et comment on demande ?
+ANTOINE	ouvrir yy.
+	pho	[uvʁiʁ sisi]
+MERE	s' s'il+te+plaît +….
+ANTOINE	musique musique.
+	pho	[misik misik]
+--: 2mn 48s
+ANTOINE	appuie.
+	pho	[apɥiː]
+	act	CHI se faufile vers l'armoire et pousse un peu MOT
+MERE	attends ! j' arrive ! la musique !
+ANTOINE	appuie.
+	pho	[apɥiː]
+--: 2mm 53s
+ANTOINE	appuie.
+	pho	[pwi]
+	act	ANTOINE a le bras tendu et l’index pointé vers le lecteur CD
+MERE	ne t(ouche) oui appuie c'est maman qui appuie Antoine
+	c'est pas Antoine !
+	act	MERE met un cd dans le lecteur
+MERE	c'est maman qui appuie d'accord ?
+MERE	appuie.
+	pho	[apɥi]
+MERE	j' appuie oui voilà.
+ANTOINE	appuie.
+	pho	[aːpɥi]
+	act	ANTOINE tend le bras probablement pour appuyer sur le bouton
+MERE	hé hé on touche pas.
+	act	MERE écarte la main de ANTOINE

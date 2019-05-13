@@ -1,0 +1,17 @@
+2408	*CHI:	le petit .
+2409	%pho:	lə pəti
+2410	%act:	CHI regarde dans la pièce
+2411	*BRO:	xx .
+2412	%act:	BRO repart en courant vers la table basse
+2413	*MOT:	+< le petit quoi chérie ?
+2414	*CHI:	yy .
+2415	%pho:	m
+2416	%act:	CHI ramasse une figurine et retourne près de la table basse
+2417	*MOT:	oh c'est quoi ça Julie ?
+2418	*CHI:	zèbre .
+2419	%pho:	zɛb
+2420	*BRO:	+< une jeep ça .
+2421	%pho:	yn zip sa
+2422	%act:	BRO montre la voiture à MOT
+2423	*MOT:	le zèbre oui .
+2424	%com:	MOT reformule

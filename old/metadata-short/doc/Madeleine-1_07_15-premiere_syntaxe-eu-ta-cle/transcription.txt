@@ -1,0 +1,25 @@
+MERE	(elles) ont pas l'air d'êt(r)e là .
+MERE	j(e) me demande si +/.
+MERE	elles doivent être dans ta chambre.
+MERE	plutôt.
+MERE	j(e) vais les chercher.
+MERE	pardon.
+com	s'adresse à OBS.
+act	MOT passe devant la caméra.
+MADELEINE	maman yy ta@fs clé .
+pho	mamɑ̃ tydy ta kle
+act	Madeleine regarde OBS en se tenant à la rambarde du parc .
+sit	MOT quitte la pièce.
+com	Madeleine s'adresse à OBS.
+OBS	bah ouais.
+MADELEINE	<ta@fs> [>] clé .
+pho	ta kle
+com	Madeleine s'adresse à OBS.
+act	Madeleine regarde OBS.
+OBS	<elle est pat> [<] +/.
+OBS	elle est partie chercher les clés ?
+com	demande de clarification.
+MADELEINE	ǝ@fs ta@fs clé .
+pho	ə ta kle
+act	Madeleine quitte subitement le parc et se dirige en direction de ….
+xpnt	show, avec l'index, en direction d'un jouet.

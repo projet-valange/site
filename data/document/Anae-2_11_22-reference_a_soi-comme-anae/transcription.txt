@@ -1,6 +1,0 @@
-<ul style="list-style-type:none">
-<li>act	Anaé et sa mère sont en train de regarder un livre avec des animaux.</li>
-<li>ANAE	il a i(l) i(l) il a quel âge lui ?</li>
-<li>MERE	je pense qu'il a trois ans !</li>
-<li>MERE	comme Anaé</li>
-</ul>

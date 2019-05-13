@@ -1,0 +1,4 @@
+MADELEINE	assis (.) assis (.) assis (.) bébé .
+pho	[asi asisa asisa bebe]
+mod	asi asi asi bebe
+act	MADELEINE assied sa poupée

@@ -1,0 +1,6 @@
+act	toute la famille joue dehors, autour du toboggan
+PERE	tu viens ?
+sit	Anaé se dirige vers les escaliers du toboggan
+PERE	tu montes ?
+sit	Anaé commence à monter les marches du toboggan
+MERE	oh là là qu' est-c(e) qu' elle est grande Anaé !

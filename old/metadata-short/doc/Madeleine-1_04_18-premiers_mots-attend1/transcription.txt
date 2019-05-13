@@ -1,0 +1,14 @@
+MADELEINE	yy.
+	pho	[da]
+MADELEINE	yy [= ! inspiration]
+	pho	[la]
+	act	Madeleine tient les poignées de son tricycle.
+MADELEINE	maman.
+	pho	[damamɑ̃ː]
+	act	Madeleine regarde OBS.
+MADELEINE	yyy
+	pho	[kɛkplɛla:]	
+	act	CHI pousse le tricycle par le guidon.
+MADELEINE	attends.
+	pho	[atɑ̃ː]
+	act	CHI pousse le tricycle et s'arrête d'un coup.

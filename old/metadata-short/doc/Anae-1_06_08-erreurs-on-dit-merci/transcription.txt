@@ -1,0 +1,4 @@
+MERE	tu dis merci ?
+ANAE	non .
+MERE	ben dis+donc !
+MERE	on dit merci !

@@ -1,6 +1,0 @@
-<ul style="list-style-type:none">
-<li>Théophile est dans une petite baignoire en plastique placée en hauteur. Sa mère le maintient avec une main.</li>
-<li>	THEOPHILE	joue avec un cube en plastique, gazouille, rit</li>
-<li>	MERE	c’est bon ça !</li>
-<li>	THEOPHILE	fait un grand sourire</li>
-</ul>

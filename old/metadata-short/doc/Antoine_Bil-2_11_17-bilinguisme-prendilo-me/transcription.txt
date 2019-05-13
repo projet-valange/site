@@ -1,0 +1,9 @@
+Mère	il tuo doudou è sul divano amore # lo vuoi ?
+	(ton doudou est sur le divan, mon amour. Tu le veux ?)
+Antoine	oui.
+Mère	vuoi andare a prenderlo ?
+	(tu veux bien aller le chercher ?)
+Antoine	no # prendilo me.
+	(non # prends-le-moi)
+Mère	prendilo tu amore.
+	(prends-le-toi, mon amour)

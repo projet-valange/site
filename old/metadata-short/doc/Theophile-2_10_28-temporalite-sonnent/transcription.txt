@@ -1,0 +1,13 @@
+	sit	la MERE de THEOPHILE cherche à le faire dessiner.
+	THEOPHILE a du mal ou s’ennuie et essaie de détourner	le sujet de conversation
+MERE	tu fais le ciel pour qu’il vole le papillon ?
+THEOPHILE	ouh@i yy.
+	pho	[u ubə]
+	sit	on entend une sirène d'ambulance en bruit de fond
+THEOPHILE	ouh la ah là <un papier> [///] œ̃@fs pompier !
+	pho	[u la œ̃ la œ̃ papije œ̃ pɔ̃pije]
+MERE	c'est les pompiers ?
+THEOPHILE	oui i(ls) sonnent.
+	pho	[wiː i sɔ̃nə]
+	act	CHI se lève et se dirige vers ses jouets.
+MERE	i(ls) sonnent les pompiers !

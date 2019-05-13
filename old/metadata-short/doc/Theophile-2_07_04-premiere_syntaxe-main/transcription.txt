@@ -1,0 +1,22 @@
+THEOPHILE	<main> [<] .
+pho	mɛ̃
+xpnt	montre le tshirt deux bras tendus
+THEOPHILE	ø@fs main .
+pho	ø mɛ̃
+xpnt	montre le tshirt de l'index
+THEOPHILE	ø@fs main i(l) yy <a xx> [>] .
+pho	ø mɛ̃ i y aː X
+xpnt	montre le tshirt de l'index
+PERE	<ben oui> [<] il a une main !
+THEOPHILE	ø@fs main ø@fs soi .
+pho	ø mɛ̃ ø swaː
+PERE	qu' est+ce+qu' elle a la <main> [>] ?
+THEOPHILE	<oh> [<] non !
+pho	oː nɔ̃
+xpnt	montre le tshirt de l'index
+THEOPHILE	oh zut !
+pho	o zyt
+PERE	zut quoi zut ?
+THEOPHILE	là est@fs cassé .
+pho	la e kase
+PERE	elle est pas cassée la main !

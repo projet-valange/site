@@ -1,0 +1,4 @@
+Théophile est dans une petite baignoire en plastique placée en hauteur. Sa mère le maintient avec une main.
+	THEOPHILE	joue avec un cube en plastique, gazouille, rit
+	MERE	c’est bon ça !
+	THEOPHILE	fait un grand sourire

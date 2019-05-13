@@ -1,0 +1,6 @@
+	act	Aliyah donne un cadeau
+	act	Anaé prend le paquet qui lui est tendu par Aliyah
+MERE	qu' est-ce-qu' on dit ?
+ANAE	merci !
+MERE	merci qui ?
+ANAE	merci à cadeau !

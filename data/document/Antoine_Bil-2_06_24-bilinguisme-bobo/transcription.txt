@@ -1,8 +1,0 @@
-<ul style="list-style-type:none">
-<li>Antoine	hai bobo ?	</li>
-<li>	(tu as un bobo ?)</li>
-<li>Mère	no amore non ho male</li>
-<li>	(non mon amour, je n’ai pas mal.)</li>
-<li>Antoine	male</li>
-<li>	(mal).</li>
-</ul>

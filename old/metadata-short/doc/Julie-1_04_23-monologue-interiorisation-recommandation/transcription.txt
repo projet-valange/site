@@ -1,0 +1,58 @@
+1412	*CHI:	yyy .
+1413	%pho:	dɔkɔ
+1414	%act:	CHI fait mine de vouloir descendre les marches
+1415	*FAT:	<par+là> [=! chuchote] .
+1416	%com:	FAT essaie d'inciter CHI à passer par le jardin plutôt que par les marches
+1417	*BRO:	zə@fs veux l' attacher .
+1418	%pho:	zə vø l atase
+1419	*FAT:	+< <<par+là> [/] par+là> [=! chuchote] .
+1420	*CHI:	yy .
+1421	%pho:	kə
+1422	*BRO:	+< c'est moi qui l' attache .
+1423	%pho:	sɛ mwa ki l atas
+1424	*CHI:	yy .
+1425	%pho:	m
+1426	%act:	CHI regarde vers BRO, elle hausse une épaule
+1427	*MOT:	coucou .
+1428	*BRO:	+< pas dans l' herbe .
+1429	%pho:	pa dɑ̃ l ɛʁb
+1430	*MOT:	tu veux venir Julie ?
+1431	*BRO:	pas dans l' herbe .
+1432	%pho:	pa dɑ̃ l ɛʁb
+1433	*CHI:	yy .
+1434	%pho:	pɛpɛ
+1435	*FAT:	Julie par+là .
+1436	*FAT:	fais le tour par là+bas .
+1437	*FAT:	pas par l' escalier .
+1438	*FAT:	allez .
+1439	*MOT:	viens ma louloute .
+1440	*MOT:	fais le tour .
+1441	*BRO:	fais tour .
+1442	%pho:	fɛ tut
+1443	*BRO:	fais l(e) tour par+là et+puis tu vas là .
+1444	%pho:	fɛ l tu paʁla epɥi ty va la
+1445	*FAT:	+< par+là .
+1446	*BRO:	par+là .
+1447	%pho:	paʁla
+1448	*BRO:	fais tour .
+1449	%pho:	fɛ tu
+1450	%sit:	CHI regarde autour d'elle sans bouger
+1451	*MOT:	pousse le pied .
+1452	%add:	à BRO
+1453	*MOT:	+, dans la chaussure .
+1454	*MOT:	voilà .
+1455	*MOT:	attends [/] attends parce+qu' i(l) faut enlever la chaussure d'abord .
+1456	*BRO:	zə@fs veux l' attacher .
+1457	%pho:	zə vø l atase
+1458	*CHI:	+< yyy [=! chantonne] .
+1459	%pho:	tatututa
+1460	*BRO:	c'est moi qui l' attache .
+1461	%pho:	sɛ mwa ki l atas
+1462	*BRO:	d'accord ?
+1463	%pho:	dakɔ
+1464	*CHI:	yyy .
+1465	%pho:	wabjɛjbi
+1466	%com:	doute sur la phonétique
+1467	%act:	CHI part dans le jardin; comme on lui a dit sans passer par l'escalier
+1468	*MOT:	voilà c'est par+là qu' i(l) faut aller ma chérie .
+1469	*MOT:	c'est bien .

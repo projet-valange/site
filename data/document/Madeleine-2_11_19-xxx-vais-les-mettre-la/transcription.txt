@@ -1,6 +1,0 @@
-<ul style="list-style-type:none">
-<li>act	avec l’aide de l’observatrice, Madeleine range un jeu avec lequel elle vient de jouer.</li>
-<li>MADELEINE	voilà c'est bon</li>
-<li>OBSERVATRICE	c'est fait</li>
-<li>MADELEINE	voilà vais les mettre là</li>
-</ul>

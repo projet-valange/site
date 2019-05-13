@@ -1,0 +1,16 @@
+MADELEINE	ne@fs veux.
+pho	nə vəː
+mod	X vø
+act	Madeleine prend le livre des mains de l’observateur
+MERE	alors tu veux l’histoire ?
+MADELEINE	0
+act	Madeleine revient vers sa mère
+MADELEINE	une histoire (cana)pé .
+pho	[yn istwa pe]
+act	MADELEINE grimpe sur le canapé
+MERE	dans le canapé ?
+MADELEINE	vert .
+pho	vɛ
+MERE	vert .
+MADELEINE	ca(na)pé # vert .
+pho	kape vɛ

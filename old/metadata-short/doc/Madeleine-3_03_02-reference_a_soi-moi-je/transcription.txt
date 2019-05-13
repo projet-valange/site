@@ -1,0 +1,14 @@
+Madeleine était en train de jouer au rez-de-chaussée. Elle exprime alors son désir de changer de jeu et se dirige vers les escaliers qui conduisent dans sa chambre.
+MADELEINE	mais moi je veux faire un jeu
+MERE	un autre jeu alors
+OBSERVATRICE	un aut(re) jeu
+MADELEINE	oui
+OBSERVATRICE	hum t(u) en as plein !
+OBSERVATRICE	des jeux
+MADELEINE	mais en haut xxx
+	act	Madeleine recommence à monter les escaliers
+OBSERVATRICE	d'accord
+MADELEINE	non pa(r)ce que moi …
+MADELEINE	mais tu sais maintenant je suis une grande je tiens la rampe
+OBSERVATRICE	oui .
+MADELEINE	moi je tiens pas les barreaux

@@ -1,0 +1,24 @@
+MERE	tu m(e) les rends quand même Théophile ?
+THEOPHILE	0 .
+act	THEOPHILE se rend compte que les clés sont sous son pied.
+THEOPHILE	clés !
+pho	[kle]
+act	THEOPHILE prends les clés sur le sol.
+add:	PERE
+THEOPHILE	les clés !
+pho	[le kle]
+add	PERE.
+PERE	ah oui .
+THEOPHILE	les clés !
+pho	[le kle]
+THEOPHILE	clés !
+pho	[kle]
+act	THEOPHILE se lève.
+THEOPHILE	e@fs clés e@fs clés !
+pho	[e kle e kle]
+act	THEOPHILE tend les clés vers son père tout en marchant vers lui.
+THEOPHILE	e@fs <clés> [>] !
+pho	[e kle]
+act	THEOPHILE donne les clés à son père.
+PERE	<merci> [<] Théophile .
+act	Son PERE prend les clés.

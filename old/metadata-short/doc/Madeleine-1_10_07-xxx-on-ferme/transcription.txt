@@ -1,0 +1,7 @@
+MERE	eh bah y a tout le monde.
+MADELEINE	ferme.
+	pho	[fɛm]
+	act	Madeleine ferme le livre qu’elle vient de finir de lire avec sa mère.
+	Son geste est effectué en même temps qu’elle parle.
+MERE	on ferme.
+	act	la mère de Madeleine confirme et complète ce que dit sa fille.

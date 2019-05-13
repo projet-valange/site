@@ -1,6 +1,0 @@
-<ul style="list-style-type:none">
-<li>Sandra:	quello li verde è un camion ?</li>
-<li>	(le vert c’est un camion ?)</li>
-<li>Antoine	si quello è anche un camion.	(en indiquant le camion dont il parle)</li>
-<li>	(oui, celui-là c’est aussi un camion)</li>
-</ul>

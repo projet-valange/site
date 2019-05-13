@@ -1,0 +1,10 @@
+MADELEINE	Monsieur Toto a@fs Popi [/] Popi .
+act	mœsjø totoː a popi popiː
+mod	məsjø toto a pɔpi pɔpi
+act	CHI semble chercher quelque chose du regard par terre ; puis reporte son attention sur le biberon qu'elle tient dans la main droite
+MARIE	il t'a donné Popi et il a donné un Popi aussi à +…?
+act	MAR se penche et entoure de son bras droit le dos de Madeleine, cherche le regard de Madeleine
+MADELEINE	Monsieur Toto !
+pho	məsiə totoː
+mod	məsjø toto
+act	CHI sourit, hilare, se redresse et regarde MAR droit dans les yeux

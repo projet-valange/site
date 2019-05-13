@@ -1,0 +1,17 @@
+MERE	i(l) faut changer la couche ?
+MADELEINE	0 [=! pleure] .
+MERE	xxx .
+MADELEINE	yyy [=! pleurniche] .
+pho	[ɔlədemu]
+MADELEINE	yy a@fs gros caca .
+pho	[eː a gʁo kaka]
+mod	[e œ̃ ɡʁo kaka
+act	MADELEINE touche sa couche en regardant OBS .
+MERE	oui ah bah oui c'est clair .
+OBS	y+a un gros caca ?
+MADELEINE	yy a@fs caca .
+pho	akɔʁ a kaka
+mod	ɑ̃kɔʁ a kaka
+int	akɔʁ=encore/2/
+act	MADELEINE avance vers OBS; en la regardant, en tenant sa couche
+MERE	ah ça gagne en clarté hein .

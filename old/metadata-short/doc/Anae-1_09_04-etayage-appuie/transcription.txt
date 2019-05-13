@@ -1,0 +1,7 @@
+ANAE	oh !
+	act	pose une pièce du puzzle dans le bon emplacement
+ANAE	app(u)ie !
+	act	appuie sur la pièce sans parvenir à la mettre en place
+ANAE	seule !
+	act	fait rentrer la pièce dans son emplacement
+MERE	tu appuies toute seule oui c'est bien !

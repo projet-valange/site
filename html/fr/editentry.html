@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="../../common/img/icon.png" rel="shortcut icon">
+    <title>Valange</title>
+    <!-- styles -->
+    <link rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="../../common/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="media">
+        <a class="pull-left" href="./index.html">
+            <img class="media-object" src="../../common/img/logo.png" style="width:50%;"/>
+        </a>
+    </div>
+    <hr>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-9 col-md-9">
+                <h1><a style="color:#e88f47; ">E</a>dition d'une contribution</h1>
+                <h2>Contributeur·trice</h2>
+                <legend>Informations sur le/la contributeur·trice</legend>
+                <include src="extractedit.html"></include>
+                $("#secondpart").hide();
+                <!-- add edition of entry, media, actkey, themekey, and duration -->
+                <div class="edit-group>
+                    <label class="control-label" for="entry"><strong>Entry :</strong></label>
+                    <input type="text" class="form-control" id="act" name="entry" maxlength="120">
+                </div>
+                <div class="edit-group>
+                    <label class="control-label" for="media"><strong>Media :</strong></label>
+                    <input type="text" class="form-control" id="act" name="media" maxlength="120">
+                </div>
+                <div class="edit-group>
+                    <label class="control-label" for="actkey"><strong>Clés normalisées à utiliser pour Activités :</strong></label>
+                    <input type="text" class="form-control" id="act" name="actkey" maxlength="120">
+                </div>
+                <div class="edit-group>
+                    <label class="control-label" for="themekey"><strong>Clés normalisées à utiliser pour Thème :</strong></label>
+                    <input type="text" class="form-control" id="act" name="themekey" maxlength="120">
+                </div>
+                <div class="edit-group>
+                    <label class="control-label" for="duration"><strong>Durée :</strong></label>
+                    <input type="text" class="form-control" id="act" name="duration" maxlength="120">
+                </div>
+            </div>
+        </div>
+    </div>
+    <br/>
+    <hr>
+
+    <include src="footer.html"></include>
+
+</div> <!-- /container -->
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="../../lib/jquery/jquery.min.js"></script>
+<script src="../../lib/bootstrap/js/bootstrap.min.js"></script>
+<script>
+
+    function savedata() {
+        console.log("xml", getXmlData());
+        console.log("xml", getXmlDataUser());
+        console.log("entry", getEntryName());
+
+        /*
+        SAVE THE DATA
+        // get the xml data content
+        var v = $('input[name="xmldata"]');
+        v.val(getXmlDataUser());
+        v = $('input[name="entryname"]');
+        v.val(getEntryName());
+
+        var formdata = new FormData(this);
+        $.ajax({
+            type: "POST",
+            url: '../../common/sendproposition.php',
+            data: formdata,
+            success: after_form_submitted,
+            dataType: 'json',
+            processData: false,
+            contentType: false,
+            cache: false
+        });
+        */
+    }
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,9 @@
+Antoine	mamma puoi ouvrir ?
+Mère	sì amore posso aprire.
+Mère	senti amore e # e al compleanno di Victoire cosa avete fatto ?
+	(écoute mon amour # et à l’anniversaire de Victoire qu’avez-vous fait ?)
+Antoine	abbiamo <abbiamo f> [//] abbiamo fatto	[\\] abbiamo zoufflé
+	(nous avons avons avons fait avons soufflé)
+%com:	il prononce /z/ au lieu de /s/.
+Sandra:	soufflé le candele [///] le candeline ?
+	(soufflé les bougies ?)

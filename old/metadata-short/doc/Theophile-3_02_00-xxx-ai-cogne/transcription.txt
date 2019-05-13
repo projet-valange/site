@@ -1,0 +1,12 @@
+THEOPHILE	c(el)ui+là i(l) peut.
+	pho	[syla i pø]
+	act	THEOPHILE attrape un autre ballon et le montre à sa mère puis le jette par terre et lui donne un coup de pied
+MERE	ouais.
+THEOPHILE	aïe e@fs m'ai cogné sur mon pied !
+	pho	[aj e m e koɲe syʁ mɔ̃ pje]
+THEOPHILE	aïe ça fait mal !
+	pho	[aj sa fe malə]
+	act	THEOPHILE se tient la cuisse puis retombe adossé à son lit
+MERE	je me suis cogné !
+THEOPHILE	me suis cogné.
+	pho	[mø si koɲeœ]

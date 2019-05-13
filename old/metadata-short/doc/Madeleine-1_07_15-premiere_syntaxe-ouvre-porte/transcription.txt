@@ -1,0 +1,10 @@
+MADELEINE	ouvr(r)e po(r)te .
+pho	[ovu pɔt]
+mod	[uvʁ pɔʁt]
+int	ovu pɔt=ouvre porte/2/
+act	CHI introduit une clé dans une serrure de porte de	la petite maison .
+MERE	on descend Madeleine ?
+MADELEINE	fermé .
+pho	[tɛme]
+mod	[fɛʁme]
+act	CHI joue avec la clé dans la serrure .

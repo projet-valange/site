@@ -1,8 +1,0 @@
-<ul style="list-style-type:none">
-<li>act	Anaé vient de goûter.</li>
-<li>MERE	hop on essuie la bouche</li>
-<li>ANAE	xxx</li>
-<li>MERE	oh là là oh là là elle est sale cette petite fille wah qu'elle est sale</li>
-<li>sit	Anaé proteste</li>
-<li>MERE oh qu' elle est sale cette petite fille</li>
-</ul>

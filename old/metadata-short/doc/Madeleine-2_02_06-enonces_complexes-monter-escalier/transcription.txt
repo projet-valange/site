@@ -1,0 +1,5 @@
+MERE	Tiens, on peut mettre ça. (La mère propose un bout de toit de maison).
+MERE	Le cheval, tu crois qu’il a monté l’escalier ?
+MADELEINE	Je crois i(l) veut monter l’escalier parce que i(l) veut monter l’escalier. Il veut monter l’escalier
+	act	Madeleine reprend le cheval et lui fait monter le lego-escalier en mimant sa montée
+MADELEINE	monte [/] monte [/] il monte l’escalier !

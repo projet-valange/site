@@ -1,0 +1,10 @@
+MERE	<il s' est caché> [<] .
+MERE	il s' est caché .
+com	voix chuchotée .
+MADELEINE	xxx .
+com	inaudible .
+MADELEINE	un oeuf a pe(r)du .
+pho	œ͂ nœf a bady
+mod	œ̃ nœf a pɛʁdy
+xpnt	pointage maintenu .
+act	Madeleine regarde OBS .

@@ -1,0 +1,10 @@
+MADELEINE	yyy.
+	pho	[le-ʃa]
+	sit	Madeleine est dans la cour, son index pointant une fleur
+MADELEINE	yyy.
+	pho	[le-ʃa]
+	sit	elle pointe une deuxième fleur tout en vocalisant. Son regard se
+	porte successivement sur chacune des deux fleurs.
+MERE	celle-là, elle est belle, hein ?
+	sit	Madeleine attrape chacune des deux fleurs dans une main
+MERE	xxx.

@@ -1,0 +1,386 @@
+<script src="../../common/parsemetadata.js"></script>
+<div id="extract_edit">
+    <div class="edit-group">
+        <label for="name"> Nom*</label>
+        <input type="text" class="form-control" id="name" name="name" required maxlength="50">
+    </div>
+    <div class="edit-group">
+        <label for="name"> Prénom*</label>
+        <input type="text" class="form-control" id="surname" name="surname" required maxlength="50">
+    </div>
+    <div class="edit-group">
+        <label for="name"> Institution</label>
+        <p>Si vous êtes chercheur·se, précisez l'université, le laboratoire, etc.</p>
+        <input type="text" class="form-control" id="institution" name="institution" required
+                maxlength="50">
+    </div>
+    <div class="edit-group">
+        <label for="email"> E-mail*</label>
+        <input type="email" class="form-control" id="email" name="email" required maxlength="50">
+    </div>
+    <br/>
+    <h2>Contribution</h2>
+    <p id="secondpart">Cette seconde partie du formulaire concerne l'extrait vidéo que vous souhaitez nous
+        soumettre.</p>
+    <legend>Droit et fichier</legend>
+    <p>Attention, les vidéos de la base de données VaLangE sont sont soumises à une licence Creative
+        Commons
+        CC-BY-NC-ND (voir notre charte) et sont accessibles en ligne sans restriction. Il est donc
+        nécessaire
+        d'avoir le droit de partager votre contribution. En cochant la case ci-dessous, vous garantissez
+        que vous
+        disposez bien de ce droit et l'accord signé des parents de l'enfant filmé vous sera alors
+        demandé par mail.
+        La mise en ligne de votre contribution est conditionnée par l'acquisition de ce document.</p>
+    <label class="container_agreement">
+        <input class="checkbox_agreement" type="checkbox" id="agree" name="agree"
+                value="J'ai le droit de déposer cette vidéo dans la base Videopedia de VaLangE pour un usage scientifique.">
+        <span class="checkmark" style="padding-right:10px;"></span>J'ai le droit de déposer cette vidéo
+        dans la base
+        Videopedia de VaLangE pour un usage scientifique.
+    </label>
+    <legend>Informations sur l'enfant</legend>
+    <div class="edit-group">
+        <label for="name"> Nom de l'enfant*</label>
+        <input type="text" class="form-control" id="namechi" name="namechi" required
+                maxlength="50">
+    </div>
+    <p>Genre*</p>
+    <label class="label_genre"><input class="input_genre" type="radio" name="gender" value="girl"> Fille<span
+            class="checkmark"></span></label>
+    <label class="label_genre"><input class="input_genre" type="radio" name="gender" value="boy">
+        Garçon<span
+                class="checkmark"></span></label>
+    <label class="label_genre"><input class="input_genre" type="radio" name="gender"
+                                        value="unknown">
+        Préfère ne pas préciser<span class="checkmark"></span></label>
+    <br>
+    <p>Âge*<br>Âge de l'enfant au moment de la vidéo au format (A)A;MM(;DD). Par exemple, pour un enfant
+        de 10
+        mois et 24 jours, mettre 0;10;24 ; pour un enfant de 34 mois, mettre 2;10 ; pour un enfant de 10
+        ans 2 mois
+        et 3 jours, mettre 10;02;03.</p>
+    <div class="edit-group">
+        <input type="text" class="form-control" id="age" name="age" required maxlength="50">
+    </div>
+    <div class="edit-group">
+        <label for="name"> Localisation*</label>
+        <p>Ville et pays où vit l'enfant au moment de la vidéo.</p>
+        <input type="text" class="form-control" id="localisation" name="localisation" required
+                maxlength="300">
+    </div>
+    <br>
+    <p>Langue(s) maternelle(s)*<br>Langue(s) parlée(s) par l'enfant. Sélectionnez plusieurs langues si
+        l'enfant
+        est bilingue ou plurilingue. Si la langue n'est pas proposée, veuillez entrer la langue dans
+        "Autre" et
+        préciser sa variante s'il y a lieu.</p>
+    <label class="container_langue_francais">
+        <input class="checkbox_langue_francais" type="checkbox" id="fra" name="fra"
+                value="français (France métropolitaine)">
+        <span class="checkmark" style="padding-right:10px;"></span>français (France métropolitaine)
+    </label>
+    <label class="container_langue_anglais">
+        <input class="checkbox_langue_anglais" type="checkbox"  id="eng" name="eng"
+        value="anglais (Royaume-Uni)">
+        <span class="checkmark" style="padding-right:10px;"></span>anglais (Royaume-Uni)
+    </label>
+    <label class="container_langue_italien">
+        <input class="checkbox_langue_italien" type="checkbox"  id="ita" name="ita"
+        value="italien">
+        <span class="checkmark" style="padding-right:10px;"></span>italien
+    </label>
+    <label class="container_langue_portugais">
+        <input class="checkbox_langue_portugais" type="checkbox" id="bra" name="bra"
+        value="portugais (Brésil)">
+        <span class="checkmark" style="padding-right:10px;"></span>portugais (Brésil)
+    </label>
+    <label class="container_langue_autre">
+        <input class="checkbox_langue_autre" type="checkbox" id="oth" name="oth"
+        value="Autre">
+        <span class="checkmark" style="padding-right:10px;"></span>Autre
+    </label>
+    <legend>Informations sur l'extrait</legend>
+    <div class="edit-group">
+        <label for="name"> Nom du projet</label>
+        <p>Nom du projet de recherche ou de recueil d'extraits</p>
+        <input type="text" class="form-control" id="project" name="project" 
+                maxlength="120">
+    </div>
+    <div class="edit-group">
+        <label for="title">Titre (nom de l'extrait)*</label>
+        <input type="text" class="form-control" id="title" name="title" required maxlength="80">
+    </div>
+    <div class="edit-group>
+        <label class="control-label" for="description"><strong>Description :</strong></label>
+        <textarea class="span5" rows="8" id="description" name="description" style="width:90%;"
+          placeholder="Entrez votre description *"></textarea>
+    </div>
+    <div class="edit-group>
+        <label class="control-label" for="transcription"><strong>Transcription :</strong></label>
+        <textarea class="span5" rows="8" id="transcription" name="transcription" style="width:90%;"
+          placeholder="Entrez votre transcription *"></textarea>
+    </div>
+    <div class="edit-group>
+        <label class="control-label" for="quote"><strong>Références bibliographiques :</strong></label>
+        <textarea class="span5" rows="8" id="quote" name="quote" style="width:90%;"
+          placeholder="Entrez vos références"></textarea>
+    </div>
+    <p><strong>Genre de discours</strong></p><br>
+    <label class="label_discours"><input class="input_discours" type="radio" name="disc"
+                                        value="monologue">
+        Monologue<span class="checkmark"></span></label>
+    <label class="label_discours"><input class="input_discours" type="radio" name="disc"
+                                        value="interaction">
+        Interaction<span class="checkmark"></span></label>
+    <label class="label_discours"><input class="input_discours" type="radio" name="disc"
+                                        value="unknown"> Je
+        ne sais pas<span class="checkmark"></span></label>
+    <div class="edit-group>
+        <label class="control-label" for="act"><strong>Activités :</strong></label>
+        <input type="text" class="form-control" id="act" name="act" required maxlength="240">
+    </div>
+    <div class="edit-group>
+        <label class="control-label" for="theme"><strong>Thème(s) :</strong></label>
+        <input type="text" class="form-control" id="theme" name="theme" required maxlength="240">
+    </div>
+    <div class="edit-group>
+        <label class="control-label" for="keywords"><strong>Mots-clés :</strong></label>
+        <input type="text" class="form-control" id="keywords" name="keywords" required maxlength="240">
+    </div>
+    <div class="edit-group>
+        <label class="control-label" for="extmedia"><strong>Lien externe pour la vidéo source (si présente sur un site) :</strong></label>
+        <input type="text" class="form-control" id="extmedia" name="extmedia" maxlength="240">
+    </div>
+    <br>
+</div>
+
+<script>
+    function isValidEmailAddress(emailAddress) {
+        var pattern = /^([a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+(\.[a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+)*|"((([ \t]*\r\n)?[ \t]+)?([\x01-\x08\x0b\x0c\x0e-\x1f\x7f\x21\x23-\x5b\x5d-\x7e\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|\\[\x01-\x09\x0b\x0c\x0d-\x7f\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))*(([ \t]*\r\n)?[ \t]+)?")@(([a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.)+([a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.?$/i;
+        return pattern.test(emailAddress);
+    }
+
+    function getXmlData() {
+        var meta = {};
+        var v, vv;
+        // Check values
+        // and insert them
+        // Information about the depositor
+        // name
+        v = $('input[name="name"]');
+        vv = v.val();
+        vv = vv.substr(0, 80);
+        if (vv.length > 80) v.val(vv);
+        meta.name = vv;
+        // surname
+        v = $('input[name="surname"]');
+        vv = v.val();
+        vv = vv.substr(0, 80);
+        if (vv.length > 80) v.val(vv);
+        meta.surname = vv;
+        // institution
+        v = $('input[name="institution"]');
+        vv = v.val();
+        vv = vv.substr(0, 240);
+        if (vv.length > 240) v.val(vv);
+        meta.institution = vv;
+        // email
+        v = $('input[name="email"]');
+        vv = v.val();
+        vv = vv.substr(0, 240);
+        if (vv.length > 240) v.val(vv);
+        meta.email = vv;
+        if ( !isValidEmailAddress(vv) ) {
+          window.alert('Adresse email invalide: veuillez la corriger');
+          return '';
+        }
+        // information about the extract : metadata
+        // agreement
+        v = $('input[name="agree"]');
+        meta.agree = v.is(':checked') ? "agreement signed" : "no agreement";
+        // namechi
+        v = $('input[name="namechi"]');
+        vv = v.val();
+        vv = vv.substr(0, 80);
+        if (vv.length > 80) v.val(vv);
+        meta.child = vv;
+        // gender
+        v = $('input[name=gender]:checked').val();
+        if (v === "undefined") v = "unknown";
+        meta.gender = v;
+        // age
+        v = $('input[name="age"]');
+        vv = v.val();
+        vv = vv.substr(0, 80);
+        if (vv.length > 80) v.val(vv);
+        meta.age = vv;
+        // localisation
+        v = $('input[name="localisation"]');
+        vv = v.val();
+        if (vv.length > 300) {
+          vv.substr(0, 300);
+          window.alert("Le texte du message est limité à 300 caractères.");
+          v.val(vv);
+        }
+        meta.place = vv;
+        // lang
+        v = "";
+        if ($('input[name=fra]').is(':checked')) v += 'fra,';
+        if ($('input[name=eng]').is(':checked')) v += 'eng,';
+        if ($('input[name=ita]').is(':checked')) v += 'por,';
+        if ($('input[name=bra]').is(':checked')) v += 'bra,';
+        if ($('input[name=oth]').is(':checked')) v += 'oth,';
+        meta.lang = v;
+        // discourse
+        v = $('input[name=disc]:checked').val();
+        if (v === "undefined") v = "unknown";
+        meta.disc = v;
+        // project
+        v = $('input[name="project"]');
+        vv = v.val();
+        if (vv.length > 120) {
+          vv.substr(0, 120);
+          v.val(vv);
+        }
+        meta.project = vv;
+
+        // information about the extract : data
+        // title/entry
+        v = $('input[name="title"]');
+        vv = v.val();
+        vv = vv.substr(0, 80);
+        if (vv.length > 80) v.val(vv);
+        meta.title = vv;
+
+        // description
+        v = $('textarea[name="description"]');
+        vv = v.val();
+        if (vv.length > 1200) {
+          vv.substr(0, 1200);
+          window.alert("Le texte de la description est limité à 1200 caractères.");
+          v.val(vv);
+        }
+        meta.description = vv;
+
+        // transcription
+        v = $('textarea[name="transcription"]');
+        vv = v.val();
+        if (vv.length > 12000) {
+          vv.substr(0, 12000);
+          window.alert("Le texte de la transcription est limité à 12000 caractères.");
+          v.val(vv);
+        }
+        meta.transcription = vv;
+
+        // quote
+        v = $('textarea[name="quote"]');
+        vv = v.val();
+        if (vv.length > 1200) {
+          vv.substr(0, 1200);
+          window.alert("Le texte des références est limité à 1200 caractères.");
+          v.val(vv);
+        }
+        meta.quote = vv;
+
+        // act
+        v = $('input[name="act"]');
+        vv = v.val();
+        vv = vv.substr(0, 240);
+        if (vv.length > 240) v.val(vv);
+        meta.act = vv;
+        // theme
+        v = $('input[name="theme"]');
+        vv = v.val();
+        vv = vv.substr(0, 240);
+        if (vv.length > 240) v.val(vv);
+        meta.theme = vv;
+        // keywords
+        v = $('input[name="keywords"]');
+        vv = v.val();
+        vv = vv.substr(0, 240);
+        if (vv.length > 240) v.val(vv);
+        meta.keywords = vv;
+        // extmedia
+        v = $('input[name="extmedia"]');
+        vv = v.val();
+        vv = vv.substr(0, 240);
+        if (vv.length > 240) v.val(vv);
+        meta.extmedia = vv;
+
+        return meta;
+    }
+
+    function getXmlDataUser() {
+        var meta = getXmlData();
+
+        meta.entry = getEntryName();
+        meta.actkey = "";
+        meta.themekey = "";
+        meta.duration = "";
+
+        var str = $("#file")[0].value;
+        var n = /[^/\\]*$/.exec(str);
+        meta.media = n; 
+
+        return parsemetadata.metadataToString(meta);
+    }
+
+    function getXmlDataValidator() {
+        var meta = getXmlData();
+
+        // entry
+        v = $('input[name="entry"]');
+        vv = v.val();
+        vv = vv.substr(0, 240);
+        if (vv.length > 240) v.val(vv);
+        meta.entry = vv;
+
+        // actkey
+        v = $('input[name="actkey"]');
+        vv = v.val();
+        vv = vv.substr(0, 240);
+        if (vv.length > 240) v.val(vv);
+        meta.actkey = vv;
+
+        // themekey
+        v = $('input[name="themekey"]');
+        vv = v.val();
+        vv = vv.substr(0, 240);
+        if (vv.length > 240) v.val(vv);
+        meta.themekey = vv;
+
+        return parsemetadata.metadataToString(meta);
+    }
+
+    function formatDate(date) {
+        var monthNames = [
+            "January", "February", "March",
+            "April", "May", "June", "July",
+            "August", "September", "October",
+            "November", "December"
+        ];
+
+        var day = date.getDate();
+        var monthIndex = date.getMonth();
+        var year = date.getFullYear();
+        var hours = date.getHours();
+        var minutes = date.getMinutes();
+
+        // return day + ' ' + monthNames[monthIndex] + ' ' + year;
+        return year+ "-" + (monthIndex+1) + "-" + day + "-" + hours + "h-" + minutes + "m";
+    }
+
+    function getEntryName() {
+        // name
+        var v = $('input[name="name"]');
+        var name = v.val().replace(/\s/g, "-");
+        if (name.length > 80) name = name.substr(0, 80);
+        // surname
+        v = $('input[name="surname"]');
+        var surname = v.val().replace(/\s/g, "-");
+        if (surname.length > 80) surname = surname.substr(0, 80);
+        var d = new Date();
+        return name + "-" + surname + "-" + formatDate(d);
+    }
+</script>

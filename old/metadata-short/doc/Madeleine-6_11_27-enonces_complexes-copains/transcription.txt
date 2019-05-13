@@ -1,0 +1,11 @@
+MADELEINE	normalement j'ai des copains qui devraient venir.
+OBSERVATRICE	t(u) as des copains aussi qui vont venir ?
+OBSERVATRICE	pas que des copines.
+MADELEINE	euh non euh.
+	act	Madeleine	se redresse et regarde l’observatrice
+MADELEINE	là maintenant.
+OBSERVATRICE	ah bon ?
+OBSERVATRICE	t(u) as des copains qui vont venir ?
+MADELEINE	euh normalement mais comme t(u) es là….
+OBSERVATRICE	eh ben c'est pas grave qu' i(ls) viennent !
+OBSERVATRICE	faut faire comme si j'étais pas là.

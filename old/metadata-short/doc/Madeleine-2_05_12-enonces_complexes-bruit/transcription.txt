@@ -1,0 +1,23 @@
+	act	Lucas joue avec une peluche.
+MADELEINE	c'est la souris de Côme.
+LUCAS	elle est à toi ?
+MADELEINE	elle fait pas du bruit.
+ LUCAS	ah non elle fait pas d(e) bruit .
+MADELEINE	elle fait pas.
+MADELEINE	elle fait pas d(e) bruit c'est que la p(e)tite.
+LUCAS	y a du fromage ?
+LUCAS	j'espère.
+MADELEINE	c'est pas du fromage ça !
+	act	Madeleine montre la peluche avec l'index.
+LUCAS	du jaune ….
+LUCAS	non c'est pas du fromage.
+MERE	tu voudrais trouver la petite ?
+MADELEINE	oui.
+MERE	tu veux qu(e) j(e) te passe la p(e)tite ?
+MADELEINE	oui.
+MADELEINE	je vais te montrer comment i(l) fait du bruit.
+	act	Madeleine se retourne vers Lucas.
+MADELEINE	regarde !
+	act	Madeleine secoue la peluche.
+LUCAS	ah oui elle	[/] elle fait du bruit !
+Compléter

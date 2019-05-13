@@ -25,14 +25,14 @@
     </div><br />
     <hr>
 
-    <h1 class="input_title"></h1></br>
+    <h1 id="input_title"></h1></br>
     <div class="container-fluid">
       <div class="row">
         <div class="col-lg-6 col-md-6">
           <h3><a style="color:#e88f47; ">Transcription</a></h3>
-          <p class="transcription"></p>
+          <div id="transcription"></div>
           <h3><a style="color:#e88f47; ">Description</a></h3>
-          <p class="description"></p>
+          <div id="description"></div>
         </div>
         <div class="col-lg-6 col-md-6" id="span_video">
         </div>
@@ -44,11 +44,11 @@
       <div class="row">
         <div class="col-lg-6 col-md-6">
           <h3><a style="color:#ed6e4e; ">Métadonnées</a></h3>
-          <p class="metadonnees"></p>
+          <div id="metadonnees"></div>
         </div>
         <div class="col-lg-6 col-md-6">
           <h3><a style="color:#ed6e4e; ">Citer cette vidéo</a></h3>
-          <p class="citer_cette_video"></p>
+          <div id="citer_cette_video"></div>
         </div>
       </div>
     </div>
@@ -60,46 +60,125 @@
 
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
   <script src="../../lib/jquery/jquery.min.js"></script>
-  <script src="../../lib/popper/popper.js"></script>
+  <!-- <script src="../../lib/popper/popper.js"></script> -->
   <script src="../../lib/bootstrap/js/bootstrap.min.js"></script>
   <script src="../../lib/fetch/fetch.js"></script>
+  <script src="../../common/parsemetadata.js"></script>
   <script type="text/javascript">
 
+    function paragraph(text) {
+      var lines = text.match(/[^\r\n]+/g); // split into lines
+      var s = "<p>";
+      for (var l in lines) {
+        s += lines[l] + "<br/>";
+      }
+      return s + "</p>";
+    }
+
+    function transcription(text) {
+      var lines = text.match(/[^\r\n]+/g); // split into lines
+      var s = "<p>";
+      for (var l in lines) {
+        var headtail = lines[l].match(/(\S*)\s+(.*)/);
+        if (headtail !== null) {
+            // there are at least two words
+            if (headtail[1] === '') {
+              // starts with blanks
+              // prints the line with decalage
+              s += "<span>&nbsp;&nbsp;</span>" + headtail[2] + "<br/>";
+            } else if (! isNaN(Number(headtail[1]))) {
+              // remove first word which is a line number
+              headtail = headtail[2].match(/(\S*)\s+(.*)/);
+              s += headtail[1] + " " + headtail[2] + "<br/>";
+            } else {
+              // most normal case
+              s += headtail[1] + " " + headtail[2] + "<br/>";
+            }
+        } else {
+            // only the one word
+            s += lines[l] + "<br/>";
+        }
+      }
+      return s + "</p>";
+    }
+
+    function metadata(meta) {
+      // <li>Projet : Monologue</li>
+      // <li>Extrait de la vidéo : [lien Ortolang à venir]</li>
+      // </ul>
+
+      // <ul style="list-style-type:none;">
+      // <li>Enfant : Théophile</li>
+      // <li>Âge : 1;11.25</li>
+      // <li>Langue : fr</li>
+      // <li>Lieu : </li>
+      // <li>Activité : </li>
+      // <li>Thème(s) : , </li>
+      // <li>Mot(s)-clé : </li>
+      
+      var s = "<p>";
+      s += "Projet : " + meta.project + "<br/>";
+      if (meta.extract) s += "Extrait de la vidéo : " + meta.extmedia + "<br/>";
+      s += "<br/>";
+      s += "Enfant : " + meta.child + "<br/>";
+      s += "Âge : " + meta.age + "<br/>";
+      s += "Langue : " + meta.lang + "<br/>";
+      if (meta.place) s += "Lieu : " + meta.place + "<br/>";
+      if (meta.act) s += "Activité : " + meta.act + "<br/>";
+      if (meta.theme) s += "Thème : " + meta.theme + "<br/>";
+      if (meta.keyword) s += "Mot(s)-clé : " + meta.keyword + "<br/>";
+      if (meta.duration) s += "Durée : " + meta.duration + "<br/>";
+      s += "</p>";
+      console.log(s);
+      return s;
+    }
+
     var input_text = location.href.split("?")[1].replace("=","");
-
-    fetch("../../data/document/"+input_text+"/title.txt").then(function(response){
+    
+    fetch("../../data/doc/"+input_text+"/metadata.xml").then(function(response){
       response.text().then(function(text){
-        $(".input_title").append(text);
+        var meta = parsemetadata.parseMetadata(text); // split into elements
+        // document.getElementById("metadonnees").innerHTML = metadata(text);
+        $("#input_title").append(meta.title);
+        $("#transcription").append(transcription(meta.transcription));
+        $("#description").append(paragraph(meta.description));
+        $("#citer_cette_video").append("<p>Si vous utilisez cette vidéo dans le cadre d’une présentation ou d’un article, veuillez utiliser la référence bibliographique appropriée.</p>");
+        $("#citer_cette_video").append(paragraph(meta.quote));
+        $("#metadonnees").append(metadata(meta));
       })
     });
 
-    fetch("../../data/document/"+input_text+"/transcription.txt").then(function(response){
+    /*
+    fetch("../../data/doc/"+input_text+"/title.txt").then(function(response){
       response.text().then(function(text){
-        $(".transcription").append(text);
+        $("#input_title").append(text);
       })
     });
 
-    fetch("../../data/document/"+input_text+"/description.txt").then(function(response){
+    fetch("../../data/doc/"+input_text+"/transcription.txt").then(function(response){
       response.text().then(function(text){
-        $(".description").append(text);
+        $("#transcription").append(transcription(text));
       })
     });
 
-    var linktext = "<video src='../../data/document/"+input_text+"/"+input_text+".mp4' controls style='width:100%;'></video>";
+    fetch("../../data/doc/"+input_text+"/description.txt").then(function(response){
+      response.text().then(function(text){
+        $("#description").append(paragraph(text));
+      })
+    });
+
+    fetch("../../data/doc/"+input_text+"/quote.txt").then(function(response){
+      response.text().then(function(text){
+        $("#citer_cette_video").append("<p>Si vous utilisez cette vidéo dans le cadre d’une présentation ou d’un article, veuillez utiliser la référence bibliographique appropriée.</p>");
+        $("#citer_cette_video").append(paragraph(text));
+      })
+    });
+    */
+
+    var linktext = "<video src='../../data/doc/"+input_text+"/"+input_text+".mp4' controls style='width:100%;'></video>";
     $("#span_video").append(linktext);
 
-    fetch("../../data/document/"+input_text+"/metadonnees.txt").then(function(response){
-      response.text().then(function(text){
-        $(".metadonnees").append(text);
-      })
-    });
-
-    fetch("../../data/document/"+input_text+"/citer_cette_video.txt").then(function(response){
-      response.text().then(function(text){
-        $(".citer_cette_video").append(text);
-      })
-    });
-    </script>
+ </script>
 
   </body>
 </html>

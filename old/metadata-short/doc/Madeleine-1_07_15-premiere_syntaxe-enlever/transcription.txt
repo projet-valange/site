@@ -1,0 +1,16 @@
+Madeleine parle à son baigneur, puis saisit le téléphone mobile posé juste à côté sur la marche de l'escalier.
+MADELEINE	tiens.
+	act	Madeleine pose le téléphone sur son baigneur.
+MADELEINE	on le met.
+	act	Madeleine pose le téléphone sur l'oreille du baigneur.
+MADELEINE	allô ?
+MADELEINE	[filler]enlever !
+	act	Madeleine montre avec l’index une trace de crayon sur la tempe du	baigneur, puis regarde l’observatrice.
+MADELEINE	bébé.
+MADELEINE	laver.
+	act	Madeleine prend le baigneur dans les bras et touche la trace sur son poupon.
+MADELEINE	[filler] enlever.
+	act	Madeleine se redresse et se dirige vers sa mère tout en continuant de montrer du doigt la trace de crayon sur le poupon.
+MERE	tu l'as lavé hier.
+	act	La mère s'accroupit à genoux et prend en mains la tête du poupon.
+MERE	oui ah mais on n'a pas réussit à enl(e)ver ça.

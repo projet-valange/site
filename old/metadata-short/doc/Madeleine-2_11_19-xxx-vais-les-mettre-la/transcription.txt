@@ -1,0 +1,4 @@
+act	avec l’aide de l’observatrice, Madeleine range un jeu avec lequel elle vient de jouer.
+MADELEINE	voilà c'est bon
+OBSERVATRICE	c'est fait
+MADELEINE	voilà vais les mettre là

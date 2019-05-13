@@ -1,0 +1,8 @@
+MERE	on va à la maison ?
+	act	Antoine se retourne vers la mère et l’observateur
+OBS	c'est quoi là-bas ?
+ANTOINE	yyy
+pho	[jeːe]
+	act	pousse un petit cri et désigne en marchant une destination, le bras tendu devant lui)
+OBS	c'est la maison là ?
+OBS	c'est par là la maison Antoine ?

@@ -1,0 +1,13 @@
+MERE	regarde
+MERE	tu joues le la
+MERE	i(l) faut appuyer sur le piano
+MERE	regarde
+act	La mère montre à Théophile l'accordeur qui réagit au son du « la »
+MERE	joue le la
+THEOPHILE	0.
+act	Théophile joue le « la »
+MERE	tu vois « laaaa »
+act	elle chante
+THEOPHILE	la
+act	en jouant à nouveau le « la »
+pho:	[la]

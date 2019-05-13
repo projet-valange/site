@@ -1,6 +1,0 @@
-<ul style="list-style-type:none">
-<li>act	Anaé aide sa mère à débarrasser le lave-vaisselle</li>
-<li>ANAE	moi !</li>
-<li>act	Anaé se pointe de l’index</li>
-<li>MERE	ah nan c'est à moi !</li>
-</ul>

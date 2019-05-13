@@ -1,0 +1,21 @@
+MADELEINE	yyy.
+	pho	[bɔga]
+sit	rampe en direction de l'escalier, car la mère est partie au 1er étage	lui chercher un jouet
+MERE	au revoir.
+MERE	au revoir, tu me dis au revoir ?
+MADELEINE	yyy.
+	pho	[a]
+sit	Madeleine s’appuie sur la première marche de l’escalier, immobile,
+	la tête tendue dans la direction de sa mère
+MERE	au revoir Madeleine.
+MERE	je reviens hein.
+MADELEINE	yyy.
+	pho	[baba]
+	sit	Madeleine appelle sa mère en regardant dans la direction où
+	elle se trouve
+MERE	oui!
+MADELEINE	yyy.
+	pho	[bɛba]
+	sit	Madeleine regarde dans la direction de l’observatrice
+OBS	où elle est maman ?
+OBS	maman elle est partie ?

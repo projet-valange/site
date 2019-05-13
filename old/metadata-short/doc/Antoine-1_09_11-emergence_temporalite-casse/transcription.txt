@@ -1,0 +1,9 @@
+ANTOINE	tchou tchou.
+	pho	[du duː]
+MERE	tchou tchou.
+ANTOINE	a@fs cassé.
+	pho	[a kase]
+MERE	ah oui ben oui.
+MERE	il est pas cassé mais c'est +/.
+	act	accroche les wagons ensemble
+MERE	regarde.

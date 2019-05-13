@@ -1,0 +1,29 @@
+<extract>
+<title>Madeleine - un oeuf</title>
+<entry>Madeleine-1_09_03-premiere_syntaxe-un-oeuf</entry>
+<media>Madeleine-1_09_03-premiere_syntaxe-un-oeuf.mp4</media>
+<project>CoLaJE</project>
+<child>Madeleine</child>
+<age>1;09.03</age>
+<lang>fr</lang>
+<act>jeu technologique (ordinateur)</act>
+<actkey>jeu_technologique</actkey>
+<theme>première syntaxe, combinaison de mots, filler, pointage</theme>
+<themekey>première_syntaxe</themekey>
+<keywords>œuf</keywords>
+<duration>9sec</duration>
+<transcription>MERE	&lt;il s&#39; est caché&gt; [&lt;] .
+MERE	il s&#39; est caché .
+com	voix chuchotée .
+MADELEINE	xxx .
+com	inaudible .
+MADELEINE	un oeuf a pe(r)du .
+pho	œ͂ nœf a bady
+mod	œ̃ nœf a pɛʁdy
+xpnt	pointage maintenu .
+act	Madeleine regarde OBS .
+</transcription>
+<description>Dans cet extrait, Madeleine est en train de regarder une vidéo sur l’écran de l’ordinateur de sa mère, qui est assise à ses côtés. Il s’agit d’une poule beige qui a pondu un œuf dans la neige et qui l’a ensuite dévoré. Madeleine pointe l’écran avec son index et sa mère chuchote que l’œuf s’est caché. Tout en continuant à pointer, Madeleine produit l’énoncé suivant : « @fs œuf a@fs perdu », composé de la séquence : Filler + Nom + Filler + Verbe au participe passé. Cet énoncé est produit avec une forme prosodique spécifique : une montée intonative à la fin du premier mot accompagnée d’une proéminence et une seconde montée intonative à la fin du second mot, accompagnée d’une autre proéminence et d’un allongement syllabe de la dernière syllabe.</description>
+<quote>Morgenstern, A. &amp; Parisse, C. (Eds.), (2017). &lt;a href=&quot;http://psn.univ-paris3.fr/ouvrage/le-langage-de-lenfant-de-leclosion-lexplosion&quot;&gt;Le langage de l’enfant. De l’éclosion à l’explosion&lt;/a&gt;. Paris : Presses de la Sorbonne Nouvelle.
+Morgenstern, A. &amp; Parisse, C., (2012). &lt;a href=&quot;http://journals.cambridge.org/action/displayJournal?jid=JFL&quot;&gt;The Paris Corpus&lt;/a&gt;. Journal of French Language Studies, Cambridge University Press (CUP), 22 (Special issue 1), pp.7-12.</quote>
+</extract>

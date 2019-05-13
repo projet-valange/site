@@ -1,6 +1,0 @@
-<ul style="list-style-type:none">
-<li>341	%act:	CHI prend un marqueur</li>
-<li>342	*CHI:	avec ces cachets .</li>
-<li>343	%act:	CHI ouvre le marqueur avec les dents</li>
-<li>344	*CHI:	+, j(e) pourrai l(e) faire .</li>
-</ul>

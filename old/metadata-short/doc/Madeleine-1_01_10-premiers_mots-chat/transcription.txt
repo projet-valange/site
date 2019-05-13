@@ -1,0 +1,12 @@
+OBS	là tu attaques le plastique Madeleine!
+	sit	la mère de Madeleine est en train de lui donner un yaourt
+MADELEINE	chat !
+	xpt	show la fenêtre de l’index
+MERE	t(u) as vu un chat ?
+MERE	mais non.
+MERE	mais non y en a pas là.
+MADELEINE	yyy !
+	pho	[aja]
+	xpt	CHI garde le doigt pointé vers la fenêtre
+MADELEINE chat!
+MERE	oui on en voit souvent mais là y en a pas.

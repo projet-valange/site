@@ -1,0 +1,8 @@
+act	Anaé et sa mère jouent à un jeu de loto
+MERE	ça c'est un hamster … comme Léa
+act	montre une image de l'index
+MERE	tu sais Léa elle en a un … dans sa maison
+MERE	hum
+ANAE	Anaé aussi Anaé !
+MERE	Anaé elle a un hamster dans sa maison ?
+MERE	non non !

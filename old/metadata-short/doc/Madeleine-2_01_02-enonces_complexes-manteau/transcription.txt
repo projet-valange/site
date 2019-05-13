@@ -1,0 +1,16 @@
+Madeleine insiste pour aider l’observatrice à enlever son manteau qu’elle porte encore juste après son arrivée dans la maison
+MADELEINE	moi j’enlève mon manteau tout seul.
+OBSERVATRICE	moi aussi alors.
+MADELEINE	moi va aller enlever ton écharpe moi.
+OBSERVATRICE	merci
+MADELEINE	on met [//] on peut mettre dans le bureau de papa ?
+OBSERVATRICE	si tu veux.
+MADELEINE	et ton manteau ?
+MADELEINE	moi je veux enlever ton manteau.
+OBSERVATRICE	le manteau aussi tu veux ?
+ OBSERVATRICE	attends, tu veux tirer là ? tu tires la manche ?
+	act	Madeleine aide l’observatrice à retirer son manteau.
+OBSERVATRICE	ouf oh c'est dur ouf [/] ouf !
+OBSERVATRICE	oh il est trop serré c(e) manteau.
+	sit	Madeleine tire ; et sourit, hilare, lève la tête (échange de regards avec l’observatrice)
+OBSERVATRICE	oh ça y est [/] ça y est [/] tire [/] tire [/] tire (.) ouais !

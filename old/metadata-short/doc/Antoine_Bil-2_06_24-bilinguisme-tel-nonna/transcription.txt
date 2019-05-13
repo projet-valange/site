@@ -1,0 +1,17 @@
+Mère	è il nonno questa volta. Cosa gli dici ?
+	(c’est grand-père cette fois-ci. Qu’est-ce que tu lui dis ?)
+Antoine	nonna ?
+Grand-père	pronto ! chi sei tu ? Antoine sei ? sei Antoine ?
+	(Allo ! tu es qui ? c’est Antoine ? c’est Antoine ?)
+Antoine	XXX pati travaje
+Grand-père	cosa dici ?
+	(tu dis quoi ?)
+Antoine	mammina XXX
+Grand-père	che cosa dici ? non si capisce niente !
+	(qu’est-ce que tu dis ? on en comprend rien !)
+Antoine	XXX nonna
+Grand-père	non si capisce # la nonna non c’è la nonna.
+	(on ne comprend pas # la nonna n’est pas là)
+Antoine	la nonna epati t(r)availler ?	
+Grand-père	la nonna non c’è. C’è il nonno. Sono io. 
+	(la nonna n’est pas là. Il y a le nonno. C’est moi)

@@ -50,141 +50,17 @@
                     vous
                     notifier de la mise en ligne de cette dernière.</p>
                 <legend>Informations sur le/la contributeur·trice</legend>
+                <include src="extractedit.html"></include>
                 <form role="form" method="post" id="reused_form" enctype=&quot;multipart/form-data&quot;>
                     <div class="form-group">
-                        <label for="name"> Nom*</label>
-                        <input type="text" class="form-control" id="name" name="name" required maxlength="50">
+                        <input class="form-control" type="hidden" id="xmldata" name="xmldata">
                     </div>
                     <div class="form-group">
-                        <label for="name"> Prénom*</label>
-                        <input type="text" class="form-control" id="surname" name="surname" required maxlength="50">
+                        <input class="form-control" type="hidden" id="entryname" name="entryname">
                     </div>
-                    <div class="form-group">
-                        <label for="name"> Institution</label>
-                        <p>Si vous êtes chercheur·se, précisez l'université, le laboratoire, etc.</p>
-                        <input type="text" class="form-control" id="institution" name="institution" required
-                               maxlength="50">
-                    </div>
-                    <div class="form-group">
-                        <label for="email"> E-mail*</label>
-                        <input type="email" class="form-control" id="email" name="email" required maxlength="50">
-                    </div>
-                    <h2>Contribution</h2>
-                    <p>Cette seconde partie du formulaire concerne l'extrait vidéo que vous souhaitez nous
-                        soumettre.</p>
-                    <legend>Droit et fichier</legend>
-                    <p>Attention, les vidéos de la base de données VaLangE sont sont soumises à une licence Creative
-                        Commons
-                        CC-BY-NC-ND (voir notre charte) et sont accessibles en ligne sans restriction. Il est donc
-                        nécessaire
-                        d'avoir le droit de partager votre contribution. En cochant la case ci-dessous, vous garantissez
-                        que vous
-                        disposez bien de ce droit et l'accord signé des parents de l'enfant filmé vous sera alors
-                        demandé par mail.
-                        La mise en ligne de votre contribution est conditionnée par l'acquisition de ce document.</p>
-                    <label class="container_agreement">
-                        <input class="checkbox_agreement" type="checkbox"
-                               value="J'ai le droit de déposer cette vidéo dans la base Videopedia de VaLangE pour un usage scientifique.">
-                        <span class="checkmark" style="padding-right:10px;"></span>J'ai le droit de déposer cette vidéo
-                        dans la base
-                        Videopedia de VaLangE pour un usage scientifique.
-                    </label>
-                    <div class="form-group">
-                        <input class="form-control" type="hidden" id="agree" name="agree">
-                    </div>
-                    <legend>Informations sur l'enfant</legend>
-                    <div class="form-group">
-                        <label for="name"> Nom de l'enfant*</label>
-                        <input type="text" class="form-control" id="namechi" name="namechi" required
-                               maxlength="50">
-                    </div>
-                    <p>Genre*</p>
-                    <label class="label_genre"><input class="input_genre" type="radio" name="radio" value="Fille"> Fille<span
-                            class="checkmark"></span></label>
-                    <label class="label_genre"><input class="input_genre" type="radio" name="radio" value="Garçon">
-                        Garçon<span
-                                class="checkmark"></span></label>
-                    <label class="label_genre"><input class="input_genre" type="radio" name="radio"
-                                                      value="Préfère ne pas préciser">
-                        Préfère ne pas préciser<span class="checkmark"></span></label>
-                    <div class="form-group">
-                        <input class="form-control" type="hidden" id="genre" name="genre">
-                    </div>
-                    <br>
-                    <p>Âge*<br>Âge de l'enfant au moment de la vidéo au format (A)A;MM(;DD). Par exemple, pour un enfant
-                        de 10
-                        mois et 24 jours, mettre 0;10;24 ; pour un enfant de 34 mois, mettre 2;10 ; pour un enfant de 10
-                        ans 2 mois
-                        et 3 jours, mettre 10;02;03.</p>
-                    <div class="form-group">
-                        <input type="text" class="form-control" id="age" name="age" required maxlength="50">
-                    </div>
-                    <div class="form-group">
-                        <label for="name"> Localisation*</label>
-                        <p>Ville et pays où vit l'enfant au moment de la vidéo.</p>
-                        <input type="text" class="form-control" id="localisation" name="localisation" required
-                               maxlength="50">
-                    </div>
-                    <br>
-                    <p>Langue(s) maternelle(s)*<br>Langue(s) parlée(s) par l'enfant. Sélectionnez plusieurs langues si
-                        l'enfant
-                        est bilingue ou plurilingue. Si la langue n'est pas proposée, veuillez entrer la langue dans
-                        "Autre" et
-                        préciser sa variante s'il y a lieu.</p>
-                    <label class="container_langue_francais">
-                        <input class="checkbox_langue_francais" type="checkbox"
-                               value="français (France métropolitaine)">
-                        <span class="checkmark" style="padding-right:10px;"></span>français (France métropolitaine)
-                    </label>
-                    <div class="form-group">
-                        <input class="form-control" type="hidden" id="langue_francais" name="langue_francais">
-                    </div>
-                    <label class="container_langue_anglais">
-                        <input class="checkbox_langue_anglais" type="checkbox" value="anglais (Royaume-Uni)">
-                        <span class="checkmark" style="padding-right:10px;"></span>anglais (Royaume-Uni)
-                    </label>
-                    <div class="form-group">
-                        <input class="form-control" type="hidden" id="langue_anglais" name="langue_anglais">
-                    </div>
-                    <label class="container_langue_italien">
-                        <input class="checkbox_langue_italien" type="checkbox" value="italien">
-                        <span class="checkmark" style="padding-right:10px;"></span>italien
-                    </label>
-                    <div class="form-group">
-                        <input class="form-control" type="hidden" id="langue_italien" name="langue_italien">
-                    </div>
-                    <label class="container_langue_portugais">
-                        <input class="checkbox_langue_portugais" type="checkbox" value="portugais (Brésil)">
-                        <span class="checkmark" style="padding-right:10px;"></span>portugais (Brésil)
-                    </label>
-                    <div class="form-group">
-                        <input class="form-control" type="hidden" id="langue_portugais" name="langue_portugais">
-                    </div>
-                    <label class="container_langue_autre">
-                        <input class="checkbox_langue_autre" type="checkbox" value="Autre">
-                        <span class="checkmark" style="padding-right:10px;"></span>Autre
-                    </label>
-                    <div class="form-group">
-                        <input class="form-control" type="hidden" id="langue_autre" name="langue_autre">
-                    </div>
-                    <legend>Informations sur l'extrait</legend>
-                    <p>Genre de discours</p><br>
-                    <label class="label_discour"><input class="input_discour" type="radio" name="radio"
-                                                        value="Monologue">
-                        Monologue<span class="checkmark"></span></label>
-                    <label class="label_discour"><input class="input_discour" type="radio" name="radio"
-                                                        value="Interaction">
-                        Interaction<span class="checkmark"></span></label>
-                    <label class="label_discour"><input class="input_discour" type="radio" name="radio"
-                                                        value="Je ne sais pas"> Je
-                        ne sais pas<span class="checkmark"></span></label>
-                    <div class="form-group">
-                        <input class="form-control" type="hidden" id="genre_de_discours" name="genre_de_discours">
-                    </div>
-                    <br>
                     <div class="form-group">
                         <!-- MAX_FILE_SIZE doit précéder le champ input de type file -->
-                        <input type="hidden" name="MAX_FILE_SIZE" value="300000000" />
+                        <input type="hidden" name="MAX_FILE_SIZE" value="50000000" />
                         <label for="name" style="font-size:20px;"> Charger la vidéo :</label>
                         <input type="file" class="form-control" id="file" name="file" required>
                     </div>
@@ -211,7 +87,7 @@
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="../../lib/jquery/jquery.min.js"></script>
-<script src="../../lib/popper/popper.js"></script>
+<!-- <script src="../../lib/popper/popper.js"></script> -->
 <script src="../../lib/bootstrap/js/bootstrap.min.js"></script>
 <script>
     function after_form_submitted_execute(data) {
@@ -249,54 +125,18 @@
         }, 1000);
     }
 
-    function isValidEmailAddress(emailAddress) {
-        var pattern = /^([a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+(\.[a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+)*|"((([ \t]*\r\n)?[ \t]+)?([\x01-\x08\x0b\x0c\x0e-\x1f\x7f\x21\x23-\x5b\x5d-\x7e\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|\\[\x01-\x09\x0b\x0c\x0d-\x7f\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))*(([ \t]*\r\n)?[ \t]+)?")@(([a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.)+([a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.?$/i;
-        return pattern.test(emailAddress);
-    }
-
     $('#reused_form').submit(function (e) {
         e.preventDefault();
-        // Check values
-        /*
-  $validator->fields(['nom','prénom','email'])->areRequired()->maxLength(50);
-  $validator->field('institution')->maxLength(6000);
-  $validator->field('email')->isEmail();
-  $validator->field('agree')->maxLength(6000);
-  $validator->field("nom_de_l'enfant")->maxLength(6000);
-  $validator->field('genre')->maxLength(6000);
-  $validator->field('age')->maxLength(6000);
-  $validator->field('localisation')->maxLength(6000);
-  $validator->field('langue_francais')->maxLength(6000);
-  $validator->field('langue_anglais')->maxLength(6000);
-  $validator->field('langue_italien')->maxLength(6000);
-  $validator->field('langue_portugais')->maxLength(6000);
-  $validator->field('langue_autre')->maxLength(6000);
-  $validator->field('genre_de_discours')->maxLength(6000);
-        */
-        // title
-        /*
-        var v = $('input[name="title"]');
-        var vv = v.val();
-        if (vv.length > 80) v.val(vv.substr(0, 80));
-        // name
-        v = $('input[name="name"]');
-        vv = v.val();
-        if (vv.length > 80) v.val(vv.substr(0, 80));
-        // message
-        v = $('textarea[name="text"]');
-        vv = v.val();
-        if (vv.length > 1200) {
-          window.alert("Le texte du message est limité à 1200 caractères.");
-          v.val(vv.substr(0, 1200));
-        }
-        // email
-        v = $('input[name="email"]');
-        vv = v.val();
-        if ( !isValidEmailAddress(vv) ) {
-          window.alert('Adresse email invalide: veuillez la corriger');
-          return;
-        }
-        */
+
+        console.log("xml", getXmlData());
+        console.log("xml", getXmlDataUser());
+        console.log("entry", getEntryName());
+        console.log($("#file")[0].value);
+        // get the xml data content
+        var v = $('input[name="xmldata"]');
+        v.val(getXmlDataUser());
+        v = $('input[name="entryname"]');
+        v.val(getEntryName());
 
         $form = $(this);
         //show some response on the button
@@ -320,68 +160,6 @@
         });
 
     });
-</script>
-
-<script type="text/javascript">
-    function printagreeValue() {
-        //console.log(this.value);
-        var x = document.getElementById("agree");
-        x.value = this.value;
-    }
-
-    function printgenreValue() {
-        //console.log(this.value);
-        var x = document.getElementById("genre");
-        x.value = this.value;
-    }
-
-    function printdiscourValue() {
-        //console.log(this.value);
-        var x = document.getElementById("genre_de_discours");
-        x.value = this.value;
-    }
-
-    function printfrançaisValue() {
-        //console.log(this.value);
-        var x = document.getElementById("langue_francais");
-        x.value = this.value;
-    }
-
-    function printanglaisValue() {
-        //console.log(this.value);
-        var x = document.getElementById("langue_anglais");
-        x.value = this.value;
-    }
-
-    function printitalienValue() {
-        //console.log(this.value);
-        var x = document.getElementById("langue_italien");
-        x.value = this.value;
-    }
-
-    function printportugaisValue() {
-        //console.log(this.value);
-        var x = document.getElementById("langue_portugais");
-        x.value = this.value;
-    }
-
-    function printautreValue() {
-        //console.log(this.value);
-        var x = document.getElementById("langue_autre");
-        x.value = this.value;
-    }
-
-    //함수
-
-    $(".checkbox_agreement").on("change", printagreeValue);
-    $(".input_genre").on("change", printgenreValue);
-    $(".input_discour").on("change", printdiscourValue);
-    $(".checkbox_langue_francais").on("change", printfrançaisValue);
-    $(".checkbox_langue_anglais").on("change", printanglaisValue);
-    $(".checkbox_langue_italien").on("change", printitalienValue);
-    $(".checkbox_langue_portugais").on("change", printportugaisValue);
-    $(".checkbox_langue_autre").on("change", printautreValue);
-
 </script>
 
 </body>

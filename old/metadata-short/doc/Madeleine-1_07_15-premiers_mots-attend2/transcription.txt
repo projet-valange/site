@@ -1,0 +1,7 @@
+MERE	le petit cinéma de Petit_Ours_Brun en chanson.
+MADELEINE	attends !
+	pho	[aːtɑ̃]
+	act	CHI tente de retirer les mains de sa mère de l'ordinateur, tente de
+	repousser ses bras.
+MERE	les jeux de papa.
+MERE	ah qu'est-ce que t(u) as fait ?

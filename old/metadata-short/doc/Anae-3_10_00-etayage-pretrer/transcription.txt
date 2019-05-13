@@ -1,0 +1,4 @@
+MERE	… parce que le grand ours i(l) lui a donné son bateau ?
+ANAE	il lui a prêtRé
+	MERE	d'accord.
+ANAE	prêté.

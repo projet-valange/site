@@ -1,6 +1,0 @@
-<ul style="list-style-type:none">
-<li>MERE	… parce que le grand ours i(l) lui a donné son bateau ?</li>
-<li>ANAE	il lui a prêtRé</li>
-<li>	MERE	d'accord.</li>
-<li>ANAE	prêté.</li>
-</ul>

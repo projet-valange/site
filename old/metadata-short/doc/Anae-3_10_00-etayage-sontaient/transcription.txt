@@ -1,0 +1,7 @@
+MERE	ah mais y a pas de vaches dans cette ferme !
+ANAE	bah non ! les vaches elles ont disparu !
+ANAE	en en fait on disait que les vaches elles sontaient derrière !
+MERE	c'est vrai ?
+MERE	ah bah oui tu as raison regarde !
+ANAE	oui
+MERE	elles sont là elles sont là elles sont dessinées en fait !

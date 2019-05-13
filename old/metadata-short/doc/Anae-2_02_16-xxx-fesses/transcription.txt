@@ -1,0 +1,13 @@
+act	Anaé fait de la gymnastique dans le salon
+MERE	attention attention
+MERE	tu rentres bien ta tête
+MERE	rentre bien ta tête
+MERE	tu montes tes fesses
+MERE	vas-y rentre ta tête rentre ta tête
+MERE	monte tes fesses
+MERE	bravo [applaudit] !
+ANAE	tu remontes tes fesses
+pho [ti ʁəmɔ̃t ti fɛs]
+act	en riant
+MERE	tu remontes tes fesses ?
+act	en riant

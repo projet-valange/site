@@ -1,0 +1,4 @@
+act	Anaé et sa mère sont en train de regarder un livre avec des animaux.
+ANAE	il a i(l) i(l) il a quel âge lui ?
+MERE	je pense qu'il a trois ans !
+MERE	comme Anaé

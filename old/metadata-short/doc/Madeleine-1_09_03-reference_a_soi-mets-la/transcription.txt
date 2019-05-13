@@ -1,0 +1,10 @@
+act	Madeleine saisit et observe un objet qu'elle vient de trouver sur la petite table du salon.
+MADELEINE	maman !
+MADELEINE	c'est maman
+MADELEINE	xxx cheveux
+act	Madeleine met l'objet sur sa tête et regarde l’observatrice
+MERE	ah non ça s'accroche pas dans les ch(e)veux ça
+act	Madeleine repose l'objet sur la table mais celui-ci tombe à travers les trous de la table. Madeleine se baisse, le ramasse, l'observe, et joue à le faire passer à travers l'un des trous de la table.
+MADELEINE	mets là
+MERE	[rit]
+OBSERVATRICE	dans l(e) trou !

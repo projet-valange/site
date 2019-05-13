@@ -1,0 +1,6 @@
+	sit	Théophile tient un flacon à bulles dans les mains
+OBSERVATEUR	c'est des bulles.
+MERE	ouais il adore ça.
+OBSERVATEUR	wouah !
+THEOPHILE	[ʁː ɔnɔːemɔ̃bu eː]
+OBSERVATEUR	elle est là la bille.

@@ -1,0 +1,11 @@
+MERE	ouais super
+MERE	et là on l(e) met où ?
+	act	la mère	montre la vis à Théophile
+MERE	tu veux la mettre où ….
+MERE	tu veux la mettre où elle ?
+	act	la mère tend une pièce à Théophile
+THEOPHILE	met !
+	pho	[mweː]
+	act	Théophile met la vis dans un des trous
+MERE	là
+MERE	dans le trou ouais très bien

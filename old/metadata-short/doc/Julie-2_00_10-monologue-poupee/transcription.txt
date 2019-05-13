@@ -1,0 +1,22 @@
+1776	*CHI:	xxx .
+1777	%act:	CHI sort un pyjama du sac
+1778	*CHI:	et un petit jeu .
+1779	%pho:	e œ̃̃ pti zø
+1780	%act:	CHI pose le pyjama sur le bébé
+1781	*MOT:	0 [=! petite toux] .
+1782	*CHI:	+< là .
+1783	%pho:	la
+1784	*CHI:	un petit jeu .
+1785	%pho:	œ̃̃ pti zø
+1786	*CHI:	un petit jeu .
+1787	%pho:	œ̃̃ ti zø
+1788	*CHI:	un petit jeu .
+1789	%pho:	œ̃̃ ti zø
+1790	*CHI:	yy .
+1791	%pho:	u
+1792	%act:	CHI sort des vêtements du sac puis le pose par terre
+1793	*CHI:	jeu .
+1794	%pho:	zø
+1795	%act:	CHI pose les vêtements sur le bébé
+1796	*BRO:	je prends un bac pour mettre les duplos .
+1797	%pho:	ʒə pʁɑ̃ œ̃̃ bak puʁ mɛtʁ lɛ dyplɔ

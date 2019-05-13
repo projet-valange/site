@@ -1,0 +1,77 @@
+21	*CHI:	j(e) vais commencer par celui là .
+22	%mon:	CHI parle du marqueur
+23	%com:	il s'agit de marqueur comprenant d'un côté un marqueur traditionnel et de l'autre côté une sorte de roulette tampon encreur qui dépose de l'encre sur la feuille quand on la fait rouler
+24	*CHI:	0 [=! tousse].
+25	%act:	CHI est couchée à plat ventre sur le sol, elle dessine en agitant les pieds
+26	*CHI:	et c'est son serre tête qui xxx .
+27	%mon:	CHI commente ce qu'elle dessine
+28	*CHI:	et Belle .
+29	%int:	et Belle/2/-est belle/3/
+30	*CHI:	+, elle va rester sans rien .
+31	%com:	Belle est probablement la princesse illustrée sur le marqueur
+32	*CHI:	mais qu' est ce qu' on a foutu ?
+33	%act:	CHI regarde dans la pièce
+34	*CHI:	0 [=! petit bruit].
+35	*CHI:	0 [=! petit bruit].
+36	*CHI:	wah (.) c'est magnifique !
+37	%mon:	CHI s'autocongratule
+38	*CHI:	le trajet bleu +….
+39	*CHI:	+, doit aller par là .
+40	%mon:	CHI commente son dessin
+41	*CHI:	et (.) puis par là .
+42	*CHI:	puis par là .
+43	*CHI:	et puis par là .
+44	*CHI:	c'est magnifique !
+45	%mon:	CHI s'autocongratule
+46	*CHI:	je n' avais jamais imaginé .
+47	*CHI:	c' était très bien .
+48	*CHI:	maintenant j' ai une xxx à faire xxx .
+49	*CHI:	mon bleu sera magnifique .
+50	%int:	bleu/3/
+51	*CHI:	bon je n' en ai jamais utilisé .
+52	*CHI:	+, autant qu(e) je veux .
+53	*CHI:	+, sur mon trajet .
+54	*CHI:	c'est merveilleux !
+55	%mon:	CHI s'autocongratule
+56	*CHI:	au travers ces [//] de ce trajet jaune .
+57	%int:	au travers ces/3/
+58	*CHI:	mon trajet jaune comme ça .
+59	%mon:	CHI commente le dessin qu'elle est en train de réaliser
+60	*CHI:	mon trajet jaune comme ça .
+61	*CHI:	mon trajet jaune comme ça .
+62	%com:	CHI modifie sa voix et son débit comme si elle accompagnait le geste de dessin
+63	*CHI:	mon trajet jaune comme ça et mon trajet jaune comme ça .
+64	*CHI:	oh non !
+65	%com:	CHI parle d'une voix un peu théâtrale
+66	*CHI:	ce sera encore plus merveilleux xxx .
+67	%int:	que jour/3/-toujours/3/
+68	*CHI:	y a beaucoup d' encre .
+69	%com:	CHI parle du marqueur tampon encreur
+70	*CHI:	y a tout c(e) qu' i(l) faut .
+71	*CHI:	ouais .
+72	*CHI:	0 .
+73	*CHI:	waw .
+74	*CHI:	ah y a même pas d(e) rouge .
+75	%mon:	CHI fait un commentaire sur les marqueurs
+76	*CHI:	euh ouais .
+77	*CHI:	euh j(e) pourrais besoin d' avoir du rouge .
+78	%int:	je pourrais besoin d'avoir/3/
+79	*CHI:	le trajet rouge ce sera un autre comme ça .
+80	*CHI:	et un autre comme ça .
+81	%mon:	CHI commente la réalisation de son dessin
+82	*CHI:	et un autre comme +//.
+83	*CHI:	et un autre comme ça .
+84	*CHI:	et un autre comme ça .
+85	*CHI:	waw waw waw waw waw .
+86	*CHI:	0 [=! petits bruits].
+87	%com:	CHI a des difficultés pour ouvrir le marqueur, elle enlève le bouchon avec les dents
+88	*CHI:	trois roses différents avec le rose .
+89	*CHI:	xxx nous arrivons à l' Arielle rose .
+90	%com:	doute sur l'énoncé, Arielle est peut être la princesse illustrée sur le marqueur rose
+91	%act:	CHI dessine
+92	*CHI:	xxx arc en ciel .
+93	*CHI:	xxx arc en ciel .
+94	*CHI:	et pé pé .
+95	*CHI:	0 [=! tousse].
+96	*CHI:	ici une princesse (.) j(e) vais faire .
+97	%mon:	CHI commente son dessin

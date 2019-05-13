@@ -1,0 +1,12 @@
+Mère	# Antoine amore <vuoi raccon>	[/] vuoi e: raccontare a Sandra quali sono i libri che leggi in questo momento ? quali sono i tuoi libri ?
+	(Antoine amour <tu veux racon> tu veur raconter à Sandra quels sont les livres que tu lis en ce moment ? quels sont tes livres ?)
+Antoine	mamma.
+Mère	sì amore.
+Antoine	Sandra.
+Sandra:	sì.
+Antoine	io leggo Jean Titou e Marie Ponpon <avec@s il mio papà.
+	(je lis Jean Titou et Marie Pompon avec mon papa)
+Sandra:	non ho capito ripeti # io leggo ?
+	(je n’ai pas compris répète # je lis ?)
+Antoine	io leggo lo doudo e Marie Ponpon con papà.
+	(je lis lo doudo et Marie Pompon avec papa)

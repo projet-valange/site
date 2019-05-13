@@ -1,0 +1,6 @@
+Antoine	hai bobo ?	
+	(tu as un bobo ?)
+Mère	no amore non ho male
+	(non mon amour, je n’ai pas mal.)
+Antoine	male
+	(mal).

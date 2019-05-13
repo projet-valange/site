@@ -1,4 +1,0 @@
-<ul style="list-style-type:none">
-<li>MADELEINE	[e]f che(r)cher cou(rr)ier ! che(rcher) cou(rr)ier che(r)cher cou(rrier) …</li>
-<li>MERE	mais on l'a pris l(e) courrier ! on l'a pris l(e) courrier</li>
-</ul>

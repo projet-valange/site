@@ -1,0 +1,7 @@
+1986	*MOT:	toi tu sais descendre de la voiture comme un grand .
+1987	*MOT:	c'est bien ça .
+1988	*CHI:	yy .
+1989	%pho:	yː
+1990	%com:	CHI semble imiter le bruit de la tondeuse
+1991	*CHI:	0 .
+1992	%act:	CHI pousse la tondeuse dans le jardin
