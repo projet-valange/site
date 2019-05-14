@@ -27,7 +27,27 @@
         <div class="row">
             <div class="col-lg-9 col-md-9">
                 <h1><a style="color:#e88f47; ">E</a>dition d'une contribution</h1>
-                <h2>Contributeur·trice</h2>
+                <div class="row">
+                    <div class="input-group btn-lg btn-success pull-right">
+                        <!--
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">Ouvrir un extrait (métadonnées)</span>
+                        </div>
+                        -->
+                        <div class="custom-file">
+                            <input type="file" class="custom-file-input" id="inputGroupFile01" onchange="system.openLocalFile(event)">
+                            <label class="custom-file-label" for="inputGroupFile01">Ouvrir un extrait (métadonnées)</label>
+                        </div>
+                    </div>
+                    <br/>
+                    <div>
+                        <button type="button" onclick="saveData()" class="btn btn-lg btn-primary pull-right" 
+                            id="btnSaveExtract">Sauvegarder l'extrait (métadonnées)</button>
+                    </div>
+                </div>
+                <hr/>
+                <h2 id="nameentry"></h2>
+                <hr/>
                 <legend>Informations sur le/la contributeur·trice</legend>
                 <script src="../../common/parsemetadata.js"></script>
                 <div id="extract_edit">
@@ -54,7 +74,7 @@
                     <p id="secondpart">Cette seconde partie du formulaire concerne l'extrait vidéo que vous souhaitez nous
                         soumettre.</p>
                     <legend>Droit et fichier</legend>
-                    <p>Attention, les vidéos de la base de données VaLangE sont sont soumises à une licence Creative
+                    <p id="infodroit">Attention, les vidéos de la base de données VaLangE sont sont soumises à une licence Creative
                         Commons
                         CC-BY-NC-ND (voir notre charte) et sont accessibles en ligne sans restriction. Il est donc
                         nécessaire
@@ -65,10 +85,9 @@
                         La mise en ligne de votre contribution est conditionnée par l'acquisition de ce document.</p>
                     <label class="container_agreement">
                         <input class="checkbox_agreement" type="checkbox" id="agree" name="agree"
-                                value="J'ai le droit de déposer cette vidéo dans la base Videopedia de VaLangE pour un usage scientifique.">
+                                value="agreement signed">
                         <span class="checkmark" style="padding-right:10px;"></span>J'ai le droit de déposer cette vidéo
-                        dans la base
-                        Videopedia de VaLangE pour un usage scientifique.
+                        dans la base Videopedia de VaLangE pour un usage scientifique.
                     </label>
                     <legend>Informations sur l'enfant</legend>
                     <div class="edit-group">
@@ -108,27 +127,27 @@
                         préciser sa variante s'il y a lieu.</p>
                     <label class="container_langue_francais">
                         <input class="checkbox_langue_francais" type="checkbox" id="fra" name="fra"
-                                value="français (France métropolitaine)">
+                                value="fra">
                         <span class="checkmark" style="padding-right:10px;"></span>français (France métropolitaine)
                     </label>
                     <label class="container_langue_anglais">
                         <input class="checkbox_langue_anglais" type="checkbox"  id="eng" name="eng"
-                        value="anglais (Royaume-Uni)">
+                        value="eng">
                         <span class="checkmark" style="padding-right:10px;"></span>anglais (Royaume-Uni)
                     </label>
                     <label class="container_langue_italien">
                         <input class="checkbox_langue_italien" type="checkbox"  id="ita" name="ita"
-                        value="italien">
+                        value="ita">
                         <span class="checkmark" style="padding-right:10px;"></span>italien
                     </label>
                     <label class="container_langue_portugais">
                         <input class="checkbox_langue_portugais" type="checkbox" id="bra" name="bra"
-                        value="portugais (Brésil)">
+                        value="bra">
                         <span class="checkmark" style="padding-right:10px;"></span>portugais (Brésil)
                     </label>
                     <label class="container_langue_autre">
                         <input class="checkbox_langue_autre" type="checkbox" id="oth" name="oth"
-                        value="Autre">
+                        value="oth">
                         <span class="checkmark" style="padding-right:10px;"></span>Autre
                     </label>
                     <legend>Informations sur l'extrait</legend>
@@ -259,7 +278,7 @@
                         v = "";
                         if ($('input[name=fra]').is(':checked')) v += 'fra,';
                         if ($('input[name=eng]').is(':checked')) v += 'eng,';
-                        if ($('input[name=ita]').is(':checked')) v += 'por,';
+                        if ($('input[name=ita]').is(':checked')) v += 'ita,';
                         if ($('input[name=bra]').is(':checked')) v += 'bra,';
                         if ($('input[name=oth]').is(':checked')) v += 'oth,';
                         meta.lang = v;
@@ -381,6 +400,20 @@
                         if (vv.length > 240) v.val(vv);
                         meta.themekey = vv;
 
+                        // duration
+                        v = $('input[name="duration"]');
+                        vv = v.val();
+                        vv = vv.substr(0, 240);
+                        if (vv.length > 240) v.val(vv);
+                        meta.duration = vv;
+
+                        // media
+                        v = $('input[name="media"]');
+                        vv = v.val();
+                        vv = vv.substr(0, 240);
+                        if (vv.length > 240) v.val(vv);
+                        meta.media = vv;
+
                         return parsemetadata.metadataToString(meta);
                     }
 
@@ -415,31 +448,35 @@
                         return name + "-" + surname + "-" + formatDate(d);
                     }
                 </script>
-                $("#secondpart").hide();
                 <!-- add edition of entry, media, actkey, themekey, and duration -->
                 <div class="edit-group>
+                    <label class="control-label" for="language"><strong>Langue :</strong></label>
+                    <input type="text" class="form-control" id="language" name="language" maxlength="120">
+                </div>
+                <div class="edit-group>
                     <label class="control-label" for="entry"><strong>Entry :</strong></label>
-                    <input type="text" class="form-control" id="act" name="entry" maxlength="120">
+                    <input type="text" class="form-control" id="entry" name="entry" maxlength="120">
                 </div>
                 <div class="edit-group>
                     <label class="control-label" for="media"><strong>Media :</strong></label>
-                    <input type="text" class="form-control" id="act" name="media" maxlength="120">
+                    <input type="text" class="form-control" id="media" name="media" maxlength="120">
                 </div>
                 <div class="edit-group>
                     <label class="control-label" for="actkey"><strong>Clés normalisées à utiliser pour Activités :</strong></label>
-                    <input type="text" class="form-control" id="act" name="actkey" maxlength="120">
+                    <input type="text" class="form-control" id="actkey" name="actkey" maxlength="120">
                 </div>
                 <div class="edit-group>
                     <label class="control-label" for="themekey"><strong>Clés normalisées à utiliser pour Thème :</strong></label>
-                    <input type="text" class="form-control" id="act" name="themekey" maxlength="120">
+                    <input type="text" class="form-control" id="themekey" name="themekey" maxlength="120">
                 </div>
                 <div class="edit-group>
                     <label class="control-label" for="duration"><strong>Durée :</strong></label>
-                    <input type="text" class="form-control" id="act" name="duration" maxlength="120">
+                    <input type="text" class="form-control" id="duration" name="duration" maxlength="120">
                 </div>
             </div>
         </div>
     </div>
+
     <br/>
     <hr>
 
@@ -486,34 +523,98 @@
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="../../lib/jquery/jquery.min.js"></script>
 <script src="../../lib/bootstrap/js/bootstrap.min.js"></script>
+<script src="../../common/filesaver.js"></script>
+<script src="../../common/system.js"></script>
 <script>
 
-    function savedata() {
+    $("#secondpart").hide();
+    $("#infodroit").hide();
+    var lastfilename = "extract.xml";
+    /**
+     * function for opening an external file and filling the data
+     */
+    system.process = function(filename, filecontent) {
+        lastfilename = filename;
+        var meta = parsemetadata.parseMetadata(filecontent, filename);
+        console.log(filecontent);
+        console.log(meta);
+
+        $('#nameentry').text(meta.entry);
+        $('input[name="name"]').val(meta.name);
+        $('input[name="surname"]').val(meta.surname)
+        $('input[name="institution"]').val(meta.institution);
+        $('input[name="email"]').val(meta.email);
+        $('input[name="namechi"]').val(meta.child);
+        $('input[name="age"]').val(meta.age);
+        $('input[name="localisation"]').val(meta.localisation);
+        $('input[name="project"]').val(meta.project);
+        $('input[name="title"]').val(meta.title);
+        $('textarea[name="description"]').val(meta.description);
+        $('textarea[name="transcription"]').val(meta.transcription);
+        $('textarea[name="quote"]').val(meta.quote);
+        $('input[name="act"]').val(meta.act);
+        $('input[name="theme"]').val(meta.theme);
+        $('input[name="keywords"]').val(meta.keywords);
+        $('input[name="media"]').val(meta.media);
+        $('input[name="extmedia"]').val(meta.extmedia);
+        $('input[name="entry"]').val(meta.entry);
+        $('input[name="actkey"]').val(meta.actkey);
+        $('input[name="themekey"]').val(meta.themekey);
+        $('input[name="duration"]').val(meta.duration);
+
+        if (meta.lang.indexOf("fra") >= 0 || meta.lang === "fr") {
+            $("input[name='fra']").prop('checked', true);
+        }
+        if (meta.lang.indexOf("eng") >= 0 || meta.lang === "en") {
+            $("input[name='eng']").prop('checked', true);
+        }
+        if (meta.lang.indexOf("ita") >= 0 || meta.lang === "it") {
+            $("input[name='ita']").prop('checked', true);
+        }
+        if (meta.lang.indexOf("bra") >= 0 || meta.lang === "br") {
+            $("input[name='bra']").prop('checked', true);
+        }
+        if (meta.lang.indexOf("oth") >= 0 || meta.lang === "") {
+            $("input[name='oth']").prop('checked', true);
+        }
+        if (meta.lang === "it (fr)") {
+            $("input[name='ita']").prop('checked', true);
+            $("input[name='fra']").prop('checked', true);
+        }
+        $('input[name="language"]').val(meta.lang);
+
+        if (meta.agree === "agreement signed") {
+            $("input[name='agree']").prop('checked', true);
+        } else {
+            $("input[name='agree']").prop('checked', false);
+        }
+        if (meta.disc === "monologue") {
+            $("input[name='disc'][value='monologue']").prop('checked', true);
+        } else if (meta.disc === "monologue") {
+            $("input[name='disc'][value='interaction']").prop('checked', true);
+        } else {
+            $("input[name='disc'][value='unknown']").prop('checked', true);
+        }
+        if (meta.gender === "girl") {
+            $("input[name='gender'][value='girl']").prop('checked', true);
+        } else if (meta.gender === "boy") {
+            $("input[name='gender'][value='boy']").prop('checked', true);
+        } else {
+            $("input[name='gender'][value='unknown']").prop('checked', true);
+        }
+        /*
         console.log("xml", getXmlData());
         console.log("xml", getXmlDataUser());
         console.log("entry", getEntryName());
-
-        /*
-        SAVE THE DATA
-        // get the xml data content
-        var v = $('input[name="xmldata"]');
-        v.val(getXmlDataUser());
-        v = $('input[name="entryname"]');
-        v.val(getEntryName());
-
-        var formdata = new FormData(this);
-        $.ajax({
-            type: "POST",
-            url: '../../common/sendproposition.php',
-            data: formdata,
-            success: after_form_submitted,
-            dataType: 'json',
-            processData: false,
-            contentType: false,
-            cache: false
-        });
         */
     }
+
+    function saveData() {
+        var data = getXmlDataValidator();
+        console.log("valid:", data);
+        system.saveFileLocal("xml", lastfilename, data);
+    }
+
 </script>
 
 </body>

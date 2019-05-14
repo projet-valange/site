@@ -79,8 +79,8 @@ parsemetadata.parseMetadata = function(text, fn) {
     var xml = parser.parseFromString(text,"text/xml");
 
     // depositor
-    meta.entry = parsemetadata.checkElement(xml, "name", fn);
-    meta.entry = parsemetadata.checkElement(xml, "surname", fn);
+    meta.name = parsemetadata.checkElement(xml, "name", fn);
+    meta.surname = parsemetadata.checkElement(xml, "surname", fn);
     meta.institution = parsemetadata.checkElement(xml, "institution", fn);
     meta.email = parsemetadata.checkElement(xml, "email", fn);
     

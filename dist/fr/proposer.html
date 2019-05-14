@@ -120,7 +120,7 @@
                     <p id="secondpart">Cette seconde partie du formulaire concerne l'extrait vidéo que vous souhaitez nous
                         soumettre.</p>
                     <legend>Droit et fichier</legend>
-                    <p>Attention, les vidéos de la base de données VaLangE sont sont soumises à une licence Creative
+                    <p id="infodroit">Attention, les vidéos de la base de données VaLangE sont sont soumises à une licence Creative
                         Commons
                         CC-BY-NC-ND (voir notre charte) et sont accessibles en ligne sans restriction. Il est donc
                         nécessaire
@@ -131,10 +131,9 @@
                         La mise en ligne de votre contribution est conditionnée par l'acquisition de ce document.</p>
                     <label class="container_agreement">
                         <input class="checkbox_agreement" type="checkbox" id="agree" name="agree"
-                                value="J'ai le droit de déposer cette vidéo dans la base Videopedia de VaLangE pour un usage scientifique.">
+                                value="agreement signed">
                         <span class="checkmark" style="padding-right:10px;"></span>J'ai le droit de déposer cette vidéo
-                        dans la base
-                        Videopedia de VaLangE pour un usage scientifique.
+                        dans la base Videopedia de VaLangE pour un usage scientifique.
                     </label>
                     <legend>Informations sur l'enfant</legend>
                     <div class="edit-group">
@@ -174,27 +173,27 @@
                         préciser sa variante s'il y a lieu.</p>
                     <label class="container_langue_francais">
                         <input class="checkbox_langue_francais" type="checkbox" id="fra" name="fra"
-                                value="français (France métropolitaine)">
+                                value="fra">
                         <span class="checkmark" style="padding-right:10px;"></span>français (France métropolitaine)
                     </label>
                     <label class="container_langue_anglais">
                         <input class="checkbox_langue_anglais" type="checkbox"  id="eng" name="eng"
-                        value="anglais (Royaume-Uni)">
+                        value="eng">
                         <span class="checkmark" style="padding-right:10px;"></span>anglais (Royaume-Uni)
                     </label>
                     <label class="container_langue_italien">
                         <input class="checkbox_langue_italien" type="checkbox"  id="ita" name="ita"
-                        value="italien">
+                        value="ita">
                         <span class="checkmark" style="padding-right:10px;"></span>italien
                     </label>
                     <label class="container_langue_portugais">
                         <input class="checkbox_langue_portugais" type="checkbox" id="bra" name="bra"
-                        value="portugais (Brésil)">
+                        value="bra">
                         <span class="checkmark" style="padding-right:10px;"></span>portugais (Brésil)
                     </label>
                     <label class="container_langue_autre">
                         <input class="checkbox_langue_autre" type="checkbox" id="oth" name="oth"
-                        value="Autre">
+                        value="oth">
                         <span class="checkmark" style="padding-right:10px;"></span>Autre
                     </label>
                     <legend>Informations sur l'extrait</legend>
@@ -325,7 +324,7 @@
                         v = "";
                         if ($('input[name=fra]').is(':checked')) v += 'fra,';
                         if ($('input[name=eng]').is(':checked')) v += 'eng,';
-                        if ($('input[name=ita]').is(':checked')) v += 'por,';
+                        if ($('input[name=ita]').is(':checked')) v += 'ita,';
                         if ($('input[name=bra]').is(':checked')) v += 'bra,';
                         if ($('input[name=oth]').is(':checked')) v += 'oth,';
                         meta.lang = v;
@@ -446,6 +445,20 @@
                         vv = vv.substr(0, 240);
                         if (vv.length > 240) v.val(vv);
                         meta.themekey = vv;
+
+                        // duration
+                        v = $('input[name="duration"]');
+                        vv = v.val();
+                        vv = vv.substr(0, 240);
+                        if (vv.length > 240) v.val(vv);
+                        meta.duration = vv;
+
+                        // media
+                        v = $('input[name="media"]');
+                        vv = v.val();
+                        vv = vv.substr(0, 240);
+                        if (vv.length > 240) v.val(vv);
+                        meta.media = vv;
 
                         return parsemetadata.metadataToString(meta);
                     }
