@@ -610,7 +610,7 @@
         filterBy.lang = data_class_language;
       }
       if (data_class_theme.length > 0) {
-        filterBy.theme = data_class_theme;
+        filterBy.themekey = data_class_theme;
       }
       if (data_class_activity.length > 0) {
         filterBy.actkey = data_class_activity;
@@ -624,14 +624,23 @@
       //var filterBy = {child: data_class_child, language: data_class_language, theme: data_class_theme, activity:data_class_activity};
       var result = data_total.filter(o => Object.keys(filterBy).every(k => filterBy[k].some(f => o[k] === f)));
 
+      var edit = false;
+      if (window.location.href.lastIndexOf("?edit") === window.location.href.length - 5) edit = true;
+      console.log(window.location.href.lastIndexOf("?edit"));
+      console.log(window.location.href.length - 5);
       $("#result_length").text(result.length);
       $('#myUL').empty();
       for (var k = 0; k < result.length; k++) {
-        $("#myUL").append("<tr style='padding: 0px;'><td>" + k + "</td><td>" + result[k].entry + "</td><td>" + result[k].child 
-          + "</td><td>" + result[k].lang + "</td><td>" + result[k].age + "</td><td>" + result[k].theme + "</td><td>" 
+        var line = "<tr style='padding: 0px;'><td>" + k + "</td><td>" + result[k].entry + "</td><td>" + result[k].child 
+          + "</td><td>" + result[k].lang + "</td><td>" + result[k].age + "</td><td>" + result[k].themekey + "</td><td>" 
           + result[k].act + "</td><td><form method='GET' action='./dossier_offre.html' style='height: 7px;'>" 
           + "<button class='btn btn-large btn-info' style='padding: 0px; font-size: 12px; height: 25px; width: 60px;' type='submit' name='" 
-          + result[k].entry + "'>Examiner</button></form></td></tr>");
+          + result[k].entry + "'>Examiner</button></form></td>";
+        if (edit === true) line += "<td><form method='GET' action='./editentry.html' style='height: 7px;'>" 
+          + "<button class='btn btn-large btn-info' style='padding: 0px; font-size: 12px; height: 25px; width: 60px;' type='submit' name='" 
+          + result[k].entry + "'>Edit</button></form></td>";
+        line += "</tr>";
+        $("#myUL").append(line);
       }
 
       function checkedeachValue(data_cb_class) {

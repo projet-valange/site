@@ -182,6 +182,14 @@
         system.saveFileLocal("xml", lastfilename, data);
     }
 
+    // use url if there is one
+    var input_text = location.href.split("?")[1].replace("=","");
+    fetch("../../data/doc/"+input_text+"/metadata.xml").then(function(response){
+      response.text().then(function(text){
+        system.process("metadata.xml", text);
+      })
+    });
+
 </script>
 
 </body>
