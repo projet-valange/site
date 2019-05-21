@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Anae</child>
 <age>1;05.03</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>jeu symbolique (magasin)</act>
 <actkey>jeu_symbolique</actkey>
 <theme>babillage, monologue en présence d'autrui, jeu symbolique</theme>

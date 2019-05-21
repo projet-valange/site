@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Anae</child>
 <age>1;03</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act></act>
 <actkey></actkey>
 <theme>mouvement, danse pour son propre plaisir</theme>

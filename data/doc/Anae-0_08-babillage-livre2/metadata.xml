@@ -3,9 +3,11 @@
 <entry>Anae-0_08-babillage-livre2</entry>
 <media>Anae-0_08-babillage-livre2.mp4</media>
 <project>CoLaJE</project>
-<child>Anae</child>
+<child>Anaé</child>
 <age>0;08</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act></act>
 <actkey></actkey>
 <theme>babillage, avidité,  regard, monologue</theme>

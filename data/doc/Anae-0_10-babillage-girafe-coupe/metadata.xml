@@ -3,9 +3,11 @@
 <entry>Anae-0_10-babillage-girafe-coupe</entry>
 <media>Anae-0_10-babillage-girafe-coupe.mp4</media>
 <project>CoLaJE</project>
-<child>Anae</child>
+<child>Anaé</child>
 <age>0;10</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act></act>
 <actkey></actkey>
 <theme>babillage, monologue</theme>

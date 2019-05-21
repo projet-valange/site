@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Madeleine</child>
 <age>2;11.19</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>rangement</act>
 <actkey>rangement</actkey>
 <theme>, verbe sans sujet</theme>

@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Madeleine</child>
 <age>1;09.03</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>musique (flûte)</act>
 <actkey>musique</actkey>
 <theme>première syntaxe, combinaison de mots, mots + fillers + verbe</theme>

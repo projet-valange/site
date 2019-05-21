@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Antoine Bi</child>
 <age>2;00.21</age>
-<lang>fr (it)</lang>
+<languagemother>fra, ita</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra, ita</languageextract>
 <act>repas (goûter)</act>
 <actkey>repas</actkey>
 <theme>bilinguisme, alternance codique, expressions figées</theme>

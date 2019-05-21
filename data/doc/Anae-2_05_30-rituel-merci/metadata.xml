@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Anae</child>
 <age>2;05.30</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>repas (goûter)</act>
 <actkey>repas</actkey>
 <theme>rituel, politesse, monologue</theme>

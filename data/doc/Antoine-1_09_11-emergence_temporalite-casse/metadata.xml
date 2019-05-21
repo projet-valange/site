@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Antoine</child>
 <age>1;09.11</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>jeu symbolique (train)</act>
 <actkey>jeu_symbolique</actkey>
 <theme>émergence temporalité, passé, étayage, reformulation, interprétation</theme>

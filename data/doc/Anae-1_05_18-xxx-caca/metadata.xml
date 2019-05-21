@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Anae</child>
 <age>1;05.18</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>poupée</act>
 <actkey>poupée_peluche_figurines</actkey>
 <theme>, prénom (par la mère)</theme>

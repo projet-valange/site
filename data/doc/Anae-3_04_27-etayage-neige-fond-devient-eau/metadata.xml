@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Anae</child>
 <age>3;04.27</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>jeu autre (pâte à modeler)</act>
 <actkey>jeu_autre</actkey>
 <theme>étayage, zone proximale de développement, reformulation, extension</theme>

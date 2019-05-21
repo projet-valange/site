@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Madeleine</child>
 <age>1;01.10</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>repas (goûter)</act>
 <actkey>repas</actkey>
 <theme>premiers mots, production proto-linguistique, pointage, interprétation</theme>

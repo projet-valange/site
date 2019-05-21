@@ -5,7 +5,9 @@
 <project>Monologue</project>
 <child>Philippine</child>
 <age>4;11.24</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>jeu de construction (lego)</act>
 <actkey>jeu_de_construction</actkey>
 <theme>monologue, commentaire pour soi, planification, onomatopée</theme>

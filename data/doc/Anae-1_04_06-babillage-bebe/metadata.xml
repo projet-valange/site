@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Anae</child>
 <age>1;04.06</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>poupée</act>
 <actkey>poupée_peluche_figurines</actkey>
 <theme>babillage, commente ce qu'elle cherche ou prend, monologue en présence d'autrui</theme>

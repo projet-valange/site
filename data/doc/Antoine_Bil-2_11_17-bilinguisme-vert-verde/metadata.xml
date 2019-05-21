@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Antoine Bi</child>
 <age>2;11.17</age>
-<lang>it (fr)</lang>
+<languagemother>fra, ita</languagemother>
+<languagesecond></languagesecond>
+<languageextract>ita, fra</languageextract>
 <act>jeu symbolique (voitures)</act>
 <actkey>jeu_symbolique</actkey>
 <theme>bilinguisme, alternance codique, reformulation</theme>

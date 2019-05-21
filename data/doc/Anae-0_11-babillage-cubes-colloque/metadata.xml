@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Anae</child>
 <age>0;11</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>jeu de construction (cubes)</act>
 <actkey>jeu_de_construction</actkey>
 <theme>babillage, monologue, commente les objets qu'elle prend </theme>

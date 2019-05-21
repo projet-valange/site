@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Anae</child>
 <age>1;10.18</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>jeu en extérieur (toboggan)</act>
 <actkey>jeu_en_extérieur</actkey>
 <theme>, prénom (par la mère)</theme>

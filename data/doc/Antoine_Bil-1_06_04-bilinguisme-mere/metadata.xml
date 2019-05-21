@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Antoine Bi</child>
 <age>1;06.04</age>
-<lang>it (fr)</lang>
+<languagemother>fra, ita</languagemother>
+<languagesecond></languagesecond>
+<languageextract>ita, fra</languageextract>
 <act>jeu de construction (cubes)</act>
 <actkey>jeu_de_construction</actkey>
 <theme>bilinguisme, </theme>

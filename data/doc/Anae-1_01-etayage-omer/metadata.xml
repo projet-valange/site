@@ -5,7 +5,9 @@
 <project>CoLaJE/ Marie</project>
 <child>Anae</child>
 <age>1;01</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>jeu en extérieur</act>
 <actkey>jeu_en_extérieur</actkey>
 <theme>étayage, place d'interlocuteur, interprétation, validation</theme>

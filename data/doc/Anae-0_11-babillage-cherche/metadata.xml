@@ -3,9 +3,11 @@
 <entry>Anae-0_11-babillage-cherche</entry>
 <media>Anae-0_11-babillage-cherche.mp4</media>
 <project>CoLaJE</project>
-<child>Anae</child>
+<child>Anaé</child>
 <age>0;11</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act></act>
 <actkey></actkey>
 <theme>babillage, monologue, commente les objets qu'elle prend </theme>

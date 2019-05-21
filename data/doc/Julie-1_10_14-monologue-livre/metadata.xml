@@ -5,7 +5,9 @@
 <project>Monologue</project>
 <child>Julie</child>
 <age>1;10.14</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>livre</act>
 <actkey>livre</actkey>
 <theme>monologue, s'adresse à un personnage du livre</theme>

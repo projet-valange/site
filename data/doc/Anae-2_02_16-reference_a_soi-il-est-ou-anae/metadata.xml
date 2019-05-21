@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Anae</child>
 <age>2;02.16</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>jeu symbolique (coucou caché)</act>
 <actkey>jeu_symbolique</actkey>
 <theme>référence à soi, prénom, pronom, erreur de genre</theme>

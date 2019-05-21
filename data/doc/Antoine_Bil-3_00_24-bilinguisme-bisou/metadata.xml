@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Antoine Bi</child>
 <age>3;00.24</age>
-<lang>it (fr)</lang>
+<languagemother>fra, ita</languagemother>
+<languagesecond></languagesecond>
+<languageextract>ita, fra</languageextract>
 <act>soin (sortie de bain)</act>
 <actkey>soin</actkey>
 <theme>bilinguisme, alternance codique,  intraphrastique</theme>

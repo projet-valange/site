@@ -5,7 +5,9 @@
 <project>Monologue</project>
 <child>Julie</child>
 <age>1;02.04</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>soin (bain)</act>
 <actkey>soin</actkey>
 <theme>monologue, plaisir des sons émis</theme>

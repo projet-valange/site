@@ -5,7 +5,9 @@
 <project>Monologue</project>
 <child>Philippine</child>
 <age>4;09.01</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>soin (habillage)</act>
 <actkey>soin</actkey>
 <theme>monologue, commentaire pour soi</theme>

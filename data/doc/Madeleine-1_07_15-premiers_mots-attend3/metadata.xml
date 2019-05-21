@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Madeleine</child>
 <age>1;07.15</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>jeu technologique (ordinateur)</act>
 <actkey>jeu_technologique</actkey>
 <theme>premiers mots, combinaison 2 mots, multimodalité, opposition</theme>

@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Théophile</child>
 <age>2;07.04</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>soin (change)</act>
 <actkey>soin</actkey>
 <theme>première syntaxe, combinaison de mots, proto-mot, filler</theme>

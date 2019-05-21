@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Théophile</child>
 <age>1;08.08</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>musique (piano)</act>
 <actkey>musique</actkey>
 <theme>mouvement, </theme>

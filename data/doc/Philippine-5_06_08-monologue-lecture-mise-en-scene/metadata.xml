@@ -5,7 +5,9 @@
 <project>Monologue</project>
 <child>Philippine</child>
 <age>5;06.08</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>livre</act>
 <actkey>livre</actkey>
 <theme>monologue, Lecture pour soi, imitation lecture, mise en scène</theme>

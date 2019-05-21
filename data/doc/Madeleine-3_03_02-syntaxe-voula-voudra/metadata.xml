@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Madeleine</child>
 <age>3;03.02</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>livre</act>
 <actkey>livre</actkey>
 <theme>syntaxe, conditionnel, autocorrection, référence à soi, moi je, pointage</theme>

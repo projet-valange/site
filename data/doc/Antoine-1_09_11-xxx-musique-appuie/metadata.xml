@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Antoine</child>
 <age>1;09.11</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act></act>
 <actkey></actkey>
 <theme>, demande, rituel, politesse, étayage, reformulation, répétition, futur</theme>

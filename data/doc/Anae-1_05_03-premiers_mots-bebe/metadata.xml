@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Anae</child>
 <age>1;05.03</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>poupée</act>
 <actkey>poupée_peluche_figurines</actkey>
 <theme>premiers mots, monologue en présence d'autrui, commente ce qu'elle fait (et projet?)</theme>

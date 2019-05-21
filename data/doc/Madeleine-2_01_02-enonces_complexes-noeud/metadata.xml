@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Madeleine</child>
 <age>2;01.02</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>poupée</act>
 <actkey>poupée_peluche_figurines</actkey>
 <theme>énoncés complexes, référence à soi, je, c'est moi qui+verbe, opposition </theme>

@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Théophile</child>
 <age>1;11.07</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act></act>
 <actkey></actkey>
 <theme>étayage, interprétation, reformulation</theme>

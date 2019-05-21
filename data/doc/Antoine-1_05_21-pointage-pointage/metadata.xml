@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Antoine</child>
 <age>1;05.21</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>soin (retour à la maison)</act>
 <actkey>soin</actkey>
 <theme>pointage, </theme>

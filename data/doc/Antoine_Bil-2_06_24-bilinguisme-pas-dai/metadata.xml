@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Antoine Bi</child>
 <age>2;06.24</age>
-<lang>it (fr)</lang>
+<languagemother>fra, ita</languagemother>
+<languagesecond></languagesecond>
+<languageextract>ita, fra</languageextract>
 <act>figurines</act>
 <actkey>poupée_peluche_figurines</actkey>
 <theme>bilinguisme, alternance codique</theme>

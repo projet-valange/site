@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Madeleine</child>
 <age>1;11.13</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>repas</act>
 <actkey>repas</actkey>
 <theme>première syntaxe, répétition, combinaison de mots, infinitif, verbe sans sujet, filler, pronom</theme>

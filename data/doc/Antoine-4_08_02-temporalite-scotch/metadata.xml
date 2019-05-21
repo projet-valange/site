@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Antoine</child>
 <age>4;08.02</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>téléphone</act>
 <actkey>téléphone</actkey>
 <theme>temporalité, énoncé complexe, passé, futur, subjonctif</theme>

@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Madeleine</child>
 <age>1;06.04</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>poupée</act>
 <actkey>poupée_peluche_figurines</actkey>
 <theme>première syntaxe, verbe sans sujet, infinitif, étayage, reformulation</theme>

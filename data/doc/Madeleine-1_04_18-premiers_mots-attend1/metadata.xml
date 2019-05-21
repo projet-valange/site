@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Madeleine</child>
 <age>1;04.18</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>jeu en extérieur (vélo)</act>
 <actkey>jeu_en_extérieur</actkey>
 <theme>premiers mots, proto-langage, proto-mot, filler</theme>

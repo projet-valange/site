@@ -5,7 +5,9 @@
 <project>Monologue</project>
 <child>Théophile</child>
 <age>1;11.25</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act></act>
 <actkey></actkey>
 <theme>, </theme>

@@ -3,9 +3,11 @@
 <entry>Anae-0_10-babillage-magazine</entry>
 <media>Anae-0_10-babillage-magazine.mp4</media>
 <project>CoLaJE</project>
-<child>Anae</child>
+<child>Anaé</child>
 <age>0;10</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>livre</act>
 <actkey>livre</actkey>
 <theme>babillage, lecture, monologue</theme>

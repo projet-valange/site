@@ -5,7 +5,9 @@
 <project>Monologue</project>
 <child>Julie</child>
 <age>1;00.00</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>dînette</act>
 <actkey></actkey>
 <theme>monologue, mono à dia (initié par CHI), jeu symbolique, multimodalité, sourire </theme>

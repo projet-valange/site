@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Anae</child>
 <age>1;06.08</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>politesse</act>
 <actkey>politesse</actkey>
 <theme>erreurs, politesse, rituel, pragmatique</theme>

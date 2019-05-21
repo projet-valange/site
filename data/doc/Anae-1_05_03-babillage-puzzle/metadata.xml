@@ -5,7 +5,9 @@
 <project>CoLaJE</project>
 <child>Anae</child>
 <age>1;05.03</age>
-<lang>fr</lang>
+<languagemother>fra</languagemother>
+<languagesecond></languagesecond>
+<languageextract>fra</languageextract>
 <act>jeu de construction (puzzle)</act>
 <actkey>jeu_de_construction</actkey>
 <theme>babillage, dia - mono (commente ce qu'elle fait) - dia </theme>
