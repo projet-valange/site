@@ -20,12 +20,14 @@ for (var f in files) {
     console.log('project: "' + meta.project + '",');
     console.log('child: "' + meta.child + '",');
     console.log('age: "' + meta.age + '",');
-    console.log('lang: "' + meta.lang + '",');
+    console.log('languagemother: "' + meta.languagemother + '",');
+    console.log('languagesecond: "' + meta.languagesecond + '",');
+    console.log('languageextract: "' + meta.languageextract + '",');
     console.log('act: "' + meta.act + '",');
     console.log('actkey: "' + meta.actkey + '",');
     console.log('theme: "' + meta.theme + '",');
     console.log('themekey: "' + meta.themekey + '",');
-    console.log('keywords: "' + meta.keyword + '",');
+    console.log('keywords: "' + meta.keywords + '",');
     console.log('duration: "' + meta.duration + '",');
     console.log("},");
 }

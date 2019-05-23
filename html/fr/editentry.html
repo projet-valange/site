@@ -49,12 +49,8 @@
                 <h2 id="nameentry"></h2>
                 <hr/>
                 <legend>Informations sur le/la contributeur·trice</legend>
-                <include src="extractedit.html"></include>
+                <include src="editcoredata.html"></include>
                 <!-- add edition of entry, media, actkey, themekey, and duration -->
-                <div class="edit-group>
-                    <label class="control-label" for="language"><strong>Langue :</strong></label>
-                    <input type="text" class="form-control" id="language" name="language" maxlength="120">
-                </div>
                 <div class="edit-group>
                     <label class="control-label" for="entry"><strong>Entry :</strong></label>
                     <input type="text" class="form-control" id="entry" name="entry" maxlength="120">
@@ -129,26 +125,9 @@
         $('input[name="themekey"]').val(meta.themekey);
         $('input[name="duration"]').val(meta.duration);
 
-        if (meta.lang.indexOf("fra") >= 0 || meta.lang === "fr") {
-            $("input[name='fra']").prop('checked', true);
-        }
-        if (meta.lang.indexOf("eng") >= 0 || meta.lang === "en") {
-            $("input[name='eng']").prop('checked', true);
-        }
-        if (meta.lang.indexOf("ita") >= 0 || meta.lang === "it") {
-            $("input[name='ita']").prop('checked', true);
-        }
-        if (meta.lang.indexOf("bra") >= 0 || meta.lang === "br") {
-            $("input[name='bra']").prop('checked', true);
-        }
-        if (meta.lang.indexOf("oth") >= 0 || meta.lang === "") {
-            $("input[name='oth']").prop('checked', true);
-        }
-        if (meta.lang === "it (fr)") {
-            $("input[name='ita']").prop('checked', true);
-            $("input[name='fra']").prop('checked', true);
-        }
-        $('input[name="language"]').val(meta.lang);
+        $('input[name="languagemother"]').val(meta.languagemother);
+        $('input[name="languagesecond"]').val(meta.languagesecond);
+        $('input[name="languageextract"]').val(meta.languageextract);
 
         if (meta.agree === "agreement signed") {
             $("input[name='agree']").prop('checked', true);

@@ -120,37 +120,24 @@
                                 maxlength="300">
                     </div>
                     <br>
-                    <p>Langue(s) maternelle(s)*<br>Langue(s) parlée(s) par l'enfant. Sélectionnez plusieurs langues si
-                        l'enfant
-                        est bilingue ou plurilingue. Si la langue n'est pas proposée, veuillez entrer la langue dans
-                        "Autre" et
-                        préciser sa variante s'il y a lieu.</p>
-                    <label class="container_langue_francais">
-                        <input class="checkbox_langue_francais" type="checkbox" id="fra" name="fra"
-                                value="fra">
-                        <span class="checkmark" style="padding-right:10px;"></span>français (France métropolitaine)
-                    </label>
-                    <label class="container_langue_anglais">
-                        <input class="checkbox_langue_anglais" type="checkbox"  id="eng" name="eng"
-                        value="eng">
-                        <span class="checkmark" style="padding-right:10px;"></span>anglais (Royaume-Uni)
-                    </label>
-                    <label class="container_langue_italien">
-                        <input class="checkbox_langue_italien" type="checkbox"  id="ita" name="ita"
-                        value="ita">
-                        <span class="checkmark" style="padding-right:10px;"></span>italien
-                    </label>
-                    <label class="container_langue_portugais">
-                        <input class="checkbox_langue_portugais" type="checkbox" id="bra" name="bra"
-                        value="bra">
-                        <span class="checkmark" style="padding-right:10px;"></span>portugais (Brésil)
-                    </label>
-                    <label class="container_langue_autre">
-                        <input class="checkbox_langue_autre" type="checkbox" id="oth" name="oth"
-                        value="oth">
-                        <span class="checkmark" style="padding-right:10px;"></span>Autre
-                    </label>
+                    <div class="edit-group">
+                        <label class="control-label" for="languagemother"><strong>Langue(s) maternelle(s) de l'enfant (s'il 
+                            apprend plusieurs langues simultanément, les donner toutes 
+                            dans un ordre quelconque) :</strong></label>
+                        <input type="text" class="form-control" id="languagemother" name="languagemother" maxlength="120">
+                    </div>
+                    <div class="edit-group">
+                        <label class="control-label" for="languagesecond"><strong>Autre(s) langue(s) que parle l'enfant (les 
+                            indiquer dans l'ordre de leur fréquence d'usage) :</strong></label>
+                        <input type="text" class="form-control" id="languagesecond" name="languagesecond" maxlength="120">
+                    </div>
                     <legend>Informations sur l'extrait</legend>
+                    <div class="edit-group">
+                        <label class="control-label" for="languageextract"><strong>Langue(s) de l'extrait proposé (si plusieurs langues, les 
+                            proposer par ordre de fréquence d'utilisation) :</strong></label>
+                        <input type="text" class="form-control" id="languageextract" name="languageextract" maxlength="120">
+                    </div>
+
                     <div class="edit-group">
                         <label for="name"> Nom du projet</label>
                         <p>Nom du projet de recherche ou de recueil d'extraits</p>
@@ -274,14 +261,24 @@
                           v.val(vv);
                         }
                         meta.place = vv;
-                        // lang
-                        v = "";
-                        if ($('input[name=fra]').is(':checked')) v += 'fra,';
-                        if ($('input[name=eng]').is(':checked')) v += 'eng,';
-                        if ($('input[name=ita]').is(':checked')) v += 'ita,';
-                        if ($('input[name=bra]').is(':checked')) v += 'bra,';
-                        if ($('input[name=oth]').is(':checked')) v += 'oth,';
-                        meta.lang = v;
+                        // languagemother
+                        v = $('input[name="languagemother"]');
+                        vv = v.val();
+                        vv = vv.substr(0, 120);
+                        if (vv.length > 120) v.val(vv);
+                        meta.languagemother = v;
+                        // languagesecond
+                        v = $('input[name="languagesecond"]');
+                        vv = v.val();
+                        vv = vv.substr(0, 120);
+                        if (vv.length > 120) v.val(vv);
+                        meta.languagesecond = v;
+                        // languageextract
+                        v = $('input[name="languageextract"]');
+                        vv = v.val();
+                        vv = vv.substr(0, 120);
+                        if (vv.length > 120) v.val(vv);
+                        meta.languageextract = v;
                         // discourse
                         v = $('input[name=disc]:checked').val();
                         if (v === "undefined") v = "unknown";
@@ -450,10 +447,6 @@
                 </script>
                 <!-- add edition of entry, media, actkey, themekey, and duration -->
                 <div class="edit-group>
-                    <label class="control-label" for="language"><strong>Langue :</strong></label>
-                    <input type="text" class="form-control" id="language" name="language" maxlength="120">
-                </div>
-                <div class="edit-group>
                     <label class="control-label" for="entry"><strong>Entry :</strong></label>
                     <input type="text" class="form-control" id="entry" name="entry" maxlength="120">
                 </div>
@@ -562,26 +555,9 @@
         $('input[name="themekey"]').val(meta.themekey);
         $('input[name="duration"]').val(meta.duration);
 
-        if (meta.lang.indexOf("fra") >= 0 || meta.lang === "fr") {
-            $("input[name='fra']").prop('checked', true);
-        }
-        if (meta.lang.indexOf("eng") >= 0 || meta.lang === "en") {
-            $("input[name='eng']").prop('checked', true);
-        }
-        if (meta.lang.indexOf("ita") >= 0 || meta.lang === "it") {
-            $("input[name='ita']").prop('checked', true);
-        }
-        if (meta.lang.indexOf("bra") >= 0 || meta.lang === "br") {
-            $("input[name='bra']").prop('checked', true);
-        }
-        if (meta.lang.indexOf("oth") >= 0 || meta.lang === "") {
-            $("input[name='oth']").prop('checked', true);
-        }
-        if (meta.lang === "it (fr)") {
-            $("input[name='ita']").prop('checked', true);
-            $("input[name='fra']").prop('checked', true);
-        }
-        $('input[name="language"]').val(meta.lang);
+        $('input[name="languagemother"]').val(meta.languagemother);
+        $('input[name="languagesecond"]').val(meta.languagesecond);
+        $('input[name="languageextract"]').val(meta.languageextract);
 
         if (meta.agree === "agreement signed") {
             $("input[name='agree']").prop('checked', true);

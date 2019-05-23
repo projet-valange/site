@@ -2,581 +2,665 @@
 <html lang="en">
 
 <head>
-  <!-- Required meta tags -->
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link href="../../common/img/icon.png" rel="shortcut icon">
-  <title>Valange</title>
-  <!-- styles -->
-  <link rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-grid.min.css">
-  <link rel="stylesheet" href="../../lib/multirange/multirange.css">
-  <link rel="stylesheet" href="../../common/style.css">
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="../../common/img/icon.png" rel="shortcut icon">
+    <title>Valange</title>
+    <!-- styles -->
+    <link rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="../../lib/multirange/multirange.css">
+    <link rel="stylesheet" href="../../common/style.css">
 </head>
 
 <body>
 
-  <include src="menu.html"></include>
+    <include src="menu.html"></include>
 
-  <div class="container">
+    <div class="container">
 
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-lg-4 col-md-4">
-          <a class="pull-left" href="./index.html">
-            <img class="media-object" src="../../common/img/logo2.png" style="width:60%;">
-          </a>
-        </div>
-        <div class="col-lg-8 col-md-8">
-          <br /><input type="text" id="myInput" onkeyup="mykeyFunction()"
-            placeholder="Rechercher une vidéo, un âge, un thème *" title="mot-clé" style="width:80%; height:40px;">
-          <img style="height: 25px; width: 25px;" src="../../common/img/search-icon.png"></img>
-        </div>
-      </div>
-    </div><br />
-
-    <hr>
-
-    <h1><a style="color:#e88f47; ">P</a>arcourir les vidéos</h1>
-    <p style="text-align:center;">Veuillez sélectionner au moins un critère pour afficher les vidéos correspondantes.
-    </p>
-    <div class="tabbable">
-      <!-- Only required for left/right tabs -->
-      <ul class="nav nav-tabs">
-        <li class="nav-item active" style="width:20%;">
-          <a class="nav-link" href="#theme" data-toggle="tab" role="tab">
-            <img class="media-object" src="../../common/img/filter/theme_re.png" style="padding-left: 15%;width:70%;" />
-          </a>
-        </li>
-        <li class="nav-item" style="width:20%;">
-          <a class="nav-link" href="#age" data-toggle="tab" role="tab">
-            <img class="media-object" src="../../common/img/filter/age_re.png" style="padding-left: 15%;width:70%;" />
-          </a>
-        </li>
-        <li class="nav-item" style="width:20%;">
-          <a class="nav-link" href="#activity" data-toggle="tab" role="tab">
-            <img class="media-object" src="../../common/img/filter/activity_re.png"
-              style="padding-left: 15%;width:70%;" />
-          </a>
-        </li>
-        <li class="nav-item" style="width:20%;">
-          <a class="nav-link" href="#language" data-toggle="tab" role="tab">
-            <img class="media-object" src="../../common/img/filter/language_re.png"
-              style="padding-left: 15%;width:70%;" />
-          </a>
-        </li>
-        <li class="nav-item" style="width:20%;">
-          <a class="nav-link" href="#child" data-toggle="tab" role="tab">
-            <img class="media-object" src="../../common/img/filter/child_re.png"
-              style="padding-left: 15%;width:70%;" />
-          </a>
-        </li>
-      </ul>
-      <br />
-      <div class="tab-content">
-        <div class="tab-pane active" id="theme">
-          <div class="row">
-            <div class="col-lg-6 col-md-6">
-              <label class="container_cb">Babillage
-                <input class="checkbox_theme_babillage" type="checkbox" value="theme,babillage">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Bilinguisme
-                <input class="checkbox_theme_bilinguisme" type="checkbox" value="theme,bilinguisme">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Émergence temporalité
-                <input class="checkbox_theme_émergence_temporalité" type="checkbox" value="theme,émergence_temporalité">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Énoncés complexes
-                <input class="checkbox_theme_énoncés_complexes" type="checkbox" value="theme,énoncés_complexes">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Erreurs
-                <input class="checkbox_theme_erreurs" type="checkbox" value="theme,erreurs">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Étayage
-                <input class="checkbox_theme_étayage" type="checkbox" value="theme,étayage">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Humour
-                <input class="checkbox_theme_humour" type="checkbox" value="theme,humour">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Monologue
-                <input class="checkbox_theme_monologue" type="checkbox" value="theme,monologue">
-                <span class="checkmark"></span>
-              </label>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-4 col-md-4">
+                    <a class="pull-left" href="./index.html">
+                        <img class="media-object" src="../../common/img/logo2.png" style="width:60%;">
+                    </a>
+                </div>
+                <div class="col-lg-8 col-md-8">
+                    <br /><input type="text" id="myInput" onkeyup="mykeyFunction()"
+                        placeholder="Rechercher une vidéo, un âge, un thème *" title="mot-clé"
+                        style="width:80%; height:40px;">
+                    <img style="height: 25px; width: 25px;" src="../../common/img/search-icon.png"></img>
+                </div>
             </div>
-            <div class="col-lg-6 col-md-6">
-              <label class="container_cb">Mouvement
-                <input class="checkbox_theme_mouvement" type="checkbox" value="theme,mouvement">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Pointage
-                <input class="checkbox_theme_pointage" type="checkbox" value="theme,pointage">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Premiers mots
-                <input class="checkbox_theme_premiers_mots" type="checkbox" value="theme,premiers_mots">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Première syntaxe
-                <input class="checkbox_theme_première_syntaxe" type="checkbox" value="theme,première_syntaxe">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Référence à soi
-                <input class="checkbox_theme_référence_à_soi" type="checkbox" value="theme,référence_à_soi">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Rituel
-                <input class="checkbox_theme_rituel" type="checkbox" value="theme,rituel">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Syntaxe
-                <input class="checkbox_theme_syntaxe" type="checkbox" value="theme,syntaxe">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Temporalité
-                <input class="checkbox_theme_temporalité" type="checkbox" value="theme,temporalité">
-                <span class="checkmark"></span>
-              </label>
+        </div><br />
+
+        <hr>
+
+        <h1><a style="color:#e88f47; ">P</a>arcourir les vidéos</h1>
+        <p style="text-align:center;">Veuillez sélectionner au moins un critère pour afficher les vidéos
+            correspondantes.
+        </p>
+        <div class="tabbable">
+            <!-- Only required for left/right tabs -->
+            <ul class="nav nav-tabs">
+                <li class="nav-item active" style="width:20%;">
+                    <a class="nav-link" href="#theme" data-toggle="tab" role="tab">
+                        <img class="media-object" src="../../common/img/filter/theme_re.png"
+                            style="padding-left: 15%;width:70%;" />
+                    </a>
+                </li>
+                <li class="nav-item" style="width:20%;">
+                    <a class="nav-link" href="#age" data-toggle="tab" role="tab">
+                        <img class="media-object" src="../../common/img/filter/age_re.png"
+                            style="padding-left: 15%;width:70%;" />
+                    </a>
+                </li>
+                <li class="nav-item" style="width:20%;">
+                    <a class="nav-link" href="#activity" data-toggle="tab" role="tab">
+                        <img class="media-object" src="../../common/img/filter/activity_re.png"
+                            style="padding-left: 15%;width:70%;" />
+                    </a>
+                </li>
+                <li class="nav-item" style="width:20%;">
+                    <a class="nav-link" href="#language" data-toggle="tab" role="tab">
+                        <img class="media-object" src="../../common/img/filter/language_re.png"
+                            style="padding-left: 15%;width:70%;" />
+                    </a>
+                </li>
+                <li class="nav-item" style="width:20%;">
+                    <a class="nav-link" href="#child" data-toggle="tab" role="tab">
+                        <img class="media-object" src="../../common/img/filter/child_re.png"
+                            style="padding-left: 15%;width:70%;" />
+                    </a>
+                </li>
+            </ul>
+            <br />
+            <div class="tab-content">
+                <div class="tab-pane active" id="theme">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6">
+                            <label class="container_cb">Babillage
+                                <input class="checkbox_theme_babillage" type="checkbox" value="theme,babillage">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Bilinguisme
+                                <input class="checkbox_theme_bilinguisme" type="checkbox" value="theme,bilinguisme">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Émergence temporalité
+                                <input class="checkbox_theme_émergence_temporalité" type="checkbox"
+                                    value="theme,émergence_temporalité">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Énoncés complexes
+                                <input class="checkbox_theme_énoncés_complexes" type="checkbox"
+                                    value="theme,énoncés_complexes">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Erreurs
+                                <input class="checkbox_theme_erreurs" type="checkbox" value="theme,erreurs">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Étayage
+                                <input class="checkbox_theme_étayage" type="checkbox" value="theme,étayage">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Humour
+                                <input class="checkbox_theme_humour" type="checkbox" value="theme,humour">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Monologue
+                                <input class="checkbox_theme_monologue" type="checkbox" value="theme,monologue">
+                                <span class="checkmark"></span>
+                            </label>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <label class="container_cb">Mouvement
+                                <input class="checkbox_theme_mouvement" type="checkbox" value="theme,mouvement">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Pointage
+                                <input class="checkbox_theme_pointage" type="checkbox" value="theme,pointage">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Premiers mots
+                                <input class="checkbox_theme_premiers_mots" type="checkbox" value="theme,premiers_mots">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Première syntaxe
+                                <input class="checkbox_theme_première_syntaxe" type="checkbox"
+                                    value="theme,première_syntaxe">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Référence à soi
+                                <input class="checkbox_theme_référence_à_soi" type="checkbox"
+                                    value="theme,référence_à_soi">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Rituel
+                                <input class="checkbox_theme_rituel" type="checkbox" value="theme,rituel">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Syntaxe
+                                <input class="checkbox_theme_syntaxe" type="checkbox" value="theme,syntaxe">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Temporalité
+                                <input class="checkbox_theme_temporalité" type="checkbox" value="theme,temporalité">
+                                <span class="checkmark"></span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane" id="age">
+                    <div class="row" style="text-align:center;">
+                        <div class="col-lg-12 col-md-12">
+                            </br>
+                            <label style="font-size:22px;">0 <input id="slider_my" type="range" min="0" max="8" multiple
+                                    value="0,0" list="tickmarks" onchange="printValue('slider_my','rangeValue_my')" />
+                                8+</label><br>
+                            <datalist id="tickmarks">
+                                <option value="0">
+                                <option value="1">
+                                <option value="2">
+                                <option value="3">
+                                <option value="4">
+                                <option value="5">
+                                <option value="6">
+                                <option value="7">
+                                <option value="8">
+                            </datalist>
+                            <input id="rangeValue_my" type="hidden" size="5" placeholder="0,0" />
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane" id="activity">
+                    <div class="row" style="text-align:center;">
+                        <div class="col-lg-3 col-md-3">
+                            <a><img src="../../common/img/johnny_automatic_boy_playing_with_toy_truck.svg"
+                                    class="img-circle"></a>
+                            <h3>Jeux</h3>
+                            <label class="container_cb">Poupée, peluche, figurines
+                                <input class="checkbox_activity_poupée_peluche_figurines" type="checkbox"
+                                    value="activity,poupée_peluche_figurines">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Jeu de construction
+                                <input class="checkbox_activity_jeu_de_construction" type="checkbox"
+                                    value="activity,jeu_de_construction">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Jeu en extérieur
+                                <input class="checkbox_activity_jeu_en_extérieur" type="checkbox"
+                                    value="activity,jeu_en_extérieur">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Jeu de société
+                                <input class="checkbox_activity_jeu_de_société" type="checkbox"
+                                    value="activity,jeu_de_société">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Jeu symbolique
+                                <input class="checkbox_activity_jeu_symbolique" type="checkbox"
+                                    value="activity,jeu_symbolique">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Jeu technologique
+                                <input class="checkbox_activity_jeu_technologique" type="checkbox"
+                                    value="activity,jeu_technologique">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Jeu autre
+                                <input class="checkbox_activity_jeu_autre" type="checkbox" value="activity,jeu_autre">
+                                <span class="checkmark"></span>
+                            </label>
+                        </div>
+                        <div class="col-lg-3 col-md-3">
+                            <a><img src="../../common/img/Anonymous_Architetto_--_Come_si_dispongono_le_posate.svg"
+                                    class="img-circle"></a>
+                            <h3>Vie Quotidienne</h3>
+                            <label class="container_cb">Repas
+                                <input class="checkbox_activity_repas" type="checkbox" value="activity,repas">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Soin
+                                <input class="checkbox_activity_soin" type="checkbox" value="activity,soin">
+                                <span class="checkmark"></span>
+                            </label>
+                        </div>
+                        <div class="col-lg-3 col-md-3">
+                            <a><img src="../../common/img/telefono_email_frolland_01.svg" class="img-circle"></a>
+                            <h3>Apprentissages</h3>
+                            <label class="container_cb">Devoirs
+                                <input class="checkbox_activity_devoirs" type="checkbox" value="activity,devoirs">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Politesse
+                                <input class="checkbox_activity_politesse" type="checkbox" value="activity,politesse">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Rangement
+                                <input class="checkbox_activity_Rangement" type="checkbox" value="activity,rangement">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Téléphone
+                                <input class="checkbox_activity_téléphone" type="checkbox" value="activity,téléphone">
+                                <span class="checkmark"></span>
+                            </label>
+                        </div>
+                        <div class="col-lg-3 col-md-3">
+                            <a><img src="../../common/img/AJ_Books.svg" class="img-circle"></a>
+                            <h3>Créativité</h3>
+                            <label class="container_cb">Dessin
+                                <input class="checkbox_activity_dessin" type="checkbox" value="activity,dessin">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Livre
+                                <input class="checkbox_activity_livre" type="checkbox" value="activity,livre">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="container_cb">Musique
+                                <input class="checkbox_activity_musique" type="checkbox" value="activity,musique">
+                                <span class="checkmark"></span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane" id="language">
+                    <div class="row" style="text-align:center;">
+                        <div class="col-lg-4 col-md-4">
+                            <div class="edit-group">
+                                <label class="control-label" for="languagemother"><strong>Langue(s) maternelle(s)
+                                        :</strong></label>
+                                <input type="text" class="form-control" id="languagemother" name="languagemother"
+                                    maxlength="120">
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="edit-group">
+                                <label class="control-label" for="languagesecond"><strong>Langue(s) seconde(s)
+                                        :</strong></label>
+                                <input type="text" class="form-control" id="languagesecond" name="languagesecond"
+                                    maxlength="120">
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="edit-group">
+                                <label class="control-label" for="languageextract"><strong>Langue(s) de l'extrait
+                                        :</strong></label>
+                                <input type="text" class="form-control" id="languageextract" name="languageextract"
+                                    maxlength="120">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane" id="child">
+                    <div class="row" style="text-align:center;">
+                        <div class="col-lg-2 col-md-2">
+                            <a><img src="../../common/img/children/anae.jpg" class="img-circle nousimg"></a>
+                            <label class="container_cb">Anaé
+                                <input class="checkbox_child_anaé" type="checkbox" value="child,Anae">
+                                <span class="checkmark"></span>
+                            </label>
+                        </div>
+                        <div class="col-lg-2 col-md-2">
+                            <a><img src="../../common/img/children/antoine.jpg" class="img-circle nousimg"></a>
+                            <label class="container_cb">Antoine (fr)
+                                <input class="checkbox_child_antoine" type="checkbox" value="child,Antoine">
+                                <span class="checkmark"></span>
+                            </label>
+                        </div>
+                        <div class="col-lg-2 col-md-2">
+                            <a><img src="../../common/img/children/antoine-it-fr.png" class="img-circle nousimg"></a>
+                            <label class="container_cb">Antoine (it/fr)
+                                <input class="checkbox_child_antoine_bi" type="checkbox" value="child,Antoine Bil">
+                                <span class="checkmark"></span>
+                            </label>
+                        </div>
+                        <div class="col-lg-2 col-md-2">
+                            <a><img src="../../common/img/children/gustavo7.jpg" class="img-circle nousimg"></a>
+                            <label class="container_cb">Gustavo
+                                <input class="checkbox_child_gustavo" type="checkbox" value="child,Gustavo">
+                                <span class="checkmark"></span>
+                            </label>
+                        </div>
+                        <div class="col-lg-2 col-md-2">
+                            <a><img src="../../common/img/children/julie.jpg" class="img-circle nousimg"></a>
+                            <label class="container_cb">Julie
+                                <input class="checkbox_child_julie" type="checkbox" value="child,Julie">
+                                <span class="checkmark"></span>
+                            </label>
+                        </div>
+                        <div class="col-lg-2 col-md-2">
+                            <a><img src="../../common/img/children/madeleine.jpg" class="img-circle nousimg"></a>
+                            <label class="container_cb">Madeleine
+                                <input class="checkbox_child_madeleine" type="checkbox" value="child,Madeleine">
+                                <span class="checkmark"></span>
+                            </label>
+                        </div>
+                        <div class="col-lg-2 col-md-2">
+                            <a><img src="../../common/img/children/philippine.jpg" class="img-circle nousimg"></a>
+                            <label class="container_cb">Philippine
+                                <input class="checkbox_child_philippine" type="checkbox" value="child,Philippine">
+                                <span class="checkmark"></span>
+                            </label>
+                        </div>
+                        <div class="col-lg-2 col-md-2">
+                            <a><img src="../../common/img/children/theophile.jpg" class="img-circle nousimg"></a>
+                            <label class="container_cb">Théophile
+                                <input class="checkbox_child_théophile" type="checkbox" value="child,Théophile">
+                                <span class="checkmark"></span>
+                            </label>
+                        </div>
+                        <div class="col-lg-2 col-md-2">
+                            <a><img src="../../common/img/children/default.jpg" class="img-circle nousimg"></a>
+                            <label class="container_cb">Ulysse
+                                <input class="checkbox_child_ulysse" type="checkbox" value="child,Ulysse">
+                                <span class="checkmark"></span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-        <div class="tab-pane" id="age">
-          <div class="row" style="text-align:center;">
+
+        <div class="recherche_btn" style="text-align:center;">
+            </br><button type="submit" class="btn btn-large btn-info" onclick="checkedtotalValue(valange_data);">
+                <img style="height: 25px; width: 25px;" src="../../common/img/search-icon.png"></img>
+                <!-- <i class="fa fa-fw fa-search"></i> -->
+                Recherche</button></br>
+        </div>
+
+
+        <h1><a style="color:#e88f47; ">N</a>os suggestions (<span id="result_length">0</span> vidéos trouvées)</h1>
+        <p style="text-align:center;">Veuillez sélectionner au moins un critère pour afficher les vidéos
+            correspondantes.
+        </p>
+        <div class="row">
             <div class="col-lg-12 col-md-12">
-              </br>
-              <label style="font-size:22px;">0 <input id="slider_my" type="range" min="0" max="8" multiple value="0,0"
-                  list="tickmarks" onchange="printValue('slider_my','rangeValue_my')" /> 8+</label><br>
-              <datalist id="tickmarks">
-                <option value="0">
-                <option value="1">
-                <option value="2">
-                <option value="3">
-                <option value="4">
-                <option value="5">
-                <option value="6">
-                <option value="7">
-                <option value="8">
-              </datalist>
-              <input id="rangeValue_my" type="hidden" size="5" placeholder="0,0" />
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Numéro</th>
+                            <th>Nom de l'extrait</th>
+                            <th>Enfant</th>
+                            <th>Langue</th>
+                            <th>Âge</th>
+                            <th>Thème</th>
+                            <th>Activité</th>
+                            <th>Lien</th>
+                        </tr>
+                    </thead>
+                    <tbody id="myUL">
+                    </tbody>
+                </table>
             </div>
-          </div>
         </div>
-        <div class="tab-pane" id="activity">
-          <div class="row" style="text-align:center;">
-            <div class="col-lg-3 col-md-3">
-              <a><img src="../../common/img/johnny_automatic_boy_playing_with_toy_truck.svg" class="img-circle"></a>
-              <h3>Jeux</h3>
-              <label class="container_cb">Poupée, peluche, figurines
-                <input class="checkbox_activity_poupée_peluche_figurines" type="checkbox"
-                  value="activity,poupée_peluche_figurines">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Jeu de construction
-                <input class="checkbox_activity_jeu_de_construction" type="checkbox"
-                  value="activity,jeu_de_construction">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Jeu en extérieur
-                <input class="checkbox_activity_jeu_en_extérieur" type="checkbox" value="activity,jeu_en_extérieur">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Jeu de société
-                <input class="checkbox_activity_jeu_de_société" type="checkbox" value="activity,jeu_de_société">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Jeu symbolique
-                <input class="checkbox_activity_jeu_symbolique" type="checkbox" value="activity,jeu_symbolique">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Jeu technologique
-                <input class="checkbox_activity_jeu_technologique" type="checkbox" value="activity,jeu_technologique">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Jeu autre
-                <input class="checkbox_activity_jeu_autre" type="checkbox" value="activity,jeu_autre">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="col-lg-3 col-md-3">
-              <a><img src="../../common/img/Anonymous_Architetto_--_Come_si_dispongono_le_posate.svg"
-                  class="img-circle"></a>
-              <h3>Vie Quotidienne</h3>
-              <label class="container_cb">Repas
-                <input class="checkbox_activity_repas" type="checkbox" value="activity,repas">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Soin
-                <input class="checkbox_activity_soin" type="checkbox" value="activity,soin">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="col-lg-3 col-md-3">
-              <a><img src="../../common/img/telefono_email_frolland_01.svg" class="img-circle"></a>
-              <h3>Apprentissages</h3>
-              <label class="container_cb">Devoirs
-                <input class="checkbox_activity_devoirs" type="checkbox" value="activity,devoirs">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Politesse
-                <input class="checkbox_activity_politesse" type="checkbox" value="activity,politesse">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Rangement
-                <input class="checkbox_activity_Rangement" type="checkbox" value="activity,rangement">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Téléphone
-                <input class="checkbox_activity_téléphone" type="checkbox" value="activity,téléphone">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="col-lg-3 col-md-3">
-              <a><img src="../../common/img/AJ_Books.svg" class="img-circle"></a>
-              <h3>Créativité</h3>
-              <label class="container_cb">Dessin
-                <input class="checkbox_activity_dessin" type="checkbox" value="activity,dessin">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Livre
-                <input class="checkbox_activity_livre" type="checkbox" value="activity,livre">
-                <span class="checkmark"></span>
-              </label>
-              <label class="container_cb">Musique
-                <input class="checkbox_activity_musique" type="checkbox" value="activity,musique">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-          </div>
-        </div>
-        <div class="tab-pane" id="language">
-          <div class="row" style="text-align:center;">
-            <div class="col-lg-4 col-md-4">
-              <a><img src="../../common/img/filter/language/fr.png" class="img-rounded"></a>
-              <label class="container_cb">Français
-                <input class="checkbox_language_français" type="checkbox" value="language,fr">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="col-lg-4 col-md-4">
-              <a><img src="../../common/img/filter/language/fr.png" class="img-rounded"></a>
-              <label class="container_cb">Français(italien)
-                <input class="checkbox_language_français_italien" type="checkbox" value="language,fr (it)">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="col-lg-4 col-md-4">
-              <a><img src="../../common/img/filter/language/it.png" class="img-rounded"></a>
-              <label class="container_cb">Italien(français)
-                <input class="checkbox_language_italien_français" type="checkbox" value="language,it (fr)">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-          </div>
-        </div>
-        <div class="tab-pane" id="child">
-          <div class="row" style="text-align:center;">
-            <div class="col-lg-2 col-md-2">
-              <a><img src="../../common/img/children/anae.jpg" class="img-circle nousimg"></a>
-              <label class="container_cb">Anaé
-                <input class="checkbox_child_anaé" type="checkbox" value="child,Anae">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="col-lg-2 col-md-2">
-              <a><img src="../../common/img/children/antoine.jpg" class="img-circle nousimg"></a>
-              <label class="container_cb">Antoine (fr)
-                <input class="checkbox_child_antoine" type="checkbox" value="child,Antoine">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="col-lg-2 col-md-2">
-              <a><img src="../../common/img/children/antoine-it-fr.png" class="img-circle nousimg"></a>
-              <label class="container_cb">Antoine (it/fr)
-                <input class="checkbox_child_antoine_bi" type="checkbox" value="child,Antoine Bil">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="col-lg-2 col-md-2">
-              <a><img src="../../common/img/children/gustavo7.jpg" class="img-circle nousimg"></a>
-              <label class="container_cb">Gustavo
-                <input class="checkbox_child_gustavo" type="checkbox" value="child,Gustavo">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="col-lg-2 col-md-2">
-              <a><img src="../../common/img/children/julie.jpg" class="img-circle nousimg"></a>
-              <label class="container_cb">Julie
-                <input class="checkbox_child_julie" type="checkbox" value="child,Julie">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="col-lg-2 col-md-2">
-              <a><img src="../../common/img/children/madeleine.jpg" class="img-circle nousimg"></a>
-              <label class="container_cb">Madeleine
-                <input class="checkbox_child_madeleine" type="checkbox" value="child,Madeleine">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="col-lg-2 col-md-2">
-              <a><img src="../../common/img/children/philippine.jpg" class="img-circle nousimg"></a>
-              <label class="container_cb">Philippine
-                <input class="checkbox_child_philippine" type="checkbox" value="child,Philippine">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="col-lg-2 col-md-2">
-              <a><img src="../../common/img/children/theophile.jpg" class="img-circle nousimg"></a>
-              <label class="container_cb">Théophile
-                <input class="checkbox_child_théophile" type="checkbox" value="child,Théophile">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-            <div class="col-lg-2 col-md-2">
-              <a><img src="../../common/img/children/default.jpg" class="img-circle nousimg"></a>
-              <label class="container_cb">Ulysse
-                <input class="checkbox_child_ulysse" type="checkbox" value="child,Ulysse">
-                <span class="checkmark"></span>
-              </label>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
 
-    <div class="recherche_btn" style="text-align:center;">
-      </br><button type="submit" class="btn btn-large btn-info" onclick="checkedtotalValue(valange_data);">
-        <img style="height: 25px; width: 25px;" src="../../common/img/search-icon.png"></img>
-        <!-- <i class="fa fa-fw fa-search"></i> -->
-        Recherche</button></br>
-    </div>
+        <include src="footer.html"></include>
 
+    </div> <!-- /container -->
 
-    <h1><a style="color:#e88f47; ">N</a>os suggestions (<span id="result_length">0</span> vidéos trouvées)</h1>
-    <p style="text-align:center;">Veuillez sélectionner au moins un critère pour afficher les vidéos correspondantes.
-    </p>
-    <div class="row">
-      <div class="col-lg-12 col-md-12">
-        <table class="table">
-          <thead>
-            <tr>
-              <th>Numéro</th>
-              <th>Nom de l'extrait</th>
-              <th>child</th>
-              <th>language</th>
-              <th>Âge</th>
-              <th>Thème</th>
-              <th>Activité</th>
-              <th>Lien</th>
-            </tr>
-          </thead>
-          <tbody id="myUL">
-          </tbody>
-        </table>
-      </div>
-    </div>
-
-    <include src="footer.html"></include>
-
-  </div> <!-- /container -->
-
-  <!-- Le javascript
+    <!-- Le javascript
     ================================================== -->
-  <!-- Placed at the end of the document so the pages load faster -->
-  <!--<script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>-->
-  <script src="../../data/json/db.js"></script>
-  <script src="../../lib/multirange/multirange.js"></script>
-  <script src="../../lib/jquery/jquery.min.js"></script>
-  <script src="../../lib/popper/popper.js"></script>
-  <script src="../../lib/bootstrap/js/bootstrap.min.js"></script>
-  <script type="text/javascript">
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!--<script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>-->
+    <script src="../../data/json/db.js"></script>
+    <script src="../../lib/multirange/multirange.js"></script>
+    <script src="../../lib/jquery/jquery.min.js"></script>
+    <script src="../../lib/popper/popper.js"></script>
+    <script src="../../lib/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
 
-    function mykeyFunction() {
-      var input, filter, ul, li, a, i, txtValue;
-      input = document.getElementById("myInput");
-      filter = input.value.toUpperCase();
-      ul = document.getElementById("myUL");
-      tr = ul.getElementsByTagName("tr");
-      for (i = 0; i < tr.length; i++) {
-        a = tr[i].getElementsByTagName("td")[1];
-        txtValue = a.textContent || a.innerText;
-        if (txtValue.toUpperCase().indexOf(filter) > -1) {
-          tr[i].style.display = "";
-        } else {
-          tr[i].style.display = "none";
+        function mykeyFunction() {
+            var input, filter, ul, li, a, i, txtValue;
+            input = document.getElementById("myInput");
+            filter = input.value.toUpperCase();
+            ul = document.getElementById("myUL");
+            tr = ul.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                a = tr[i].getElementsByTagName("td")[1];
+                txtValue = a.textContent || a.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    tr[i].style.display = "";
+                } else {
+                    tr[i].style.display = "none";
+                }
+            }
         }
-      }
-    }
 
-    function printValue(sliderID, textbox) {
-      var x = document.getElementById(textbox);
-      var y = document.getElementById(sliderID);
-      x.value = y.value;
-    }
-
-    function change_css1() {
-      document.getElementById('demo1').style.cssText = 'background-color:#b2b2ff; border:1px solid #0c0800;';
-    }
-
-    checkedtotalValue(valange_data);
-
-    function addOne(x) { return (x) ? x + 1 : 1; }
-
-    function checkedtotalValue(data_total) {
-
-      var datas = [];
-
-      if (data_total === valange_data) {
-        datas.push(valange_data);
-        var entryList = {};
-        var childList = {};
-        var ageList = {};
-        var langList = {};
-        var actList = {};
-        var actkeyList = {};
-        var themekeyList = {};
-        for (var dd in valange_data) {
-          entryList[valange_data[dd].entry] = addOne(entryList[valange_data[dd].entry]);
-          childList[valange_data[dd].child] = addOne(childList[valange_data[dd].child]);
-          langList[valange_data[dd].lang] = addOne(langList[valange_data[dd].lang]);
-          ageList[valange_data[dd].age] = addOne(ageList[valange_data[dd].age]);
-          actList[valange_data[dd].act] = addOne(actList[valange_data[dd].act]);
-          actkeyList[valange_data[dd].actkey] = addOne(actkeyList[valange_data[dd].actkey]);
-          themekeyList[valange_data[dd].themekey] = addOne(themekeyList[valange_data[dd].themekey]);
+        function printValue(sliderID, textbox) {
+            var x = document.getElementById(textbox);
+            var y = document.getElementById(sliderID);
+            x.value = y.value;
         }
-        console.log("entryList", entryList);
-        console.log("childList", childList);
-        console.log("ageList", ageList);
-        console.log("langList", langList);
-        console.log("actList", actList);
-        console.log("actkeyList", actkeyList);
-        console.log("themekeyList", themekeyList);
-      }
 
-      //child
-      var buttons_child = ['checkbox_child_philippine', 'checkbox_child_théophile', 'checkbox_child_anaé', 'checkbox_child_gustavo', 
-        'checkbox_child_madeleine', 'checkbox_child_ulysse', 'checkbox_child_julie', 'checkbox_child_antoine', 'checkbox_child_antoine_bi'];
-      var data_class_child = []
-      for (var i = 0; i < buttons_child.length; i++) {
-        if (checkedeachValue(buttons_child[i]) !== 'null') {
-          data_class_child.push(checkedeachValue(buttons_child[i]));
+        function change_css1() {
+            document.getElementById('demo1').style.cssText = 'background-color:#b2b2ff; border:1px solid #0c0800;';
         }
-      }
 
-      //language
-      var buttons_language = ['checkbox_language_français', 'checkbox_language_français_italien', 'checkbox_language_italien_français'];
-      var data_class_language = []
-      for (var i = 0; i < buttons_language.length; i++) {
-        if (checkedeachValue(buttons_language[i]) !== 'null') {
-          data_class_language.push(checkedeachValue(buttons_language[i]));
+        checkedtotalValue(valange_data);
+
+        function addOne(x) { return (x) ? x + 1 : 1; }
+
+        function parseElements(v) {
+            if (!v) return [];
+            v = v.trim();
+            if (v.length < 1) return [];
+            var w = v.split(/[,\s]+/);
+            var lg = [];
+            for (var e in w) {
+                lg.push(w[e]);
+            }
+            return lg;
         }
-      }
 
-      //age
-      var age_data = document.getElementById("rangeValue_my").value;
-      //console.log("age_data : "+age_data);
-      var data_class_age = []
-      if (age_data.length !== 0) {
-        var range = age_data.split(",");
-        if (range[0] !== 0) {
-          //data_class_age.push(parseInt(range[0])-1);
-          for (i = (range[0]); i <= (range[1]); i++) {
-            data_class_age.push(parseInt(i));
-            console.log("age_data : " + parseInt(i));
-          }
-          //data_class_age.push(parseInt(range[1])+1);
+        function parseElementsPack(v) {
+            var a = parseElements(v);
+            return [a.join(" ")];
         }
-      }
 
-      console.log("data_class_age : " + data_class_age);
+        function checkedtotalValue(data_total) {
 
-      //theme
-      var buttons_theme = ['checkbox_theme_émergence_temporalité', 'checkbox_theme_temporalité', 'checkbox_theme_bilinguisme', 'checkbox_theme_babillage', 
-      'checkbox_theme_monologue', 'checkbox_theme_mouvement', 'checkbox_theme_énoncés_complexes', 'checkbox_theme_erreurs', 'checkbox_theme_syntaxe', 
-      'checkbox_theme_figurines', 'checkbox_theme_étayage', 'checkbox_theme_référence_à_soi', 'checkbox_theme_rituel', 'checkbox_theme_premiers_mots', 
-      'checkbox_theme_pointage', 'checkbox_theme_ballon', 'checkbox_theme_humour', 'checkbox_theme_tour', 'checkbox_theme_etayage', 'checkbox_theme_poupée', 
-      'checkbox_theme_première_syntaxe'];
-      var data_class_theme = []
-      for (var i = 0; i < buttons_theme.length; i++) {
-        if (checkedeachValue(buttons_theme[i]) !== 'null') {
-          data_class_theme.push(checkedeachValue(buttons_theme[i]));
+            // stat about data_total
+            var entryList = {};
+            var childList = {};
+            var ageList = {};
+            var langList = {};
+            var actList = {};
+            var actkeyList = {};
+            var themekeyList = {};
+            for (var dd in data_total) {
+                entryList[data_total[dd].entry] = addOne(entryList[data_total[dd].entry]);
+                childList[data_total[dd].child] = addOne(childList[data_total[dd].child]);
+                langList[data_total[dd].languagemother] = addOne(langList[data_total[dd].languagemother]);
+                ageList[data_total[dd].age] = addOne(ageList[data_total[dd].age]);
+                actList[data_total[dd].act] = addOne(actList[data_total[dd].act]);
+                actkeyList[data_total[dd].actkey] = addOne(actkeyList[data_total[dd].actkey]);
+                themekeyList[data_total[dd].themekey] = addOne(themekeyList[data_total[dd].themekey]);
+            }
+            console.log("entryList", entryList);
+            console.log("childList", childList);
+            console.log("ageList", ageList);
+            console.log("langList", langList);
+            console.log("actList", actList);
+            console.log("actkeyList", actkeyList);
+            console.log("themekeyList", themekeyList);
+
+            var data_total_splitted = [];
+            for (var dd in data_total) {
+                splitted = {};
+                splitted.title = data_total[dd].title ? data_total[dd].title : data_total[dd].entry;
+                splitted.entry = data_total[dd].entry;
+                splitted.child = parseElements(data_total[dd].child);
+                splitted.languagemother = parseElements(data_total[dd].languagemother);
+                splitted.languagesecond = parseElements(data_total[dd].languagesecond);
+                splitted.languageextract = parseElementsPack(data_total[dd].languageextract);
+                splitted.languages = data_total[dd].languagemother + " (" + data_total[dd].languageextract + ")";
+                splitted.age = parseElements(data_total[dd].age);
+                splitted.actkey = parseElements(data_total[dd].actkey);
+                splitted.act = data_total[dd].act;
+                splitted.themekey = parseElements(data_total[dd].themekey);
+                data_total_splitted.push(splitted);
+            }
+
+            //child
+            var buttons_child = ['checkbox_child_philippine', 'checkbox_child_théophile', 'checkbox_child_anaé', 'checkbox_child_gustavo',
+                'checkbox_child_madeleine', 'checkbox_child_ulysse', 'checkbox_child_julie', 'checkbox_child_antoine', 'checkbox_child_antoine_bi'];
+            var data_class_child = []
+            for (var i = 0; i < buttons_child.length; i++) {
+                if (checkedeachValue(buttons_child[i]) !== 'null') {
+                    data_class_child.push(checkedeachValue(buttons_child[i]));
+                }
+            }
+
+            //language
+            var v = $('input[name="languagemother"]').val();
+            data_class_languagemother = parseElements(v);
+            v = $('input[name="languagesecond"]').val();
+            data_class_languagesecond = parseElements(v);
+            v = $('input[name="languageextract"]').val();
+            data_class_languageextract = parseElementsPack(v);
+
+            //age
+            var age_data = document.getElementById("rangeValue_my").value;
+            //console.log("age_data : "+age_data);
+            var data_class_age = []
+            if (age_data.length !== 0) {
+                var range = age_data.split(",");
+                if (range[0] !== 0) {
+                    //data_class_age.push(parseInt(range[0])-1);
+                    for (i = (range[0]); i <= (range[1]); i++) {
+                        data_class_age.push(parseInt(i));
+                        console.log("age_data : " + parseInt(i));
+                    }
+                    //data_class_age.push(parseInt(range[1])+1);
+                }
+            }
+
+            console.log("data_class_age : " + data_class_age);
+
+            //theme
+            var buttons_theme = ['checkbox_theme_émergence_temporalité', 'checkbox_theme_temporalité', 'checkbox_theme_bilinguisme', 'checkbox_theme_babillage',
+                'checkbox_theme_monologue', 'checkbox_theme_mouvement', 'checkbox_theme_énoncés_complexes', 'checkbox_theme_erreurs', 'checkbox_theme_syntaxe',
+                'checkbox_theme_figurines', 'checkbox_theme_étayage', 'checkbox_theme_référence_à_soi', 'checkbox_theme_rituel', 'checkbox_theme_premiers_mots',
+                'checkbox_theme_pointage', 'checkbox_theme_ballon', 'checkbox_theme_humour', 'checkbox_theme_tour', 'checkbox_theme_etayage', 'checkbox_theme_poupée',
+                'checkbox_theme_première_syntaxe'];
+            var data_class_theme = []
+            for (var i = 0; i < buttons_theme.length; i++) {
+                if (checkedeachValue(buttons_theme[i]) !== 'null') {
+                    data_class_theme.push(checkedeachValue(buttons_theme[i]));
+                }
+            }
+
+            //activity
+            var buttons_activity = ['checkbox_activity_jeu_de_construction', 'checkbox_activity_jeu_en_extérieur', 'checkbox_activity_jeu_de_société',
+                'checkbox_activity_poupée_peluche_figurines', 'checkbox_activity_jeu_symbolique', 'checkbox_activity_jeu_technologique', 'checkbox_activity_jeu_autre',
+                'checkbox_activity_soin', 'checkbox_activity_repas', 'checkbox_activity_devoirs', 'checkbox_activity_Rangement', 'checkbox_activity_politesse',
+                'checkbox_activity_téléphone', 'checkbox_activity_dessin', 'checkbox_activity_livre', 'checkbox_activity_musique'];
+            var data_class_activity = []
+            for (var i = 0; i < buttons_activity.length; i++) {
+                if (checkedeachValue(buttons_activity[i]) !== 'null') {
+                    data_class_activity.push(checkedeachValue(buttons_activity[i]));
+                }
+            }
+
+            var filterBy = {};
+            window.filterBy = filterBy;
+
+            if (data_class_child.length > 0) {
+                filterBy.child = data_class_child;
+            }
+            if (data_class_languagemother.length > 0) {
+                filterBy.languagemother = data_class_languagemother;
+            }
+            if (data_class_languagesecond.length > 0) {
+                filterBy.languagesecond = data_class_languagesecond;
+            }
+            if (data_class_languageextract.length > 0) {
+                filterBy.languageextract = data_class_languageextract;
+            }
+            if (data_class_theme.length > 0) {
+                filterBy.themekey = data_class_theme;
+            }
+            if (data_class_activity.length > 0) {
+                filterBy.actkey = data_class_activity;
+            }
+            if (data_class_age.length > 0) {
+                filterBy.age = data_class_age;
+            }
+
+            console.log("filterBy", filterBy);
+
+            //var filterBy = {child: data_class_child, language: data_class_language, theme: data_class_theme, activity:data_class_activity};
+            var result = data_total_splitted.filter(
+                function (dbobject) {
+                    console.log("FILTER", dbobject.entry);
+                    return Object.keys(filterBy).every(
+                        function (filter) {
+                            console.log("EVERY", filter);
+                            return filterBy[filter].some(
+                                function (test_element) {
+                                    console.log("SOME", test_element);
+                                    // dbobject[filter]: element in the database -- it is an array of values.
+                                    // testelement: element choosen by the user -- it is a single value
+                                    console.log(test_element, filter, dbobject[filter], dbobject[filter].indexOf(test_element) >= 0);
+                                    if (!test_element) return true;
+                                    var r = dbobject[filter] ? dbobject[filter].indexOf(test_element) >= 0 : false;
+                                    console.log(r);
+                                    return r;
+                                })
+                        })
+                });
+                /*
+                function (dbobject) {
+                    return Object.keys(filterBy).every(
+                        function (filter) {
+                            return filterBy[filter].some(
+                                function (test_element) {
+                                    // dbobject[filter]: element in the database -- it is an array of values.
+                                    // testelement: element choosen by the user -- it is a single value
+                                    if (!test_element) return true;
+                                    if (dbobject[filter][0] === "") return true;
+                                    return dbobject[filter].indexOf(test_element) >= 0;
+                                })
+                        })
+                });
+                */
+
+            var edit = false;
+            if (window.location.href.lastIndexOf("?edit") === window.location.href.length - 5) edit = true;
+            $("#result_length").text(result.length);
+            $('#myUL').empty();
+            for (var k = 0; k < result.length; k++) {
+                var line = "<tr style='padding: 0px;'><td>" + k + "</td><td>" + result[k].title + "</td><td>" + result[k].child
+                    + "</td><td>" + result[k].languages + "</td><td>" + result[k].age + "</td><td>" + result[k].themekey + "</td><td>"
+                    + result[k].act + "</td><td><form method='GET' action='./dossier_offre.html' style='height: 7px;'>"
+                    + "<button class='btn btn-large btn-info' style='padding: 0px; font-size: 12px; height: 25px; width: 60px;' type='submit' name='"
+                    + result[k].entry + "'>Examiner</button></form></td>";
+                if (edit === true) line += "<td><form method='GET' action='./editentry.html' style='height: 7px;'>"
+                    + "<button class='btn btn-large btn-info' style='padding: 0px; font-size: 12px; height: 25px; width: 60px;' type='submit' name='"
+                    + result[k].entry + "'>Edit</button></form></td>";
+                line += "</tr>";
+                $("#myUL").append(line);
+            }
+
+            function checkedeachValue(data_cb_class) {
+                var value;
+                var checkedValue = document.querySelector('.' + data_cb_class + ':checked');
+                if (checkedValue == null) {
+                    value = "null";
+                } else {
+                    var result = checkedValue.value;
+                    value = result.split(",")[1];
+                }
+                return value;
+            }
         }
-      }
 
-      //activity
-      var buttons_activity = ['checkbox_activity_jeu_de_construction', 'checkbox_activity_jeu_en_extérieur', 'checkbox_activity_jeu_de_société', 
-      'checkbox_activity_poupée_peluche_figurines', 'checkbox_activity_jeu_symbolique', 'checkbox_activity_jeu_technologique', 'checkbox_activity_jeu_autre', 
-      'checkbox_activity_soin', 'checkbox_activity_repas', 'checkbox_activity_devoirs', 'checkbox_activity_Rangement', 'checkbox_activity_politesse', 
-      'checkbox_activity_téléphone', 'checkbox_activity_dessin', 'checkbox_activity_livre', 'checkbox_activity_musique'];
-      var data_class_activity = []
-      for (var i = 0; i < buttons_activity.length; i++) {
-        if (checkedeachValue(buttons_activity[i]) !== 'null') {
-          data_class_activity.push(checkedeachValue(buttons_activity[i]));
-        }
-      }
-
-      var filterBy = {};
-      window.filterBy = filterBy;
-
-      if (data_class_child.length > 0) {
-        filterBy.child = data_class_child;
-      }
-      if (data_class_language.length > 0) {
-        filterBy.lang = data_class_language;
-      }
-      if (data_class_theme.length > 0) {
-        filterBy.themekey = data_class_theme;
-      }
-      if (data_class_activity.length > 0) {
-        filterBy.actkey = data_class_activity;
-      }
-      if (data_class_age.length > 0) {
-        filterBy.age = data_class_age;
-      }
-
-      console.log("filterBy", filterBy);
-
-      //var filterBy = {child: data_class_child, language: data_class_language, theme: data_class_theme, activity:data_class_activity};
-      var result = data_total.filter(o => Object.keys(filterBy).every(k => filterBy[k].some(f => o[k] === f)));
-
-      var edit = false;
-      if (window.location.href.lastIndexOf("?edit") === window.location.href.length - 5) edit = true;
-      console.log(window.location.href.lastIndexOf("?edit"));
-      console.log(window.location.href.length - 5);
-      $("#result_length").text(result.length);
-      $('#myUL').empty();
-      for (var k = 0; k < result.length; k++) {
-        var line = "<tr style='padding: 0px;'><td>" + k + "</td><td>" + result[k].entry + "</td><td>" + result[k].child 
-          + "</td><td>" + result[k].lang + "</td><td>" + result[k].age + "</td><td>" + result[k].themekey + "</td><td>" 
-          + result[k].act + "</td><td><form method='GET' action='./dossier_offre.html' style='height: 7px;'>" 
-          + "<button class='btn btn-large btn-info' style='padding: 0px; font-size: 12px; height: 25px; width: 60px;' type='submit' name='" 
-          + result[k].entry + "'>Examiner</button></form></td>";
-        if (edit === true) line += "<td><form method='GET' action='./editentry.html' style='height: 7px;'>" 
-          + "<button class='btn btn-large btn-info' style='padding: 0px; font-size: 12px; height: 25px; width: 60px;' type='submit' name='" 
-          + result[k].entry + "'>Edit</button></form></td>";
-        line += "</tr>";
-        $("#myUL").append(line);
-      }
-
-      function checkedeachValue(data_cb_class) {
-        var value;
-        var checkedValue = document.querySelector('.' + data_cb_class + ':checked');
-        if (checkedValue == null) {
-          value = "null";
-        } else {
-          var result = checkedValue.value;
-          value = result.split(",")[1];
-        }
-        return value;
-      }
-    }
-
-  </script>
+    </script>
 
 </body>
 

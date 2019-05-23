@@ -202,7 +202,7 @@
       s += "<br/>";
       s += "Enfant : " + meta.child + "<br/>";
       s += "Âge : " + meta.age + "<br/>";
-      s += "Langue : " + meta.lang + "<br/>";
+      s += "Langue : " + meta.languagemother + "<br/>";
       if (meta.place) s += "Lieu : " + meta.place + "<br/>";
       if (meta.act) s += "Activité : " + meta.act + "<br/>";
       if (meta.theme) s += "Thème : " + meta.theme + "<br/>";
@@ -222,7 +222,8 @@
         $("#input_title").append(meta.title);
         $("#transcription").append(transcription(meta.transcription));
         $("#description").append(paragraph(meta.description));
-        $("#citer_cette_video").append("<p>Si vous utilisez cette vidéo dans le cadre d’une présentation ou d’un article, veuillez utiliser la référence bibliographique appropriée.</p>");
+        $("#citer_cette_video").append("<p>Si vous utilisez cette vidéo dans le cadre d’une présentation ou d’un article, " 
+          + "veuillez utiliser la référence bibliographique appropriée.</p>");
         $("#citer_cette_video").append(paragraph(meta.quote));
         $("#metadonnees").append(metadata(meta));
       })
