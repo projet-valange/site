@@ -134,6 +134,11 @@
         } else {
             $("input[name='agree']").prop('checked', false);
         }
+        if (meta.contact === "contact ok") {
+            $("input[name='contact']").prop('checked', true);
+        } else {
+            $("input[name='contact']").prop('checked', false);
+        }
         if (meta.disc === "monologue") {
             $("input[name='disc'][value='monologue']").prop('checked', true);
         } else if (meta.disc === "monologue") {

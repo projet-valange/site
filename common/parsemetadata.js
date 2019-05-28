@@ -97,6 +97,7 @@ parsemetadata.parseMetadata = function(text, fn) {
     meta.languageextract = parsemetadata.checkElement(xml, "languageextract", fn);
     meta.place = parsemetadata.checkElement(xml, "place", fn);
     meta.disc = parsemetadata.checkElement(xml, "disc", fn);
+    meta.contact = parsemetadata.checkElement(xml, "contact", fn);
     meta.project = parsemetadata.checkElement(xml, "project", fn);
 
     // the extract data
@@ -142,6 +143,7 @@ parsemetadata.metadataToString = function(meta) {
     s += '<languageextract>' + meta.languageextract + '</languageextract>\n';
     s += '<place>' + meta.place + '</place>\n';
     s += '<disc>' + meta.disc + '</disc>\n';
+    s += '<contact>' + meta.contact + '</contact>\n';
     s += '<project>' + meta.project + '</project>\n';
 
     // extract data

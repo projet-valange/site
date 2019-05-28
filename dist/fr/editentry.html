@@ -69,6 +69,12 @@
                         <label for="email"> E-mail*</label>
                         <input type="email" class="form-control" id="email" name="email" required maxlength="50">
                     </div>
+                    <label class="email_contact_agreement">
+                        <input class="email_contact_agreement" type="checkbox" id="contact" name="contact"
+                                value="contact ok">
+                        <span class="checkmark" style="padding-right:10px;"></span>Voulez vous recevoir des courriers vous
+                        informant des évolutions de Valange ?
+                    </label>
                     <br/>
                     <h2>Contribution</h2>
                     <p id="secondpart">Cette seconde partie du formulaire concerne l'extrait vidéo que vous souhaitez nous
@@ -198,6 +204,13 @@
                         return pattern.test(emailAddress);
                     }
 
+                    function limitTo(v, max) {
+                        var vv = v.val();
+                        vv = vv.substr(0, max);
+                        if (vv.length > max) v.val(vv);
+                        return vv;
+                    }
+
                     function getXmlData() {
                         var meta = {};
                         var v, vv;
@@ -206,52 +219,38 @@
                         // Information about the depositor
                         // name
                         v = $('input[name="name"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 80);
-                        if (vv.length > 80) v.val(vv);
-                        meta.name = vv;
+                        meta.name = limitTo(v, 80);
                         // surname
                         v = $('input[name="surname"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 80);
-                        if (vv.length > 80) v.val(vv);
-                        meta.surname = vv;
+                        meta.surname = limitTo(v, 80);
                         // institution
                         v = $('input[name="institution"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 240);
-                        if (vv.length > 240) v.val(vv);
-                        meta.institution = vv;
+                        meta.institution = limitTo(v, 240);
                         // email
                         v = $('input[name="email"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 240);
-                        if (vv.length > 240) v.val(vv);
-                        meta.email = vv;
+                        vv = limitTo(v, 240);
                         if ( !isValidEmailAddress(vv) ) {
                           window.alert('Adresse email invalide: veuillez la corriger');
                           return '';
                         }
+                        meta.email = vv;
                         // information about the extract : metadata
                         // agreement
                         v = $('input[name="agree"]');
                         meta.agree = v.is(':checked') ? "agreement signed" : "no agreement";
+                        // mail contact
+                        v = $('input[name="contact"]');
+                        meta.contact = v.is(':checked') ? "contact ok" : "no contact";
                         // namechi
                         v = $('input[name="namechi"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 80);
-                        if (vv.length > 80) v.val(vv);
-                        meta.child = vv;
+                        meta.child = limitTo(v, 80);
                         // gender
-                        v = $('input[name=gender]:checked').val();
-                        if (v === "undefined") v = "unknown";
+                        v = $('input[name="gender"]:checked');
+                        if (v.length < 1) v = "unknown"; else v = v.val();
                         meta.gender = v;
                         // age
                         v = $('input[name="age"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 80);
-                        if (vv.length > 80) v.val(vv);
-                        meta.age = vv;
+                        meta.age = limitTo(v, 80);
                         // localisation
                         v = $('input[name="localisation"]');
                         vv = v.val();
@@ -263,42 +262,25 @@
                         meta.place = vv;
                         // languagemother
                         v = $('input[name="languagemother"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 120);
-                        if (vv.length > 120) v.val(vv);
-                        meta.languagemother = v;
+                        meta.languagemother = limitTo(v, 120);
                         // languagesecond
                         v = $('input[name="languagesecond"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 120);
-                        if (vv.length > 120) v.val(vv);
-                        meta.languagesecond = v;
+                        meta.languagesecond = limitTo(v, 120);
                         // languageextract
                         v = $('input[name="languageextract"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 120);
-                        if (vv.length > 120) v.val(vv);
-                        meta.languageextract = v;
+                        meta.languageextract = limitTo(v, 120);
                         // discourse
-                        v = $('input[name=disc]:checked').val();
-                        if (v === "undefined") v = "unknown";
+                        v = $('input[name="disc"]:checked').val();
+                        if (v.length < 1) v = "unknown"; else v = v.val();
                         meta.disc = v;
                         // project
                         v = $('input[name="project"]');
-                        vv = v.val();
-                        if (vv.length > 120) {
-                          vv.substr(0, 120);
-                          v.val(vv);
-                        }
-                        meta.project = vv;
+                        meta.project = limitTo(v, 120);
 
                         // information about the extract : data
                         // title/entry
                         v = $('input[name="title"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 80);
-                        if (vv.length > 80) v.val(vv);
-                        meta.title = vv;
+                        meta.title = limitTo(v, 80);
 
                         // description
                         v = $('textarea[name="description"]');
@@ -332,28 +314,16 @@
 
                         // act
                         v = $('input[name="act"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 240);
-                        if (vv.length > 240) v.val(vv);
-                        meta.act = vv;
+                        meta.act = limitTo(v, 240);
                         // theme
                         v = $('input[name="theme"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 240);
-                        if (vv.length > 240) v.val(vv);
-                        meta.theme = vv;
+                        meta.theme = limitTo(v, 240);
                         // keywords
                         v = $('input[name="keywords"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 240);
-                        if (vv.length > 240) v.val(vv);
-                        meta.keywords = vv;
+                        meta.keywords = limitTo(v, 240);
                         // extmedia
                         v = $('input[name="extmedia"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 240);
-                        if (vv.length > 240) v.val(vv);
-                        meta.extmedia = vv;
+                        meta.extmedia = limitTo(v, 240);
 
                         return meta;
                     }
@@ -563,6 +533,11 @@
             $("input[name='agree']").prop('checked', true);
         } else {
             $("input[name='agree']").prop('checked', false);
+        }
+        if (meta.contact === "contact ok") {
+            $("input[name='contact']").prop('checked', true);
+        } else {
+            $("input[name='contact']").prop('checked', false);
         }
         if (meta.disc === "monologue") {
             $("input[name='disc'][value='monologue']").prop('checked', true);
