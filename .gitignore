@@ -4,5 +4,5 @@
 *.mp3
 *.mpg
 *.zip
-*/depository/*
+depository/*
 node_modules/*
