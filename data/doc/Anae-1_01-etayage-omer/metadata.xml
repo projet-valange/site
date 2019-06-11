@@ -3,13 +3,13 @@
 <entry>Anae-1_01-etayage-omer</entry>
 <media>Anae-1_01-etayage-omer.mp4</media>
 <project>CoLaJE/ Marie</project>
-<child>Anae</child>
+<child>Anaé</child>
 <age>1;01</age>
 <languagemother>fra</languagemother>
 <languagesecond></languagesecond>
 <languageextract>fra</languageextract>
 <act>jeu en extérieur</act>
-<actkey>jeu_en_extérieur</actkey>
+<actkey>jeu en extérieur</actkey>
 <theme>étayage, place d'interlocuteur, interprétation, validation</theme>
 <themekey>étayage</themekey>
 <keywords>Omer</keywords>

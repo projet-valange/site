@@ -3,13 +3,13 @@
 <entry>Anae-1_05_03-babillage-magasin</entry>
 <media>Anae-1_05_03-babillage-magasin.mp4</media>
 <project>CoLaJE</project>
-<child>Anae</child>
+<child>Anaé</child>
 <age>1;05.03</age>
 <languagemother>fra</languagemother>
 <languagesecond></languagesecond>
 <languageextract>fra</languageextract>
 <act>jeu symbolique (magasin)</act>
-<actkey>jeu_symbolique</actkey>
+<actkey>jeu symbolique</actkey>
 <theme>babillage, monologue en présence d'autrui, jeu symbolique</theme>
 <themekey>babillage</themekey>
 <keywords></keywords>

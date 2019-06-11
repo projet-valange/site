@@ -124,79 +124,7 @@
             <br />
             <div class="tab-content">
                 <div class="tab-pane active" id="theme">
-                    <div class="row">
-                        <div class="col-lg-6 col-md-6">
-                            <label class="container_cb">Babillage
-                                <input class="checkbox_theme_babillage" type="checkbox" value="theme,babillage">
-                                <span class="checkmark"></span>
-                            </label>
-                            <label class="container_cb">Bilinguisme
-                                <input class="checkbox_theme_bilinguisme" type="checkbox" value="theme,bilinguisme">
-                                <span class="checkmark"></span>
-                            </label>
-                            <label class="container_cb">Émergence temporalité
-                                <input class="checkbox_theme_émergence_temporalité" type="checkbox"
-                                    value="theme,émergence_temporalité">
-                                <span class="checkmark"></span>
-                            </label>
-                            <label class="container_cb">Énoncés complexes
-                                <input class="checkbox_theme_énoncés_complexes" type="checkbox"
-                                    value="theme,énoncés_complexes">
-                                <span class="checkmark"></span>
-                            </label>
-                            <label class="container_cb">Erreurs
-                                <input class="checkbox_theme_erreurs" type="checkbox" value="theme,erreurs">
-                                <span class="checkmark"></span>
-                            </label>
-                            <label class="container_cb">Étayage
-                                <input class="checkbox_theme_étayage" type="checkbox" value="theme,étayage">
-                                <span class="checkmark"></span>
-                            </label>
-                            <label class="container_cb">Humour
-                                <input class="checkbox_theme_humour" type="checkbox" value="theme,humour">
-                                <span class="checkmark"></span>
-                            </label>
-                            <label class="container_cb">Monologue
-                                <input class="checkbox_theme_monologue" type="checkbox" value="theme,monologue">
-                                <span class="checkmark"></span>
-                            </label>
-                        </div>
-                        <div class="col-lg-6 col-md-6">
-                            <label class="container_cb">Mouvement
-                                <input class="checkbox_theme_mouvement" type="checkbox" value="theme,mouvement">
-                                <span class="checkmark"></span>
-                            </label>
-                            <label class="container_cb">Pointage
-                                <input class="checkbox_theme_pointage" type="checkbox" value="theme,pointage">
-                                <span class="checkmark"></span>
-                            </label>
-                            <label class="container_cb">Premiers mots
-                                <input class="checkbox_theme_premiers_mots" type="checkbox" value="theme,premiers_mots">
-                                <span class="checkmark"></span>
-                            </label>
-                            <label class="container_cb">Première syntaxe
-                                <input class="checkbox_theme_première_syntaxe" type="checkbox"
-                                    value="theme,première_syntaxe">
-                                <span class="checkmark"></span>
-                            </label>
-                            <label class="container_cb">Référence à soi
-                                <input class="checkbox_theme_référence_à_soi" type="checkbox"
-                                    value="theme,référence_à_soi">
-                                <span class="checkmark"></span>
-                            </label>
-                            <label class="container_cb">Rituel
-                                <input class="checkbox_theme_rituel" type="checkbox" value="theme,rituel">
-                                <span class="checkmark"></span>
-                            </label>
-                            <label class="container_cb">Syntaxe
-                                <input class="checkbox_theme_syntaxe" type="checkbox" value="theme,syntaxe">
-                                <span class="checkmark"></span>
-                            </label>
-                            <label class="container_cb">Temporalité
-                                <input class="checkbox_theme_temporalité" type="checkbox" value="theme,temporalité">
-                                <span class="checkmark"></span>
-                            </label>
-                        </div>
+                    <div class="row" id="tab-theme">
                     </div>
                 </div>
                 <div class="tab-pane" id="age">
@@ -346,7 +274,7 @@
                         <div class="col-lg-2 col-md-2">
                             <a><img src="../../common/img/children/anae.jpg" class="img-circle nousimg"></a>
                             <label class="container_cb">Anaé
-                                <input class="checkbox_child_anaé" type="checkbox" value="child,Anae">
+                                <input class="checkbox_child_anaé" type="checkbox" value="child,Anaé">
                                 <span class="checkmark"></span>
                             </label>
                         </div>
@@ -360,7 +288,7 @@
                         <div class="col-lg-2 col-md-2">
                             <a><img src="../../common/img/children/antoine-it-fr.png" class="img-circle nousimg"></a>
                             <label class="container_cb">Antoine (it/fr)
-                                <input class="checkbox_child_antoine_bi" type="checkbox" value="child,Antoine Bil">
+                                <input class="checkbox_child_antoine_bi" type="checkbox" value="child,Antoine Bi">
                                 <span class="checkmark"></span>
                             </label>
                         </div>
@@ -412,7 +340,7 @@
         </div>
 
         <div class="recherche_btn" style="text-align:center;">
-            </br><button type="submit" class="btn btn-large btn-info" onclick="checkedtotalValue(valange_data);">
+            </br><button type="submit" class="btn btn-large btn-info" onclick="checkedTotalValue();">
                 <img style="height: 25px; width: 25px;" src="../../common/img/search-icon.png"></img>
                 <!-- <i class="fa fa-fw fa-search"></i> -->
                 Recherche</button></br>
@@ -521,46 +449,139 @@
             document.getElementById('demo1').style.cssText = 'background-color:#b2b2ff; border:1px solid #0c0800;';
         }
 
-        checkedtotalValue(valange_data);
-
         function addOne(x) { return (x) ? x + 1 : 1; }
 
+        /**
+         * divide a string into element separated by a comma: ","
+         * no empty elements are authorized
+         * white space removed at both sides of the elements
+         */
         function parseElements(v) {
             if (!v) return [];
-            v = v.trim();
-            if (v.length < 1) return [];
-            var w = v.split(/[,\s]+/);
+            var w = v.split(/,/);
             var lg = [];
             for (var e in w) {
-                lg.push(w[e]);
+                var s = w[e].trim();
+                if (s.length > 0) lg.push(s);
             }
             return lg;
         }
 
-        function parseElementsPack(v) {
-            var a = parseElements(v);
-            return [a.join(" ")];
+        /**
+         * get year part of age value (part before character ";")
+         */
+        function parseAge(v) {
+            if (!v) return -1;
+            if (v.length < 1) return [];
+            var w = v[0].trim().split(/;/);
+            return (w.length > 0) ? Number(w[0]) : -1;
         }
 
-        function checkedtotalValue(data_total) {
+        /**
+         * normalize a string with a serie of words separated by comma
+         * all trailing spaces (front and back) and empty elements are removed
+         */
+        function parseElementsPack(v) {
+            var a = parseElements(v);
+            return [a.join(",")];
+        }
 
-            // stat about data_total
-            var entryList = {};
-            var childList = {};
-            var ageList = {};
-            var langList = {};
-            var actList = {};
-            var actkeyList = {};
-            var themekeyList = {};
-            for (var dd in data_total) {
-                entryList[data_total[dd].entry] = addOne(entryList[data_total[dd].entry]);
-                childList[data_total[dd].child] = addOne(childList[data_total[dd].child]);
-                langList[data_total[dd].languagemother] = addOne(langList[data_total[dd].languagemother]);
-                ageList[data_total[dd].age] = addOne(ageList[data_total[dd].age]);
-                actList[data_total[dd].act] = addOne(actList[data_total[dd].act]);
-                actkeyList[data_total[dd].actkey] = addOne(actkeyList[data_total[dd].actkey]);
-                themekeyList[data_total[dd].themekey] = addOne(themekeyList[data_total[dd].themekey]);
+        function buildTab(list, category) {
+            var s = "";
+            for (var str in list) {
+                s += '<div class="col-lg-6 col-md-6">';
+                s += '<label class="container_cb">';
+                s += str; // put first letter as uppercase
+                s += '<input id="checkbox_' + category + '_' + str + '" type="checkbox" value="' + str + '">';
+                s += '<span class="checkmark"></span>';
+                s += '<span class="nbocc">' + themekeyList[str] + '</span>';
+                s += '</label>';
+                s += '</div>';
             }
+            return s;
+        }
+
+        function checkedTab(list, category) {
+            var selected = [];
+            for (var str in list) {
+                var id = 'checkbox_' + category + '_' + str;
+                var h = document.getElementById(id);
+                // var h = document.querySelector('input[id="' + id + '"]');
+                if (h && h.checked) {
+                    selected.push(str);
+                }
+            }
+            return selected;
+        }
+
+        var entryList = {};
+        var childList = {};
+        var ageList = {};
+        var langList = {};
+        var actList = {};
+        var actkeyList = {};
+        var themekeyList = {};
+        var dbTotalSplitted = [];
+
+        function initTotalValue(dataDB) {
+            // stat about dataDB
+            for (var dd in dataDB) {
+                // create search data
+                splitted = {};
+                // elements with single values
+                // entry
+                entryList[dataDB[dd].entry] = addOne(entryList[dataDB[dd].entry]);
+                splitted.entry = dataDB[dd].entry;
+                // child
+                childList[dataDB[dd].child] = addOne(childList[dataDB[dd].child]);
+                splitted.child = dataDB[dd].child;
+                // age
+                ageList[dataDB[dd].age] = addOne(ageList[dataDB[dd].age]);
+                splitted.age = parseElements(dataDB[dd].age);
+                // title
+                splitted.title = dataDB[dd].title ? dataDB[dd].title : dataDB[dd].entry;
+                // elements with multiple values
+                var p; // temp value
+                // languagemother
+                splitted.languages = dataDB[dd].languagemother + " (" + dataDB[dd].languageextract + ")";
+                p = parseElements(dataDB[dd].languagemother);
+                splitted.languagemother = p;
+                for (var i in p) {
+                    langList[p[i]] = addOne(langList[p[i]]);
+                }
+                // languagesecond
+                p = parseElements(dataDB[dd].languagesecond);
+                splitted.languagesecond = p;
+                for (var i in p) {
+                    langList[p[i]] = addOne(langList[p[i]]);
+                }
+                // languageextract
+                p = parseElements(dataDB[dd].languageextract);
+                splitted.languageextract = parseElementsPack(dataDB[dd].languageextract);
+                for (var i in p) {
+                    langList[p[i]] = addOne(langList[p[i]]);
+                }
+                // act
+                p = parseElements(dataDB[dd].act);
+                splitted.act = dataDB[dd].act;
+                for (var i in p) {
+                    actList[p[i]] = addOne(actList[p[i]]);
+                }
+                // actkey
+                p = parseElements(dataDB[dd].actkey);
+                splitted.actkey = p;
+                for (var i in p) {
+                    actkeyList[p[i]] = addOne(actkeyList[p[i]]);
+                }
+                // themekey
+                p = parseElements(dataDB[dd].themekey);
+                splitted.themekey = p;
+                for (var i in p) {
+                    themekeyList[p[i]] = addOne(themekeyList[p[i]]);
+                }
+                dbTotalSplitted.push(splitted);
+            }
+            // pour info
             console.log("entryList", entryList);
             console.log("childList", childList);
             console.log("ageList", ageList);
@@ -569,23 +590,13 @@
             console.log("actkeyList", actkeyList);
             console.log("themekeyList", themekeyList);
 
-            var data_total_splitted = [];
-            for (var dd in data_total) {
-                splitted = {};
-                splitted.title = data_total[dd].title ? data_total[dd].title : data_total[dd].entry;
-                splitted.entry = data_total[dd].entry;
-                splitted.child = parseElements(data_total[dd].child);
-                splitted.languagemother = parseElements(data_total[dd].languagemother);
-                splitted.languagesecond = parseElements(data_total[dd].languagesecond);
-                splitted.languageextract = parseElementsPack(data_total[dd].languageextract);
-                splitted.languages = data_total[dd].languagemother + " (" + data_total[dd].languageextract + ")";
-                splitted.age = parseElements(data_total[dd].age);
-                splitted.actkey = parseElements(data_total[dd].actkey);
-                splitted.act = data_total[dd].act;
-                splitted.themekey = parseElements(data_total[dd].themekey);
-                data_total_splitted.push(splitted);
-            }
+            // build interface with actual values in dataDB
+            var s = buildTab(themekeyList, "theme");
+            var h = document.getElementById("tab-theme");
+            h.innerHTML = s;
+        }
 
+        function checkedTotalValue() {
             //child
             var buttons_child = ['checkbox_child_philippine', 'checkbox_child_théophile', 'checkbox_child_anaé', 'checkbox_child_gustavo',
                 'checkbox_child_madeleine', 'checkbox_child_ulysse', 'checkbox_child_julie', 'checkbox_child_antoine', 'checkbox_child_antoine_bi'];
@@ -623,6 +634,7 @@
             console.log("data_class_age : " + data_class_age);
 
             //theme
+            /*
             var buttons_theme = ['checkbox_theme_émergence_temporalité', 'checkbox_theme_temporalité', 'checkbox_theme_bilinguisme', 'checkbox_theme_babillage',
                 'checkbox_theme_monologue', 'checkbox_theme_mouvement', 'checkbox_theme_énoncés_complexes', 'checkbox_theme_erreurs', 'checkbox_theme_syntaxe',
                 'checkbox_theme_figurines', 'checkbox_theme_étayage', 'checkbox_theme_référence_à_soi', 'checkbox_theme_rituel', 'checkbox_theme_premiers_mots',
@@ -634,6 +646,8 @@
                     data_class_theme.push(checkedeachValue(buttons_theme[i]));
                 }
             }
+            */
+            data_class_theme = checkedTab(themekeyList, "theme");
 
             //activity
             var buttons_activity = ['checkbox_activity_jeu_de_construction', 'checkbox_activity_jeu_en_extérieur', 'checkbox_activity_jeu_de_société',
@@ -675,40 +689,29 @@
             console.log("filterBy", filterBy);
 
             //var filterBy = {child: data_class_child, language: data_class_language, theme: data_class_theme, activity:data_class_activity};
-            var result = data_total_splitted.filter(
+            var result = dbTotalSplitted.filter(
                 function (dbobject) {
-                    console.log("FILTER", dbobject.entry);
+                    //console.log("FILTER", dbobject.entry);
                     return Object.keys(filterBy).every(
                         function (filter) {
-                            console.log("EVERY", filter);
+                            //console.log("EVERY", filter);
                             return filterBy[filter].some(
                                 function (test_element) {
-                                    console.log("SOME", test_element);
+                                    // console.log("SOME", test_element, filter, dbobject[filter]);
                                     // dbobject[filter]: element in the database -- it is an array of values.
                                     // testelement: element choosen by the user -- it is a single value
-                                    console.log(test_element, filter, dbobject[filter], dbobject[filter].indexOf(test_element) >= 0);
+                                    // console.log(test_element, filter, dbobject[filter], dbobject[filter].indexOf(test_element) >= 0);
                                     if (!test_element) return true;
-                                    var r = dbobject[filter] ? dbobject[filter].indexOf(test_element) >= 0 : false;
-                                    console.log(r);
-                                    return r;
+                                    if (filter === "age") {
+                                        return dbobject[filter] ? parseAge(dbobject[filter]) === test_element : false;
+                                    } else if (filter === "child") {
+                                        return dbobject[filter] ? dbobject[filter] === test_element : false;
+                                    } else {
+                                        return dbobject[filter] ? dbobject[filter].indexOf(test_element) >= 0 : false;
+                                    }
                                 })
                         })
                 });
-                /*
-                function (dbobject) {
-                    return Object.keys(filterBy).every(
-                        function (filter) {
-                            return filterBy[filter].some(
-                                function (test_element) {
-                                    // dbobject[filter]: element in the database -- it is an array of values.
-                                    // testelement: element choosen by the user -- it is a single value
-                                    if (!test_element) return true;
-                                    if (dbobject[filter][0] === "") return true;
-                                    return dbobject[filter].indexOf(test_element) >= 0;
-                                })
-                        })
-                });
-                */
 
             var edit = false;
             if (window.location.href.lastIndexOf("?edit") === window.location.href.length - 5) edit = true;
@@ -740,6 +743,11 @@
             }
         }
 
+        /*
+         * to do the first time
+         */
+        initTotalValue(valange_data); // finalize creation of html
+        checkedTotalValue(); // display all extracts or only extract validated by the user (first time = all extracts)
     </script>
 
 </body>

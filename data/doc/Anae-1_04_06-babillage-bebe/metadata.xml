@@ -3,13 +3,13 @@
 <entry>Anae-1_04_06-babillage-bebe</entry>
 <media>Anae-1_04_06-babillage-bebe.mp4</media>
 <project>CoLaJE</project>
-<child>Anae</child>
+<child>Anaé</child>
 <age>1;04.06</age>
 <languagemother>fra</languagemother>
 <languagesecond></languagesecond>
 <languageextract>fra</languageextract>
 <act>poupée</act>
-<actkey>poupée_peluche_figurines</actkey>
+<actkey>poupée peluche figurines</actkey>
 <theme>babillage, commente ce qu'elle cherche ou prend, monologue en présence d'autrui</theme>
 <themekey>babillage</themekey>
 <keywords></keywords>

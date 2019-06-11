@@ -185,6 +185,13 @@ output:after {
 .img-circle { height: 6vh; border-radius: 50%; }
 .img-rounded { height: 8vh; border-radius: 10%; }
 
+.nbocc {
+    font-size: smaller;
+    display: inline-block;
+    border: blue solid 1px;
+    border-radius: 50%;
+}
+
 #ortolang1 {
   width: 30vw;
 }

@@ -8,6 +8,7 @@ var valange_data = [
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_08-babillage-livre1/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_08-babillage-livre1/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_08-babillage-livre1/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_08-babillage-livre1/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_08-babillage-livre1/metadata.xml
 {
 title: "Anaé - Livre et Babillage 1",
@@ -35,6 +36,7 @@ duration: "9sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_08-babillage-livre2/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_08-babillage-livre2/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_08-babillage-livre2/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_08-babillage-livre2/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_08-babillage-livre2/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-0_08-babillage-livre2/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-0_08-babillage-livre2/metadata.xml
@@ -65,6 +67,7 @@ duration: "6sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_09-babillage-babillage1/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_09-babillage-babillage1/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_09-babillage-babillage1/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_09-babillage-babillage1/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_09-babillage-babillage1/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-0_09-babillage-babillage1/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-0_09-babillage-babillage1/metadata.xml
@@ -95,6 +98,7 @@ duration: "11sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_09-babillage-babillage2/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_09-babillage-babillage2/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_09-babillage-babillage2/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_09-babillage-babillage2/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_09-babillage-babillage2/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-0_09-babillage-babillage2/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-0_09-babillage-babillage2/metadata.xml
@@ -125,6 +129,7 @@ duration: "12sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_09-babillage-demande/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_09-babillage-demande/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_09-babillage-demande/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_09-babillage-demande/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_09-babillage-demande/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-0_09-babillage-demande/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-0_09-babillage-demande/metadata.xml
@@ -155,6 +160,7 @@ duration: "1min10",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_09-babillage-gestemain/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_09-babillage-gestemain/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_09-babillage-gestemain/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_09-babillage-gestemain/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_09-babillage-gestemain/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-0_09-babillage-gestemain/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Anae-0_09-babillage-gestemain/metadata.xml
@@ -184,6 +190,7 @@ duration: "16sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_09-babillage-monoadia/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_09-babillage-monoadia/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_09-babillage-monoadia/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_09-babillage-monoadia/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_09-babillage-monoadia/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-0_09-babillage-monoadia/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-0_09-babillage-monoadia/metadata.xml
@@ -214,6 +221,7 @@ duration: "37sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_10-babillage-girafe-coupe/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_10-babillage-girafe-coupe/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_10-babillage-girafe-coupe/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_10-babillage-girafe-coupe/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_10-babillage-girafe-coupe/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-0_10-babillage-girafe-coupe/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-0_10-babillage-girafe-coupe/metadata.xml
@@ -244,6 +252,7 @@ duration: "10sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_10-babillage-girafe/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_10-babillage-girafe/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_10-babillage-girafe/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_10-babillage-girafe/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_10-babillage-girafe/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-0_10-babillage-girafe/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Anae-0_10-babillage-girafe/metadata.xml
@@ -273,6 +282,7 @@ duration: "1min10",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_10-babillage-jeuxsolo-coupe/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_10-babillage-jeuxsolo-coupe/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_10-babillage-jeuxsolo-coupe/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_10-babillage-jeuxsolo-coupe/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_10-babillage-jeuxsolo-coupe/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-0_10-babillage-jeuxsolo-coupe/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-0_10-babillage-jeuxsolo-coupe/metadata.xml
@@ -303,6 +313,7 @@ duration: "6sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_10-babillage-magazine/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_10-babillage-magazine/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_10-babillage-magazine/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_10-babillage-magazine/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_10-babillage-magazine/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-0_10-babillage-magazine/metadata.xml
 {
@@ -331,6 +342,7 @@ duration: "1min45",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_10-babillage-petitsbruits/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_10-babillage-petitsbruits/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_10-babillage-petitsbruits/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_10-babillage-petitsbruits/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_10-babillage-petitsbruits/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-0_10-babillage-petitsbruits/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-0_10-babillage-petitsbruits/metadata.xml
@@ -361,6 +373,7 @@ duration: "2min",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_11-babillage-cherche/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_11-babillage-cherche/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_11-babillage-cherche/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_11-babillage-cherche/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-0_11-babillage-cherche/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_11-babillage-cherche/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-0_11-babillage-cherche/metadata.xml
@@ -392,6 +405,7 @@ duration: "1min13",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_11-babillage-cubes-colloque/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_11-babillage-cubes-colloque/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_11-babillage-cubes-colloque/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_11-babillage-cubes-colloque/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Anae-0_11-babillage-cubes-colloque/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-0_11-babillage-cubes-colloque/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_11-babillage-cubes-colloque/metadata.xml
@@ -400,13 +414,13 @@ title: "Anaé - cubes colloque",
 entry: "Anae-0_11-babillage-cubes-colloque",
 media: "Anae-0_11-babillage-cubes-colloque.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "0;11",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu de construction (cubes)",
-actkey: "jeu_de_construction",
+actkey: "jeu de construction",
 theme: "babillage, monologue, commente les objets qu'elle prend ",
 themekey: "babillage",
 keywords: "cubes",
@@ -421,19 +435,20 @@ duration: "11sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_11-babillage-cubes/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_11-babillage-cubes/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_11-babillage-cubes/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_11-babillage-cubes/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_11-babillage-cubes/metadata.xml
 {
 title: "Anaé - cubes",
 entry: "Anae-0_11-babillage-cubes",
 media: "Anae-0_11-babillage-cubes.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "0;11",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu de construction (cubes)",
-actkey: "jeu_de_construction",
+actkey: "jeu de construction",
 theme: "babillage, monologue, commente les objets qu'elle prend ",
 themekey: "babillage",
 keywords: "cubes",
@@ -448,6 +463,7 @@ duration: "3min45",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_11-babillage-paille-bravo/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_11-babillage-paille-bravo/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_11-babillage-paille-bravo/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_11-babillage-paille-bravo/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-0_11-babillage-paille-bravo/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_11-babillage-paille-bravo/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-0_11-babillage-paille-bravo/metadata.xml
@@ -457,7 +473,7 @@ title: "Anaé - paille bravo",
 entry: "Anae-0_11-babillage-paille-bravo",
 media: "Anae-0_11-babillage-paille-bravo.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "0;11",
 languagemother: "fra",
 languagesecond: "",
@@ -478,6 +494,7 @@ duration: "1min50",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_11-babillage-quatre-pattes/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_11-babillage-quatre-pattes/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_11-babillage-quatre-pattes/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_11-babillage-quatre-pattes/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-0_11-babillage-quatre-pattes/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_11-babillage-quatre-pattes/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-0_11-babillage-quatre-pattes/metadata.xml
@@ -487,7 +504,7 @@ title: "Anaé - quatre pattes",
 entry: "Anae-0_11-babillage-quatre-pattes",
 media: "Anae-0_11-babillage-quatre-pattes.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "0;11",
 languagemother: "fra",
 languagesecond: "",
@@ -508,6 +525,7 @@ duration: "13sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-0_11-babillage-spiderman/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-0_11-babillage-spiderman/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-0_11-babillage-spiderman/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-0_11-babillage-spiderman/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-0_11-babillage-spiderman/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-0_11-babillage-spiderman/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-0_11-babillage-spiderman/metadata.xml
@@ -517,7 +535,7 @@ title: "Anaé - spiderman",
 entry: "Anae-0_11-babillage-spiderman",
 media: "Anae-0_11-babillage-spiderman.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "0;11",
 languagemother: "fra",
 languagesecond: "",
@@ -538,6 +556,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_00-babillage-reflechit/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_00-babillage-reflechit/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_00-babillage-reflechit/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_00-babillage-reflechit/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_00-babillage-reflechit/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_00-babillage-reflechit/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-1_00-babillage-reflechit/metadata.xml
@@ -548,7 +567,7 @@ title: "Anaé - reflechit",
 entry: "Anae-1_00-babillage-reflechit",
 media: "Anae-1_00-babillage-reflechit.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;00",
 languagemother: "fra",
 languagesecond: "",
@@ -569,6 +588,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_01-babillage-bravo/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_01-babillage-bravo/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_01-babillage-bravo/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_01-babillage-bravo/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_01-babillage-bravo/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_01-babillage-bravo/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-1_01-babillage-bravo/metadata.xml
@@ -579,7 +599,7 @@ title: "Anaé - bravo",
 entry: "Anae-1_01-babillage-bravo",
 media: "Anae-1_01-babillage-bravo.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;01",
 languagemother: "fra",
 languagesecond: "",
@@ -600,6 +620,7 @@ duration: "34sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_01-babillage-mange/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_01-babillage-mange/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_01-babillage-mange/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_01-babillage-mange/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_01-babillage-mange/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_01-babillage-mange/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-1_01-babillage-mange/metadata.xml
@@ -608,7 +629,7 @@ title: "Anaé - mange",
 entry: "Anae-1_01-babillage-mange",
 media: "Anae-1_01-babillage-mange.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;01",
 languagemother: "fra",
 languagesecond: "",
@@ -629,19 +650,20 @@ duration: "20sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_01-etayage-omer/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_01-etayage-omer/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_01-etayage-omer/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_01-etayage-omer/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_01-etayage-omer/metadata.xml
 {
 title: "Anaé - omer",
 entry: "Anae-1_01-etayage-omer",
 media: "Anae-1_01-etayage-omer.mp4",
 project: "CoLaJE/ Marie",
-child: "Anae",
+child: "Anaé",
 age: "1;01",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu en extérieur",
-actkey: "jeu_en_extérieur",
+actkey: "jeu en extérieur",
 theme: "étayage, place d'interlocuteur, interprétation, validation",
 themekey: "étayage",
 keywords: "Omer",
@@ -656,6 +678,7 @@ duration: "34sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_02-babillage-livre/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_02-babillage-livre/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_02-babillage-livre/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_02-babillage-livre/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_02-babillage-livre/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_02-babillage-livre/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-1_02-babillage-livre/metadata.xml
@@ -664,7 +687,7 @@ title: "Anaé - livre",
 entry: "Anae-1_02-babillage-livre",
 media: "Anae-1_02-babillage-livre.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;02",
 languagemother: "fra",
 languagesecond: "",
@@ -685,6 +708,7 @@ duration: "3min10",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_02-babillage-tato/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_02-babillage-tato/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_02-babillage-tato/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_02-babillage-tato/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_02-babillage-tato/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_02-babillage-tato/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-1_02-babillage-tato/metadata.xml
@@ -694,7 +718,7 @@ title: "Anaé - tato",
 entry: "Anae-1_02-babillage-tato",
 media: "Anae-1_02-babillage-tato.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;02",
 languagemother: "fra",
 languagesecond: "",
@@ -715,6 +739,7 @@ duration: "51sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_03_30-babillage-livre/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_03_30-babillage-livre/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_03_30-babillage-livre/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_03_30-babillage-livre/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_03_30-babillage-livre/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_03_30-babillage-livre/metadata.xml
 {
@@ -722,7 +747,7 @@ title: "Anaé - livre",
 entry: "Anae-1_03_30-babillage-livre",
 media: "Anae-1_03_30-babillage-livre.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;03.30",
 languagemother: "fra",
 languagesecond: "",
@@ -743,6 +768,7 @@ duration: "20sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_03-mouvement-danse/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_03-mouvement-danse/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_03-mouvement-danse/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_03-mouvement-danse/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_03-mouvement-danse/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_03-mouvement-danse/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-1_03-mouvement-danse/metadata.xml
@@ -753,7 +779,7 @@ title: "Anaé - danse",
 entry: "Anae-1_03-mouvement-danse",
 media: "Anae-1_03-mouvement-danse.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;03",
 languagemother: "fra",
 languagesecond: "",
@@ -774,6 +800,7 @@ duration: "20sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_04_06-babillage-bebe/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_04_06-babillage-bebe/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_04_06-babillage-bebe/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_04_06-babillage-bebe/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_04_06-babillage-bebe/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_04_06-babillage-bebe/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-1_04_06-babillage-bebe/metadata.xml
@@ -782,13 +809,13 @@ title: "Anaé - bebe",
 entry: "Anae-1_04_06-babillage-bebe",
 media: "Anae-1_04_06-babillage-bebe.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;04.06",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "poupée",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "babillage, commente ce qu'elle cherche ou prend, monologue en présence d'autrui",
 themekey: "babillage",
 keywords: "",
@@ -803,6 +830,7 @@ duration: "50sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_04_13-babillage-bebe-livre/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_04_13-babillage-bebe-livre/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_04_13-babillage-bebe-livre/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_04_13-babillage-bebe-livre/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_04_13-babillage-bebe-livre/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_04_13-babillage-bebe-livre/metadata.xml
 {
@@ -810,13 +838,13 @@ title: "Anaé - bebe livre",
 entry: "Anae-1_04_13-babillage-bebe-livre",
 media: "Anae-1_04_13-babillage-bebe-livre.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;04.13",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "livre, poupée",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "babillage, dialogue avec une poupée, lecture pour elle-même ou pour la poupée, monologue, dia/ interpellation face à difficulté ",
 themekey: "babillage",
 keywords: "bébé ",
@@ -831,6 +859,7 @@ duration: "1min16",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_04_13-babillage-livre/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_04_13-babillage-livre/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_04_13-babillage-livre/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_04_13-babillage-livre/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_04_13-babillage-livre/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_04_13-babillage-livre/metadata.xml
 {
@@ -838,7 +867,7 @@ title: "Anaé - livre",
 entry: "Anae-1_04_13-babillage-livre",
 media: "Anae-1_04_13-babillage-livre.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;04.13",
 languagemother: "fra",
 languagesecond: "",
@@ -859,6 +888,7 @@ duration: "2min",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_04_20-babillage-chante/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_04_20-babillage-chante/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_04_20-babillage-chante/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_04_20-babillage-chante/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_04_20-babillage-chante/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_04_20-babillage-chante/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-1_04_20-babillage-chante/metadata.xml
@@ -868,7 +898,7 @@ title: "Anaé - chante",
 entry: "Anae-1_04_20-babillage-chante",
 media: "Anae-1_04_20-babillage-chante.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;04.20",
 languagemother: "fra",
 languagesecond: "",
@@ -889,6 +919,7 @@ duration: "36sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_04_20-babillage-mono-dia/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_04_20-babillage-mono-dia/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_04_20-babillage-mono-dia/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_04_20-babillage-mono-dia/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_04_20-babillage-mono-dia/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_04_20-babillage-mono-dia/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-1_04_20-babillage-mono-dia/metadata.xml
@@ -898,7 +929,7 @@ title: "Anaé - mono dia",
 entry: "Anae-1_04_20-babillage-mono-dia",
 media: "Anae-1_04_20-babillage-mono-dia.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;04.20",
 languagemother: "fra",
 languagesecond: "",
@@ -919,6 +950,7 @@ duration: "1min35",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_04_20-etayage-chocolat/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_04_20-etayage-chocolat/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_04_20-etayage-chocolat/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_04_20-etayage-chocolat/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_04_20-etayage-chocolat/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_04_20-etayage-chocolat/metadata.xml
 {
@@ -926,13 +958,13 @@ title: "Anaé - chocolat",
 entry: "Anae-1_04_20-etayage-chocolat",
 media: "Anae-1_04_20-etayage-chocolat.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;04.20",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "figurines",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "étayage, dénomination, pointage, reformulation, monologue, commentaire, recherche",
 themekey: "étayage",
 keywords: "Ours brun",
@@ -947,6 +979,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_04_20-etayage-kirikou/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_04_20-etayage-kirikou/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_04_20-etayage-kirikou/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_04_20-etayage-kirikou/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_04_20-etayage-kirikou/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-1_04_20-etayage-kirikou/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-1_04_20-etayage-kirikou/metadata.xml
@@ -956,7 +989,7 @@ title: "Anaé - kirikou",
 entry: "Anae-1_04_20-etayage-kirikou",
 media: "Anae-1_04_20-etayage-kirikou.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;04.20",
 languagemother: "fra",
 languagesecond: "",
@@ -977,13 +1010,14 @@ duration: "12sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_04_20-etayage-tu-nous-racontes/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_04_20-etayage-tu-nous-racontes/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_04_20-etayage-tu-nous-racontes/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_04_20-etayage-tu-nous-racontes/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_04_20-etayage-tu-nous-racontes/metadata.xml
 {
 title: "Anaé - tu nous racontes",
 entry: "Anae-1_04_20-etayage-tu-nous-racontes",
 media: "Anae-1_04_20-etayage-tu-nous-racontes.mp4",
 project: "CoLaJE/ Marie",
-child: "Anae",
+child: "Anaé",
 age: "1;04.20",
 languagemother: "fra",
 languagesecond: "",
@@ -1004,6 +1038,7 @@ duration: "1min52",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_05_03-babillage-magasin/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_05_03-babillage-magasin/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_05_03-babillage-magasin/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_05_03-babillage-magasin/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_05_03-babillage-magasin/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_05_03-babillage-magasin/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-1_05_03-babillage-magasin/metadata.xml
@@ -1012,13 +1047,13 @@ title: "Anaé - magasin",
 entry: "Anae-1_05_03-babillage-magasin",
 media: "Anae-1_05_03-babillage-magasin.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;05.03",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu symbolique (magasin)",
-actkey: "jeu_symbolique",
+actkey: "jeu symbolique",
 theme: "babillage, monologue en présence d'autrui, jeu symbolique",
 themekey: "babillage",
 keywords: "",
@@ -1033,6 +1068,7 @@ duration: "36sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_05_03-babillage-puzzle/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_05_03-babillage-puzzle/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_05_03-babillage-puzzle/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_05_03-babillage-puzzle/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_05_03-babillage-puzzle/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_05_03-babillage-puzzle/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-1_05_03-babillage-puzzle/metadata.xml
@@ -1041,13 +1077,13 @@ title: "Anaé - puzzle",
 entry: "Anae-1_05_03-babillage-puzzle",
 media: "Anae-1_05_03-babillage-puzzle.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;05.03",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu de construction (puzzle)",
-actkey: "jeu_de_construction",
+actkey: "jeu de construction",
 theme: "babillage, dia - mono (commente ce qu'elle fait) - dia ",
 themekey: "babillage",
 keywords: "",
@@ -1062,6 +1098,7 @@ duration: "2min50",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_05_03-premiers_mots-bebe/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_05_03-premiers_mots-bebe/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_05_03-premiers_mots-bebe/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_05_03-premiers_mots-bebe/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_05_03-premiers_mots-bebe/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_05_03-premiers_mots-bebe/metadata.xml
 {
@@ -1069,15 +1106,15 @@ title: "Anaé - bebe",
 entry: "Anae-1_05_03-premiers_mots-bebe",
 media: "Anae-1_05_03-premiers_mots-bebe.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;05.03",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "poupée",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "premiers mots, monologue en présence d'autrui, commente ce qu'elle fait (et projet?)",
-themekey: "premiers_mots",
+themekey: "premiers mots",
 keywords: "bébé",
 duration: "1min50",
 },
@@ -1090,6 +1127,7 @@ duration: "1min50",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_05_03-premiers_mots-bebe2/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_05_03-premiers_mots-bebe2/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_05_03-premiers_mots-bebe2/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_05_03-premiers_mots-bebe2/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_05_03-premiers_mots-bebe2/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_05_03-premiers_mots-bebe2/metadata.xml
 {
@@ -1097,15 +1135,15 @@ title: "Anaé - bebe2",
 entry: "Anae-1_05_03-premiers_mots-bebe2",
 media: "Anae-1_05_03-premiers_mots-bebe2.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;05.03",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "poupée",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "premiers mots, monologue en présence d'autrui, commente ce qu'elle fait (et projet?)",
-themekey: "premiers_mots",
+themekey: "premiers mots",
 keywords: "bébé",
 duration: "1min50",
 },
@@ -1118,6 +1156,7 @@ duration: "1min50",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_05_11-babillage-magazine/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_05_11-babillage-magazine/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_05_11-babillage-magazine/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_05_11-babillage-magazine/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_05_11-babillage-magazine/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_05_11-babillage-magazine/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-1_05_11-babillage-magazine/metadata.xml
@@ -1126,7 +1165,7 @@ title: "Anaé - magazine",
 entry: "Anae-1_05_11-babillage-magazine",
 media: "Anae-1_05_11-babillage-magazine.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;05.11",
 languagemother: "fra",
 languagesecond: "",
@@ -1147,6 +1186,7 @@ duration: "3min40",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_05_18-xxx-caca/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_05_18-xxx-caca/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_05_18-xxx-caca/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_05_18-xxx-caca/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_05_18-xxx-caca/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-1_05_18-xxx-caca/metadata.xml
 // Error: no child node for  themekey  in  ./data/doc/Anae-1_05_18-xxx-caca/metadata.xml
@@ -1155,13 +1195,13 @@ title: "Anaé - caca",
 entry: "Anae-1_05_18-xxx-caca",
 media: "Anae-1_05_18-xxx-caca.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;05.18",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "poupée",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: ", prénom (par la mère)",
 themekey: "",
 keywords: "",
@@ -1176,13 +1216,14 @@ duration: "7sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_06_08-erreurs-on-dit-merci/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_06_08-erreurs-on-dit-merci/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_06_08-erreurs-on-dit-merci/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_06_08-erreurs-on-dit-merci/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_06_08-erreurs-on-dit-merci/metadata.xml
 {
 title: "Anaé - on dit merci",
 entry: "Anae-1_06_08-erreurs-on-dit-merci",
 media: "Anae-1_06_08-erreurs-on-dit-merci.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;06.08",
 languagemother: "fra",
 languagesecond: "",
@@ -1203,6 +1244,7 @@ duration: "18sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_06_08-xxx-mrpatate/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_06_08-xxx-mrpatate/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_06_08-xxx-mrpatate/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_06_08-xxx-mrpatate/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_06_08-xxx-mrpatate/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-1_06_08-xxx-mrpatate/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-1_06_08-xxx-mrpatate/metadata.xml
@@ -1213,7 +1255,7 @@ title: "Anaé - mrpatate",
 entry: "Anae-1_06_08-xxx-mrpatate",
 media: "Anae-1_06_08-xxx-mrpatate.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;06.08",
 languagemother: "fra",
 languagesecond: "",
@@ -1234,6 +1276,7 @@ duration: "2min50",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_06_29-babillage-livre/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_06_29-babillage-livre/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_06_29-babillage-livre/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_06_29-babillage-livre/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_06_29-babillage-livre/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_06_29-babillage-livre/metadata.xml
 {
@@ -1241,7 +1284,7 @@ title: "Anaé - livre",
 entry: "Anae-1_06_29-babillage-livre",
 media: "Anae-1_06_29-babillage-livre.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;06.29",
 languagemother: "fra",
 languagesecond: "",
@@ -1262,6 +1305,7 @@ duration: "50sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_07_03-erreurs-merci-en-donnant/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_07_03-erreurs-merci-en-donnant/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_07_03-erreurs-merci-en-donnant/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_07_03-erreurs-merci-en-donnant/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_07_03-erreurs-merci-en-donnant/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-1_07_03-erreurs-merci-en-donnant/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Anae-1_07_03-erreurs-merci-en-donnant/metadata.xml
@@ -1270,7 +1314,7 @@ title: "Anaé - merci en donnant",
 entry: "Anae-1_07_03-erreurs-merci-en-donnant",
 media: "Anae-1_07_03-erreurs-merci-en-donnant.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;07.03",
 languagemother: "fra",
 languagesecond: "",
@@ -1291,6 +1335,7 @@ duration: "15sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_08_04-babillage-puzzle/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_08_04-babillage-puzzle/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_08_04-babillage-puzzle/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_08_04-babillage-puzzle/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_08_04-babillage-puzzle/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_08_04-babillage-puzzle/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-1_08_04-babillage-puzzle/metadata.xml
@@ -1299,13 +1344,13 @@ title: "Anaé - puzzle",
 entry: "Anae-1_08_04-babillage-puzzle",
 media: "Anae-1_08_04-babillage-puzzle.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;08.04",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu de construction (puzzle)",
-actkey: "jeu_de_construction",
+actkey: "jeu de construction",
 theme: "babillage, frontière difficile entre mono et dia, monologue (commente ce qu'elle fait) ",
 themekey: "babillage",
 keywords: "",
@@ -1320,6 +1365,7 @@ duration: "4min30",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_09_04-etayage-appuie/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_09_04-etayage-appuie/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_09_04-etayage-appuie/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_09_04-etayage-appuie/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_09_04-etayage-appuie/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-1_09_04-etayage-appuie/metadata.xml
 {
@@ -1327,13 +1373,13 @@ title: "Anaé - appuie",
 entry: "Anae-1_09_04-etayage-appuie",
 media: "Anae-1_09_04-etayage-appuie.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;09.04",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu de construction (puzzle)",
-actkey: "jeu_de_construction",
+actkey: "jeu de construction",
 theme: "étayage, reformulation, rectificatio indirecte",
 themekey: "étayage",
 keywords: "",
@@ -1348,21 +1394,22 @@ duration: "20sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_09_04-premiere_syntaxe-est-belle/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_09_04-premiere_syntaxe-est-belle/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_09_04-premiere_syntaxe-est-belle/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_09_04-premiere_syntaxe-est-belle/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_09_04-premiere_syntaxe-est-belle/metadata.xml
 {
 title: "Anaé - est belle",
 entry: "Anae-1_09_04-premiere_syntaxe-est-belle",
 media: "Anae-1_09_04-premiere_syntaxe-est-belle.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;09.04",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "poupée",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "première syntaxe, filler, émergence temporalité, présent",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "belle",
 duration: "8sec",
 },
@@ -1375,6 +1422,7 @@ duration: "8sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_09_04-reference_a_soi-assiette/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_09_04-reference_a_soi-assiette/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_09_04-reference_a_soi-assiette/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_09_04-reference_a_soi-assiette/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_09_04-reference_a_soi-assiette/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-1_09_04-reference_a_soi-assiette/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Anae-1_09_04-reference_a_soi-assiette/metadata.xml
@@ -1383,7 +1431,7 @@ title: "Anaé - assiette",
 entry: "Anae-1_09_04-reference_a_soi-assiette",
 media: "Anae-1_09_04-reference_a_soi-assiette.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;09.04",
 languagemother: "fra",
 languagesecond: "",
@@ -1391,7 +1439,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "référence à soi, moi, opposition",
-themekey: "référence_à_soi",
+themekey: "référence à soi",
 keywords: "moi",
 duration: "9sec",
 },
@@ -1404,6 +1452,7 @@ duration: "9sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_09_20-babillage-train/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_09_20-babillage-train/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_09_20-babillage-train/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_09_20-babillage-train/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-1_09_20-babillage-train/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_09_20-babillage-train/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-1_09_20-babillage-train/metadata.xml
@@ -1413,7 +1462,7 @@ title: "Anaé - train",
 entry: "Anae-1_09_20-babillage-train",
 media: "Anae-1_09_20-babillage-train.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;09.20",
 languagemother: "fra",
 languagesecond: "",
@@ -1434,6 +1483,7 @@ duration: "1min20",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-1_10_18-xxx-toboggan/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-1_10_18-xxx-toboggan/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-1_10_18-xxx-toboggan/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-1_10_18-xxx-toboggan/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-1_10_18-xxx-toboggan/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-1_10_18-xxx-toboggan/metadata.xml
 // Error: no child node for  themekey  in  ./data/doc/Anae-1_10_18-xxx-toboggan/metadata.xml
@@ -1442,13 +1492,13 @@ title: "Anaé - toboggan",
 entry: "Anae-1_10_18-xxx-toboggan",
 media: "Anae-1_10_18-xxx-toboggan.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "1;10.18",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu en extérieur (toboggan)",
-actkey: "jeu_en_extérieur",
+actkey: "jeu en extérieur",
 theme: ", prénom (par la mère)",
 themekey: "",
 keywords: "",
@@ -1463,13 +1513,14 @@ duration: "22sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_00_00-erreurs-merci-a-cadeau/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_00_00-erreurs-merci-a-cadeau/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_00_00-erreurs-merci-a-cadeau/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_00_00-erreurs-merci-a-cadeau/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_00_00-erreurs-merci-a-cadeau/metadata.xml
 {
 title: "Anaé - merci a cadeau",
 entry: "Anae-2_00_00-erreurs-merci-a-cadeau",
 media: "Anae-2_00_00-erreurs-merci-a-cadeau.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;00.00",
 languagemother: "fra",
 languagesecond: "",
@@ -1490,6 +1541,7 @@ duration: "10sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_00_26-emergence_temporalite-nage-saute/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_00_26-emergence_temporalite-nage-saute/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_00_26-emergence_temporalite-nage-saute/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_00_26-emergence_temporalite-nage-saute/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_00_26-emergence_temporalite-nage-saute/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-2_00_26-emergence_temporalite-nage-saute/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Anae-2_00_26-emergence_temporalite-nage-saute/metadata.xml
@@ -1498,7 +1550,7 @@ title: "Anaé - nage saute",
 entry: "Anae-2_00_26-emergence_temporalite-nage-saute",
 media: "Anae-2_00_26-emergence_temporalite-nage-saute.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;00.26",
 languagemother: "fra",
 languagesecond: "",
@@ -1506,7 +1558,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "émergence temporalité, mouvement, passé",
-themekey: "émergence_temporalité",
+themekey: "émergence temporalité",
 keywords: "nager, sauter",
 duration: "12sec",
 },
@@ -1519,13 +1571,14 @@ duration: "12sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_01_05-reference_a_soi-hamster/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_01_05-reference_a_soi-hamster/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_01_05-reference_a_soi-hamster/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_01_05-reference_a_soi-hamster/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_01_05-reference_a_soi-hamster/metadata.xml
 {
 title: "Anaé - hamster",
 entry: "Anae-2_01_05-reference_a_soi-hamster",
 media: "Anae-2_01_05-reference_a_soi-hamster.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;01.05",
 languagemother: "fra",
 languagesecond: "",
@@ -1533,7 +1586,7 @@ languageextract: "fra",
 act: "livre",
 actkey: "livre",
 theme: "référence à soi, prénom, opposition",
-themekey: "référence_à_soi",
+themekey: "référence à soi",
 keywords: "aussi Anaé, hamster",
 duration: "13sec",
 },
@@ -1546,21 +1599,22 @@ duration: "13sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_02_16-reference_a_soi-il-est-ou-anae/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_02_16-reference_a_soi-il-est-ou-anae/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_02_16-reference_a_soi-il-est-ou-anae/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_02_16-reference_a_soi-il-est-ou-anae/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_02_16-reference_a_soi-il-est-ou-anae/metadata.xml
 {
 title: "Anaé - il est ou Anaé",
 entry: "Anae-2_02_16-reference_a_soi-il-est-ou-anae",
 media: "Anae-2_02_16-reference_a_soi-il-est-ou-anae.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;02.16",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu symbolique (coucou caché)",
-actkey: "jeu_symbolique",
+actkey: "jeu symbolique",
 theme: "référence à soi, prénom, pronom, erreur de genre",
-themekey: "référence_à_soi",
+themekey: "référence à soi",
 keywords: "il est où Anaé",
 duration: "11sec",
 },
@@ -1573,6 +1627,7 @@ duration: "11sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_02_16-xxx-fesses/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_02_16-xxx-fesses/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_02_16-xxx-fesses/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_02_16-xxx-fesses/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_02_16-xxx-fesses/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Anae-2_02_16-xxx-fesses/metadata.xml
 // Error: no child node for  themekey  in  ./data/doc/Anae-2_02_16-xxx-fesses/metadata.xml
@@ -1581,7 +1636,7 @@ title: "Anaé - fesses",
 entry: "Anae-2_02_16-xxx-fesses",
 media: "Anae-2_02_16-xxx-fesses.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;02.16",
 languagemother: "fra",
 languagesecond: "",
@@ -1602,6 +1657,7 @@ duration: "28sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_02_16-xxx-sale/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_02_16-xxx-sale/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_02_16-xxx-sale/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_02_16-xxx-sale/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_02_16-xxx-sale/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-2_02_16-xxx-sale/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-2_02_16-xxx-sale/metadata.xml
@@ -1612,7 +1668,7 @@ title: "Anaé - sale",
 entry: "Anae-2_02_16-xxx-sale",
 media: "Anae-2_02_16-xxx-sale.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;02.16",
 languagemother: "fra",
 languagesecond: "",
@@ -1633,19 +1689,20 @@ duration: "8sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_03_30-erreurs-merci-cheval/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_03_30-erreurs-merci-cheval/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_03_30-erreurs-merci-cheval/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_03_30-erreurs-merci-cheval/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_03_30-erreurs-merci-cheval/metadata.xml
 {
 title: "Anaé - merci cheval",
 entry: "Anae-2_03_30-erreurs-merci-cheval",
 media: "Anae-2_03_30-erreurs-merci-cheval.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;03.30",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "figurines",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "erreurs, politesse, rituel, pragmatique",
 themekey: "erreurs",
 keywords: "merci",
@@ -1660,6 +1717,7 @@ duration: "21sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_03_30-reference_a_soi-a-pris-f-train/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_03_30-reference_a_soi-a-pris-f-train/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_03_30-reference_a_soi-a-pris-f-train/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_03_30-reference_a_soi-a-pris-f-train/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Anae-2_03_30-reference_a_soi-a-pris-f-train/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_03_30-reference_a_soi-a-pris-f-train/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-2_03_30-reference_a_soi-a-pris-f-train/metadata.xml
@@ -1669,7 +1727,7 @@ title: "Anaé - a pris f train",
 entry: "Anae-2_03_30-reference_a_soi-a-pris-f-train",
 media: "Anae-2_03_30-reference_a_soi-a-pris-f-train.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;03.30",
 languagemother: "fra",
 languagesecond: "",
@@ -1677,7 +1735,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "référence à soi, filler",
-themekey: "référence_à_soi",
+themekey: "référence à soi",
 keywords: "train",
 duration: "8sec",
 },
@@ -1690,6 +1748,7 @@ duration: "8sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_03_30-rituel-merci-gateau/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_03_30-rituel-merci-gateau/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_03_30-rituel-merci-gateau/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_03_30-rituel-merci-gateau/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_03_30-rituel-merci-gateau/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-2_03_30-rituel-merci-gateau/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Anae-2_03_30-rituel-merci-gateau/metadata.xml
@@ -1698,7 +1757,7 @@ title: "Anaé - merci gateau",
 entry: "Anae-2_03_30-rituel-merci-gateau",
 media: "Anae-2_03_30-rituel-merci-gateau.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;03.30",
 languagemother: "fra",
 languagesecond: "",
@@ -1719,13 +1778,14 @@ duration: "20sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_04_28-reference_a_soi-casse/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_04_28-reference_a_soi-casse/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_04_28-reference_a_soi-casse/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_04_28-reference_a_soi-casse/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_04_28-reference_a_soi-casse/metadata.xml
 {
 title: "Anaé - casse",
 entry: "Anae-2_04_28-reference_a_soi-casse",
 media: "Anae-2_04_28-reference_a_soi-casse.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;04.28",
 languagemother: "fra",
 languagesecond: "",
@@ -1733,7 +1793,7 @@ languageextract: "fra",
 act: "livre",
 actkey: "livre",
 theme: "référence à soi, prénom, filler, passé",
-themekey: "référence_à_soi",
+themekey: "référence à soi",
 keywords: "c'est Anaé, cassé",
 duration: "17sec",
 },
@@ -1746,13 +1806,14 @@ duration: "17sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_05_30-rituel-merci-compote/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_05_30-rituel-merci-compote/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_05_30-rituel-merci-compote/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_05_30-rituel-merci-compote/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_05_30-rituel-merci-compote/metadata.xml
 {
 title: "Anaé - merci compote",
 entry: "Anae-2_05_30-rituel-merci-compote",
 media: "Anae-2_05_30-rituel-merci-compote.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;05.30",
 languagemother: "fra",
 languagesecond: "",
@@ -1773,13 +1834,14 @@ duration: "48sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_05_30-rituel-merci/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_05_30-rituel-merci/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_05_30-rituel-merci/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_05_30-rituel-merci/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_05_30-rituel-merci/metadata.xml
 {
 title: "Anaé - merci",
 entry: "Anae-2_05_30-rituel-merci",
 media: "Anae-2_05_30-rituel-merci.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;05.30",
 languagemother: "fra",
 languagesecond: "",
@@ -1800,6 +1862,7 @@ duration: "13sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_06_27-humour-zizi/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_06_27-humour-zizi/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_06_27-humour-zizi/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_06_27-humour-zizi/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-2_06_27-humour-zizi/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_06_27-humour-zizi/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-2_06_27-humour-zizi/metadata.xml
@@ -1809,7 +1872,7 @@ title: "Anaé - zizi",
 entry: "Anae-2_06_27-humour-zizi",
 media: "Anae-2_06_27-humour-zizi.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;06.27",
 languagemother: "fra",
 languagesecond: "",
@@ -1830,6 +1893,7 @@ duration: "11sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_08_04-etayage-bebe-panda-age-de-glace/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_08_04-etayage-bebe-panda-age-de-glace/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_08_04-etayage-bebe-panda-age-de-glace/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_08_04-etayage-bebe-panda-age-de-glace/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_08_04-etayage-bebe-panda-age-de-glace/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-2_08_04-etayage-bebe-panda-age-de-glace/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-2_08_04-etayage-bebe-panda-age-de-glace/metadata.xml
@@ -1839,7 +1903,7 @@ title: "Anaé - bebe panda age de glace",
 entry: "Anae-2_08_04-etayage-bebe-panda-age-de-glace",
 media: "Anae-2_08_04-etayage-bebe-panda-age-de-glace.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;08.04",
 languagemother: "fra",
 languagesecond: "",
@@ -1860,6 +1924,7 @@ duration: "1min29",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_10-humour-allaitement/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_10-humour-allaitement/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_10-humour-allaitement/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_10-humour-allaitement/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-2_10-humour-allaitement/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_10-humour-allaitement/metadata.xml
 {
@@ -1867,13 +1932,13 @@ title: "Anaé - allaitement",
 entry: "Anae-2_10-humour-allaitement",
 media: "Anae-2_10-humour-allaitement.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;10",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "poupée",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "humour, rire partagé, connivence, connaissances du monde",
 themekey: "humour",
 keywords: "allaitement",
@@ -1888,6 +1953,7 @@ duration: "26sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_11_22-humour-le-chat/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_11_22-humour-le-chat/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_11_22-humour-le-chat/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_11_22-humour-le-chat/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-2_11_22-humour-le-chat/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_11_22-humour-le-chat/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-2_11_22-humour-le-chat/metadata.xml
@@ -1897,7 +1963,7 @@ title: "Anaé - le chat",
 entry: "Anae-2_11_22-humour-le-chat",
 media: "Anae-2_11_22-humour-le-chat.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;11.22",
 languagemother: "fra",
 languagesecond: "",
@@ -1918,6 +1984,7 @@ duration: "15sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_11_22-humour-stylo-bougie/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_11_22-humour-stylo-bougie/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_11_22-humour-stylo-bougie/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_11_22-humour-stylo-bougie/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-2_11_22-humour-stylo-bougie/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_11_22-humour-stylo-bougie/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-2_11_22-humour-stylo-bougie/metadata.xml
@@ -1927,7 +1994,7 @@ title: "Anaé - stylo bougie",
 entry: "Anae-2_11_22-humour-stylo-bougie",
 media: "Anae-2_11_22-humour-stylo-bougie.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;11.22",
 languagemother: "fra",
 languagesecond: "",
@@ -1948,13 +2015,14 @@ duration: "27sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_11_22-reference_a_soi-comme-anae/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_11_22-reference_a_soi-comme-anae/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_11_22-reference_a_soi-comme-anae/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_11_22-reference_a_soi-comme-anae/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_11_22-reference_a_soi-comme-anae/metadata.xml
 {
 title: "Anaé - comme Anaé",
 entry: "Anae-2_11_22-reference_a_soi-comme-anae",
 media: "Anae-2_11_22-reference_a_soi-comme-anae.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;11.22",
 languagemother: "fra",
 languagesecond: "",
@@ -1962,7 +2030,7 @@ languageextract: "fra",
 act: "livre",
 actkey: "livre",
 theme: "référence à soi, prénom, pronom",
-themekey: "référence_à_soi",
+themekey: "référence à soi",
 keywords: "comme Anaé",
 duration: "9sec",
 },
@@ -1975,6 +2043,7 @@ duration: "9sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-2_11-humour-crocodile-doigts/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-2_11-humour-crocodile-doigts/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-2_11-humour-crocodile-doigts/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-2_11-humour-crocodile-doigts/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-2_11-humour-crocodile-doigts/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-2_11-humour-crocodile-doigts/metadata.xml
 {
@@ -1982,7 +2051,7 @@ title: "Anaé - crocodile doigts",
 entry: "Anae-2_11-humour-crocodile-doigts",
 media: "Anae-2_11-humour-crocodile-doigts.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "2;11",
 languagemother: "fra",
 languagesecond: "",
@@ -2003,13 +2072,14 @@ duration: "28sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-3_03-syntaxe-exemple-ca-sera-pas/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-3_03-syntaxe-exemple-ca-sera-pas/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-3_03-syntaxe-exemple-ca-sera-pas/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-3_03-syntaxe-exemple-ca-sera-pas/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-3_03-syntaxe-exemple-ca-sera-pas/metadata.xml
 {
 title: "Anaé - exemple ca sera pas",
 entry: "Anae-3_03-syntaxe-exemple-ca-sera-pas",
 media: "Anae-3_03-syntaxe-exemple-ca-sera-pas.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "3;03",
 languagemother: "fra",
 languagesecond: "",
@@ -2030,19 +2100,20 @@ duration: "11sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-3_04_27-etayage-neige-fond-devient-eau/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-3_04_27-etayage-neige-fond-devient-eau/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-3_04_27-etayage-neige-fond-devient-eau/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-3_04_27-etayage-neige-fond-devient-eau/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-3_04_27-etayage-neige-fond-devient-eau/metadata.xml
 {
 title: "Anaé - neige fond devient eau",
 entry: "Anae-3_04_27-etayage-neige-fond-devient-eau",
 media: "Anae-3_04_27-etayage-neige-fond-devient-eau.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "3;04.27",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu autre (pâte à modeler)",
-actkey: "jeu_autre",
+actkey: "jeu autre",
 theme: "étayage, zone proximale de développement, reformulation, extension",
 themekey: "étayage",
 keywords: "neige, fond",
@@ -2057,6 +2128,7 @@ duration: "21sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-3_04_27-etayage-reine-renne/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-3_04_27-etayage-reine-renne/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-3_04_27-etayage-reine-renne/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-3_04_27-etayage-reine-renne/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-3_04_27-etayage-reine-renne/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-3_04_27-etayage-reine-renne/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Anae-3_04_27-etayage-reine-renne/metadata.xml
@@ -2065,7 +2137,7 @@ title: "Anaé - reine renne",
 entry: "Anae-3_04_27-etayage-reine-renne",
 media: "Anae-3_04_27-etayage-reine-renne.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "3;04.27",
 languagemother: "fra",
 languagesecond: "",
@@ -2086,6 +2158,7 @@ duration: "24sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-3_06_27-humour-farine/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-3_06_27-humour-farine/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-3_06_27-humour-farine/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-3_06_27-humour-farine/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-3_06_27-humour-farine/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-3_06_27-humour-farine/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Anae-3_06_27-humour-farine/metadata.xml
@@ -2094,7 +2167,7 @@ title: "Anaé - farine",
 entry: "Anae-3_06_27-humour-farine",
 media: "Anae-3_06_27-humour-farine.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "3;06.27",
 languagemother: "fra",
 languagesecond: "",
@@ -2115,6 +2188,7 @@ duration: "10sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-3_06_27-humour-mariage/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-3_06_27-humour-mariage/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-3_06_27-humour-mariage/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-3_06_27-humour-mariage/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-3_06_27-humour-mariage/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-3_06_27-humour-mariage/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-3_06_27-humour-mariage/metadata.xml
@@ -2124,7 +2198,7 @@ title: "Anaé - mariage",
 entry: "Anae-3_06_27-humour-mariage",
 media: "Anae-3_06_27-humour-mariage.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "3;06.27",
 languagemother: "fra",
 languagesecond: "",
@@ -2145,6 +2219,7 @@ duration: "16sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-3_06_27-humour-parties-du-corps/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-3_06_27-humour-parties-du-corps/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-3_06_27-humour-parties-du-corps/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-3_06_27-humour-parties-du-corps/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-3_06_27-humour-parties-du-corps/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-3_06_27-humour-parties-du-corps/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-3_06_27-humour-parties-du-corps/metadata.xml
@@ -2154,7 +2229,7 @@ title: "Anaé - parties du corps",
 entry: "Anae-3_06_27-humour-parties-du-corps",
 media: "Anae-3_06_27-humour-parties-du-corps.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "3;06.27",
 languagemother: "fra",
 languagesecond: "",
@@ -2175,6 +2250,7 @@ duration: "31sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-3_06_27-humour-ski-banc/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-3_06_27-humour-ski-banc/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-3_06_27-humour-ski-banc/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-3_06_27-humour-ski-banc/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-3_06_27-humour-ski-banc/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-3_06_27-humour-ski-banc/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Anae-3_06_27-humour-ski-banc/metadata.xml
@@ -2183,7 +2259,7 @@ title: "Anaé - ski banc",
 entry: "Anae-3_06_27-humour-ski-banc",
 media: "Anae-3_06_27-humour-ski-banc.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "3;06.27",
 languagemother: "fra",
 languagesecond: "",
@@ -2204,6 +2280,7 @@ duration: "44sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-3_08_10-temporalite-etait-chez-nous/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-3_08_10-temporalite-etait-chez-nous/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-3_08_10-temporalite-etait-chez-nous/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-3_08_10-temporalite-etait-chez-nous/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-3_08_10-temporalite-etait-chez-nous/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-3_08_10-temporalite-etait-chez-nous/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Anae-3_08_10-temporalite-etait-chez-nous/metadata.xml
@@ -2212,7 +2289,7 @@ title: "Anaé - etait chez nous",
 entry: "Anae-3_08_10-temporalite-etait-chez-nous",
 media: "Anae-3_08_10-temporalite-etait-chez-nous.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "3;08.10",
 languagemother: "fra",
 languagesecond: "",
@@ -2233,19 +2310,20 @@ duration: "22sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-3_10_00-etayage-chevaux-poulain/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-3_10_00-etayage-chevaux-poulain/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-3_10_00-etayage-chevaux-poulain/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-3_10_00-etayage-chevaux-poulain/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-3_10_00-etayage-chevaux-poulain/metadata.xml
 {
 title: "Anaé - chevaux poulain",
 entry: "Anae-3_10_00-etayage-chevaux-poulain",
 media: "Anae-3_10_00-etayage-chevaux-poulain.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "3;10.00",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "figurines",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "étayage, rectification directe, erreur singulier-pluriel",
 themekey: "étayage",
 keywords: "chevaux, poulain",
@@ -2260,6 +2338,7 @@ duration: "10sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-3_10_00-etayage-pretrer/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-3_10_00-etayage-pretrer/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-3_10_00-etayage-pretrer/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-3_10_00-etayage-pretrer/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-3_10_00-etayage-pretrer/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-3_10_00-etayage-pretrer/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Anae-3_10_00-etayage-pretrer/metadata.xml
@@ -2268,7 +2347,7 @@ title: "Anaé - pretrer",
 entry: "Anae-3_10_00-etayage-pretrer",
 media: "Anae-3_10_00-etayage-pretrer.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "3;10.00",
 languagemother: "fra",
 languagesecond: "",
@@ -2289,19 +2368,20 @@ duration: "7sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-3_10_00-etayage-sontaient/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-3_10_00-etayage-sontaient/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-3_10_00-etayage-sontaient/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-3_10_00-etayage-sontaient/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-3_10_00-etayage-sontaient/metadata.xml
 {
 title: "Anaé - sontaient",
 entry: "Anae-3_10_00-etayage-sontaient",
 media: "Anae-3_10_00-etayage-sontaient.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "3;10.00",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "figurines",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "étayage, maintien communication, non correction",
 themekey: "étayage",
 keywords: "sontaient",
@@ -2316,6 +2396,7 @@ duration: "23sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-4_00_13-etayage-docteur-des-animaux/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-4_00_13-etayage-docteur-des-animaux/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-4_00_13-etayage-docteur-des-animaux/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-4_00_13-etayage-docteur-des-animaux/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-4_00_13-etayage-docteur-des-animaux/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-4_00_13-etayage-docteur-des-animaux/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Anae-4_00_13-etayage-docteur-des-animaux/metadata.xml
@@ -2324,7 +2405,7 @@ title: "Anaé - docteur des animaux",
 entry: "Anae-4_00_13-etayage-docteur-des-animaux",
 media: "Anae-4_00_13-etayage-docteur-des-animaux.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "4;00.13",
 languagemother: "fra",
 languagesecond: "",
@@ -2345,6 +2426,7 @@ duration: "21sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-4_08_09-humour-elevage-elephants/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-4_08_09-humour-elevage-elephants/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-4_08_09-humour-elevage-elephants/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-4_08_09-humour-elevage-elephants/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-4_08_09-humour-elevage-elephants/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-4_08_09-humour-elevage-elephants/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Anae-4_08_09-humour-elevage-elephants/metadata.xml
@@ -2354,7 +2436,7 @@ title: "Anaé - elevage elephants",
 entry: "Anae-4_08_09-humour-elevage-elephants",
 media: "Anae-4_08_09-humour-elevage-elephants.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "4;08.09",
 languagemother: "fra",
 languagesecond: "",
@@ -2375,25 +2457,24 @@ duration: "24sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Anae-5_01_21-xxx-piscine/metadata.xml
 // Error: no element for  place  in  ./data/doc/Anae-5_01_21-xxx-piscine/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Anae-5_01_21-xxx-piscine/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Anae-5_01_21-xxx-piscine/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Anae-5_01_21-xxx-piscine/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Anae-5_01_21-xxx-piscine/metadata.xml
-// Error: no child node for  act  in  ./data/doc/Anae-5_01_21-xxx-piscine/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Anae-5_01_21-xxx-piscine/metadata.xml
-// Error: no child node for  actkey  in  ./data/doc/Anae-5_01_21-xxx-piscine/metadata.xml
 // Error: no child node for  themekey  in  ./data/doc/Anae-5_01_21-xxx-piscine/metadata.xml
 {
 title: "Anaé - piscine",
 entry: "Anae-5_01_21-xxx-piscine",
 media: "Anae-5_01_21-xxx-piscine.mp4",
 project: "CoLaJE",
-child: "Anae",
+child: "Anaé",
 age: "5;01.21",
 languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
-act: "",
-actkey: "",
-theme: ", passé, préposition",
+act: "souvenir",
+actkey: "souvenir",
+theme: "passé, préposition, conjonction, passé composé",
 themekey: "",
 keywords: "",
 duration: "10sec",
@@ -2407,6 +2488,7 @@ duration: "10sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-1_05_21-bilinguisme-de-l-eau/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-1_05_21-bilinguisme-de-l-eau/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-1_05_21-bilinguisme-de-l-eau/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-1_05_21-bilinguisme-de-l-eau/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-1_05_21-bilinguisme-de-l-eau/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine_Bil-1_05_21-bilinguisme-de-l-eau/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Antoine_Bil-1_05_21-bilinguisme-de-l-eau/metadata.xml
@@ -2436,6 +2518,7 @@ duration: "1min02",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-1_05_21-bilinguisme-pere/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-1_05_21-bilinguisme-pere/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-1_05_21-bilinguisme-pere/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-1_05_21-bilinguisme-pere/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-1_05_21-bilinguisme-pere/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine_Bil-1_05_21-bilinguisme-pere/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Antoine_Bil-1_05_21-bilinguisme-pere/metadata.xml
@@ -2465,6 +2548,7 @@ duration: "4sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-1_06_04-bilinguisme-mere/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-1_06_04-bilinguisme-mere/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-1_06_04-bilinguisme-mere/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-1_06_04-bilinguisme-mere/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-1_06_04-bilinguisme-mere/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Antoine_Bil-1_06_04-bilinguisme-mere/metadata.xml
 {
@@ -2478,7 +2562,7 @@ languagemother: "fra, ita",
 languagesecond: "",
 languageextract: "ita, fra",
 act: "jeu de construction (cubes)",
-actkey: "jeu_de_construction",
+actkey: "jeu de construction",
 theme: "bilinguisme, ",
 themekey: "bilinguisme",
 keywords: "",
@@ -2493,6 +2577,7 @@ duration: "38sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-2_00_21-bilinguisme-ela/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-2_00_21-bilinguisme-ela/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-2_00_21-bilinguisme-ela/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-2_00_21-bilinguisme-ela/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-2_00_21-bilinguisme-ela/metadata.xml
 {
 title: "Antoine - Bil - ela",
@@ -2520,6 +2605,7 @@ duration: "30sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-2_01_08-bilinguisme-encore-eau/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-2_01_08-bilinguisme-encore-eau/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-2_01_08-bilinguisme-encore-eau/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-2_01_08-bilinguisme-encore-eau/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Antoine_Bil-2_01_08-bilinguisme-encore-eau/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-2_01_08-bilinguisme-encore-eau/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine_Bil-2_01_08-bilinguisme-encore-eau/metadata.xml
@@ -2550,6 +2636,7 @@ duration: "53sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-bobo/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-bobo/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-bobo/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-bobo/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-bobo/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-bobo/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-bobo/metadata.xml
@@ -2579,6 +2666,7 @@ duration: "5sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-enounours/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-enounours/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-enounours/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-enounours/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-enounours/metadata.xml
 {
 title: "Antoine - Bil - enounours",
@@ -2591,7 +2679,7 @@ languagemother: "fra, ita",
 languagesecond: "",
 languageextract: "ita, fra",
 act: "figurines",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "bilinguisme, alternance codique, reformulation",
 themekey: "bilinguisme",
 keywords: "nounours, orso, tombé, caduto",
@@ -2606,6 +2694,7 @@ duration: "54sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-kokose/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-kokose/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-kokose/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-kokose/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-kokose/metadata.xml
 {
 title: "Antoine - Bil - kokose",
@@ -2633,6 +2722,7 @@ duration: "38sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-la-lune/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-la-lune/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-la-lune/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-la-lune/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-la-lune/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-la-lune/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-la-lune/metadata.xml
@@ -2662,6 +2752,7 @@ duration: "30sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-pas-dai/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-pas-dai/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-pas-dai/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-pas-dai/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-pas-dai/metadata.xml
 {
 title: "Antoine - Bil - pas dai",
@@ -2674,7 +2765,7 @@ languagemother: "fra, ita",
 languagesecond: "",
 languageextract: "ita, fra",
 act: "figurines",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "bilinguisme, alternance codique",
 themekey: "bilinguisme",
 keywords: "no pas dai, cheval",
@@ -2689,6 +2780,7 @@ duration: "16sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-tel-nonna/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-tel-nonna/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-tel-nonna/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-tel-nonna/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-2_06_24-bilinguisme-tel-nonna/metadata.xml
 {
 title: "Antoine - Bil - tel nonna",
@@ -2716,6 +2808,7 @@ duration: "40sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-a-la-plage/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-a-la-plage/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-a-la-plage/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-a-la-plage/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-a-la-plage/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-a-la-plage/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-a-la-plage/metadata.xml
@@ -2745,6 +2838,7 @@ duration: "11sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-bambi/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-bambi/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-bambi/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-bambi/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-bambi/metadata.xml
 {
 title: "Antoine - Bil - bambi",
@@ -2772,6 +2866,7 @@ duration: "29sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-caduto/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-caduto/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-caduto/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-caduto/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-caduto/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-caduto/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-caduto/metadata.xml
@@ -2801,6 +2896,7 @@ duration: "9sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-doudou/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-doudou/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-doudou/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-doudou/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-doudou/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-doudou/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-doudou/metadata.xml
@@ -2830,6 +2926,7 @@ duration: "3sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-la-bagarre/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-la-bagarre/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-la-bagarre/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-la-bagarre/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-la-bagarre/metadata.xml
 {
 title: "Antoine - Bil - la bagarre",
@@ -2857,6 +2954,7 @@ duration: "3sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-pinpin/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-pinpin/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-pinpin/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-pinpin/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-pinpin/metadata.xml
 {
 title: "Antoine - Bil - pinpin",
@@ -2884,6 +2982,7 @@ duration: "31sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-prendilo-me/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-prendilo-me/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-prendilo-me/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-prendilo-me/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-prendilo-me/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-prendilo-me/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-prendilo-me/metadata.xml
@@ -2913,6 +3012,7 @@ duration: "8sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-vert-verde/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-vert-verde/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-vert-verde/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-vert-verde/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-2_11_17-bilinguisme-vert-verde/metadata.xml
 {
 title: "Antoine - Bil - vert verde",
@@ -2925,7 +3025,7 @@ languagemother: "fra, ita",
 languagesecond: "",
 languageextract: "ita, fra",
 act: "jeu symbolique (voitures)",
-actkey: "jeu_symbolique",
+actkey: "jeu symbolique",
 theme: "bilinguisme, alternance codique, reformulation",
 themekey: "bilinguisme",
 keywords: "macchinina, vert, verde",
@@ -2940,6 +3040,7 @@ duration: "35sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-bisou/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-bisou/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-bisou/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-bisou/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-bisou/metadata.xml
 {
 title: "Antoine - Bil - bisou",
@@ -2967,6 +3068,7 @@ duration: "11sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-chez-moi-a-casa/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-chez-moi-a-casa/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-chez-moi-a-casa/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-chez-moi-a-casa/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-chez-moi-a-casa/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-chez-moi-a-casa/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-chez-moi-a-casa/metadata.xml
@@ -2996,6 +3098,7 @@ duration: "15sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-deballato/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-deballato/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-deballato/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-deballato/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-deballato/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-deballato/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Antoine_Bil-3_00_24-bilinguisme-deballato/metadata.xml
@@ -3025,6 +3128,7 @@ duration: "15sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-3_06_02-bilinguisme-grondata/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-3_06_02-bilinguisme-grondata/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-3_06_02-bilinguisme-grondata/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-3_06_02-bilinguisme-grondata/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-3_06_02-bilinguisme-grondata/metadata.xml
 {
 title: "Antoine - Bil - grondata",
@@ -3052,6 +3156,7 @@ duration: "19sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-avec-con/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-avec-con/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-avec-con/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-avec-con/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-avec-con/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-avec-con/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-avec-con/metadata.xml
@@ -3081,6 +3186,7 @@ duration: "30sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-avec-le-miei-amici/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-avec-le-miei-amici/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-avec-le-miei-amici/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-avec-le-miei-amici/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-avec-le-miei-amici/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-avec-le-miei-amici/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-avec-le-miei-amici/metadata.xml
@@ -3110,6 +3216,7 @@ duration: "15sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-betises-avec-carmen/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-betises-avec-carmen/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-betises-avec-carmen/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-betises-avec-carmen/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-betises-avec-carmen/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-betises-avec-carmen/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-betises-avec-carmen/metadata.xml
@@ -3140,6 +3247,7 @@ duration: "1min16",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-gouter/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-gouter/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-gouter/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-gouter/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-gouter/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-gouter/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-gouter/metadata.xml
@@ -3169,6 +3277,7 @@ duration: "10sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-le-camion/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-le-camion/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-le-camion/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-le-camion/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-le-camion/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-le-camion/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-le-camion/metadata.xml
@@ -3198,6 +3307,7 @@ duration: "5sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-zouffler/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-zouffler/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-zouffler/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-zouffler/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-zouffler/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-zouffler/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Antoine_Bil-3_06_21-bilinguisme-zouffler/metadata.xml
@@ -3227,6 +3337,7 @@ duration: "35sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine-1_05_21-etayage-bain/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine-1_05_21-etayage-bain/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine-1_05_21-etayage-bain/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine-1_05_21-etayage-bain/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine-1_05_21-etayage-bain/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine-1_05_21-etayage-bain/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Antoine-1_05_21-etayage-bain/metadata.xml
@@ -3256,6 +3367,7 @@ duration: "7sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine-1_05_21-pointage-pointage/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine-1_05_21-pointage-pointage/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine-1_05_21-pointage-pointage/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine-1_05_21-pointage-pointage/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine-1_05_21-pointage-pointage/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Antoine-1_05_21-pointage-pointage/metadata.xml
 {
@@ -3284,6 +3396,7 @@ duration: "13sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine-1_09_11-emergence_temporalite-casse/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine-1_09_11-emergence_temporalite-casse/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine-1_09_11-emergence_temporalite-casse/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine-1_09_11-emergence_temporalite-casse/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine-1_09_11-emergence_temporalite-casse/metadata.xml
 {
 title: "Antoine - casse",
@@ -3296,9 +3409,9 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu symbolique (train)",
-actkey: "jeu_symbolique",
+actkey: "jeu symbolique",
 theme: "émergence temporalité, passé, étayage, reformulation, interprétation",
-themekey: "émergence_temporalité",
+themekey: "émergence temporalité",
 keywords: "cassé",
 duration: "17sec",
 },
@@ -3311,6 +3424,7 @@ duration: "17sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine-1_09_11-xxx-musique-appuie/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine-1_09_11-xxx-musique-appuie/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine-1_09_11-xxx-musique-appuie/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine-1_09_11-xxx-musique-appuie/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine-1_09_11-xxx-musique-appuie/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Antoine-1_09_11-xxx-musique-appuie/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Antoine-1_09_11-xxx-musique-appuie/metadata.xml
@@ -3341,6 +3455,7 @@ duration: "55sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Antoine-4_08_02-temporalite-scotch/metadata.xml
 // Error: no element for  place  in  ./data/doc/Antoine-4_08_02-temporalite-scotch/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Antoine-4_08_02-temporalite-scotch/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Antoine-4_08_02-temporalite-scotch/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Antoine-4_08_02-temporalite-scotch/metadata.xml
 {
 title: "Antoine - scotch",
@@ -3359,64 +3474,6 @@ themekey: "temporalité",
 keywords: "scotch",
 duration: "21sec",
 },
-// Error: no element for  name  in  ./data/doc/Julie-08_11_06-monologue-devoirs/metadata.xml
-// Error: no element for  surname  in  ./data/doc/Julie-08_11_06-monologue-devoirs/metadata.xml
-// Error: no element for  institution  in  ./data/doc/Julie-08_11_06-monologue-devoirs/metadata.xml
-// Error: no element for  email  in  ./data/doc/Julie-08_11_06-monologue-devoirs/metadata.xml
-// Error: no element for  agree  in  ./data/doc/Julie-08_11_06-monologue-devoirs/metadata.xml
-// Error: no element for  gender  in  ./data/doc/Julie-08_11_06-monologue-devoirs/metadata.xml
-// Error: no child node for  languagesecond  in  ./data/doc/Julie-08_11_06-monologue-devoirs/metadata.xml
-// Error: no element for  place  in  ./data/doc/Julie-08_11_06-monologue-devoirs/metadata.xml
-// Error: no element for  disc  in  ./data/doc/Julie-08_11_06-monologue-devoirs/metadata.xml
-// Error: no child node for  transcription  in  ./data/doc/Julie-08_11_06-monologue-devoirs/metadata.xml
-// Error: no element for  extmedia  in  ./data/doc/Julie-08_11_06-monologue-devoirs/metadata.xml
-// Error: no child node for  keywords  in  ./data/doc/Julie-08_11_06-monologue-devoirs/metadata.xml
-{
-title: "Julie - devoirs",
-entry: "Julie-08_11_06-monologue-devoirs",
-media: "Julie-08_11_06-monologue-devoirs.mp4",
-project: "Monologue",
-child: "Julie",
-age: "08;11.06",
-languagemother: "fra",
-languagesecond: "",
-languageextract: "fra",
-act: "devoirs",
-actkey: "devoirs",
-theme: "monologue, réflexion à voix haute, ",
-themekey: "monologue",
-keywords: "",
-duration: "3min20",
-},
-// Error: no element for  name  in  ./data/doc/Julie-08_11_06-monologue-metaexplication-montage/metadata.xml
-// Error: no element for  surname  in  ./data/doc/Julie-08_11_06-monologue-metaexplication-montage/metadata.xml
-// Error: no element for  institution  in  ./data/doc/Julie-08_11_06-monologue-metaexplication-montage/metadata.xml
-// Error: no element for  email  in  ./data/doc/Julie-08_11_06-monologue-metaexplication-montage/metadata.xml
-// Error: no element for  agree  in  ./data/doc/Julie-08_11_06-monologue-metaexplication-montage/metadata.xml
-// Error: no element for  gender  in  ./data/doc/Julie-08_11_06-monologue-metaexplication-montage/metadata.xml
-// Error: no child node for  languagesecond  in  ./data/doc/Julie-08_11_06-monologue-metaexplication-montage/metadata.xml
-// Error: no element for  place  in  ./data/doc/Julie-08_11_06-monologue-metaexplication-montage/metadata.xml
-// Error: no element for  disc  in  ./data/doc/Julie-08_11_06-monologue-metaexplication-montage/metadata.xml
-// Error: no child node for  transcription  in  ./data/doc/Julie-08_11_06-monologue-metaexplication-montage/metadata.xml
-// Error: no element for  extmedia  in  ./data/doc/Julie-08_11_06-monologue-metaexplication-montage/metadata.xml
-// Error: no child node for  keywords  in  ./data/doc/Julie-08_11_06-monologue-metaexplication-montage/metadata.xml
-{
-title: "Julie - metaexplication montage",
-entry: "Julie-08_11_06-monologue-metaexplication-montage",
-media: "Julie-08_11_06-monologue-metaexplication-montage.mp4",
-project: "Monologue",
-child: "Julie",
-age: "08;11.06",
-languagemother: "fra",
-languagesecond: "",
-languageextract: "fra",
-act: "devoirs",
-actkey: "devoirs",
-theme: "monologue, métaexplication sur la conscience du monologue et son utilité",
-themekey: "monologue",
-keywords: "",
-duration: "58sec",
-},
 // Error: no element for  name  in  ./data/doc/Julie-1_00_00-monologue-cuillere-mono/metadata.xml
 // Error: no element for  surname  in  ./data/doc/Julie-1_00_00-monologue-cuillere-mono/metadata.xml
 // Error: no element for  institution  in  ./data/doc/Julie-1_00_00-monologue-cuillere-mono/metadata.xml
@@ -3426,6 +3483,7 @@ duration: "58sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_00_00-monologue-cuillere-mono/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_00_00-monologue-cuillere-mono/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_00_00-monologue-cuillere-mono/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_00_00-monologue-cuillere-mono/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-1_00_00-monologue-cuillere-mono/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_00_00-monologue-cuillere-mono/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Julie-1_00_00-monologue-cuillere-mono/metadata.xml
@@ -3455,6 +3513,7 @@ duration: "49 sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_00_00-monologue-monodiamono/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_00_00-monologue-monodiamono/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_00_00-monologue-monodiamono/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_00_00-monologue-monodiamono/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-1_00_00-monologue-monodiamono/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_00_00-monologue-monodiamono/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Julie-1_00_00-monologue-monodiamono/metadata.xml
@@ -3485,6 +3544,7 @@ duration: "56sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_00_00-monologue-the-mono/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_00_00-monologue-the-mono/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_00_00-monologue-the-mono/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_00_00-monologue-the-mono/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-1_00_00-monologue-the-mono/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_00_00-monologue-the-mono/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Julie-1_00_00-monologue-the-mono/metadata.xml
@@ -3515,6 +3575,7 @@ duration: "2min27",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_01_04-monologue-animaux/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_01_04-monologue-animaux/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_01_04-monologue-animaux/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_01_04-monologue-animaux/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-1_01_04-monologue-animaux/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_01_04-monologue-animaux/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Julie-1_01_04-monologue-animaux/metadata.xml
@@ -3546,6 +3607,7 @@ duration: "1min30",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_01_04-monologue-excitation/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_01_04-monologue-excitation/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_01_04-monologue-excitation/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_01_04-monologue-excitation/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-1_01_04-monologue-excitation/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_01_04-monologue-excitation/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Julie-1_01_04-monologue-excitation/metadata.xml
@@ -3577,6 +3639,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_01_04-monologue-imitation-pleurs/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_01_04-monologue-imitation-pleurs/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_01_04-monologue-imitation-pleurs/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_01_04-monologue-imitation-pleurs/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-1_01_04-monologue-imitation-pleurs/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_01_04-monologue-imitation-pleurs/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Julie-1_01_04-monologue-imitation-pleurs/metadata.xml
@@ -3606,6 +3669,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_01_04-monologue-livre-animaux/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_01_04-monologue-livre-animaux/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_01_04-monologue-livre-animaux/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_01_04-monologue-livre-animaux/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-1_01_04-monologue-livre-animaux/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_01_04-monologue-livre-animaux/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Julie-1_01_04-monologue-livre-animaux/metadata.xml
@@ -3635,6 +3699,7 @@ duration: "1min30",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_01_04-monologue-magazine-montage/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_01_04-monologue-magazine-montage/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_01_04-monologue-magazine-montage/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_01_04-monologue-magazine-montage/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-1_01_04-monologue-magazine-montage/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_01_04-monologue-magazine-montage/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Julie-1_01_04-monologue-magazine-montage/metadata.xml
@@ -3664,6 +3729,7 @@ duration: "4min30",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_01_04-monologue-ulysse-voitures/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_01_04-monologue-ulysse-voitures/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_01_04-monologue-ulysse-voitures/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_01_04-monologue-ulysse-voitures/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-1_01_04-monologue-ulysse-voitures/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_01_04-monologue-ulysse-voitures/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Julie-1_01_04-monologue-ulysse-voitures/metadata.xml
@@ -3678,7 +3744,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu symbolique (voitures)",
-actkey: "jeu_symbolique",
+actkey: "jeu symbolique",
 theme: "monologue, onomatopées, jeux parallèles",
 themekey: "monologue",
 keywords: "",
@@ -3693,6 +3759,7 @@ duration: "2min",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_01_21-monologue-sdb-coupe/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_01_21-monologue-sdb-coupe/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_01_21-monologue-sdb-coupe/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_01_21-monologue-sdb-coupe/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-1_01_21-monologue-sdb-coupe/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_01_21-monologue-sdb-coupe/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Julie-1_01_21-monologue-sdb-coupe/metadata.xml
@@ -3724,6 +3791,7 @@ duration: "22sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_01_21-monologue-tele-non/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_01_21-monologue-tele-non/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_01_21-monologue-tele-non/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_01_21-monologue-tele-non/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-1_01_21-monologue-tele-non/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_01_21-monologue-tele-non/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Julie-1_01_21-monologue-tele-non/metadata.xml
@@ -3754,6 +3822,7 @@ duration: "3min",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_02_04-monologue-chant/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_02_04-monologue-chant/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_02_04-monologue-chant/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_02_04-monologue-chant/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-1_02_04-monologue-chant/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_02_04-monologue-chant/metadata.xml
 {
@@ -3782,6 +3851,7 @@ duration: "1min30",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_02_04-monologue-pleurs/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_02_04-monologue-pleurs/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_02_04-monologue-pleurs/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_02_04-monologue-pleurs/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-1_02_04-monologue-pleurs/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_02_04-monologue-pleurs/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Julie-1_02_04-monologue-pleurs/metadata.xml
@@ -3813,6 +3883,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_03_16-monologue-mono/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_03_16-monologue-mono/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_03_16-monologue-mono/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_03_16-monologue-mono/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-1_03_16-monologue-mono/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_03_16-monologue-mono/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Julie-1_03_16-monologue-mono/metadata.xml
@@ -3844,6 +3915,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_04_23-monologue-bruit-tondeuse/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_04_23-monologue-bruit-tondeuse/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_04_23-monologue-bruit-tondeuse/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_04_23-monologue-bruit-tondeuse/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_04_23-monologue-bruit-tondeuse/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Julie-1_04_23-monologue-bruit-tondeuse/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Julie-1_04_23-monologue-bruit-tondeuse/metadata.xml
@@ -3873,6 +3945,7 @@ duration: "20 sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_04_23-monologue-interiorisation-recommandation/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_04_23-monologue-interiorisation-recommandation/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_04_23-monologue-interiorisation-recommandation/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_04_23-monologue-interiorisation-recommandation/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_04_23-monologue-interiorisation-recommandation/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Julie-1_04_23-monologue-interiorisation-recommandation/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Julie-1_04_23-monologue-interiorisation-recommandation/metadata.xml
@@ -3903,6 +3976,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_06_04-monologue-boum/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_06_04-monologue-boum/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_06_04-monologue-boum/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_06_04-monologue-boum/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_06_04-monologue-boum/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Julie-1_06_04-monologue-boum/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Julie-1_06_04-monologue-boum/metadata.xml
@@ -3932,6 +4006,7 @@ duration: "1min02",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_06_04-monologue-chant-indifference/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_06_04-monologue-chant-indifference/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_06_04-monologue-chant-indifference/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_06_04-monologue-chant-indifference/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_06_04-monologue-chant-indifference/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Julie-1_06_04-monologue-chant-indifference/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Julie-1_06_04-monologue-chant-indifference/metadata.xml
@@ -3962,6 +4037,7 @@ duration: "41sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_06_04-monologue-interiorisation-mouchage/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_06_04-monologue-interiorisation-mouchage/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_06_04-monologue-interiorisation-mouchage/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_06_04-monologue-interiorisation-mouchage/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_06_04-monologue-interiorisation-mouchage/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Julie-1_06_04-monologue-interiorisation-mouchage/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Julie-1_06_04-monologue-interiorisation-mouchage/metadata.xml
@@ -3991,6 +4067,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_07_14-monologue-mouton/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_07_14-monologue-mouton/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_07_14-monologue-mouton/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_07_14-monologue-mouton/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_07_14-monologue-mouton/metadata.xml
 {
 title: "Julie - mouton",
@@ -4003,7 +4080,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "figurines",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "monologue, répétition du mot pour soi avant production dirigée",
 themekey: "monologue",
 keywords: "mouton",
@@ -4018,6 +4095,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_10_14-monologue-denomination-personnages/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_10_14-monologue-denomination-personnages/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_10_14-monologue-denomination-personnages/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_10_14-monologue-denomination-personnages/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_10_14-monologue-denomination-personnages/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Julie-1_10_14-monologue-denomination-personnages/metadata.xml
 {
@@ -4031,7 +4109,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "figurines",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "monologue, dénomination",
 themekey: "monologue",
 keywords: "",
@@ -4046,6 +4124,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_10_14-monologue-livre/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_10_14-monologue-livre/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_10_14-monologue-livre/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_10_14-monologue-livre/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_10_14-monologue-livre/metadata.xml
 {
 title: "Julie - livre",
@@ -4073,6 +4152,7 @@ duration: "1min10",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_11_11-monologue-fenetre/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_11_11-monologue-fenetre/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_11_11-monologue-fenetre/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_11_11-monologue-fenetre/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_11_11-monologue-fenetre/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Julie-1_11_11-monologue-fenetre/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Julie-1_11_11-monologue-fenetre/metadata.xml
@@ -4102,6 +4182,7 @@ duration: "25sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_11_11-monologue-jeu-maison/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_11_11-monologue-jeu-maison/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_11_11-monologue-jeu-maison/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_11_11-monologue-jeu-maison/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_11_11-monologue-jeu-maison/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Julie-1_11_11-monologue-jeu-maison/metadata.xml
 {
@@ -4115,7 +4196,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "figurines",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "monologue, mono à dia (initié par CHI), jeu symbolique, jeu de rôles ",
 themekey: "monologue",
 keywords: "",
@@ -4130,6 +4211,7 @@ duration: "3min40",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-1_11_13-monologue-cuisine/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-1_11_13-monologue-cuisine/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-1_11_13-monologue-cuisine/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-1_11_13-monologue-cuisine/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-1_11_13-monologue-cuisine/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-1_11_13-monologue-cuisine/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Julie-1_11_13-monologue-cuisine/metadata.xml
@@ -4160,6 +4242,7 @@ duration: "1min30",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-2_00_10-monologue-chantonne/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-2_00_10-monologue-chantonne/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-2_00_10-monologue-chantonne/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-2_00_10-monologue-chantonne/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-2_00_10-monologue-chantonne/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Julie-2_00_10-monologue-chantonne/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Julie-2_00_10-monologue-chantonne/metadata.xml
@@ -4189,6 +4272,7 @@ duration: "15sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-2_00_10-monologue-chantonne2/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-2_00_10-monologue-chantonne2/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-2_00_10-monologue-chantonne2/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-2_00_10-monologue-chantonne2/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-2_00_10-monologue-chantonne2/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Julie-2_00_10-monologue-chantonne2/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Julie-2_00_10-monologue-chantonne2/metadata.xml
@@ -4218,6 +4302,7 @@ duration: "2min30",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-2_00_10-monologue-coussin/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-2_00_10-monologue-coussin/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-2_00_10-monologue-coussin/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-2_00_10-monologue-coussin/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-2_00_10-monologue-coussin/metadata.xml
 {
 title: "Julie - coussin",
@@ -4230,7 +4315,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "poupée",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "monologue, recherche",
 themekey: "monologue",
 keywords: "coussin",
@@ -4245,6 +4330,7 @@ duration: "40sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-2_00_10-monologue-le-petit/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-2_00_10-monologue-le-petit/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-2_00_10-monologue-le-petit/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-2_00_10-monologue-le-petit/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-2_00_10-monologue-le-petit/metadata.xml
 {
 title: "Julie - le petit",
@@ -4257,7 +4343,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "figurines",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "monologue, commentaire monologique, recherche",
 themekey: "monologue",
 keywords: "le petit",
@@ -4272,6 +4358,7 @@ duration: "30sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-2_00_10-monologue-mer/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-2_00_10-monologue-mer/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-2_00_10-monologue-mer/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-2_00_10-monologue-mer/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-2_00_10-monologue-mer/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Julie-2_00_10-monologue-mer/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Julie-2_00_10-monologue-mer/metadata.xml
@@ -4302,6 +4389,7 @@ duration: "3min",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-2_00_10-monologue-poupee/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-2_00_10-monologue-poupee/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-2_00_10-monologue-poupee/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-2_00_10-monologue-poupee/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-2_00_10-monologue-poupee/metadata.xml
 {
 title: "Julie - poupee",
@@ -4314,7 +4402,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "poupée",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "monologue, commentaire monologique, recherche",
 themekey: "monologue",
 keywords: "un petit jeu",
@@ -4329,6 +4417,7 @@ duration: "25sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-2_01_06-monologue-camera/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-2_01_06-monologue-camera/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-2_01_06-monologue-camera/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-2_01_06-monologue-camera/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-2_01_06-monologue-camera/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-2_01_06-monologue-camera/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Julie-2_01_06-monologue-camera/metadata.xml
@@ -4360,6 +4449,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-2_01_06-monologue-livre-monoadia/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-2_01_06-monologue-livre-monoadia/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-2_01_06-monologue-livre-monoadia/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-2_01_06-monologue-livre-monoadia/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-2_01_06-monologue-livre-monoadia/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Julie-2_01_06-monologue-livre-monoadia/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Julie-2_01_06-monologue-livre-monoadia/metadata.xml
@@ -4390,6 +4480,7 @@ duration: "39sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-2_01_06-monologue-livre-tissu-mono-a-dia/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-2_01_06-monologue-livre-tissu-mono-a-dia/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-2_01_06-monologue-livre-tissu-mono-a-dia/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-2_01_06-monologue-livre-tissu-mono-a-dia/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-2_01_06-monologue-livre-tissu-mono-a-dia/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-2_01_06-monologue-livre-tissu-mono-a-dia/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Julie-2_01_06-monologue-livre-tissu-mono-a-dia/metadata.xml
@@ -4419,6 +4510,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-2_01_06-monologue-musique/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-2_01_06-monologue-musique/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-2_01_06-monologue-musique/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-2_01_06-monologue-musique/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-2_01_06-monologue-musique/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-2_01_06-monologue-musique/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Julie-2_01_06-monologue-musique/metadata.xml
@@ -4448,6 +4540,7 @@ duration: "10sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-2_03_16-monologue-magazine/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-2_03_16-monologue-magazine/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-2_03_16-monologue-magazine/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-2_03_16-monologue-magazine/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-2_03_16-monologue-magazine/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-2_03_16-monologue-magazine/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Julie-2_03_16-monologue-magazine/metadata.xml
@@ -4477,6 +4570,7 @@ duration: "50sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-2_07_29-monologue-construction/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-2_07_29-monologue-construction/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-2_07_29-monologue-construction/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-2_07_29-monologue-construction/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-2_07_29-monologue-construction/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-2_07_29-monologue-construction/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Julie-2_07_29-monologue-construction/metadata.xml
@@ -4491,7 +4585,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu de construction (lego)",
-actkey: "jeu_de_construction",
+actkey: "jeu de construction",
 theme: "monologue, commentaire de l'action en cours",
 themekey: "monologue",
 keywords: "",
@@ -4506,6 +4600,7 @@ duration: "59sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Julie-8_10_01-monologue-mono-personnages-autrui/metadata.xml
 // Error: no element for  place  in  ./data/doc/Julie-8_10_01-monologue-mono-personnages-autrui/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Julie-8_10_01-monologue-mono-personnages-autrui/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-8_10_01-monologue-mono-personnages-autrui/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Julie-8_10_01-monologue-mono-personnages-autrui/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Julie-8_10_01-monologue-mono-personnages-autrui/metadata.xml
 {
@@ -4519,11 +4614,71 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "figurines",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "monologue, mise en scène de personnages (monologue en présence d'autrui)",
 themekey: "monologue",
 keywords: "solides et figures",
 duration: "22sec",
+},
+// Error: no element for  name  in  ./data/doc/Julie-8_11_06-monologue-devoirs/metadata.xml
+// Error: no element for  surname  in  ./data/doc/Julie-8_11_06-monologue-devoirs/metadata.xml
+// Error: no element for  institution  in  ./data/doc/Julie-8_11_06-monologue-devoirs/metadata.xml
+// Error: no element for  email  in  ./data/doc/Julie-8_11_06-monologue-devoirs/metadata.xml
+// Error: no element for  agree  in  ./data/doc/Julie-8_11_06-monologue-devoirs/metadata.xml
+// Error: no element for  gender  in  ./data/doc/Julie-8_11_06-monologue-devoirs/metadata.xml
+// Error: no child node for  languagesecond  in  ./data/doc/Julie-8_11_06-monologue-devoirs/metadata.xml
+// Error: no element for  place  in  ./data/doc/Julie-8_11_06-monologue-devoirs/metadata.xml
+// Error: no element for  disc  in  ./data/doc/Julie-8_11_06-monologue-devoirs/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-8_11_06-monologue-devoirs/metadata.xml
+// Error: no child node for  transcription  in  ./data/doc/Julie-8_11_06-monologue-devoirs/metadata.xml
+// Error: no element for  extmedia  in  ./data/doc/Julie-8_11_06-monologue-devoirs/metadata.xml
+// Error: no child node for  keywords  in  ./data/doc/Julie-8_11_06-monologue-devoirs/metadata.xml
+{
+title: "Julie - devoirs",
+entry: "Julie-8_11_06-monologue-devoirs",
+media: "Julie-8_11_06-monologue-devoirs.mp4",
+project: "Monologue",
+child: "Julie",
+age: "8;11.06",
+languagemother: "fra",
+languagesecond: "",
+languageextract: "fra",
+act: "devoirs",
+actkey: "devoirs",
+theme: "monologue, réflexion à voix haute, ",
+themekey: "monologue",
+keywords: "",
+duration: "3min20",
+},
+// Error: no element for  name  in  ./data/doc/Julie-8_11_06-monologue-metaexplication-montage/metadata.xml
+// Error: no element for  surname  in  ./data/doc/Julie-8_11_06-monologue-metaexplication-montage/metadata.xml
+// Error: no element for  institution  in  ./data/doc/Julie-8_11_06-monologue-metaexplication-montage/metadata.xml
+// Error: no element for  email  in  ./data/doc/Julie-8_11_06-monologue-metaexplication-montage/metadata.xml
+// Error: no element for  agree  in  ./data/doc/Julie-8_11_06-monologue-metaexplication-montage/metadata.xml
+// Error: no element for  gender  in  ./data/doc/Julie-8_11_06-monologue-metaexplication-montage/metadata.xml
+// Error: no child node for  languagesecond  in  ./data/doc/Julie-8_11_06-monologue-metaexplication-montage/metadata.xml
+// Error: no element for  place  in  ./data/doc/Julie-8_11_06-monologue-metaexplication-montage/metadata.xml
+// Error: no element for  disc  in  ./data/doc/Julie-8_11_06-monologue-metaexplication-montage/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Julie-8_11_06-monologue-metaexplication-montage/metadata.xml
+// Error: no child node for  transcription  in  ./data/doc/Julie-8_11_06-monologue-metaexplication-montage/metadata.xml
+// Error: no element for  extmedia  in  ./data/doc/Julie-8_11_06-monologue-metaexplication-montage/metadata.xml
+// Error: no child node for  keywords  in  ./data/doc/Julie-8_11_06-monologue-metaexplication-montage/metadata.xml
+{
+title: "Julie - metaexplication montage",
+entry: "Julie-8_11_06-monologue-metaexplication-montage",
+media: "Julie-8_11_06-monologue-metaexplication-montage.mp4",
+project: "Monologue",
+child: "Julie",
+age: "8;11.06",
+languagemother: "fra",
+languagesecond: "",
+languageextract: "fra",
+act: "devoirs",
+actkey: "devoirs",
+theme: "monologue, métaexplication sur la conscience du monologue et son utilité",
+themekey: "monologue",
+keywords: "",
+duration: "58sec",
 },
 // Error: no element for  name  in  ./data/doc/Madeleine-0_10_00-premiers_mots-multimodalite/metadata.xml
 // Error: no element for  surname  in  ./data/doc/Madeleine-0_10_00-premiers_mots-multimodalite/metadata.xml
@@ -4534,6 +4689,7 @@ duration: "22sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-0_10_00-premiers_mots-multimodalite/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-0_10_00-premiers_mots-multimodalite/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-0_10_00-premiers_mots-multimodalite/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-0_10_00-premiers_mots-multimodalite/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-0_10_00-premiers_mots-multimodalite/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Madeleine-0_10_00-premiers_mots-multimodalite/metadata.xml
 {
@@ -4547,9 +4703,9 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu de construction (cubes)",
-actkey: "jeu_de_construction",
+actkey: "jeu de construction",
 theme: "premiers mots, multimodalité",
-themekey: "premiers_mots",
+themekey: "premiers mots",
 keywords: "",
 duration: "12sec",
 },
@@ -4562,6 +4718,7 @@ duration: "12sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-0_11_08-premiers_mots-appel/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-0_11_08-premiers_mots-appel/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-0_11_08-premiers_mots-appel/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-0_11_08-premiers_mots-appel/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-0_11_08-premiers_mots-appel/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-0_11_08-premiers_mots-appel/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-0_11_08-premiers_mots-appel/metadata.xml
@@ -4578,7 +4735,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "premiers mots, acte illocutoire, interprétation",
-themekey: "premiers_mots",
+themekey: "premiers mots",
 keywords: "appel",
 duration: "24sec",
 },
@@ -4591,6 +4748,7 @@ duration: "24sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_00_05-mouvement-cadeau/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_00_05-mouvement-cadeau/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_00_05-mouvement-cadeau/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_00_05-mouvement-cadeau/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_00_05-mouvement-cadeau/metadata.xml
 {
 title: "Madeleine - cadeau",
@@ -4618,6 +4776,7 @@ duration: "19sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_00_05-premiers_mots-maman/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_00_05-premiers_mots-maman/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_00_05-premiers_mots-maman/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_00_05-premiers_mots-maman/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_00_05-premiers_mots-maman/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-1_00_05-premiers_mots-maman/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Madeleine-1_00_05-premiers_mots-maman/metadata.xml
@@ -4635,7 +4794,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "premiers mots, proto-mot, multimodalité, pointage, interprétation",
-themekey: "premiers_mots",
+themekey: "premiers mots",
 keywords: "",
 duration: "18sec",
 },
@@ -4648,6 +4807,7 @@ duration: "18sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_00_15-premiers_mots-proto-gega/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_00_15-premiers_mots-proto-gega/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_00_15-premiers_mots-proto-gega/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_00_15-premiers_mots-proto-gega/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_00_15-premiers_mots-proto-gega/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Madeleine-1_00_15-premiers_mots-proto-gega/metadata.xml
 {
@@ -4663,7 +4823,7 @@ languageextract: "fra",
 act: "repas (goûter)",
 actkey: "repas",
 theme: "premiers mots, proto-mot, multimodalité, pointage, interprétation",
-themekey: "premiers_mots",
+themekey: "premiers mots",
 keywords: "",
 duration: "6sec",
 },
@@ -4676,6 +4836,7 @@ duration: "6sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_01_10-premiers_mots-chat/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_01_10-premiers_mots-chat/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_01_10-premiers_mots-chat/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_01_10-premiers_mots-chat/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_01_10-premiers_mots-chat/metadata.xml
 {
 title: "Madeleine - chat",
@@ -4690,7 +4851,7 @@ languageextract: "fra",
 act: "repas (goûter)",
 actkey: "repas",
 theme: "premiers mots, production proto-linguistique, pointage, interprétation",
-themekey: "premiers_mots",
+themekey: "premiers mots",
 keywords: "chat, ça",
 duration: "16sec",
 },
@@ -4703,6 +4864,7 @@ duration: "16sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_02_14-premiers_mots-ca/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_02_14-premiers_mots-ca/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_02_14-premiers_mots-ca/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_02_14-premiers_mots-ca/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Madeleine-1_02_14-premiers_mots-ca/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_02_14-premiers_mots-ca/metadata.xml
 {
@@ -4718,7 +4880,7 @@ languageextract: "fra",
 act: "repas (goûter)",
 actkey: "repas",
 theme: "premiers mots, proto-mot, multimodalité, pointage, interprétation",
-themekey: "premiers_mots",
+themekey: "premiers mots",
 keywords: "chat, ça",
 duration: "12sec",
 },
@@ -4731,6 +4893,7 @@ duration: "12sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_02_28-premiers_mots-chat-ou-ca/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_02_28-premiers_mots-chat-ou-ca/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_02_28-premiers_mots-chat-ou-ca/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_02_28-premiers_mots-chat-ou-ca/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_02_28-premiers_mots-chat-ou-ca/metadata.xml
 {
 title: "Madeleine - chat ou ca",
@@ -4745,7 +4908,7 @@ languageextract: "fra",
 act: "livre",
 actkey: "livre",
 theme: "premiers mots, proto-mot, interprétation",
-themekey: "premiers_mots",
+themekey: "premiers mots",
 keywords: "chat, ça",
 duration: "6sec",
 },
@@ -4758,6 +4921,7 @@ duration: "6sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_02_28-premiers_mots-chat-ou-ca2/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_02_28-premiers_mots-chat-ou-ca2/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_02_28-premiers_mots-chat-ou-ca2/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_02_28-premiers_mots-chat-ou-ca2/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_02_28-premiers_mots-chat-ou-ca2/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-1_02_28-premiers_mots-chat-ou-ca2/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-1_02_28-premiers_mots-chat-ou-ca2/metadata.xml
@@ -4774,7 +4938,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "premiers mots, proto-mot, interprétation",
-themekey: "premiers_mots",
+themekey: "premiers mots",
 keywords: "ça, fleur",
 duration: "7sec",
 },
@@ -4787,6 +4951,7 @@ duration: "7sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_03_18-premiers_mots-aurevoir/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_03_18-premiers_mots-aurevoir/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_03_18-premiers_mots-aurevoir/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_03_18-premiers_mots-aurevoir/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_03_18-premiers_mots-aurevoir/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-1_03_18-premiers_mots-aurevoir/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-1_03_18-premiers_mots-aurevoir/metadata.xml
@@ -4803,7 +4968,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "premiers mots, proto-mot, multimodalité, geste symbolique",
-themekey: "premiers_mots",
+themekey: "premiers mots",
 keywords: "au revoir",
 duration: "18sec",
 },
@@ -4816,6 +4981,7 @@ duration: "18sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_04_18-premiers_mots-attend1/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_04_18-premiers_mots-attend1/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_04_18-premiers_mots-attend1/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_04_18-premiers_mots-attend1/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_04_18-premiers_mots-attend1/metadata.xml
 {
 title: "Madeleine - attend1",
@@ -4828,9 +4994,9 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu en extérieur (vélo)",
-actkey: "jeu_en_extérieur",
+actkey: "jeu en extérieur",
 theme: "premiers mots, proto-langage, proto-mot, filler",
-themekey: "premiers_mots",
+themekey: "premiers mots",
 keywords: "attends",
 duration: "19sec",
 },
@@ -4843,6 +5009,7 @@ duration: "19sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_04_18-premiers_mots-vroum/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_04_18-premiers_mots-vroum/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_04_18-premiers_mots-vroum/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_04_18-premiers_mots-vroum/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_04_18-premiers_mots-vroum/metadata.xml
 {
 title: "Madeleine - vroum",
@@ -4855,9 +5022,9 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu en extérieur (vélo)",
-actkey: "jeu_en_extérieur",
+actkey: "jeu en extérieur",
 theme: "premiers mots, onomatopée, réferentialité, reprise par la mère, mouvement",
-themekey: "premiers_mots",
+themekey: "premiers mots",
 keywords: "vroum",
 duration: "17sec",
 },
@@ -4870,6 +5037,7 @@ duration: "17sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-assis-bebe/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-assis-bebe/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-assis-bebe/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-assis-bebe/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-assis-bebe/metadata.xml
 {
 title: "Madeleine - assis bebe",
@@ -4882,9 +5050,9 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "poupée",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "première syntaxe, combinaison de mots, succession de mots",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "assis, bébé",
 duration: "5sec",
 },
@@ -4897,6 +5065,7 @@ duration: "5sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-bebe-poulpo/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-bebe-poulpo/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-bebe-poulpo/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-bebe-poulpo/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-bebe-poulpo/metadata.xml
 {
 title: "Madeleine - bebe poulpo",
@@ -4909,9 +5078,9 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "poupée",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "première syntaxe, combinaison de mots",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "bébé, poulpo",
 duration: "16sec",
 },
@@ -4924,6 +5093,7 @@ duration: "16sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-encore-un/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-encore-un/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-encore-un/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-encore-un/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-encore-un/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-encore-un/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-encore-un/metadata.xml
@@ -4940,7 +5110,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "première syntaxe, proto-langage, filler",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "caca",
 duration: "19sec",
 },
@@ -4953,6 +5123,7 @@ duration: "19sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-mettre/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-mettre/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-mettre/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-mettre/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-mettre/metadata.xml
 {
 title: "Madeleine - mettre",
@@ -4965,9 +5136,9 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "poupée",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "première syntaxe, verbe sans sujet, infinitif, étayage, reformulation",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "mettre",
 duration: "1min04",
 },
@@ -4980,6 +5151,7 @@ duration: "1min04",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-porte-poulpo/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-porte-poulpo/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-porte-poulpo/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-porte-poulpo/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-porte-poulpo/metadata.xml
 {
 title: "Madeleine - porte poulpo",
@@ -4994,7 +5166,7 @@ languageextract: "fra",
 act: "livre",
 actkey: "livre",
 theme: "première syntaxe, combinaison de mots, mot + verbe",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "porte, poulpe",
 duration: "5sec",
 },
@@ -5007,6 +5179,7 @@ duration: "5sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-tubelekika/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-tubelekika/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-tubelekika/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-tubelekika/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_06_04-premiere_syntaxe-tubelekika/metadata.xml
 {
 title: "Madeleine - tubelekika",
@@ -5021,7 +5194,7 @@ languageextract: "fra",
 act: "repas (biberon)",
 actkey: "repas",
 theme: "première syntaxe, ",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "lait, bébé",
 duration: "5sec",
 },
@@ -5034,6 +5207,7 @@ duration: "5sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-enlever/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-enlever/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-enlever/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-enlever/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-enlever/metadata.xml
 {
 title: "Madeleine - enlever",
@@ -5046,9 +5220,9 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "poupée",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "première syntaxe, filler, infinitif",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "enlever  ",
 duration: "19sec",
 },
@@ -5061,6 +5235,7 @@ duration: "19sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-eu-ta-cle/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-eu-ta-cle/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-eu-ta-cle/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-eu-ta-cle/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-eu-ta-cle/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-eu-ta-cle/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-eu-ta-cle/metadata.xml
@@ -5077,7 +5252,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "première syntaxe, combinaison de mots, filler, pointage",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "clé",
 duration: "19sec",
 },
@@ -5090,6 +5265,7 @@ duration: "19sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-kle-pot-pala/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-kle-pot-pala/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-kle-pot-pala/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-kle-pot-pala/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-kle-pot-pala/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-kle-pot-pala/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-kle-pot-pala/metadata.xml
@@ -5107,7 +5283,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "première syntaxe, combinaison de mots, reformulation, pointage",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "clé ",
 duration: "14sec",
 },
@@ -5120,6 +5296,7 @@ duration: "14sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-ouvre-porte/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-ouvre-porte/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-ouvre-porte/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-ouvre-porte/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-ouvre-porte/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-ouvre-porte/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-1_07_15-premiere_syntaxe-ouvre-porte/metadata.xml
@@ -5136,7 +5313,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "première syntaxe, holophrase, stade télégraphique",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "ouvre porte, fermé, clé",
 duration: "9sec",
 },
@@ -5149,6 +5326,7 @@ duration: "9sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_07_15-premiers_mots-attend2/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_07_15-premiers_mots-attend2/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_07_15-premiers_mots-attend2/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_07_15-premiers_mots-attend2/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_07_15-premiers_mots-attend2/metadata.xml
 {
 title: "Madeleine - attend2",
@@ -5161,9 +5339,9 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu technologique (ordinateur)",
-actkey: "jeu_technologique",
+actkey: "jeu technologique",
 theme: "premiers mots, multimodalité, opposition",
-themekey: "premiers_mots",
+themekey: "premiers mots",
 keywords: "attends",
 duration: "7sec",
 },
@@ -5176,6 +5354,7 @@ duration: "7sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_07_15-premiers_mots-attend3/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_07_15-premiers_mots-attend3/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_07_15-premiers_mots-attend3/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_07_15-premiers_mots-attend3/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_07_15-premiers_mots-attend3/metadata.xml
 {
 title: "Madeleine - attend3",
@@ -5188,9 +5367,9 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu technologique (ordinateur)",
-actkey: "jeu_technologique",
+actkey: "jeu technologique",
 theme: "premiers mots, combinaison 2 mots, multimodalité, opposition",
-themekey: "premiers_mots",
+themekey: "premiers mots",
 keywords: "attends",
 duration: "8sec",
 },
@@ -5203,6 +5382,7 @@ duration: "8sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_07_15-reference_a_soi-allez-madeleine/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_07_15-reference_a_soi-allez-madeleine/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_07_15-reference_a_soi-allez-madeleine/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_07_15-reference_a_soi-allez-madeleine/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_07_15-reference_a_soi-allez-madeleine/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-1_07_15-reference_a_soi-allez-madeleine/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-1_07_15-reference_a_soi-allez-madeleine/metadata.xml
@@ -5219,7 +5399,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "référence à soi, prénom",
-themekey: "référence_à_soi",
+themekey: "référence à soi",
 keywords: "allez Madeleine",
 duration: "27sec",
 },
@@ -5232,6 +5412,7 @@ duration: "27sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_09_03-premiere_syntaxe-flute/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_09_03-premiere_syntaxe-flute/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_09_03-premiere_syntaxe-flute/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_09_03-premiere_syntaxe-flute/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_09_03-premiere_syntaxe-flute/metadata.xml
 {
 title: "Madeleine - flute",
@@ -5246,7 +5427,7 @@ languageextract: "fra",
 act: "musique (flûte)",
 actkey: "musique",
 theme: "première syntaxe, combinaison de mots, mots + fillers + verbe",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "flûte, veux",
 duration: "3sec",
 },
@@ -5259,6 +5440,7 @@ duration: "3sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_09_03-premiere_syntaxe-un-oeuf/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_09_03-premiere_syntaxe-un-oeuf/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_09_03-premiere_syntaxe-un-oeuf/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_09_03-premiere_syntaxe-un-oeuf/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_09_03-premiere_syntaxe-un-oeuf/metadata.xml
 {
 title: "Madeleine - un oeuf",
@@ -5271,9 +5453,9 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu technologique (ordinateur)",
-actkey: "jeu_technologique",
+actkey: "jeu technologique",
 theme: "première syntaxe, combinaison de mots, filler, pointage",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "œuf",
 duration: "9sec",
 },
@@ -5286,6 +5468,7 @@ duration: "9sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_09_03-reference_a_soi-mets-la/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_09_03-reference_a_soi-mets-la/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_09_03-reference_a_soi-mets-la/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_09_03-reference_a_soi-mets-la/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_09_03-reference_a_soi-mets-la/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-1_09_03-reference_a_soi-mets-la/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-1_09_03-reference_a_soi-mets-la/metadata.xml
@@ -5302,7 +5485,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "référence à soi, verbe sans sujet",
-themekey: "référence_à_soi",
+themekey: "référence à soi",
 keywords: "mets là",
 duration: "51sec",
 },
@@ -5315,6 +5498,7 @@ duration: "51sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_10_07-emergence_temporalite-est-ferme/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_10_07-emergence_temporalite-est-ferme/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_10_07-emergence_temporalite-est-ferme/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_10_07-emergence_temporalite-est-ferme/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_10_07-emergence_temporalite-est-ferme/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-1_10_07-emergence_temporalite-est-ferme/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-1_10_07-emergence_temporalite-est-ferme/metadata.xml
@@ -5331,7 +5515,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "émergence temporalité, passé, filler",
-themekey: "émergence_temporalité",
+themekey: "émergence temporalité",
 keywords: "fermé",
 duration: "5sec",
 },
@@ -5344,6 +5528,7 @@ duration: "5sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-canape-vert/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-canape-vert/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-canape-vert/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-canape-vert/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-canape-vert/metadata.xml
 {
 title: "Madeleine - canape vert",
@@ -5358,7 +5543,7 @@ languageextract: "fra",
 act: "livre",
 actkey: "livre",
 theme: "première syntaxe, combinaison de mots, filler",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "canapé vert",
 duration: "12sec",
 },
@@ -5371,6 +5556,7 @@ duration: "12sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-enlever-manteau/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-enlever-manteau/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-enlever-manteau/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-enlever-manteau/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-enlever-manteau/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-enlever-manteau/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-enlever-manteau/metadata.xml
@@ -5387,7 +5573,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "première syntaxe, combinaison de mots",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "enlever manteau",
 duration: "41sec",
 },
@@ -5400,6 +5586,7 @@ duration: "41sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-monsieur-toto/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-monsieur-toto/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-monsieur-toto/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-monsieur-toto/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-monsieur-toto/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-monsieur-toto/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-1_10_07-premiere_syntaxe-monsieur-toto/metadata.xml
@@ -5416,7 +5603,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "première syntaxe, combinaison de mots",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "monsieur toto",
 duration: "12sec",
 },
@@ -5429,6 +5616,7 @@ duration: "12sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_10_07-xxx-courrier/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_10_07-xxx-courrier/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_10_07-xxx-courrier/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_10_07-xxx-courrier/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_10_07-xxx-courrier/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-1_10_07-xxx-courrier/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-1_10_07-xxx-courrier/metadata.xml
@@ -5459,6 +5647,7 @@ duration: "6sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_10_07-xxx-on-ferme/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_10_07-xxx-on-ferme/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_10_07-xxx-on-ferme/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_10_07-xxx-on-ferme/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_10_07-xxx-on-ferme/metadata.xml
 // Error: no child node for  themekey  in  ./data/doc/Madeleine-1_10_07-xxx-on-ferme/metadata.xml
 {
@@ -5487,6 +5676,7 @@ duration: "11sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-1_11_13-premiere_syntaxe-piquer/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-1_11_13-premiere_syntaxe-piquer/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-1_11_13-premiere_syntaxe-piquer/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-1_11_13-premiere_syntaxe-piquer/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-1_11_13-premiere_syntaxe-piquer/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Madeleine-1_11_13-premiere_syntaxe-piquer/metadata.xml
 {
@@ -5502,7 +5692,7 @@ languageextract: "fra",
 act: "repas",
 actkey: "repas",
 theme: "première syntaxe, répétition, combinaison de mots, infinitif, verbe sans sujet, filler, pronom",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "",
 duration: "57sec",
 },
@@ -5515,6 +5705,7 @@ duration: "57sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-attrape/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-attrape/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-attrape/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-attrape/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-attrape/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-attrape/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-attrape/metadata.xml
@@ -5531,7 +5722,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "énoncés complexes, référence à soi, je, c'est moi qui+verbe, opposition, multimodalité ",
-themekey: "énoncés_complexes",
+themekey: "énoncés complexes",
 keywords: "c'est moi qui, appuie, café, oh hisse",
 duration: "56sec",
 },
@@ -5544,6 +5735,7 @@ duration: "56sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-manteau/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-manteau/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-manteau/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-manteau/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-manteau/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-manteau/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-manteau/metadata.xml
@@ -5560,7 +5752,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "énoncés complexes, référence à soi, filler, je, moi+verbe, moi je+verbe, pronom ",
-themekey: "énoncés_complexes",
+themekey: "énoncés complexes",
 keywords: "manteau",
 duration: "55sec",
 },
@@ -5573,6 +5765,7 @@ duration: "55sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-melange/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-melange/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-melange/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-melange/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-melange/metadata.xml
 {
 title: "Madeleine - melange",
@@ -5585,9 +5778,9 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu de société (domino)",
-actkey: "jeu_de_société",
+actkey: "jeu de société",
 theme: "énoncés complexes, référence à soi, verbe sans sujet, filler, moi+verbe, moi je+verbe, pronom, opposition",
-themekey: "énoncés_complexes",
+themekey: "énoncés complexes",
 keywords: "fermer",
 duration: "25sec",
 },
@@ -5600,6 +5793,7 @@ duration: "25sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-noeud/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-noeud/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-noeud/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-noeud/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-2_01_02-enonces_complexes-noeud/metadata.xml
 {
 title: "Madeleine - noeud",
@@ -5612,9 +5806,9 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "poupée",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "énoncés complexes, référence à soi, je, c'est moi qui+verbe, opposition ",
-themekey: "énoncés_complexes",
+themekey: "énoncés complexes",
 keywords: "c'est moi qui, nœud",
 duration: "27sec",
 },
@@ -5627,6 +5821,7 @@ duration: "27sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-2_01_02-etayage-chute-oeil/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-2_01_02-etayage-chute-oeil/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-2_01_02-etayage-chute-oeil/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-2_01_02-etayage-chute-oeil/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-2_01_02-etayage-chute-oeil/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-2_01_02-etayage-chute-oeil/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Madeleine-2_01_02-etayage-chute-oeil/metadata.xml
@@ -5657,6 +5852,7 @@ duration: "46sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-2_01_02-reference_a_soi-escaliers/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-2_01_02-reference_a_soi-escaliers/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-2_01_02-reference_a_soi-escaliers/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-2_01_02-reference_a_soi-escaliers/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-2_01_02-reference_a_soi-escaliers/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-2_01_02-reference_a_soi-escaliers/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-2_01_02-reference_a_soi-escaliers/metadata.xml
@@ -5673,7 +5869,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "référence à soi, je, filler, émotion (peur)",
-themekey: "référence_à_soi",
+themekey: "référence à soi",
 keywords: "escalier, peur",
 duration: "43sec",
 },
@@ -5686,6 +5882,7 @@ duration: "43sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-2_02_06-enonces_complexes-monter-escalier/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-2_02_06-enonces_complexes-monter-escalier/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-2_02_06-enonces_complexes-monter-escalier/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-2_02_06-enonces_complexes-monter-escalier/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-2_02_06-enonces_complexes-monter-escalier/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Madeleine-2_02_06-enonces_complexes-monter-escalier/metadata.xml
 {
@@ -5699,9 +5896,9 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "figurines",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "énoncés complexes, verbe sans sujet, je, vais+infinitif",
-themekey: "énoncés_complexes",
+themekey: "énoncés complexes",
 keywords: "",
 duration: "1min09",
 },
@@ -5714,6 +5911,7 @@ duration: "1min09",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-2_04_05-etayage-s-endorma/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-2_04_05-etayage-s-endorma/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-2_04_05-etayage-s-endorma/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-2_04_05-etayage-s-endorma/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-2_04_05-etayage-s-endorma/metadata.xml
 {
 title: "Madeleine - s endorma",
@@ -5741,6 +5939,7 @@ duration: "10sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-2_05_12-enonces_complexes-bruit/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-2_05_12-enonces_complexes-bruit/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-2_05_12-enonces_complexes-bruit/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-2_05_12-enonces_complexes-bruit/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-2_05_12-enonces_complexes-bruit/metadata.xml
 {
 title: "Madeleine - bruit",
@@ -5753,9 +5952,9 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "peluche",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "énoncés complexes, référence à soi, je, pronom, vais+infinitif, futur, négation",
-themekey: "énoncés_complexes",
+themekey: "énoncés complexes",
 keywords: "souris, bruit",
 duration: "1min59",
 },
@@ -5768,6 +5967,7 @@ duration: "1min59",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-2_07_07-erreurs-acheter-un-coup-d-oeil/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-2_07_07-erreurs-acheter-un-coup-d-oeil/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-2_07_07-erreurs-acheter-un-coup-d-oeil/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-2_07_07-erreurs-acheter-un-coup-d-oeil/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-2_07_07-erreurs-acheter-un-coup-d-oeil/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-2_07_07-erreurs-acheter-un-coup-d-oeil/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-2_07_07-erreurs-acheter-un-coup-d-oeil/metadata.xml
@@ -5797,6 +5997,7 @@ duration: "1min28",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-2_07_07-reference_a_soi-toute-seule/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-2_07_07-reference_a_soi-toute-seule/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-2_07_07-reference_a_soi-toute-seule/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-2_07_07-reference_a_soi-toute-seule/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-2_07_07-reference_a_soi-toute-seule/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-2_07_07-reference_a_soi-toute-seule/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-2_07_07-reference_a_soi-toute-seule/metadata.xml
@@ -5813,7 +6014,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "référence à soi, moi+verbe, pronom",
-themekey: "référence_à_soi",
+themekey: "référence à soi",
 keywords: "moi toute seule",
 duration: "30sec",
 },
@@ -5826,6 +6027,7 @@ duration: "30sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-2_08_05-enonces_complexes-grande/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-2_08_05-enonces_complexes-grande/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-2_08_05-enonces_complexes-grande/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-2_08_05-enonces_complexes-grande/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-2_08_05-enonces_complexes-grande/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-2_08_05-enonces_complexes-grande/metadata.xml
 {
@@ -5841,7 +6043,7 @@ languageextract: "fra",
 act: "cuisiner",
 actkey: "",
 theme: "énoncés complexes, ",
-themekey: "énoncés_complexes",
+themekey: "énoncés complexes",
 keywords: "grande",
 duration: "24sec",
 },
@@ -5854,6 +6056,7 @@ duration: "24sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-2_11_19-xxx-vais-les-mettre-la/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-2_11_19-xxx-vais-les-mettre-la/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-2_11_19-xxx-vais-les-mettre-la/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-2_11_19-xxx-vais-les-mettre-la/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-2_11_19-xxx-vais-les-mettre-la/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Madeleine-2_11_19-xxx-vais-les-mettre-la/metadata.xml
 // Error: no child node for  themekey  in  ./data/doc/Madeleine-2_11_19-xxx-vais-les-mettre-la/metadata.xml
@@ -5883,6 +6086,7 @@ duration: "11sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-3_03_02-enonces_complexes-chaussures/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-3_03_02-enonces_complexes-chaussures/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-3_03_02-enonces_complexes-chaussures/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-3_03_02-enonces_complexes-chaussures/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-3_03_02-enonces_complexes-chaussures/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-3_03_02-enonces_complexes-chaussures/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-3_03_02-enonces_complexes-chaussures/metadata.xml
@@ -5899,7 +6103,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "énoncés complexes, explication, je, parce que, vais+infinitif, routine, loi générique, quand, si",
-themekey: "énoncés_complexes",
+themekey: "énoncés complexes",
 keywords: "chaussures",
 duration: "28sec",
 },
@@ -5912,6 +6116,7 @@ duration: "28sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-3_03_02-reference_a_soi-moi-je/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-3_03_02-reference_a_soi-moi-je/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-3_03_02-reference_a_soi-moi-je/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-3_03_02-reference_a_soi-moi-je/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-3_03_02-reference_a_soi-moi-je/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-3_03_02-reference_a_soi-moi-je/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-3_03_02-reference_a_soi-moi-je/metadata.xml
@@ -5928,7 +6133,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "référence à soi, moi je+verbe",
-themekey: "référence_à_soi",
+themekey: "référence à soi",
 keywords: "moi je",
 duration: "15sec",
 },
@@ -5941,6 +6146,7 @@ duration: "15sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-3_03_02-syntaxe-voula-voudra/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-3_03_02-syntaxe-voula-voudra/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-3_03_02-syntaxe-voula-voudra/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-3_03_02-syntaxe-voula-voudra/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Madeleine-3_03_02-syntaxe-voula-voudra/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-3_03_02-syntaxe-voula-voudra/metadata.xml
 {
@@ -5969,6 +6175,7 @@ duration: "23sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-3_09_28-enonces_complexes-fondu/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-3_09_28-enonces_complexes-fondu/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-3_09_28-enonces_complexes-fondu/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-3_09_28-enonces_complexes-fondu/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-3_09_28-enonces_complexes-fondu/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-3_09_28-enonces_complexes-fondu/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-3_09_28-enonces_complexes-fondu/metadata.xml
@@ -5985,7 +6192,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "énoncés complexes, passé, plus que parfait, parce que",
-themekey: "énoncés_complexes",
+themekey: "énoncés complexes",
 keywords: "neige, elle avait fondu, parce que ",
 duration: "22sec",
 },
@@ -5998,6 +6205,7 @@ duration: "22sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-3_09_28-xxx-ferait-brulant/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-3_09_28-xxx-ferait-brulant/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-3_09_28-xxx-ferait-brulant/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-3_09_28-xxx-ferait-brulant/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-3_09_28-xxx-ferait-brulant/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-3_09_28-xxx-ferait-brulant/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-3_09_28-xxx-ferait-brulant/metadata.xml
@@ -6028,6 +6236,7 @@ duration: "27sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-4_01_27-enonces_complexes-oreilles/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-4_01_27-enonces_complexes-oreilles/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-4_01_27-enonces_complexes-oreilles/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-4_01_27-enonces_complexes-oreilles/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-4_01_27-enonces_complexes-oreilles/metadata.xml
 {
 title: "Madeleine - oreilles",
@@ -6042,7 +6251,7 @@ languageextract: "fra",
 act: "livre",
 actkey: "livre",
 theme: "énoncés complexes, interprétation (de l'enfant),  croyance, stéréotype",
-themekey: "énoncés_complexes",
+themekey: "énoncés complexes",
 keywords: "chatte, oreille rose",
 duration: "18sec",
 },
@@ -6055,6 +6264,7 @@ duration: "18sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-4_10_03-enonces_complexes-oreille/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-4_10_03-enonces_complexes-oreille/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-4_10_03-enonces_complexes-oreille/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-4_10_03-enonces_complexes-oreille/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-4_10_03-enonces_complexes-oreille/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-4_10_03-enonces_complexes-oreille/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-4_10_03-enonces_complexes-oreille/metadata.xml
@@ -6071,7 +6281,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "énoncés complexes, raisonnement, parce que, alors",
-themekey: "énoncés_complexes",
+themekey: "énoncés complexes",
 keywords: "koala",
 duration: "26sec",
 },
@@ -6084,6 +6294,7 @@ duration: "26sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-5_01_05-enonces_complexes-clown-livre/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-5_01_05-enonces_complexes-clown-livre/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-5_01_05-enonces_complexes-clown-livre/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-5_01_05-enonces_complexes-clown-livre/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-5_01_05-enonces_complexes-clown-livre/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-5_01_05-enonces_complexes-clown-livre/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Madeleine-5_01_05-enonces_complexes-clown-livre/metadata.xml
@@ -6102,7 +6313,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "énoncés complexes, récit complexe",
-themekey: "énoncés_complexes",
+themekey: "énoncés complexes",
 keywords: "",
 duration: "",
 },
@@ -6115,6 +6326,7 @@ duration: "",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-6_11_27-enonces_complexes-copains/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-6_11_27-enonces_complexes-copains/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-6_11_27-enonces_complexes-copains/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-6_11_27-enonces_complexes-copains/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-6_11_27-enonces_complexes-copains/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-6_11_27-enonces_complexes-copains/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-6_11_27-enonces_complexes-copains/metadata.xml
@@ -6132,7 +6344,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "énoncés complexes, implicite, mais",
-themekey: "énoncés_complexes",
+themekey: "énoncés complexes",
 keywords: "copains, mais",
 duration: "",
 },
@@ -6145,6 +6357,7 @@ duration: "",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-6_11_27-enonces_complexes-detective/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-6_11_27-enonces_complexes-detective/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-6_11_27-enonces_complexes-detective/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-6_11_27-enonces_complexes-detective/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-6_11_27-enonces_complexes-detective/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-6_11_27-enonces_complexes-detective/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Madeleine-6_11_27-enonces_complexes-detective/metadata.xml
@@ -6161,7 +6374,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "énoncés complexes, récit",
-themekey: "énoncés_complexes",
+themekey: "énoncés complexes",
 keywords: "détective",
 duration: "20sec",
 },
@@ -6174,6 +6387,7 @@ duration: "20sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Madeleine-6_11_27-xxx-mince/metadata.xml
 // Error: no element for  place  in  ./data/doc/Madeleine-6_11_27-xxx-mince/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Madeleine-6_11_27-xxx-mince/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Madeleine-6_11_27-xxx-mince/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Madeleine-6_11_27-xxx-mince/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Madeleine-6_11_27-xxx-mince/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Madeleine-6_11_27-xxx-mince/metadata.xml
@@ -6205,6 +6419,7 @@ duration: "24sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-4_08_27-monologue-boudeuse/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-4_08_27-monologue-boudeuse/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-4_08_27-monologue-boudeuse/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-4_08_27-monologue-boudeuse/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-4_08_27-monologue-boudeuse/metadata.xml
 {
 title: "Philippine - boudeuse",
@@ -6217,7 +6432,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu de construction (cubes)",
-actkey: "jeu_de_construction",
+actkey: "jeu de construction",
 theme: "monologue, émotion, bouderie",
 themekey: "monologue",
 keywords: "boudeuse",
@@ -6232,6 +6447,7 @@ duration: "1min20",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-4_09_01-monologue-chaussures/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-4_09_01-monologue-chaussures/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-4_09_01-monologue-chaussures/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-4_09_01-monologue-chaussures/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-4_09_01-monologue-chaussures/metadata.xml
 {
 title: "Philippine - chaussures",
@@ -6259,6 +6475,7 @@ duration: "1min18",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-4_09_01-monologue-poupees/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-4_09_01-monologue-poupees/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-4_09_01-monologue-poupees/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-4_09_01-monologue-poupees/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-4_09_01-monologue-poupees/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Philippine-4_09_01-monologue-poupees/metadata.xml
 {
@@ -6272,7 +6489,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "poupée",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "monologue, jeu symbolique",
 themekey: "monologue",
 keywords: "",
@@ -6287,6 +6504,7 @@ duration: "2min",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-4_10_20-monologue-autocongratulation-montage/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-4_10_20-monologue-autocongratulation-montage/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-4_10_20-monologue-autocongratulation-montage/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-4_10_20-monologue-autocongratulation-montage/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Philippine-4_10_20-monologue-autocongratulation-montage/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Philippine-4_10_20-monologue-autocongratulation-montage/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-4_10_20-monologue-autocongratulation-montage/metadata.xml
@@ -6316,6 +6534,7 @@ duration: "1min40",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-4_10_20-monologue-bebe/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-4_10_20-monologue-bebe/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-4_10_20-monologue-bebe/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-4_10_20-monologue-bebe/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-4_10_20-monologue-bebe/metadata.xml
 {
 title: "Philippine - bebe",
@@ -6328,7 +6547,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "poupée",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "monologue, jeu symbolique, commentaire pour soi, langage adapté",
 themekey: "monologue",
 keywords: "bébé ",
@@ -6343,6 +6562,7 @@ duration: "2min",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-4_10_20-monologue-cachets/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-4_10_20-monologue-cachets/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-4_10_20-monologue-cachets/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-4_10_20-monologue-cachets/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-4_10_20-monologue-cachets/metadata.xml
 {
 title: "Philippine - cachets",
@@ -6370,6 +6590,7 @@ duration: "14sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-4_10_20-monologue-com-papa/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-4_10_20-monologue-com-papa/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-4_10_20-monologue-com-papa/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-4_10_20-monologue-com-papa/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-4_10_20-monologue-com-papa/metadata.xml
 {
 title: "Philippine - com papa",
@@ -6397,6 +6618,7 @@ duration: "14sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-4_10_20-monologue-monologue-pronoms/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-4_10_20-monologue-monologue-pronoms/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-4_10_20-monologue-monologue-pronoms/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-4_10_20-monologue-monologue-pronoms/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-4_10_20-monologue-monologue-pronoms/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Philippine-4_10_20-monologue-monologue-pronoms/metadata.xml
 {
@@ -6425,6 +6647,7 @@ duration: "1min10",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-4_10_20-monologue-planification/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-4_10_20-monologue-planification/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-4_10_20-monologue-planification/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-4_10_20-monologue-planification/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-4_10_20-monologue-planification/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Philippine-4_10_20-monologue-planification/metadata.xml
 {
@@ -6453,6 +6676,7 @@ duration: "3sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-4_11_24-monologue-cri-joie/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-4_11_24-monologue-cri-joie/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-4_11_24-monologue-cri-joie/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-4_11_24-monologue-cri-joie/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-4_11_24-monologue-cri-joie/metadata.xml
 {
 title: "Philippine - cri joie",
@@ -6465,7 +6689,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu de construction (lego)",
-actkey: "jeu_de_construction",
+actkey: "jeu de construction",
 theme: "monologue, émotion, joie",
 themekey: "monologue",
 keywords: "cri, joie",
@@ -6480,6 +6704,7 @@ duration: "14sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-4_11_24-monologue-ulysse-jeux-paralleles/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-4_11_24-monologue-ulysse-jeux-paralleles/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-4_11_24-monologue-ulysse-jeux-paralleles/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-4_11_24-monologue-ulysse-jeux-paralleles/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-4_11_24-monologue-ulysse-jeux-paralleles/metadata.xml
 {
 title: "Philippine - ulysse jeux paralleles",
@@ -6492,7 +6717,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu de construction (lego)",
-actkey: "jeu_de_construction",
+actkey: "jeu de construction",
 theme: "monologue, commentaire pour soi, planification, onomatopée",
 themekey: "monologue",
 keywords: "jeux parallèles",
@@ -6507,6 +6732,7 @@ duration: "1min55",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-5_00_21-monologue-eric/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-5_00_21-monologue-eric/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-5_00_21-monologue-eric/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-5_00_21-monologue-eric/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-5_00_21-monologue-eric/metadata.xml
 {
 title: "Philippine - eric",
@@ -6519,7 +6745,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "figurines",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "monologue, jeu symbolique, jeu de rôles, commentaires pour soi, pronoms ",
 themekey: "monologue",
 keywords: "Eric",
@@ -6534,6 +6760,7 @@ duration: "1min45",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-5_00_21-monologue-expressions-deformees/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-5_00_21-monologue-expressions-deformees/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-5_00_21-monologue-expressions-deformees/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-5_00_21-monologue-expressions-deformees/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-5_00_21-monologue-expressions-deformees/metadata.xml
 {
 title: "Philippine - expressions deformees",
@@ -6546,7 +6773,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "figurines",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "monologue, expressions déformées, jeu symbolique, jeu de rôles",
 themekey: "monologue",
 keywords: "on n' a pas la peine de, tu vas me payer, faire la paye",
@@ -6561,6 +6788,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-5_00_21-monologue-puzzle-coupe/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-5_00_21-monologue-puzzle-coupe/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-5_00_21-monologue-puzzle-coupe/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-5_00_21-monologue-puzzle-coupe/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-5_00_21-monologue-puzzle-coupe/metadata.xml
 {
 title: "Philippine - puzzle coupe",
@@ -6573,7 +6801,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu de construction (puzzle)  ",
-actkey: "jeu_de_construction",
+actkey: "jeu de construction",
 theme: "monologue, commentaire pour soi, stratégie",
 themekey: "monologue",
 keywords: "bord, trompé",
@@ -6588,6 +6816,7 @@ duration: "51sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-5_01_14-monologue-lecturebis/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-5_01_14-monologue-lecturebis/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-5_01_14-monologue-lecturebis/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-5_01_14-monologue-lecturebis/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Philippine-5_01_14-monologue-lecturebis/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-5_01_14-monologue-lecturebis/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Philippine-5_01_14-monologue-lecturebis/metadata.xml
@@ -6617,6 +6846,7 @@ duration: "52sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-5_06_08-monologue-lecture-mise-en-scene/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-5_06_08-monologue-lecture-mise-en-scene/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-5_06_08-monologue-lecture-mise-en-scene/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-5_06_08-monologue-lecture-mise-en-scene/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Philippine-5_06_08-monologue-lecture-mise-en-scene/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-5_06_08-monologue-lecture-mise-en-scene/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Philippine-5_06_08-monologue-lecture-mise-en-scene/metadata.xml
@@ -6646,6 +6876,7 @@ duration: "2min45",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-5_08_20-monologue-barbies/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-5_08_20-monologue-barbies/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-5_08_20-monologue-barbies/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-5_08_20-monologue-barbies/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Philippine-5_08_20-monologue-barbies/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-5_08_20-monologue-barbies/metadata.xml
 {
@@ -6659,7 +6890,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "poupée (barbie)",
-actkey: "poupée_peluche_figurines",
+actkey: "poupée peluche figurines",
 theme: "monologue, jeu symbolique, jeu de rôles, polyphonie",
 themekey: "monologue",
 keywords: "barbies",
@@ -6674,6 +6905,7 @@ duration: "27sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Philippine-5_08_20-monologue-colere/metadata.xml
 // Error: no element for  place  in  ./data/doc/Philippine-5_08_20-monologue-colere/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Philippine-5_08_20-monologue-colere/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Philippine-5_08_20-monologue-colere/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Philippine-5_08_20-monologue-colere/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Philippine-5_08_20-monologue-colere/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Philippine-5_08_20-monologue-colere/metadata.xml
@@ -6704,6 +6936,7 @@ duration: "46sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_07_03-premiers_mots-rire/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_07_03-premiers_mots-rire/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_07_03-premiers_mots-rire/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_07_03-premiers_mots-rire/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_07_03-premiers_mots-rire/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Theophile-0_07_03-premiers_mots-rire/metadata.xml
 {
@@ -6719,7 +6952,7 @@ languageextract: "fra",
 act: "soin (bain)",
 actkey: "soin",
 theme: "premiers mots, interprétation, rire",
-themekey: "premiers_mots",
+themekey: "premiers mots",
 keywords: "",
 duration: "12sec",
 },
@@ -6732,6 +6965,7 @@ duration: "12sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_07_03-xxx-bain-et-livre/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_07_03-xxx-bain-et-livre/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_07_03-xxx-bain-et-livre/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_07_03-xxx-bain-et-livre/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-0_07_03-xxx-bain-et-livre/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-0_07_03-xxx-bain-et-livre/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_07_03-xxx-bain-et-livre/metadata.xml
@@ -6765,6 +6999,7 @@ duration: "40sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_07_03-xxx-bain-mono-dia/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_07_03-xxx-bain-mono-dia/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_07_03-xxx-bain-mono-dia/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_07_03-xxx-bain-mono-dia/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-0_07_03-xxx-bain-mono-dia/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-0_07_03-xxx-bain-mono-dia/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_07_03-xxx-bain-mono-dia/metadata.xml
@@ -6798,6 +7033,7 @@ duration: "1min30",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_07_03-xxx-change-mono-dia/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_07_03-xxx-change-mono-dia/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_07_03-xxx-change-mono-dia/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_07_03-xxx-change-mono-dia/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-0_07_03-xxx-change-mono-dia/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-0_07_03-xxx-change-mono-dia/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_07_03-xxx-change-mono-dia/metadata.xml
@@ -6831,6 +7067,7 @@ duration: "2min",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_07_03-xxx-mono-bain/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_07_03-xxx-mono-bain/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_07_03-xxx-mono-bain/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_07_03-xxx-mono-bain/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-0_07_03-xxx-mono-bain/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-0_07_03-xxx-mono-bain/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_07_03-xxx-mono-bain/metadata.xml
@@ -6864,6 +7101,7 @@ duration: "20sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_07_03-xxx-transat/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_07_03-xxx-transat/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_07_03-xxx-transat/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_07_03-xxx-transat/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-0_07_03-xxx-transat/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-0_07_03-xxx-transat/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_07_03-xxx-transat/metadata.xml
@@ -6897,6 +7135,7 @@ duration: "1min20",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_08_02-xxx-jeu-transat/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_08_02-xxx-jeu-transat/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_08_02-xxx-jeu-transat/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_08_02-xxx-jeu-transat/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-0_08_02-xxx-jeu-transat/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-0_08_02-xxx-jeu-transat/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_08_02-xxx-jeu-transat/metadata.xml
@@ -6930,6 +7169,7 @@ duration: "2min20",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_08_02-xxx-transat-maman/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_08_02-xxx-transat-maman/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_08_02-xxx-transat-maman/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_08_02-xxx-transat-maman/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-0_08_02-xxx-transat-maman/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-0_08_02-xxx-transat-maman/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_08_02-xxx-transat-maman/metadata.xml
@@ -6963,6 +7203,7 @@ duration: "2min20",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_08_30-xxx-longmono-et-intervention-maman/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_08_30-xxx-longmono-et-intervention-maman/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_08_30-xxx-longmono-et-intervention-maman/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_08_30-xxx-longmono-et-intervention-maman/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-0_08_30-xxx-longmono-et-intervention-maman/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-0_08_30-xxx-longmono-et-intervention-maman/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_08_30-xxx-longmono-et-intervention-maman/metadata.xml
@@ -6996,6 +7237,7 @@ duration: "7min20",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_08_30-xxx-piano/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_08_30-xxx-piano/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_08_30-xxx-piano/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_08_30-xxx-piano/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-0_08_30-xxx-piano/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-0_08_30-xxx-piano/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_08_30-xxx-piano/metadata.xml
@@ -7029,6 +7271,7 @@ duration: "1min50",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_10_07-xxx-baguette/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_10_07-xxx-baguette/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_10_07-xxx-baguette/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_10_07-xxx-baguette/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-0_10_07-xxx-baguette/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-0_10_07-xxx-baguette/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_10_07-xxx-baguette/metadata.xml
@@ -7062,6 +7305,7 @@ duration: "1min40",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_10_28-xxx-jeux/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_10_28-xxx-jeux/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_10_28-xxx-jeux/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_10_28-xxx-jeux/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-0_10_28-xxx-jeux/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-0_10_28-xxx-jeux/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_10_28-xxx-jeux/metadata.xml
@@ -7095,6 +7339,7 @@ duration: "50sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_10_28-xxx-non-plante/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_10_28-xxx-non-plante/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_10_28-xxx-non-plante/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_10_28-xxx-non-plante/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-0_10_28-xxx-non-plante/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-0_10_28-xxx-non-plante/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_10_28-xxx-non-plante/metadata.xml
@@ -7128,6 +7373,7 @@ duration: "3min10",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_10_28-xxx-plante/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_10_28-xxx-plante/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_10_28-xxx-plante/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_10_28-xxx-plante/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-0_10_28-xxx-plante/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-0_10_28-xxx-plante/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_10_28-xxx-plante/metadata.xml
@@ -7161,6 +7407,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_10_28-xxx-pointage-monologique-coupe/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_10_28-xxx-pointage-monologique-coupe/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_10_28-xxx-pointage-monologique-coupe/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_10_28-xxx-pointage-monologique-coupe/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-0_10_28-xxx-pointage-monologique-coupe/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-0_10_28-xxx-pointage-monologique-coupe/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_10_28-xxx-pointage-monologique-coupe/metadata.xml
@@ -7194,6 +7441,7 @@ duration: "13sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_10_28-xxx-pointage-monologique/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_10_28-xxx-pointage-monologique/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_10_28-xxx-pointage-monologique/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_10_28-xxx-pointage-monologique/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-0_10_28-xxx-pointage-monologique/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-0_10_28-xxx-pointage-monologique/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_10_28-xxx-pointage-monologique/metadata.xml
@@ -7227,6 +7475,7 @@ duration: "45sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_10_28-xxx-traversee/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_10_28-xxx-traversee/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_10_28-xxx-traversee/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_10_28-xxx-traversee/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-0_10_28-xxx-traversee/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-0_10_28-xxx-traversee/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_10_28-xxx-traversee/metadata.xml
@@ -7260,6 +7509,7 @@ duration: "1min20",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-0_10_28-xxx-traversee2/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-0_10_28-xxx-traversee2/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-0_10_28-xxx-traversee2/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-0_10_28-xxx-traversee2/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-0_10_28-xxx-traversee2/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-0_10_28-xxx-traversee2/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-0_10_28-xxx-traversee2/metadata.xml
@@ -7293,6 +7543,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_00_09-xxx-aii2/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_00_09-xxx-aii2/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_00_09-xxx-aii2/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_00_09-xxx-aii2/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_00_09-xxx-aii2/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_00_09-xxx-aii2/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_00_09-xxx-aii2/metadata.xml
@@ -7326,6 +7577,7 @@ duration: "40sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_00_09-xxx-aiii/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_00_09-xxx-aiii/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_00_09-xxx-aiii/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_00_09-xxx-aiii/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_00_09-xxx-aiii/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_00_09-xxx-aiii/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_00_09-xxx-aiii/metadata.xml
@@ -7359,6 +7611,7 @@ duration: "35sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_02_10-xxx-mono-et-dia-avec-peluche/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_02_10-xxx-mono-et-dia-avec-peluche/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_02_10-xxx-mono-et-dia-avec-peluche/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_02_10-xxx-mono-et-dia-avec-peluche/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_02_10-xxx-mono-et-dia-avec-peluche/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_02_10-xxx-mono-et-dia-avec-peluche/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_02_10-xxx-mono-et-dia-avec-peluche/metadata.xml
@@ -7392,6 +7645,7 @@ duration: "1min20",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_02_10-xxx-monologue-avec-les-animaux/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_02_10-xxx-monologue-avec-les-animaux/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_02_10-xxx-monologue-avec-les-animaux/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_02_10-xxx-monologue-avec-les-animaux/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_02_10-xxx-monologue-avec-les-animaux/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_02_10-xxx-monologue-avec-les-animaux/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_02_10-xxx-monologue-avec-les-animaux/metadata.xml
@@ -7425,6 +7679,7 @@ duration: "2min",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_03_02-xxx-repas-pleurs/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_03_02-xxx-repas-pleurs/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_03_02-xxx-repas-pleurs/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_03_02-xxx-repas-pleurs/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_03_02-xxx-repas-pleurs/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_03_02-xxx-repas-pleurs/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_03_02-xxx-repas-pleurs/metadata.xml
@@ -7458,6 +7713,7 @@ duration: "2min15",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_04_01-xxx-coton-tige/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_04_01-xxx-coton-tige/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_04_01-xxx-coton-tige/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_04_01-xxx-coton-tige/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_04_01-xxx-coton-tige/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_04_01-xxx-coton-tige/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_04_01-xxx-coton-tige/metadata.xml
@@ -7491,6 +7747,7 @@ duration: "15sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_04_01-xxx-etabli/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_04_01-xxx-etabli/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_04_01-xxx-etabli/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_04_01-xxx-etabli/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_04_01-xxx-etabli/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_04_01-xxx-etabli/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_04_01-xxx-etabli/metadata.xml
@@ -7524,6 +7781,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_04_01-xxx-miam3/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_04_01-xxx-miam3/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_04_01-xxx-miam3/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_04_01-xxx-miam3/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_04_01-xxx-miam3/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_04_01-xxx-miam3/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_04_01-xxx-miam3/metadata.xml
@@ -7557,6 +7815,7 @@ duration: "50sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_04_01-xxx-miammiam1/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_04_01-xxx-miammiam1/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_04_01-xxx-miammiam1/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_04_01-xxx-miammiam1/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_04_01-xxx-miammiam1/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_04_01-xxx-miammiam1/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_04_01-xxx-miammiam1/metadata.xml
@@ -7590,6 +7849,7 @@ duration: "6sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_04_01-xxx-miammiam2/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_04_01-xxx-miammiam2/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_04_01-xxx-miammiam2/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_04_01-xxx-miammiam2/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_04_01-xxx-miammiam2/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_04_01-xxx-miammiam2/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_04_01-xxx-miammiam2/metadata.xml
@@ -7623,6 +7883,7 @@ duration: "30sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_05_05-xxx-biberon/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_05_05-xxx-biberon/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_05_05-xxx-biberon/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_05_05-xxx-biberon/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_05_05-xxx-biberon/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_05_05-xxx-biberon/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_05_05-xxx-biberon/metadata.xml
@@ -7656,6 +7917,7 @@ duration: "20sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_05_05-xxx-vocalises-table-a-langer-coupe/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_05_05-xxx-vocalises-table-a-langer-coupe/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_05_05-xxx-vocalises-table-a-langer-coupe/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_05_05-xxx-vocalises-table-a-langer-coupe/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_05_05-xxx-vocalises-table-a-langer-coupe/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_05_05-xxx-vocalises-table-a-langer-coupe/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_05_05-xxx-vocalises-table-a-langer-coupe/metadata.xml
@@ -7689,6 +7951,7 @@ duration: "1min40",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_05_05-xxx-vocalises-table-a-langer/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_05_05-xxx-vocalises-table-a-langer/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_05_05-xxx-vocalises-table-a-langer/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_05_05-xxx-vocalises-table-a-langer/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_05_05-xxx-vocalises-table-a-langer/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_05_05-xxx-vocalises-table-a-langer/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_05_05-xxx-vocalises-table-a-langer/metadata.xml
@@ -7722,6 +7985,7 @@ duration: "2min25",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_05_05-xxx-vroum-aurevoir/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_05_05-xxx-vroum-aurevoir/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_05_05-xxx-vroum-aurevoir/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_05_05-xxx-vroum-aurevoir/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_05_05-xxx-vroum-aurevoir/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_05_05-xxx-vroum-aurevoir/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_05_05-xxx-vroum-aurevoir/metadata.xml
@@ -7755,6 +8019,7 @@ duration: "30sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_06_08-humour-elle-est-bonne-celle-la/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_06_08-humour-elle-est-bonne-celle-la/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_06_08-humour-elle-est-bonne-celle-la/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_06_08-humour-elle-est-bonne-celle-la/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_06_08-humour-elle-est-bonne-celle-la/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_06_08-humour-elle-est-bonne-celle-la/metadata.xml
 {
@@ -7783,6 +8048,7 @@ duration: "8sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_06_08-humour-immigration-choisie2/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_06_08-humour-immigration-choisie2/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_06_08-humour-immigration-choisie2/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_06_08-humour-immigration-choisie2/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_06_08-humour-immigration-choisie2/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_06_08-humour-immigration-choisie2/metadata.xml
 {
@@ -7811,6 +8077,7 @@ duration: "26sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_06_08-xxx-chant/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_06_08-xxx-chant/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_06_08-xxx-chant/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_06_08-xxx-chant/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_06_08-xxx-chant/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_06_08-xxx-chant/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_06_08-xxx-chant/metadata.xml
@@ -7844,6 +8111,7 @@ duration: "1min",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_08_08-mouvement-piano/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_08_08-mouvement-piano/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_08_08-mouvement-piano/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_08_08-mouvement-piano/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_08_08-mouvement-piano/metadata.xml
 {
 title: "Theophile - piano",
@@ -7871,6 +8139,7 @@ duration: "11sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_08_08-xxx-met/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_08_08-xxx-met/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_08_08-xxx-met/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_08_08-xxx-met/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_08_08-xxx-met/metadata.xml
 // Error: no child node for  themekey  in  ./data/doc/Theophile-1_08_08-xxx-met/metadata.xml
 {
@@ -7884,7 +8153,7 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu symbolique",
-actkey: "jeu_symbolique",
+actkey: "jeu symbolique",
 theme: ", préposition",
 themekey: "",
 keywords: "met",
@@ -7899,6 +8168,7 @@ duration: "16sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_10_07-premiers_mots-vroumvroum/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_10_07-premiers_mots-vroumvroum/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_10_07-premiers_mots-vroumvroum/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_10_07-premiers_mots-vroumvroum/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_10_07-premiers_mots-vroumvroum/metadata.xml
 {
 title: "Theophile - vroumvroum",
@@ -7913,7 +8183,7 @@ languageextract: "fra",
 act: "soin (change)",
 actkey: "soin",
 theme: "premiers mots, onomatopée, filler, réferentialité, reprise par la mère, multimodalité",
-themekey: "premiers_mots",
+themekey: "premiers mots",
 keywords: "vroum",
 duration: "25sec",
 },
@@ -7926,6 +8196,7 @@ duration: "25sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_11_07-etayage-bulle-bille/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_11_07-etayage-bulle-bille/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_11_07-etayage-bulle-bille/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_11_07-etayage-bulle-bille/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_11_07-etayage-bulle-bille/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Theophile-1_11_07-etayage-bulle-bille/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Theophile-1_11_07-etayage-bulle-bille/metadata.xml
@@ -7956,6 +8227,7 @@ duration: "15sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_11_07-xxx-miammiam/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_11_07-xxx-miammiam/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_11_07-xxx-miammiam/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_11_07-xxx-miammiam/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_11_07-xxx-miammiam/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_11_07-xxx-miammiam/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_11_07-xxx-miammiam/metadata.xml
@@ -7989,6 +8261,7 @@ duration: "1min15",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_11_25-xxx-boumboum/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_11_25-xxx-boumboum/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_11_25-xxx-boumboum/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_11_25-xxx-boumboum/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_11_25-xxx-boumboum/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_11_25-xxx-boumboum/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_11_25-xxx-boumboum/metadata.xml
@@ -8022,6 +8295,7 @@ duration: "25sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_11_25-xxx-miammiam/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_11_25-xxx-miammiam/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_11_25-xxx-miammiam/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_11_25-xxx-miammiam/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_11_25-xxx-miammiam/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_11_25-xxx-miammiam/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_11_25-xxx-miammiam/metadata.xml
@@ -8055,6 +8329,7 @@ duration: "4sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-1_11_25-xxx-miammiam2/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-1_11_25-xxx-miammiam2/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-1_11_25-xxx-miammiam2/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-1_11_25-xxx-miammiam2/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-1_11_25-xxx-miammiam2/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-1_11_25-xxx-miammiam2/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-1_11_25-xxx-miammiam2/metadata.xml
@@ -8088,6 +8363,7 @@ duration: "30sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_00_20-premiere_syntaxe-a-papi/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_00_20-premiere_syntaxe-a-papi/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_00_20-premiere_syntaxe-a-papi/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_00_20-premiere_syntaxe-a-papi/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_00_20-premiere_syntaxe-a-papi/metadata.xml
 {
 title: "Theophile - a papi",
@@ -8102,7 +8378,7 @@ languageextract: "fra",
 act: "soin (bain)",
 actkey: "soin",
 theme: "première syntaxe, combinaison filler - mot, onomatopée, proto-langage",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "vroum",
 duration: "41sec",
 },
@@ -8115,6 +8391,7 @@ duration: "41sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_00_20-premiere_syntaxe-fillermot/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_00_20-premiere_syntaxe-fillermot/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_00_20-premiere_syntaxe-fillermot/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_00_20-premiere_syntaxe-fillermot/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_00_20-premiere_syntaxe-fillermot/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Theophile-2_00_20-premiere_syntaxe-fillermot/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Theophile-2_00_20-premiere_syntaxe-fillermot/metadata.xml
@@ -8131,7 +8408,7 @@ languageextract: "fra",
 act: "",
 actkey: "",
 theme: "première syntaxe, combinaison filler - mot",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "clé",
 duration: "13sec",
 },
@@ -8144,6 +8421,7 @@ duration: "13sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_00_20-premiere_syntaxe-onomatopee/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_00_20-premiere_syntaxe-onomatopee/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_00_20-premiere_syntaxe-onomatopee/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_00_20-premiere_syntaxe-onomatopee/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_00_20-premiere_syntaxe-onomatopee/metadata.xml
 {
 title: "Theophile - onomatopee",
@@ -8158,7 +8436,7 @@ languageextract: "fra",
 act: "soin (bain)",
 actkey: "soin",
 theme: "première syntaxe, onomatopée ",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "vroum",
 duration: "25sec",
 },
@@ -8171,6 +8449,7 @@ duration: "25sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_00_20-xxx-bain-monoadia/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_00_20-xxx-bain-monoadia/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_00_20-xxx-bain-monoadia/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_00_20-xxx-bain-monoadia/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-2_00_20-xxx-bain-monoadia/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-2_00_20-xxx-bain-monoadia/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_00_20-xxx-bain-monoadia/metadata.xml
@@ -8204,6 +8483,7 @@ duration: "1min10",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_00_20-xxx-miammiam-montage/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_00_20-xxx-miammiam-montage/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_00_20-xxx-miammiam-montage/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_00_20-xxx-miammiam-montage/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-2_00_20-xxx-miammiam-montage/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-2_00_20-xxx-miammiam-montage/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_00_20-xxx-miammiam-montage/metadata.xml
@@ -8237,6 +8517,7 @@ duration: "13sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_02_08-xxx-aouaoua/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_02_08-xxx-aouaoua/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_02_08-xxx-aouaoua/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_02_08-xxx-aouaoua/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-2_02_08-xxx-aouaoua/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-2_02_08-xxx-aouaoua/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_02_08-xxx-aouaoua/metadata.xml
@@ -8270,6 +8551,7 @@ duration: "35sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_02_08-xxx-bouchon-cache/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_02_08-xxx-bouchon-cache/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_02_08-xxx-bouchon-cache/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_02_08-xxx-bouchon-cache/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_02_08-xxx-bouchon-cache/metadata.xml
 // Error: no child node for  act  in  ./data/doc/Theophile-2_02_08-xxx-bouchon-cache/metadata.xml
 // Error: no child node for  actkey  in  ./data/doc/Theophile-2_02_08-xxx-bouchon-cache/metadata.xml
@@ -8300,6 +8582,7 @@ duration: "35sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_02_08-xxx-monoadia/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_02_08-xxx-monoadia/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_02_08-xxx-monoadia/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_02_08-xxx-monoadia/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-2_02_08-xxx-monoadia/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-2_02_08-xxx-monoadia/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_02_08-xxx-monoadia/metadata.xml
@@ -8333,6 +8616,7 @@ duration: "45sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_04_29-xxx-manteau/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_04_29-xxx-manteau/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_04_29-xxx-manteau/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_04_29-xxx-manteau/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-2_04_29-xxx-manteau/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-2_04_29-xxx-manteau/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_04_29-xxx-manteau/metadata.xml
@@ -8366,6 +8650,7 @@ duration: "35sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_06_03-xxx-avion/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_06_03-xxx-avion/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_06_03-xxx-avion/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_06_03-xxx-avion/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-2_06_03-xxx-avion/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-2_06_03-xxx-avion/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_06_03-xxx-avion/metadata.xml
@@ -8399,6 +8684,7 @@ duration: "1min25",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_06_03-xxx-bain/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_06_03-xxx-bain/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_06_03-xxx-bain/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_06_03-xxx-bain/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-2_06_03-xxx-bain/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-2_06_03-xxx-bain/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_06_03-xxx-bain/metadata.xml
@@ -8432,6 +8718,7 @@ duration: "40sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_06_03-xxx-livre/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_06_03-xxx-livre/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_06_03-xxx-livre/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_06_03-xxx-livre/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-2_06_03-xxx-livre/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-2_06_03-xxx-livre/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_06_03-xxx-livre/metadata.xml
@@ -8465,6 +8752,7 @@ duration: "1min35",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_07_04-premiere_syntaxe-main/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_07_04-premiere_syntaxe-main/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_07_04-premiere_syntaxe-main/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_07_04-premiere_syntaxe-main/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_07_04-premiere_syntaxe-main/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Theophile-2_07_04-premiere_syntaxe-main/metadata.xml
 {
@@ -8480,7 +8768,7 @@ languageextract: "fra",
 act: "soin (change)",
 actkey: "soin",
 theme: "première syntaxe, combinaison de mots, proto-mot, filler",
-themekey: "première_syntaxe",
+themekey: "première syntaxe",
 keywords: "",
 duration: "19sec",
 },
@@ -8493,6 +8781,7 @@ duration: "19sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_10_28-temporalite-sonnent/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_10_28-temporalite-sonnent/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_10_28-temporalite-sonnent/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_10_28-temporalite-sonnent/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_10_28-temporalite-sonnent/metadata.xml
 {
 title: "Theophile - sonnent",
@@ -8520,6 +8809,7 @@ duration: "17sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_10_28-temporalite-vais-manger/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_10_28-temporalite-vais-manger/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_10_28-temporalite-vais-manger/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_10_28-temporalite-vais-manger/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_10_28-temporalite-vais-manger/metadata.xml
 {
 title: "Theophile - vais manger",
@@ -8547,6 +8837,7 @@ duration: "17sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_10_28-xxx-monoadia/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_10_28-xxx-monoadia/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_10_28-xxx-monoadia/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_10_28-xxx-monoadia/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-2_10_28-xxx-monoadia/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-2_10_28-xxx-monoadia/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_10_28-xxx-monoadia/metadata.xml
@@ -8580,6 +8871,7 @@ duration: "45sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_11_28-xxx-bain/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_11_28-xxx-bain/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_11_28-xxx-bain/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_11_28-xxx-bain/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-2_11_28-xxx-bain/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-2_11_28-xxx-bain/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_11_28-xxx-bain/metadata.xml
@@ -8613,6 +8905,7 @@ duration: "6min40",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-2_11_28-xxx-dessin/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-2_11_28-xxx-dessin/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-2_11_28-xxx-dessin/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-2_11_28-xxx-dessin/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-2_11_28-xxx-dessin/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-2_11_28-xxx-dessin/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-2_11_28-xxx-dessin/metadata.xml
@@ -8646,8 +8939,8 @@ duration: "6min45",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-3_02_00-xxx-ai-cogne/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-3_02_00-xxx-ai-cogne/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-3_02_00-xxx-ai-cogne/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-3_02_00-xxx-ai-cogne/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-3_02_00-xxx-ai-cogne/metadata.xml
-// Error: no child node for  themekey  in  ./data/doc/Theophile-3_02_00-xxx-ai-cogne/metadata.xml
 {
 title: "Theophile - ai cogne",
 entry: "Theophile-3_02_00-xxx-ai-cogne",
@@ -8659,9 +8952,9 @@ languagemother: "fra",
 languagesecond: "",
 languageextract: "fra",
 act: "jeu en extérieur (ballon)",
-actkey: "jeu_en_extérieur",
-theme: ", pronom, filler, participe passé, passé, étayage, reformulation, répétition, onomatopée ",
-themekey: "",
+actkey: "jeu en extérieur",
+theme: "pronom, filler, participe passé, passé, étayage, reformulation, répétition, onomatopée ",
+themekey: "reformulation",
 keywords: "é cogné",
 duration: "18sec",
 },
@@ -8674,6 +8967,7 @@ duration: "18sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-3_11_15-temporalite-vais-va/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-3_11_15-temporalite-vais-va/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-3_11_15-temporalite-vais-va/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-3_11_15-temporalite-vais-va/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-3_11_15-temporalite-vais-va/metadata.xml
 {
 title: "Theophile - vais va",
@@ -8701,6 +8995,7 @@ duration: "22sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-3_11_15-xxx-commentaire-livre/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-3_11_15-xxx-commentaire-livre/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-3_11_15-xxx-commentaire-livre/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-3_11_15-xxx-commentaire-livre/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-3_11_15-xxx-commentaire-livre/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-3_11_15-xxx-commentaire-livre/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-3_11_15-xxx-commentaire-livre/metadata.xml
@@ -8734,6 +9029,7 @@ duration: "55min",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-3_11_15-xxx-construction/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-3_11_15-xxx-construction/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-3_11_15-xxx-construction/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-3_11_15-xxx-construction/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-3_11_15-xxx-construction/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-3_11_15-xxx-construction/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-3_11_15-xxx-construction/metadata.xml
@@ -8767,6 +9063,7 @@ duration: "2min40",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-4_03_29-xxx-comptage/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-4_03_29-xxx-comptage/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-4_03_29-xxx-comptage/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-4_03_29-xxx-comptage/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-4_03_29-xxx-comptage/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-4_03_29-xxx-comptage/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-4_03_29-xxx-comptage/metadata.xml
@@ -8800,6 +9097,7 @@ duration: "35sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Theophile-4_11_11-xxx-xxx/metadata.xml
 // Error: no element for  place  in  ./data/doc/Theophile-4_11_11-xxx-xxx/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Theophile-4_11_11-xxx-xxx/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Theophile-4_11_11-xxx-xxx/metadata.xml
 // Error: no child node for  description  in  ./data/doc/Theophile-4_11_11-xxx-xxx/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Theophile-4_11_11-xxx-xxx/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Theophile-4_11_11-xxx-xxx/metadata.xml
@@ -8833,6 +9131,7 @@ duration: "30min",
 // Error: no child node for  languagesecond  in  ./data/doc/Ulysse-2_04_30-monologue-magazine/metadata.xml
 // Error: no element for  place  in  ./data/doc/Ulysse-2_04_30-monologue-magazine/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Ulysse-2_04_30-monologue-magazine/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Ulysse-2_04_30-monologue-magazine/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Ulysse-2_04_30-monologue-magazine/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Ulysse-2_04_30-monologue-magazine/metadata.xml
 {
@@ -8861,6 +9160,7 @@ duration: "52sec",
 // Error: no child node for  languagesecond  in  ./data/doc/Ulysse-2_04_30-monologue-nez-coule/metadata.xml
 // Error: no element for  place  in  ./data/doc/Ulysse-2_04_30-monologue-nez-coule/metadata.xml
 // Error: no element for  disc  in  ./data/doc/Ulysse-2_04_30-monologue-nez-coule/metadata.xml
+// Error: no element for  contact  in  ./data/doc/Ulysse-2_04_30-monologue-nez-coule/metadata.xml
 // Error: no child node for  transcription  in  ./data/doc/Ulysse-2_04_30-monologue-nez-coule/metadata.xml
 // Error: no element for  extmedia  in  ./data/doc/Ulysse-2_04_30-monologue-nez-coule/metadata.xml
 // Error: no child node for  keywords  in  ./data/doc/Ulysse-2_04_30-monologue-nez-coule/metadata.xml

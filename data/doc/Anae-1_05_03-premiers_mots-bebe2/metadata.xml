@@ -3,15 +3,15 @@
 <entry>Anae-1_05_03-premiers_mots-bebe2</entry>
 <media>Anae-1_05_03-premiers_mots-bebe2.mp4</media>
 <project>CoLaJE</project>
-<child>Anae</child>
+<child>Anaé</child>
 <age>1;05.03</age>
 <languagemother>fra</languagemother>
 <languagesecond></languagesecond>
 <languageextract>fra</languageextract>
 <act>poupée</act>
-<actkey>poupée_peluche_figurines</actkey>
+<actkey>poupée peluche figurines</actkey>
 <theme>premiers mots, monologue en présence d'autrui, commente ce qu'elle fait (et projet?)</theme>
-<themekey>premiers_mots</themekey>
+<themekey>premiers mots</themekey>
 <keywords>bébé</keywords>
 <duration>1min50</duration>
 <transcription></transcription>

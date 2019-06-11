@@ -3,13 +3,13 @@
 <entry>Anae-3_04_27-etayage-neige-fond-devient-eau</entry>
 <media>Anae-3_04_27-etayage-neige-fond-devient-eau.mp4</media>
 <project>CoLaJE</project>
-<child>Anae</child>
+<child>Anaé</child>
 <age>3;04.27</age>
 <languagemother>fra</languagemother>
 <languagesecond></languagesecond>
 <languageextract>fra</languageextract>
 <act>jeu autre (pâte à modeler)</act>
-<actkey>jeu_autre</actkey>
+<actkey>jeu autre</actkey>
 <theme>étayage, zone proximale de développement, reformulation, extension</theme>
 <themekey>étayage</themekey>
 <keywords>neige, fond</keywords>

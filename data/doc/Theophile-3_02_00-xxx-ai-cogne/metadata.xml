@@ -9,9 +9,9 @@
 <languagesecond></languagesecond>
 <languageextract>fra</languageextract>
 <act>jeu en extérieur (ballon)</act>
-<actkey>jeu_en_extérieur</actkey>
-<theme>, pronom, filler, participe passé, passé, étayage, reformulation, répétition, onomatopée </theme>
-<themekey></themekey>
+<actkey>jeu en extérieur</actkey>
+<theme>pronom, filler, participe passé, passé, étayage, reformulation, répétition, onomatopée </theme>
+<themekey>reformulation</themekey>
 <keywords>é cogné</keywords>
 <duration>18sec</duration>
 <transcription>THEOPHILE	c(el)ui+là i(l) peut.

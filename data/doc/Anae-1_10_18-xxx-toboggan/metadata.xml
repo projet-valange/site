@@ -3,13 +3,13 @@
 <entry>Anae-1_10_18-xxx-toboggan</entry>
 <media>Anae-1_10_18-xxx-toboggan.mp4</media>
 <project>CoLaJE</project>
-<child>Anae</child>
+<child>Anaé</child>
 <age>1;10.18</age>
 <languagemother>fra</languagemother>
 <languagesecond></languagesecond>
 <languageextract>fra</languageextract>
 <act>jeu en extérieur (toboggan)</act>
-<actkey>jeu_en_extérieur</actkey>
+<actkey>jeu en extérieur</actkey>
 <theme>, prénom (par la mère)</theme>
 <themekey></themekey>
 <keywords></keywords>

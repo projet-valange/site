@@ -3,13 +3,13 @@
 <entry>Anae-1_05_03-babillage-puzzle</entry>
 <media>Anae-1_05_03-babillage-puzzle.mp4</media>
 <project>CoLaJE</project>
-<child>Anae</child>
+<child>Anaé</child>
 <age>1;05.03</age>
 <languagemother>fra</languagemother>
 <languagesecond></languagesecond>
 <languageextract>fra</languageextract>
 <act>jeu de construction (puzzle)</act>
-<actkey>jeu_de_construction</actkey>
+<actkey>jeu de construction</actkey>
 <theme>babillage, dia - mono (commente ce qu'elle fait) - dia </theme>
 <themekey>babillage</themekey>
 <keywords></keywords>

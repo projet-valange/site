@@ -3,13 +3,13 @@
 <entry>Anae-3_10_00-etayage-sontaient</entry>
 <media>Anae-3_10_00-etayage-sontaient.mp4</media>
 <project>CoLaJE</project>
-<child>Anae</child>
+<child>Anaé</child>
 <age>3;10.00</age>
 <languagemother>fra</languagemother>
 <languagesecond></languagesecond>
 <languageextract>fra</languageextract>
 <act>figurines</act>
-<actkey>poupée_peluche_figurines</actkey>
+<actkey>poupée peluche figurines</actkey>
 <theme>étayage, maintien communication, non correction</theme>
 <themekey>étayage</themekey>
 <keywords>sontaient</keywords>

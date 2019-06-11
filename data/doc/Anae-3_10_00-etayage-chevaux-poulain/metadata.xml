@@ -3,13 +3,13 @@
 <entry>Anae-3_10_00-etayage-chevaux-poulain</entry>
 <media>Anae-3_10_00-etayage-chevaux-poulain.mp4</media>
 <project>CoLaJE</project>
-<child>Anae</child>
+<child>Anaé</child>
 <age>3;10.00</age>
 <languagemother>fra</languagemother>
 <languagesecond></languagesecond>
 <languageextract>fra</languageextract>
 <act>figurines</act>
-<actkey>poupée_peluche_figurines</actkey>
+<actkey>poupée peluche figurines</actkey>
 <theme>étayage, rectification directe, erreur singulier-pluriel</theme>
 <themekey>étayage</themekey>
 <keywords>chevaux, poulain</keywords>

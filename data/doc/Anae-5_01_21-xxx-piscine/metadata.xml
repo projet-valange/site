@@ -3,14 +3,14 @@
 <entry>Anae-5_01_21-xxx-piscine</entry>
 <media>Anae-5_01_21-xxx-piscine.mp4</media>
 <project>CoLaJE</project>
-<child>Anae</child>
+<child>Anaé</child>
 <age>5;01.21</age>
 <languagemother>fra</languagemother>
 <languagesecond></languagesecond>
 <languageextract>fra</languageextract>
-<act></act>
-<actkey></actkey>
-<theme>, passé, préposition</theme>
+<act>souvenir</act>
+<actkey>souvenir</actkey>
+<theme>passé, préposition, conjonction, passé composé</theme>
 <themekey></themekey>
 <keywords></keywords>
 <duration>10sec</duration>

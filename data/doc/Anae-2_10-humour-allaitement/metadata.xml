@@ -3,13 +3,13 @@
 <entry>Anae-2_10-humour-allaitement</entry>
 <media>Anae-2_10-humour-allaitement.mp4</media>
 <project>CoLaJE</project>
-<child>Anae</child>
+<child>Anaé</child>
 <age>2;10</age>
 <languagemother>fra</languagemother>
 <languagesecond></languagesecond>
 <languageextract>fra</languageextract>
 <act>poupée</act>
-<actkey>poupée_peluche_figurines</actkey>
+<actkey>poupée peluche figurines</actkey>
 <theme>humour, rire partagé, connivence, connaissances du monde</theme>
 <themekey>humour</themekey>
 <keywords>allaitement</keywords>
