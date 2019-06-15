@@ -1,27 +1,27 @@
 var activitiesCategories = {
-    "Poupée peluche figurines": "Jeux",
-    "Jeu de construction": "Jeux",
-    "Jeu en extérieur": "Jeux",
-    "Jeu de société": "Jeux",
-    "Jeu symbolique": "Jeux",
-    "Jeu technologique": "Jeux",
-    "Jeu autre": "Jeux",
-    "Repas": "Vie Quotidienne",
-    "Soin": "Vie Quotidienne",
-    "Devoirs": "Apprentissages",
-    "Politesse": "Apprentissages",
-    "Rangement": "Apprentissages",
-    "Téléphone": "Apprentissages",
-    "Dessin": "Créativité",
-    "Livre": "Créativité",
-    "Musique": "Créativité",
+    "poupée peluche figurines": "jeux",
+    "jeu de construction": "jeux",
+    "jeu en extérieur": "jeux",
+    "jeu de société": "jeux",
+    "jeu symbolique": "jeux",
+    "jeu technologique": "jeux",
+    "jeu autre": "jeux",
+    "repas": "vie quotidienne",
+    "soin": "vie quotidienne",
+    "devoirs": "apprentissages",
+    "politesse": "apprentissages",
+    "rangement": "apprentissages",
+    "téléphone": "apprentissages",
+    "dessin": "créativité",
+    "livre": "créativité",
+    "musique": "créativité",
 };
 
 var activitiesPictures = {
-    "Jeux": "johnny_automatic_boy_playing_with_toy_truck.svg",
-    "Vie Quotidienne": "Anonymous_Architetto_--_Come_si_dispongono_le_posate.svg",
-    "Apprentissages": "telefono_email_frolland_01.svg",
-    "Créativité": "AJ_Books.svg"
+    "jeux": "johnny_automatic_boy_playing_with_toy_truck.svg",
+    "vie Quotidienne": "Anonymous_Architetto_--_Come_si_dispongono_le_posate.svg",
+    "apprentissages": "telefono_email_frolland_01.svg",
+    "créativité": "AJ_Books.svg"
 };
 
 var childrenPictures = {

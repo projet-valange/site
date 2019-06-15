@@ -190,6 +190,24 @@ output:after {
     display: inline-block;
     border: blue solid 1px;
     border-radius: 50%;
+    margin-left: 1em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+.nbinfo {
+    font-size: smaller;
+    color: red;
+    display: inline-block;
+    border: red solid 1px;
+    border-radius: 50%;
+    margin-left: 1em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+label.capitalize {
+  text-transform: capitalize;
 }
 
 #ortolang1 {
