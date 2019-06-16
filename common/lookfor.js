@@ -2,19 +2,26 @@
  * lookfor.js
  * file inserted in rechercher.html
  */
+
+"use strict";
+
 function mykeyFunction() {
-    var input, filter, ul, li, a, i, txtValue;
+    var input, filter, ul, tr, li, a, i, j, txtValue;
     input = document.getElementById("myInput");
     filter = input.value.toUpperCase();
     ul = document.getElementById("myUL");
     tr = ul.getElementsByTagName("tr");
     for (i = 0; i < tr.length; i++) {
-        a = tr[i].getElementsByTagName("td")[1];
-        txtValue = a.textContent || a.innerText;
-        if (txtValue.toUpperCase().indexOf(filter) > -1) {
-            tr[i].style.display = "";
-        } else {
-            tr[i].style.display = "none";
+        tr[i].style.display = "none";
+        li = tr[i].getElementsByTagName("td");
+        for (j = 1; j <= 6; j++) {
+            console.log('td:', i, j, li[j]);
+            a = li[j];
+            txtValue = a.textContent || a.innerText;
+            if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                tr[i].style.display = "";
+                break;
+            }
         }
     }
 }
@@ -219,19 +226,23 @@ var themekeyList = {};
 var dbTotalSplitted = [];
 
 function resetValue() {
-    var data_class_child = resetTab(childList, "children");
-    var data_class_theme = resetTab(themekeyList, "theme");
-    var data_class_activity = resetTab(actkeyList, "actkey");
+    resetTab(childList, "children");
+    resetTab(themekeyList, "theme");
+    resetTab(actkeyList, "actkey");
+    resetTab(langMotherList, "language_mother");
+    resetTab(langSecondList, "language_second");
+    resetTab(langExtractList, "language_extract");
     resetInfo('info_child');
     resetInfo('info_theme');
     resetInfo('info_activity');
     resetInfo('info_age');
+    resetInfo('info_language');
 }
 function initTotalValue(dataDB) {
     // stat about dataDB
     for (var dd in dataDB) {
         // create search data
-        splitted = {};
+        var splitted = {};
         // elements with single values
         // entry
         entryList[dataDB[dd].entry] = addOne(entryList[dataDB[dd].entry]);
@@ -321,6 +332,18 @@ function adjustInfo(data_class, type, id_data) {
     p.innerHTML = '<span class="nbinfo">' + n.length + '</span>';
 }
 
+function countInfo(data_class, type) {
+    var localFilter = {};
+    localFilter[type] = data_class;
+    var n = filter(localFilter);
+    return n.length;
+}
+
+function adjustInfoNb(nb, id_data) {
+    var p = document.getElementById(id_data);
+    p.innerHTML = '<span class="nbinfo">' + nb + '</span>';
+}
+
 function resetInfo(id_data) {
     var p = document.getElementById(id_data);
     p.innerHTML = '';
@@ -351,7 +374,7 @@ function checkedTotalValue() {
         var range = age_data.split(",");
         if (range[0] !== 0) {
             //data_class_age.push(parseInt(range[0])-1);
-            for (i = (range[0]); i <= (range[1]); i++) {
+            for (let i = (range[0]); i <= (range[1]); i++) {
                 data_class_age.push(parseInt(i));
                 //console.log("age_data: " + parseInt(i));
             }
@@ -376,15 +399,24 @@ function checkedTotalValue() {
         resetInfo('info_child');
     }
 
+    var nblang = 0;
     if (data_class_languagemother.length > 0) {
         filterBy.languagemother = data_class_languagemother;
+        nblang += countInfo(data_class_languagemother, 'languagemother');
     }
     if (data_class_languagesecond.length > 0) {
         filterBy.languagesecond = data_class_languagesecond;
+        nblang += countInfo(data_class_languagesecond, 'languagesecond');
     }
     if (data_class_languageextract.length > 0) {
         filterBy.languageextract = data_class_languageextract;
+        nblang += countInfo(data_class_languageextract, 'languageextract');
     }
+    if (nblang > 0)
+        adjustInfoNb(nblang, "info_language");
+    else
+        resetInfo("info_language");
+
     if (data_class_theme.length > 0) {
         filterBy.themekey = data_class_theme;
         adjustInfo(data_class_theme, 'themekey', "info_theme");

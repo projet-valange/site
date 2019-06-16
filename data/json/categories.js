@@ -26,12 +26,12 @@ var activitiesPictures = {
 
 var childrenPictures = {
     "Anaé": "anae.jpg",
-    "Antoine (fr)": "antoine.jpg",
-    "Antoine (it/fr)": "antoine-it-fr.png",
+    "Antoine M": "antoine-m.jpg",
+    "Antoine B": "antoine-b.png",
     "Gustavo": "gustavo7.jpg",
     "Julie": "julie.jpg",
     "Madeleine": "madeleine.jpg",
     "Philippine": "philippine.jpg",
     "Théophile": "theophile.jpg",
-    "Ulysse": "default.jpg",
+    "Ulysse": "ulysse.jpg",
 };
