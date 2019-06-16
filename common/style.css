@@ -90,16 +90,24 @@ img.valangeimg {
 
 /* The container */
 .container_cb {
-  display: block;
-  position: relative;
-  padding-left: 25px;
-  margin-bottom: 12px;
-  cursor: pointer;
-  font-size: 1.4em;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+    display: block;
+    position: relative;
+    padding-left: 25px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 1.4em;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.tablang {
+    font-size: 1.4em;
+}
+
+.lang_cb {
+    font-size: smaller;
 }
 
 /* Hide the browser's default checkbox */
@@ -114,11 +122,12 @@ img.valangeimg {
 /* Create a custom checkbox */
 .checkmark {
   position: absolute;
-  top: 0;
+  top: 10px;
   left: 0;
   height: 15px;
   width: 15px;
   background-color: #eee;
+  border: 1px solid black;
 }
 
 /* On mouse-over, add a grey background color */
@@ -155,6 +164,7 @@ img.valangeimg {
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
 }
+
 output {
   position: absolute;
   background-image: linear-gradient(#444444, #999999);
