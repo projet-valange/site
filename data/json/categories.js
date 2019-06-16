@@ -19,7 +19,7 @@ var activitiesCategories = {
 
 var activitiesPictures = {
     "jeux": "johnny_automatic_boy_playing_with_toy_truck.svg",
-    "vie Quotidienne": "Anonymous_Architetto_--_Come_si_dispongono_le_posate.svg",
+    "vie quotidienne": "Anonymous_Architetto_--_Come_si_dispongono_le_posate.svg",
     "apprentissages": "telefono_email_frolland_01.svg",
     "créativité": "AJ_Books.svg"
 };

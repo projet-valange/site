@@ -6,11 +6,12 @@
 "use strict";
 
 function mykeyFunction() {
-    var input, filter, ul, tr, li, a, i, j, txtValue;
+    var input, filter, ul, tr, li, a, i, j, txtValue, nbfound;
     input = document.getElementById("myInput");
     filter = input.value.toUpperCase();
     ul = document.getElementById("myUL");
     tr = ul.getElementsByTagName("tr");
+    nbfound = 0;
     for (i = 0; i < tr.length; i++) {
         tr[i].style.display = "none";
         li = tr[i].getElementsByTagName("td");
@@ -20,10 +21,12 @@ function mykeyFunction() {
             txtValue = a.textContent || a.innerText;
             if (txtValue.toUpperCase().indexOf(filter) > -1) {
                 tr[i].style.display = "";
+                nbfound ++;
                 break;
             }
         }
     }
+    $("#result_length").text(nbfound);
 }
 
 /*
