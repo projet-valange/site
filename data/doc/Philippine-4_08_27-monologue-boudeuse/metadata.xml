@@ -5,9 +5,9 @@
 <project>Monologue</project>
 <child>Philippine</child>
 <age>4;08.27</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act>jeu de construction (cubes)</act>
 <actkey>jeu de construction</actkey>
 <theme>monologue, émotion, bouderie</theme>

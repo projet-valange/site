@@ -10,6 +10,7 @@
   "scripts": {
     "db": "node common/construct.js > data/json/db.js",
     "build": "gulp",
+    "dist": "sh send.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "scriptComments": {

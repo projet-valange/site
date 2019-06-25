@@ -5,9 +5,9 @@
 <project>CoLaJE</project>
 <child>Madeleine</child>
 <age>2;02.06</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act>figurines</act>
 <actkey>poupée peluche figurines</actkey>
 <theme>énoncés complexes, verbe sans sujet, je, vais+infinitif</theme>

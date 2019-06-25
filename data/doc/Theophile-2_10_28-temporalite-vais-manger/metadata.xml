@@ -5,9 +5,9 @@
 <project>CoLaJE</project>
 <child>Théophile</child>
 <age>2;10.28</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act>repas</act>
 <actkey>repas</actkey>
 <theme>temporalité, vais+infinitif, référence à soi, moi</theme>

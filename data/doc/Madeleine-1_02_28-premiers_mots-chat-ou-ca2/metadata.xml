@@ -5,9 +5,9 @@
 <project>CoLaJE</project>
 <child>Madeleine</child>
 <age>1;02.28</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act></act>
 <actkey></actkey>
 <theme>premiers mots, proto-mot, interprétation</theme>

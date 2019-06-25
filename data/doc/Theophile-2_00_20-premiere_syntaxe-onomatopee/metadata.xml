@@ -5,9 +5,9 @@
 <project>CoLaJE</project>
 <child>Théophile</child>
 <age>2;00.20</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act>soin (bain)</act>
 <actkey>soin</actkey>
 <theme>première syntaxe, onomatopée </theme>

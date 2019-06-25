@@ -5,9 +5,9 @@
 <project>CoLaJE</project>
 <child>Madeleine</child>
 <age>2;01.02</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act>jeu de société (domino)</act>
 <actkey>jeu de société</actkey>
 <theme>énoncés complexes, référence à soi, verbe sans sujet, filler, moi+verbe, moi je+verbe, pronom, opposition</theme>

@@ -5,9 +5,9 @@
 <project>Monologue</project>
 <child>Julie</child>
 <age>2;01.06</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act>livre</act>
 <actkey>livre</actkey>
 <theme>monologue, mono à dia, prosodie</theme>

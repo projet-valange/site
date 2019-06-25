@@ -5,9 +5,9 @@
 <project>CoLaJE</project>
 <child>Théophile</child>
 <age>3;11.15</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act>repas</act>
 <actkey>repas</actkey>
 <theme>temporalité, futur</theme>

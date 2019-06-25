@@ -5,9 +5,9 @@
 <project>CoLaJE</project>
 <child>Anaé</child>
 <age>5;01.21</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act>souvenir</act>
 <actkey>souvenir</actkey>
 <theme>passé, préposition, conjonction, passé composé</theme>

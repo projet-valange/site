@@ -5,9 +5,9 @@
 <project>CoLaJE</project>
 <child>Théophile</child>
 <age>3;02,00</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act>jeu en extérieur (ballon)</act>
 <actkey>jeu en extérieur</actkey>
 <theme>pronom, filler, participe passé, passé, étayage, reformulation, répétition, onomatopée </theme>

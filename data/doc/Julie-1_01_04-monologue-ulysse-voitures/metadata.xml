@@ -5,9 +5,9 @@
 <project>Monologue</project>
 <child>Julie</child>
 <age>1;01.04</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act>jeu symbolique (voitures)</act>
 <actkey>jeu symbolique</actkey>
 <theme>monologue, onomatopées, jeux parallèles</theme>

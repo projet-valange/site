@@ -6,3 +6,4 @@
 *.zip
 depository/*
 node_modules/*
+send.sh

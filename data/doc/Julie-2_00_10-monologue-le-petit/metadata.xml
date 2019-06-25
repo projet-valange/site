@@ -5,9 +5,9 @@
 <project>Monologue</project>
 <child>Julie</child>
 <age>2;00.10</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act>figurines</act>
 <actkey>poupée peluche figurines</actkey>
 <theme>monologue, commentaire monologique, recherche</theme>

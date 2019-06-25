@@ -5,9 +5,9 @@
 <project>Monologue</project>
 <child>Julie</child>
 <age>8;11.06</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act>devoirs</act>
 <actkey>devoirs</actkey>
 <theme>monologue, réflexion à voix haute, </theme>

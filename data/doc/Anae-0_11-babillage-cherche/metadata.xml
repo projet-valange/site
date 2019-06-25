@@ -5,9 +5,9 @@
 <project>CoLaJE</project>
 <child>Anaé</child>
 <age>0;11</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act></act>
 <actkey></actkey>
 <theme>babillage, monologue, commente les objets qu'elle prend </theme>

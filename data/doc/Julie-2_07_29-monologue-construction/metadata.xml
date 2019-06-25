@@ -5,9 +5,9 @@
 <project>Monologue</project>
 <child>Julie</child>
 <age>2;07.29</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act>jeu de construction (lego)</act>
 <actkey>jeu de construction</actkey>
 <theme>monologue, commentaire de l'action en cours</theme>

@@ -5,9 +5,9 @@
 <project>CoLaJE</project>
 <child>Anaé</child>
 <age>3;10.00</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act>figurines</act>
 <actkey>poupée peluche figurines</actkey>
 <theme>étayage, maintien communication, non correction</theme>

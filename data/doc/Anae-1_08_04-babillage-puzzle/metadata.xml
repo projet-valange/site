@@ -5,9 +5,9 @@
 <project>CoLaJE</project>
 <child>Anaé</child>
 <age>1;08.04</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act>jeu de construction (puzzle)</act>
 <actkey>jeu de construction</actkey>
 <theme>babillage, frontière difficile entre mono et dia, monologue (commente ce qu'elle fait) </theme>

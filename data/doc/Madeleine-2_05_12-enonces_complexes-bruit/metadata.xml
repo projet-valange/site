@@ -5,9 +5,9 @@
 <project>CoLaJE</project>
 <child>Madeleine</child>
 <age>2;05.12</age>
-<languagemother>fra</languagemother>
+<languagemother>fre</languagemother>
 <languagesecond></languagesecond>
-<languageextract>fra</languageextract>
+<languageextract>fre</languageextract>
 <act>peluche</act>
 <actkey>poupée peluche figurines</actkey>
 <theme>énoncés complexes, référence à soi, je, pronom, vais+infinitif, futur, négation</theme>
