@@ -50,23 +50,24 @@
                 <hr/>
                 <legend>Informations sur le/la contributeur·trice</legend>
                 <script src="../../common/parsemetadata.js"></script>
+                <script src="../../common/iso639.js"></script>
                 <div id="extract_edit">
                     <div class="edit-group">
-                        <label for="name"> Nom*</label>
+                        <label for="name" class="required"><strong>Nom*</strong></label>
                         <input type="text" class="form-control" id="name" name="name" required maxlength="50">
                     </div>
                     <div class="edit-group">
-                        <label for="name"> Prénom*</label>
+                        <label for="name" class="required"><strong>Prénom*</strong></label>
                         <input type="text" class="form-control" id="surname" name="surname" required maxlength="50">
                     </div>
                     <div class="edit-group">
-                        <label for="name"> Institution</label>
+                        <label for="name"><strong>Institution</strong></label>
                         <p>Si vous êtes chercheur·se, précisez l'université, le laboratoire, etc.</p>
-                        <input type="text" class="form-control" id="institution" name="institution" required
+                        <input type="text" class="form-control" id="institution" name="institution"
                                 maxlength="50">
                     </div>
                     <div class="edit-group">
-                        <label for="email"> E-mail*</label>
+                        <label for="email" class="required"><strong>E-mail*</strong></label>
                         <input type="email" class="form-control" id="email" name="email" required maxlength="50">
                     </div>
                     <label class="email_contact_agreement">
@@ -97,11 +98,11 @@
                     </label>
                     <legend>Informations sur l'enfant</legend>
                     <div class="edit-group">
-                        <label for="name"> Nom de l'enfant*</label>
+                        <label for="name" class="required"><strong>Nom de l'enfant*</strong></label>
                         <input type="text" class="form-control" id="namechi" name="namechi" required
                                 maxlength="50">
                     </div>
-                    <p>Genre*</p>
+                    <p><strong>Genre*</strong></p>
                     <label class="label_genre"><input class="input_genre" type="radio" name="gender" value="girl"> Fille<span
                             class="checkmark"></span></label>
                     <label class="label_genre"><input class="input_genre" type="radio" name="gender" value="boy">
@@ -111,7 +112,8 @@
                                                         value="unknown">
                         Préfère ne pas préciser<span class="checkmark"></span></label>
                     <br>
-                    <p>Âge*<br>Âge de l'enfant au moment de la vidéo au format (A)A;MM(;DD). Par exemple, pour un enfant
+                    <p class="required"><strong>Âge*</strong><br>
+                        Âge de l'enfant au moment de la vidéo au format (A)A;MM(;DD). Par exemple, pour un enfant
                         de 10
                         mois et 24 jours, mettre 0;10;24 ; pour un enfant de 34 mois, mettre 2;10 ; pour un enfant de 10
                         ans 2 mois
@@ -120,56 +122,98 @@
                         <input type="text" class="form-control" id="age" name="age" required maxlength="50">
                     </div>
                     <div class="edit-group">
-                        <label for="name"> Localisation*</label>
+                        <label for="name"><strong>Localisation</strong></label>
                         <p>Ville et pays où vit l'enfant au moment de la vidéo.</p>
-                        <input type="text" class="form-control" id="localisation" name="localisation" required
+                        <input type="text" class="form-control" id="localisation" name="localisation"
                                 maxlength="300">
                     </div>
                     <br>
                     <div class="edit-group">
-                        <label class="control-label" for="languagemother"><strong>Langue(s) maternelle(s) de l'enfant (s'il 
+                        <label class="control-label"><strong>Langue(s) maternelle(s) de l'enfant</strong> (s'il 
                             apprend plusieurs langues simultanément, les donner toutes 
-                            dans un ordre quelconque) :</strong></label>
+                            dans un ordre quelconque, sinon dans l'ordre d'apprentissage) :</label>
+                        <span id="langmotherchoices"></span>
+                        <div class="langchoices">
+                            Langues présentes dans Valange: 
+                            <div class="row editcore" id="langmotherlist"></div>
+                            <label onclick="window.addlang('langmotherisolist', 'langmotherchoices', 'langmotherselected');" 
+                                id="langmotheradd" class="control-label" 
+                                for="langmotheriso">Ajouter une autre langue &#x25a2; </label>
+                            <span id="langmotheriso"></span>
+                        </div>
+                        <!--
+                        <div class="row editcore" id="listlangmother"></div>
+                        <label class="control-label" for="languagemother">Autre(s) langue(s)</label>
                         <input type="text" class="form-control" id="languagemother" name="languagemother" maxlength="120">
+                        -->
                     </div>
                     <div class="edit-group">
-                        <label class="control-label" for="languagesecond"><strong>Autre(s) langue(s) que parle l'enfant (les 
-                            indiquer dans l'ordre de leur fréquence d'usage) :</strong></label>
+                        <label class="control-label"><strong>Langue(s) seconde(s) que parle l'enfant (s'il 
+                            apprend plusieurs langues simultanément, les donner toutes 
+                            dans un ordre quelconque, sinon dans l'ordre d'apprentissage) :</strong></label>
+                        <span id="langsecondchoices"></span>
+                        <div class="langchoices">
+                            Langues présentes dans Valange: 
+                            <div class="row editcore" id="langsecondlist"></div>
+                            <label onclick="window.addlang('langsecondisolist', 'langsecondchoices', 'langsecondselected');" 
+                                id="langsecondadd" class="control-label" 
+                                for="langsecondiso">Ajouter une autre langue &#x25a2; </label>
+                            <span id="langsecondiso"></span>
+                        </div>
+                        <!--
+                        <div class="row editcore" id="listlangsecond"></div>
+                        <label class="control-label" for="languagesecond">Autre(s) langue(s)</label>
                         <input type="text" class="form-control" id="languagesecond" name="languagesecond" maxlength="120">
+                        -->
                     </div>
                     <legend>Informations sur l'extrait</legend>
                     <div class="edit-group">
-                        <label class="control-label" for="languageextract"><strong>Langue(s) de l'extrait proposé (si plusieurs langues, les 
-                            proposer par ordre de fréquence d'utilisation) :</strong></label>
-                        <input type="text" class="form-control" id="languageextract" name="languageextract" maxlength="120">
+                        <label class="control-label"><strong>Langue(s) de l'extrait proposé (si plusieurs langues, les 
+                            proposer par ordre de fréquence d'utilisation dans l'extrait) :</strong></label>
+                            <!--
+                                langextractchoices : contains the choices of the user
+                                langextractlist : contains the list of possible choices from the valange database
+                                langextractiso : contains list of the iso values for language
+                                langextractselected : class of the choices of the user for easy selection of all choices
+                                langextractisolist : id of the list of iso values for easy selection
+                            -->
+                        <span id="langextractchoices"></span>
+                        <div class="langchoices">
+                            Langues présentes dans Valange: 
+                            <div class="row editcore" id="langextractlist"></div>
+                            <label onclick="window.addlang('langextractisolist', 'langextractchoices', 'langextractselected');" 
+                                id="langextractadd" class="control-label" 
+                                for="langextractiso">Ajouter une autre langue &#x25a2; </label>
+                            <span id="langextractiso"></span>
+                        </div>
                     </div>
 
                     <div class="edit-group">
-                        <label for="name"> Nom du projet</label>
+                        <label for="name"><strong>Nom du projet</strong></label>
                         <p>Nom du projet de recherche ou de recueil d'extraits</p>
                         <input type="text" class="form-control" id="project" name="project" 
                                 maxlength="120">
                     </div>
                     <div class="edit-group">
-                        <label for="title">Titre (nom de l'extrait)*</label>
+                        <label for="title" class="required"><strong>Titre (nom de l'extrait)*</strong></label>
                         <input type="text" class="form-control" id="title" name="title" required maxlength="80">
                     </div>
-                    <div class="edit-group>
+                    <div class="edit-group">
                         <label class="control-label" for="description"><strong>Description :</strong></label>
                         <textarea class="span5" rows="8" id="description" name="description" style="width:90%;"
-                          placeholder="Entrez votre description *"></textarea>
+                          placeholder="Entrez votre description"></textarea>
                     </div>
-                    <div class="edit-group>
+                    <div class="edit-group">
                         <label class="control-label" for="transcription"><strong>Transcription :</strong></label>
                         <textarea class="span5" rows="8" id="transcription" name="transcription" style="width:90%;"
-                          placeholder="Entrez votre transcription *"></textarea>
+                          placeholder="Entrez votre transcription"></textarea>
                     </div>
-                    <div class="edit-group>
+                    <div class="edit-group">
                         <label class="control-label" for="quote"><strong>Références bibliographiques :</strong></label>
                         <textarea class="span5" rows="8" id="quote" name="quote" style="width:90%;"
                           placeholder="Entrez vos références"></textarea>
                     </div>
-                    <p><strong>Genre de discours</strong></p><br>
+                    <p><strong>Genre de discours</strong></p>
                     <label class="label_discours"><input class="input_discours" type="radio" name="disc"
                                                         value="monologue">
                         Monologue<span class="checkmark"></span></label>
@@ -179,258 +223,66 @@
                     <label class="label_discours"><input class="input_discours" type="radio" name="disc"
                                                         value="unknown"> Je
                         ne sais pas<span class="checkmark"></span></label>
-                    <div class="edit-group>
-                        <label class="control-label" for="act"><strong>Activités :</strong></label>
-                        <input type="text" class="form-control" id="act" name="act" required maxlength="240">
+                    
+                    <p><strong>Activités, thèmes, mots-clés</strong><br/>
+                        Vous devez indiquer quels mots-clés permettront d'identifier et de retrouver votre extrait.
+                        Ces éléments sont très importants pour valoriser votre extrait. Il n'est pas obligatoire d'en
+                        mettre, mais plus vous mettre des mots-clés pertinents et bien choisis, plus votre
+                        extrait sera bien valorisé.
+                    </p>
+                    <div class="edit-group">
+                        <label class="control-label"><strong>Activités :</strong></label>
+                        <div class="row editcore" id="listactkey"></div>
+                        <label class="control-label" for="actkey">Autre(s) activité(s) :</label>
+                        <input type="text" class="form-control" id="actkey" name="actkey" maxlength="240">
                     </div>
-                    <div class="edit-group>
-                        <label class="control-label" for="theme"><strong>Thème(s) :</strong></label>
-                        <input type="text" class="form-control" id="theme" name="theme" required maxlength="240">
+                    <div class="edit-group">
+                        <label class="control-label"><strong>Thèmes :</strong></label>
+                        <div class="row editcore" id="listthemekey"></div>
+                        <label class="control-label" for="themekey">Autre(s) thème(s) :</label>
+                        <input type="text" class="form-control" id="themekey" name="themekey" maxlength="240">
                     </div>
-                    <div class="edit-group>
-                        <label class="control-label" for="keywords"><strong>Mots-clés :</strong></label>
-                        <input type="text" class="form-control" id="keywords" name="keywords" required maxlength="240">
+                    <div class="edit-group">
+                        <label class="control-label"><strong>Mots-clés complémentaires :</strong></label>
+                        <div class="row editcore" id="listkeys"></div>
+                        <label class="control-label" for="keywords">Autre(s) mots-clé(s) complémentaire(s) :</label>
+                        <input type="text" class="form-control" id="keywords" name="keywords" maxlength="240">
                     </div>
-                    <div class="edit-group>
+                    <div class="edit-group">
                         <label class="control-label" for="extmedia"><strong>Lien externe pour la vidéo source (si présente sur un site) :</strong></label>
                         <input type="text" class="form-control" id="extmedia" name="extmedia" maxlength="240">
                     </div>
                     <br>
                 </div>
 
+                <script src="../../data/json/db.js"></script>
+                <script src="../../data/json/categories.js"></script>
+                <script src="../../common/lookfor.js"></script>
+                <script src="../../common/editcore.js"></script>
                 <script>
-                    function isValidEmailAddress(emailAddress) {
-                        var pattern = /^([a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+(\.[a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+)*|"((([ \t]*\r\n)?[ \t]+)?([\x01-\x08\x0b\x0c\x0e-\x1f\x7f\x21\x23-\x5b\x5d-\x7e\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|\\[\x01-\x09\x0b\x0c\x0d-\x7f\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))*(([ \t]*\r\n)?[ \t]+)?")@(([a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.)+([a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.?$/i;
-                        return pattern.test(emailAddress);
-                    }
-
-                    function limitTo(v, max) {
-                        var vv = v.val();
-                        vv = vv.substr(0, max);
-                        if (vv.length > max) v.val(vv);
-                        return vv;
-                    }
-
-                    function getXmlData() {
-                        var meta = {};
-                        var v, vv;
-                        // Check values
-                        // and insert them
-                        // Information about the depositor
-                        // name
-                        v = $('input[name="name"]');
-                        meta.name = limitTo(v, 80);
-                        // surname
-                        v = $('input[name="surname"]');
-                        meta.surname = limitTo(v, 80);
-                        // institution
-                        v = $('input[name="institution"]');
-                        meta.institution = limitTo(v, 240);
-                        // email
-                        v = $('input[name="email"]');
-                        vv = limitTo(v, 240);
-                        if ( !isValidEmailAddress(vv) ) {
-                          window.alert('Adresse email invalide: veuillez la corriger');
-                          return '';
-                        }
-                        meta.email = vv;
-                        // information about the extract : metadata
-                        // agreement
-                        v = $('input[name="agree"]');
-                        meta.agree = v.is(':checked') ? "agreement signed" : "no agreement";
-                        // mail contact
-                        v = $('input[name="contact"]');
-                        meta.contact = v.is(':checked') ? "contact ok" : "no contact";
-                        // namechi
-                        v = $('input[name="namechi"]');
-                        meta.child = limitTo(v, 80);
-                        // gender
-                        v = $('input[name="gender"]:checked');
-                        if (v.length < 1) v = "unknown"; else v = v.val();
-                        meta.gender = v;
-                        // age
-                        v = $('input[name="age"]');
-                        meta.age = limitTo(v, 80);
-                        // localisation
-                        v = $('input[name="localisation"]');
-                        vv = v.val();
-                        if (vv.length > 300) {
-                          vv.substr(0, 300);
-                          window.alert("Le texte du message est limité à 300 caractères.");
-                          v.val(vv);
-                        }
-                        meta.place = vv;
-                        // languagemother
-                        v = $('input[name="languagemother"]');
-                        meta.languagemother = limitTo(v, 120);
-                        // languagesecond
-                        v = $('input[name="languagesecond"]');
-                        meta.languagesecond = limitTo(v, 120);
-                        // languageextract
-                        v = $('input[name="languageextract"]');
-                        meta.languageextract = limitTo(v, 120);
-                        // discourse
-                        v = $('input[name="disc"]:checked').val();
-                        if (v.length < 1) v = "unknown"; else v = v.val();
-                        meta.disc = v;
-                        // project
-                        v = $('input[name="project"]');
-                        meta.project = limitTo(v, 120);
-
-                        // information about the extract : data
-                        // title/entry
-                        v = $('input[name="title"]');
-                        meta.title = limitTo(v, 80);
-
-                        // description
-                        v = $('textarea[name="description"]');
-                        vv = v.val();
-                        if (vv.length > 1200) {
-                          vv.substr(0, 1200);
-                          window.alert("Le texte de la description est limité à 1200 caractères.");
-                          v.val(vv);
-                        }
-                        meta.description = vv;
-
-                        // transcription
-                        v = $('textarea[name="transcription"]');
-                        vv = v.val();
-                        if (vv.length > 12000) {
-                          vv.substr(0, 12000);
-                          window.alert("Le texte de la transcription est limité à 12000 caractères.");
-                          v.val(vv);
-                        }
-                        meta.transcription = vv;
-
-                        // quote
-                        v = $('textarea[name="quote"]');
-                        vv = v.val();
-                        if (vv.length > 1200) {
-                          vv.substr(0, 1200);
-                          window.alert("Le texte des références est limité à 1200 caractères.");
-                          v.val(vv);
-                        }
-                        meta.quote = vv;
-
-                        // act
-                        v = $('input[name="act"]');
-                        meta.act = limitTo(v, 240);
-                        // theme
-                        v = $('input[name="theme"]');
-                        meta.theme = limitTo(v, 240);
-                        // keywords
-                        v = $('input[name="keywords"]');
-                        meta.keywords = limitTo(v, 240);
-                        // extmedia
-                        v = $('input[name="extmedia"]');
-                        meta.extmedia = limitTo(v, 240);
-
-                        return meta;
-                    }
-
-                    function getXmlDataUser() {
-                        var meta = getXmlData();
-
-                        meta.entry = getEntryName();
-                        meta.actkey = "";
-                        meta.themekey = "";
-                        meta.duration = "";
-
-                        var str = $("#file")[0].value;
-                        var n = /[^/\\]*$/.exec(str);
-                        meta.media = n; 
-
-                        return parsemetadata.metadataToString(meta);
-                    }
-
-                    function getXmlDataValidator() {
-                        var meta = getXmlData();
-
-                        // entry
-                        v = $('input[name="entry"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 240);
-                        if (vv.length > 240) v.val(vv);
-                        meta.entry = vv;
-
-                        // actkey
-                        v = $('input[name="actkey"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 240);
-                        if (vv.length > 240) v.val(vv);
-                        meta.actkey = vv;
-
-                        // themekey
-                        v = $('input[name="themekey"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 240);
-                        if (vv.length > 240) v.val(vv);
-                        meta.themekey = vv;
-
-                        // duration
-                        v = $('input[name="duration"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 240);
-                        if (vv.length > 240) v.val(vv);
-                        meta.duration = vv;
-
-                        // media
-                        v = $('input[name="media"]');
-                        vv = v.val();
-                        vv = vv.substr(0, 240);
-                        if (vv.length > 240) v.val(vv);
-                        meta.media = vv;
-
-                        return parsemetadata.metadataToString(meta);
-                    }
-
-                    function formatDate(date) {
-                        var monthNames = [
-                            "January", "February", "March",
-                            "April", "May", "June", "July",
-                            "August", "September", "October",
-                            "November", "December"
-                        ];
-
-                        var day = date.getDate();
-                        var monthIndex = date.getMonth();
-                        var year = date.getFullYear();
-                        var hours = date.getHours();
-                        var minutes = date.getMinutes();
-
-                        // return day + ' ' + monthNames[monthIndex] + ' ' + year;
-                        return year+ "-" + (monthIndex+1) + "-" + day + "-" + hours + "h-" + minutes + "m";
-                    }
-
-                    function getEntryName() {
-                        // name
-                        var v = $('input[name="name"]');
-                        var name = v.val().replace(/\s/g, "-");
-                        if (name.length > 80) name = name.substr(0, 80);
-                        // surname
-                        v = $('input[name="surname"]');
-                        var surname = v.val().replace(/\s/g, "-");
-                        if (surname.length > 80) surname = surname.substr(0, 80);
-                        var d = new Date();
-                        return name + "-" + surname + "-" + formatDate(d);
-                    }
+                    initTotalValue(valange_data); // initalize values in lookfor.js
+                    createHtmlEdit(); // finalize creation of html
                 </script>
-                <!-- add edition of entry, media, actkey, themekey, and duration -->
-                <div class="edit-group>
+                <!-- add edition of entry, media, act, theme, and duration -->
+                <div class="edit-group">
                     <label class="control-label" for="entry"><strong>Entry :</strong></label>
                     <input type="text" class="form-control" id="entry" name="entry" maxlength="120">
                 </div>
-                <div class="edit-group>
+                <div class="edit-group">
                     <label class="control-label" for="media"><strong>Media :</strong></label>
                     <input type="text" class="form-control" id="media" name="media" maxlength="120">
                 </div>
-                <div class="edit-group>
-                    <label class="control-label" for="actkey"><strong>Clés normalisées à utiliser pour Activités :</strong></label>
-                    <input type="text" class="form-control" id="actkey" name="actkey" maxlength="120">
+                <div class="edit-group">
+                    <label class="control-label"><strong>Toutes les activités :</strong></label>
+                    <div class="row editcore" id="listact"></div>
+                    <label class="control-label" for="act">Autre(s) activité(s) :</label>
+                    <input type="text" class="form-control" id="act" name="act" maxlength="120">
                 </div>
-                <div class="edit-group>
-                    <label class="control-label" for="themekey"><strong>Clés normalisées à utiliser pour Thème :</strong></label>
-                    <input type="text" class="form-control" id="themekey" name="themekey" maxlength="120">
+                <div class="edit-group">
+                    <label class="control-label"><strong>Tous les thèmes :</strong></label>
+                    <div class="row editcore" id="listtheme"></div>
+                    <label class="control-label" for="theme">Autre(s) thème(s) :</label>
+                    <input type="text" class="form-control" id="theme" name="theme" maxlength="120">
                 </div>
                 <div class="edit-group>
                     <label class="control-label" for="duration"><strong>Durée :</strong></label>
@@ -488,92 +340,12 @@
 <script src="../../lib/bootstrap/js/bootstrap.min.js"></script>
 <script src="../../common/filesaver.js"></script>
 <script src="../../common/system.js"></script>
+<script src="../../common/editentry.js"></script>
 <script>
-
-    $("#secondpart").hide();
-    $("#infodroit").hide();
-    var lastfilename = "extract.xml";
-    /**
-     * function for opening an external file and filling the data
-     */
-    system.process = function(filename, filecontent) {
-        lastfilename = filename;
-        var meta = parsemetadata.parseMetadata(filecontent, filename);
-        console.log(filecontent);
-        console.log(meta);
-
-        $('#nameentry').text(meta.entry);
-        $('input[name="name"]').val(meta.name);
-        $('input[name="surname"]').val(meta.surname)
-        $('input[name="institution"]').val(meta.institution);
-        $('input[name="email"]').val(meta.email);
-        $('input[name="namechi"]').val(meta.child);
-        $('input[name="age"]').val(meta.age);
-        $('input[name="localisation"]').val(meta.localisation);
-        $('input[name="project"]').val(meta.project);
-        $('input[name="title"]').val(meta.title);
-        $('textarea[name="description"]').val(meta.description);
-        $('textarea[name="transcription"]').val(meta.transcription);
-        $('textarea[name="quote"]').val(meta.quote);
-        $('input[name="act"]').val(meta.act);
-        $('input[name="theme"]').val(meta.theme);
-        $('input[name="keywords"]').val(meta.keywords);
-        $('input[name="media"]').val(meta.media);
-        $('input[name="extmedia"]').val(meta.extmedia);
-        $('input[name="entry"]').val(meta.entry);
-        $('input[name="actkey"]').val(meta.actkey);
-        $('input[name="themekey"]').val(meta.themekey);
-        $('input[name="duration"]').val(meta.duration);
-
-        $('input[name="languagemother"]').val(meta.languagemother);
-        $('input[name="languagesecond"]').val(meta.languagesecond);
-        $('input[name="languageextract"]').val(meta.languageextract);
-
-        if (meta.agree === "agreement signed") {
-            $("input[name='agree']").prop('checked', true);
-        } else {
-            $("input[name='agree']").prop('checked', false);
-        }
-        if (meta.contact === "contact ok") {
-            $("input[name='contact']").prop('checked', true);
-        } else {
-            $("input[name='contact']").prop('checked', false);
-        }
-        if (meta.disc === "monologue") {
-            $("input[name='disc'][value='monologue']").prop('checked', true);
-        } else if (meta.disc === "monologue") {
-            $("input[name='disc'][value='interaction']").prop('checked', true);
-        } else {
-            $("input[name='disc'][value='unknown']").prop('checked', true);
-        }
-        if (meta.gender === "girl") {
-            $("input[name='gender'][value='girl']").prop('checked', true);
-        } else if (meta.gender === "boy") {
-            $("input[name='gender'][value='boy']").prop('checked', true);
-        } else {
-            $("input[name='gender'][value='unknown']").prop('checked', true);
-        }
-        /*
-        console.log("xml", getXmlData());
-        console.log("xml", getXmlDataUser());
-        console.log("entry", getEntryName());
-        */
-    }
-
-    function saveData() {
-        var data = getXmlDataValidator();
-        console.log("valid:", data);
-        system.saveFileLocal("xml", lastfilename, data);
-    }
-
-    // use url if there is one
-    var input_text = location.href.split("?")[1].replace("=","");
-    fetch("../../data/doc/"+input_text+"/metadata.xml").then(function(response){
-      response.text().then(function(text){
-        system.process("metadata.xml", text);
-      })
-    });
-
+editSupervisor = true; // change behavior of act/actkey and theme/themekey
+$("#secondpart").hide();
+$("#infodroit").hide();
+createHtmlEditComplements();
 </script>
 
 </body>

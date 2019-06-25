@@ -50,8 +50,8 @@
                     vous
                     notifier de la mise en ligne de cette dernière.</p>
                 <legend>Informations sur le/la contributeur·trice</legend>
-                <include src="editcoredata.html"></include>
                 <form role="form" method="post" id="reused_form" enctype=&quot;multipart/form-data&quot;>
+                    <include src="editcoredata.html"></include>
                     <div class="form-group">
                         <input class="form-control" type="hidden" id="xmldata" name="xmldata">
                     </div>
@@ -127,16 +127,22 @@
 
     $('#reused_form').submit(function (e) {
         e.preventDefault();
+        var data = getXmlDataUser();
+        if (data === '') {
+            console.log("Saisie annulée.");
+            return;
+        }
+        var entry = getEntryName();
 
-        console.log("xml", getXmlData());
-        console.log("xml", getXmlDataUser());
-        console.log("entry", getEntryName());
+        // console.log("xml", getXmlData());
+        console.log("xml", data);
+        console.log("entry", entry);
         console.log($("#file")[0].value);
         // get the xml data content
         var v = $('input[name="xmldata"]');
-        v.val(getXmlDataUser());
+        v.val(data);
         v = $('input[name="entryname"]');
-        v.val(getEntryName());
+        v.val(entry);
 
         $form = $(this);
         //show some response on the button

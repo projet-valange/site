@@ -84,17 +84,66 @@ function parseElementsPack(v) {
     return lg.join(",");
 }
 
-function buildTab(list, category) {
+function buildTab(list, category, size, caseChoice) {
     var s = "";
-    for (var str in list) {
-        if (str === "") continue;
-        s += '<div class="col-lg-6 col-md-6">';
-        s += '<label class="container_cb capitalize">';
-        s += str; // put first letter as uppercase
-        s += '<input id="checkbox_' + category + '_' + str + '" type="checkbox" value="' + str + '">';
+    var sorted = Object.keys(list).sort();
+    for (var str in sorted) {
+        const cst = sorted[str];
+        if (cst === "") continue;
+        switch(size) {
+            case 2:
+            s += '<div class="col-lg-2 col-md-2">';
+            break;
+            case 3:
+            s += '<div class="col-lg-3 col-md-2">';
+            break;
+            case 4:
+            s += '<div class="col-lg-4 col-md-2">';
+            break;
+            case 6:
+            default:
+            s += '<div class="col-lg-6 col-md-6">';
+            break;
+        }
+        s += caseChoice === 'lowercase' ? '<label class="container_cb">' : '<label class="container_cb capitalize">';
+        s += cst; // put first letter as uppercase
+        s += '<input id="checkbox_' + category + '_' + cst + '" type="checkbox" value="' + cst + '">';
         s += '<span class="checkmark"></span>';
-        s += '<span class="nbocc">' + list[str] + '</span>';
+        s += '<span class="nbocc">' + list[cst] + '</span>';
         s += '</label>';
+        s += '</div>';
+    }
+    return s;
+}
+
+function buildTabOrdered(list, place, category, size, caseChoice) {
+    var s = "";
+    var sorted = Object.keys(list).sort();
+    for (var str in sorted) {
+        const cst = sorted[str];
+        if (cst === "") continue;
+        switch(size) {
+            case 2:
+            s += '<div class="col-lg-2 col-md-2">';
+            break;
+            case 3:
+            s += '<div class="col-lg-3 col-md-3">';
+            break;
+            case 4:
+            s += '<div class="col-lg-4 col-md-4">';
+            break;
+            case 6:
+            default:
+            s += '<div class="col-lg-6 col-md-6">';
+            break;
+        }
+        s += '<span class="lang_container" onclick="window.moveTagTo(\'' + place + '\',\'' + category + '\',\'' + cst + '\');">';
+        s += "&#x25a2; ";
+        s += caseChoice === 'lowercase' ? '<span>' : '<span class="capitalize">';
+        s += cst; // put first letter as uppercase
+        s += '</span>';
+        s += '<span class="nbocc">' + list[cst] + '</span>';
+        s += '</span>';
         s += '</div>';
     }
     return s;
@@ -179,6 +228,16 @@ function checkedTab(list, category) {
     return selected;
 }
 
+function checkedTabClass(category) {
+    var selected = [];
+    var h = document.getElementsByClassName(category);
+    for (var i in h) {
+        console.log(h[i]);
+        if (h[i].dataset && h[i].dataset.value) selected.push(h[i].dataset.value);
+    }
+    return selected;
+}
+
 function resetTab(list, category) {
     for (var str in list) {
         var id = 'checkbox_' + category + '_' + str;
@@ -225,7 +284,9 @@ var langSecondList = {};
 var langExtractList = {};
 var actList = {};
 var actkeyList = {};
+var themeList = {};
 var themekeyList = {};
+var keywordsList = {};
 var dbTotalSplitted = [];
 
 function resetValue() {
@@ -241,6 +302,7 @@ function resetValue() {
     resetInfo('info_age');
     resetInfo('info_language');
 }
+
 function initTotalValue(dataDB) {
     // stat about dataDB
     for (var dd in dataDB) {
@@ -264,15 +326,27 @@ function initTotalValue(dataDB) {
         splitted.languages = dataDB[dd].languagemother + " (" + dataDB[dd].languageextract + ")";
         p = parseElementsPack(dataDB[dd].languagemother);
         splitted.languagemother = p;
-        langMotherList[p] = addOne(langMotherList[p]);
+        // split p into languages and add each language
+        p = parseElements(p);
+        for (var i in p) {
+            langMotherList[p[i]] = addOne(langMotherList[p[i]]);
+        }
         // languagesecond
         p = parseElementsPack(dataDB[dd].languagesecond);
         splitted.languagesecond = p;
-        langSecondList[p] = addOne(langSecondList[p]);
+        // split p into languages and add each language
+        p = parseElements(p);
+        for (var i in p) {
+            langSecondList[p[i]] = addOne(langSecondList[p[i]]);
+        }
         // languageextract
         p = parseElementsPack(dataDB[dd].languageextract);
         splitted.languageextract = p;
-        langExtractList[p] = addOne(langExtractList[p]);
+        // split p into languages and add each language
+        p = parseElements(p);
+        for (var i in p) {
+            langExtractList[p[i]] = addOne(langExtractList[p[i]]);
+        }
         // act
         p = parseElements(dataDB[dd].act);
         splitted.act = dataDB[dd].act;
@@ -285,11 +359,23 @@ function initTotalValue(dataDB) {
         for (var i in p) {
             actkeyList[p[i]] = addOne(actkeyList[p[i]]);
         }
+        // theme
+        p = parseElements(dataDB[dd].theme);
+        splitted.theme = p;
+        for (var i in p) {
+            themeList[p[i]] = addOne(themeList[p[i]]);
+        }
         // themekey
         p = parseElements(dataDB[dd].themekey);
         splitted.themekey = p;
         for (var i in p) {
             themekeyList[p[i]] = addOne(themekeyList[p[i]]);
+        }
+        // keywords
+        p = parseElements(dataDB[dd].keywords);
+        splitted.keywords = p;
+        for (var i in p) {
+            keywordsList[p[i]] = addOne(keywordsList[p[i]]);
         }
         dbTotalSplitted.push(splitted);
     }
@@ -300,14 +386,17 @@ function initTotalValue(dataDB) {
     console.log("ageList", ageList);
     console.log("entryList", entryList);
     console.log("childList", childList);
+    console.log("themeList", themeList);
     console.log("themekeyList", themekeyList);
-    */
     console.log("langMotherList", langMotherList);
     console.log("langSecondList", langSecondList);
     console.log("langExtractList", langExtractList);
+    */
+}
 
+function createHtmlLookFor() {
     // build interface with actual values in dataDB
-    var s = buildTab(themekeyList, "theme");
+    var s = buildTab(themekeyList, "themekey");
     var h = document.getElementById("tab-theme");
     h.innerHTML = s;
     var s = buildTabPartPicture(actkeyList, "actkey", activitiesCategories, activitiesPictures);
@@ -472,9 +561,3 @@ function checkedTotalValue() {
         return value;
     }
 }
-
-/*
- * to do the first time
- */
-initTotalValue(valange_data); // finalize creation of html
-checkedTotalValue(); // display all extracts or only extract validated by the user (first time = all extracts)
