@@ -83,9 +83,9 @@ window.moveTagTo = function (place, category, value) {
     // an ID to remove a specific element
     var s = '<span class="langtag ' + category
             + '" data-value="' + value 
-            + '" id="orderboxplaced_' + value 
+            + '" id="orderboxplaced_' + category + value 
             + '" onclick="window.removeTag(\'orderboxplaced_' 
-            + value + '\');">' + "&#x2716; " + value + "</span>";
+            + category + value + '\');">' + "&#x2716; " + value + "</span>";
     var p = document.getElementById(place);
     p.insertAdjacentHTML('beforeend', s);
 }
@@ -273,9 +273,9 @@ function getXmlData() {
     v = $('input[name="keywords"]');
     v = limitTo(v, 240);
     if (v !== "")
-        meta.keywords = l.join(',');
-    else
         meta.keywords = l.join(',') + ',' + v;
+    else
+        meta.keywords = l.join(',');
 
     // extmedia
     v = $('input[name="extmedia"]');
