@@ -291,7 +291,7 @@ var dbTotalSplitted = [];
 
 function resetValue() {
     resetTab(childList, "children");
-    resetTab(themekeyList, "theme");
+    resetTab(themekeyList, "themekey");
     resetTab(actkeyList, "actkey");
     resetTab(langMotherList, "language_mother");
     resetTab(langSecondList, "language_second");
@@ -476,7 +476,7 @@ function checkedTotalValue() {
     //console.log("data_class_age: " + data_class_age);
 
     //theme
-    var data_class_theme = checkedTab(themekeyList, "theme");
+    var data_class_theme = checkedTab(themekeyList, "themekey");
 
     //activity
     var data_class_activity = checkedTab(actkeyList, "actkey");
@@ -528,7 +528,7 @@ function checkedTotalValue() {
         resetInfo('info_age');
     }
 
-    // console.log("filterBy", filterBy);
+    console.log("filterBy", filterBy);
 
     var result = filter(filterBy);
 
