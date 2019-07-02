@@ -265,10 +265,13 @@ function filter(params) {
                             if (!test_element) return true;
                             if (filter === "age") {
                                 return dbobject[filter] ? parseAge(dbobject[filter]) === test_element : false;
-                            } else if (filter === "child" || filter === "languagemother"
-                                    || filter === "languagesecond" || filter === "languageextract") {
+                            } else if (filter === "child" || filter === "languageextract") {
+                                console.log("fixé", test_element, filter, dbobject[filter], dbobject[filter].indexOf(test_element) >= 0);
                                 return dbobject[filter] ? dbobject[filter] === test_element : false;
                             } else {
+                                // filter === "languagemother"
+                                // filter === "languagesecond"
+                                console.log("pas fixé", test_element, filter, dbobject[filter], dbobject[filter].indexOf(test_element) >= 0);
                                 return dbobject[filter] ? dbobject[filter].indexOf(test_element) >= 0 : false;
                             }
                         })
@@ -379,7 +382,7 @@ function initTotalValue(dataDB) {
         }
         dbTotalSplitted.push(splitted);
     }
-    /*
+
     // pour info
     console.log("actList", actList);
     console.log("actkeyList", actkeyList);
@@ -391,7 +394,7 @@ function initTotalValue(dataDB) {
     console.log("langMotherList", langMotherList);
     console.log("langSecondList", langSecondList);
     console.log("langExtractList", langExtractList);
-    */
+    
 }
 
 function createHtmlLookFor() {
@@ -493,6 +496,7 @@ function checkedTotalValue() {
 
     var nblang = 0;
     if (data_class_languagemother.length > 0) {
+        // cas une langue parmi toutes les langues
         filterBy.languagemother = data_class_languagemother;
         nblang += countInfo(data_class_languagemother, 'languagemother');
     }
@@ -501,7 +505,11 @@ function checkedTotalValue() {
         nblang += countInfo(data_class_languagesecond, 'languagesecond');
     }
     if (data_class_languageextract.length > 0) {
-        filterBy.languageextract = data_class_languageextract;
+        // cas où on tient compte de l'ordre exact
+        var pack = [data_class_languageextract.join(',')];
+        console.log(data_class_languageextract, pack);
+        // filterBy.languageextract = data_class_languageextract;
+        filterBy.languageextract = pack;
         nblang += countInfo(data_class_languageextract, 'languageextract');
     }
     if (nblang > 0)
