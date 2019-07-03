@@ -398,25 +398,32 @@ function initTotalValue(dataDB) {
 }
 
 function createHtmlLookFor() {
+    var s, h;
     // build interface with actual values in dataDB
-    var s = buildTab(themekeyList, "themekey");
-    var h = document.getElementById("tab-theme");
+    s = buildTab(themekeyList, "themekey");
+    h = document.getElementById("tab-theme");
     h.innerHTML = s;
-    var s = buildTabPartPicture(actkeyList, "actkey", activitiesCategories, activitiesPictures);
-    var h = document.getElementById("tab-activity");
+    s = buildTabPartPicture(actkeyList, "actkey", activitiesCategories, activitiesPictures);
+    h = document.getElementById("tab-activity");
     h.innerHTML = s;
-    var s = buildTabPicture(childList, "children", childrenPictures);
-    var h = document.getElementById("tab-children");
+    s = buildTabPicture(childList, "children", childrenPictures);
+    h = document.getElementById("tab-children");
     h.innerHTML = s;
-    var s = buildTabLanguage(langMotherList, "language_mother");
-    var h = document.getElementById("tab-language-mother");
+    s = buildTabLanguage(langMotherList, "language_mother");
+    h = document.getElementById("tab-language-mother");
     h.innerHTML = s;
-    var s = buildTabLanguage(langSecondList, "language_second");
-    var h = document.getElementById("tab-language-second");
+    s = buildTabLanguage(langSecondList, "language_second");
+    h = document.getElementById("tab-language-second");
     h.innerHTML = s;
-    var s = buildTabLanguage(langExtractList, "language_extract");
-    var h = document.getElementById("tab-language-extract");
+    // lang extract
+    s = buildTabOrdered(langExtractList, "langextractchoices", "langextractselected", 3, "lowercase");
+    h = document.getElementById("langextractlist");
     h.innerHTML = s;
+    /*
+    s = buildTabLanguage(langExtractList, "language_extract");
+    h = document.getElementById("tab-language-extract");
+    h.innerHTML = s;
+    */
 }
 
 function adjustInfo(data_class, type, id_data) {
@@ -459,7 +466,9 @@ function checkedTotalValue() {
     */
     var data_class_languagemother = checkedTab(langMotherList, "language_mother");
     var data_class_languagesecond = checkedTab(langSecondList, "language_second");
-    var data_class_languageextract = checkedTab(langExtractList, "language_extract");
+    // languageextract
+    var data_class_languageextract = checkedTabClass("langextractselected");
+    //var data_class_languageextract = checkedTab(langExtractList, "language_extract");
 
     //age
     var age_data = document.getElementById("slider_my").value;
