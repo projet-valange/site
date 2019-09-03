@@ -1,0 +1,7 @@
+- cacher mots-clés
+- bug sur activités
+- graduations traits marques années
+- cacher quand tout sélectionner
+- chiffres affichés : double réduits et complets
+- recherche sur titres juste avant la liste des sélections
+- faire une vraie recherche avec descriptions et transcriptions en haut de page et peut-être sur plusieurs mots

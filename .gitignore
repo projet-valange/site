@@ -1,8 +1,7 @@
-*.mp4
-*.mov
-*.wav
-*.mp3
 *.mpg
+*.avi
+*.mov
+*.mpeg
 *.zip
 depository/*
 node_modules/*
