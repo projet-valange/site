@@ -1,5 +1,5 @@
 - cacher mots-clés
-- bug sur activités
+- bug sur activités - bug sur langues dans la saisie des infos existantes + sauvegarde ?
 - graduations traits marques années
 - cacher quand tout sélectionner
 - chiffres affichés : double réduits et complets

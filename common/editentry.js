@@ -37,19 +37,74 @@ system.process = function(filename, filecontent) {
     $('textarea[name="description"]').val(meta.description);
     $('textarea[name="transcription"]').val(meta.transcription);
     $('textarea[name="quote"]').val(meta.quote);
-    $('input[name="act"]').val(meta.act);
-    $('input[name="theme"]').val(meta.theme);
-    $('input[name="keywords"]').val(meta.keywords);
+    // $('input[name="act"]').val(meta.act);
+    var ls = meta.actkey.trim().split(/[\s,]+/g);
+    for (var i in ls) {
+        if (ls[i]) {
+            var id = 'checkbox_' + 'actkey' + '_' + ls[i];
+            $( "#" + id ).prop( "checked", true );
+        }
+    }
+    // $('input[name="theme"]').val(meta.theme);
+    var ls = meta.themekey.trim().split(/[\s,]+/g);
+    for (var i in ls) {
+        if (ls[i]) {
+            var id = 'checkbox_' + 'themekey' + '_' + ls[i];
+            $( "#" + id ).prop( "checked", true );
+        }
+    }
+    // $('input[name="keywords"]').val(meta.keywords);
+    /*
+    var ls = meta.keywords.trim().split(/[\s,]+/g);
+    for (var i in ls) {
+        if (ls[i]) {
+            var id = 'checkbox_' + 'keywords' + '_' + ls[i];
+            $( "#" + id ).prop( "checked", true );
+        }
+    }
+    */
     $('input[name="media"]').val(meta.media);
     $('input[name="extmedia"]').val(meta.extmedia);
     $('input[name="entry"]').val(meta.entry);
-    $('input[name="actkey"]').val(meta.actkey);
-    $('input[name="themekey"]').val(meta.themekey);
+    // $('input[name="actkey"]').val(meta.actkey);
+    var ls = meta.act.trim().split(/[\s,]+/g);
+    for (var i in ls) {
+        if (ls[i]) {
+            var id = 'checkbox_' + 'act' + '_' + ls[i];
+            $( "#" + id ).prop( "checked", true );
+        }
+    }
+    // $('input[name="themekey"]').val(meta.themekey);
+    var ls = meta.theme.trim().split(/[\s,]+/g);
+    for (var i in ls) {
+        if (ls[i]) {
+            var id = 'checkbox_' + 'theme' + '_' + ls[i];
+            $( "#" + id ).prop( "checked", true );
+        }
+    }
     $('input[name="duration"]').val(meta.duration);
 
+    /*
     $('input[name="languagemother"]').val(meta.languagemother);
     $('input[name="languagesecond"]').val(meta.languagesecond);
     $('input[name="languageextract"]').val(meta.languageextract);
+    */
+    // insert information about the languages
+    var ls = meta.languagemother.trim().split(/\s+/g);
+    for (var i in ls) {
+        if (ls[i])
+            window.moveTagTo('langmotherchoices', 'langmotherchoices', ls[i]);
+    }
+    ls = meta.languagesecond.trim().split(/\s+/g);
+    for (var i in ls) {
+        if (ls[i])
+            window.moveTagTo('langsecondchoices', 'langsecondchoices', ls[i]);
+    }
+    ls = meta.languageextract.trim().split(/\s+/g);
+    for (var i in ls) {
+        if (ls[i])
+            window.moveTagTo('langextractchoices', 'langextractchoices', ls[i]);
+    }
 
     if (meta.agree === "agreement signed") {
         $("input[name='agree']").prop('checked', true);

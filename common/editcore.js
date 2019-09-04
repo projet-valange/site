@@ -21,7 +21,7 @@ function createHtmlEdit() {
     h.innerHTML = s;
     s = buildTab(keywordsList, "keywords", 2);
     h = document.getElementById("listkeys");
-    h.innerHTML = s;
+    if (h) h.innerHTML = s;
     /*
     s = buildTab(langMotherList, "langmother", 2, "lowercase");
     h = document.getElementById("listlangmother");
@@ -271,11 +271,13 @@ function getXmlData() {
     // keywords
     l = checkedTab(keywordsList, "keywords");
     v = $('input[name="keywords"]');
-    v = limitTo(v, 240);
-    if (v !== "")
-        meta.keywords = l.join(',') + ',' + v;
-    else
-        meta.keywords = l.join(',');
+    if (v.length > 0) {
+        v = limitTo(v, 240);
+        if (v !== "")
+            meta.keywords = l.join(',') + ',' + v;
+        else
+            meta.keywords = l.join(',');
+    }
 
     // extmedia
     v = $('input[name="extmedia"]');
@@ -300,6 +302,7 @@ function getXmlDataUser() {
 function getXmlDataValidator() {
     var meta = getXmlData();
     if (meta === '') return '';
+    var v, vv, l;
 
     // entry
     v = $('input[name="entry"]');
