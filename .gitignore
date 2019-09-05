@@ -8,3 +8,4 @@
 depository/*
 node_modules/*
 send.sh
+.Ds_Store
