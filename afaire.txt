@@ -1,7 +1,10 @@
 - OK - cacher mots-clés
-- bug sur activités - bug sur langues dans la saisie des infos existantes + sauvegarde ?
-- graduations traits marques années
-- cacher quand tout sélectionner
+- bug sur activités - nombres ()
+- OK: bug sur langues dans la saisie des infos existantes + sauvegarde ?
+- OK- graduations traits marques années
+- remise à zéro AGE et cacher Age quand tout sélectionner
+- lancer la recherche en temps réel à chaque clic
 - chiffres affichés : double réduits et complets
 - OK - recherche sur titres juste avant la liste des sélections
 - faire une vraie recherche avec descriptions et transcriptions en haut de page et peut-être sur plusieurs mots
+- et ou sur les choix de langues
