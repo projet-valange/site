@@ -17,6 +17,13 @@ var activitiesCategories = {
     "musique": "créativité",
 };
 
+/*
+var activitiesCategories = [
+    ["jeux", "poupée peluche figurines"],
+    ["jeux", "jeu de construction"],
+];
+*/
+
 var activitiesPictures = {
     "jeux": "johnny_automatic_boy_playing_with_toy_truck.svg",
     "vie quotidienne": "Anonymous_Architetto_--_Come_si_dispongono_le_posate.svg",
