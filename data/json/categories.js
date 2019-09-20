@@ -1,3 +1,43 @@
+
+
+
+
+var themeCategories = [
+    ["Thèmes développementaux", "Babillage"],
+    ["Thèmes développementaux", "Émergence de la gestualité"],
+    ["Thèmes développementaux", "Proto-langage"],
+    ["Thèmes développementaux", "Onomatopées"],
+    ["Thèmes développementaux", "Premiers mots et holophrases"],
+    ["Thèmes développementaux", "Entrée dans la syntaxe multimodale"],
+    ["Thèmes développementaux", "Entrée dans la syntaxe verbale"],
+    ["Thèmes développementaux", "Morpho-syntaxe"],
+    ["Thèmes développementaux", "Énoncés complexes"],
+    
+    ["Thèmes transversaux", "Étayage"],
+    ["Thèmes transversaux", "Imitation"],
+    ["Thèmes transversaux", "Rituels"],
+    ["Thèmes transversaux", "Erreurs"],
+    ["Thèmes transversaux", "Humour"],
+    ["Thèmes transversaux", "Monologue"],
+    ["Thèmes transversaux", "Discours rapporté"],
+    ["Thèmes transversaux", "Narration"],
+    ["Thèmes transversaux", "Temporalité"],
+    ["Thèmes transversaux", "Référence à soi"],
+    ["Thèmes transversaux", "Bilinguisme"]
+
+
+];
+
+
+
+
+
+
+
+
+
+
+
 var activitiesCategories = {
     "poupée peluche figurines": "jeux",
     "jeu de construction": "jeux",
